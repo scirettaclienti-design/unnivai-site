@@ -6,7 +6,7 @@ Fonti consigliate = punto di partenza, non sostituiscono la verifica: ogni dato 
 
 | # | Stato | Regione | Argomento (IT) | Topic (EN) | Tipo | Fonti da cercare |
 |---|---|---|---|---|---|---|
-| 1 | [ ] | Puglia | Lecce in un giorno: barocco, pasticciotto e vicoli a piedi | One day in Lecce | Itinerario a piedi | sito del Comune, musei civici, consorzio turistico |
+| 1 | [x] | Puglia | Lecce in un giorno: barocco, pasticciotto e vicoli a piedi | One day in Lecce | Itinerario a piedi | sito del Comune, musei civici, consorzio turistico |
 | 2 | [ ] | Toscana | Firenze in 48 ore senza code inutili | Florence in 48 hours | Itinerario + prenotazioni | Gallerie degli Uffizi/Accademia (sito ufficiale), Comune |
 | 3 | [ ] | Veneto | Venezia: come evitare la folla e dove mangiare davvero | Venice without the crowds | Logistica + cibo | Comune di Venezia (accesso, contributo), ACTV |
 | 4 | [ ] | Campania | Napoli: cosa mangiare, in ordine di giornata | What to eat in Naples | Cibo | Comune, consorzi/pizza napoletana (STG), guide gastronomiche |

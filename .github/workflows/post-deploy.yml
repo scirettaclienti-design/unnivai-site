@@ -1,0 +1,32 @@
+name: post-deploy-seo
+# Dopo ogni push che cambia il sito: aspetta che Vercel pubblichi, poi avvisa i motori di ricerca.
+on:
+  push:
+    branches: [main]
+    paths: ['site/**']
+  workflow_dispatch:
+jobs:
+  seo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Attendi che il sito pubblicato contenga l'ultimo articolo
+        run: |
+          LAST=$(grep -o '<loc>[^<]*/blog/[^<]*</loc>' site/sitemap.xml | head -1 | sed 's/<[^>]*>//g')
+          echo "Attendo $LAST"
+          for i in $(seq 1 40); do
+            if curl -sf https://unnivai.com/sitemap.xml | grep -q "$LAST"; then echo "online"; exit 0; fi
+            sleep 15
+          done
+          echo "Timeout: Vercel non ha ancora pubblicato" && exit 1
+      - name: IndexNow (Bing e altri)
+        run: python3 scripts/indexnow.py
+      - name: Google Search Console (sitemap + stato indicizzazione)
+        env:
+          GSC_SA_JSON: ${{ secrets.GSC_SA_JSON }}
+          GSC_PROPERTY: ${{ vars.GSC_PROPERTY }}
+        run: |
+          pip install -q google-auth requests
+          python3 scripts/gsc_submit.py

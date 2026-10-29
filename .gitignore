@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+node_modules/
+.vercel/
+seo_*.json
+s*.png

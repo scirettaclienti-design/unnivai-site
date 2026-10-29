@@ -1,0 +1,46 @@
+WIDGETS={
+'rain':'<div class="wdg" data-w="rain"><p class="wk">Provalo</p><div class="seg" role="group" aria-label="Che tempo fa"><button type="button" data-v="rain" aria-pressed="true">☔ Piove</button><button type="button" data-v="dry" aria-pressed="false">☀ Non piove</button></div><p class="wo" aria-live="polite"></p></div>',
+'time':'<div class="wdg" data-w="time"><p class="wk">A che ora sei a Ortigia?</p><div class="tr"><input type="range" min="7" max="19" step="0.5" value="9" aria-label="Ora del giorno"><output>09:00</output></div><p class="wo" aria-live="polite"></p></div>',
+'days':'<div class="wdg" data-w="days"><p class="wk">Quale giorno ti serve?</p><div class="seg" role="group" aria-label="Giorno"><button type="button" data-v="all" aria-pressed="true">Entrambi</button><button type="button" data-v="1" aria-pressed="false">Giorno 1</button><button type="button" data-v="2" aria-pressed="false">Giorno 2</button></div><p class="wo" aria-live="polite"></p></div>',
+'test':'<div class="wdg" data-w="test"><p class="wk">Fai il test adesso</p><p class="wi">Prendi tre tappe del tuo itinerario e spunta ciò che hai verificato.</p><div class="tg3">'+''.join('<fieldset><legend>Tappa '+str(i)+'</legend><label><input type="checkbox"> Esiste sulla mappa</label><label><input type="checkbox"> È aperta quando ci vai</label><label><input type="checkbox"> È vicina alla tappa prima</label></fieldset>' for i in (1,2,3))+'</div><div class="res"><svg viewBox="0 0 44 44" width="64" height="64" aria-hidden="true"><circle cx="22" cy="22" r="18" fill="none" stroke="rgba(234,242,240,.15)" stroke-width="4"/><circle class="arc" cx="22" cy="22" r="18" fill="none" stroke="#ff6b3d" stroke-width="4" stroke-linecap="round" transform="rotate(-90 22 22)" stroke-dasharray="113" stroke-dashoffset="113"/></svg><p class="wo" aria-live="polite">Spunta le caselle: ti dico se l\'itinerario regge.</p></div></div>',
+}
+WIDGET_CSS='''
+.wdg{display:none}.js .wdg{display:block;margin:1.8em 0;padding:22px 24px;border-radius:20px;border:1px solid var(--line2);background:linear-gradient(135deg,rgba(255,107,61,.12),rgba(14,42,51,.62))}
+.wdg .wk{font:500 .72rem var(--f-mono);letter-spacing:.16em;text-transform:uppercase;color:var(--glow);margin:0 0 12px!important}.wdg .wo{margin:14px 0 0!important;color:var(--ink)!important;font-size:1rem;min-height:2.6em}.wdg .wi{margin:0 0 12px!important;color:var(--ink2)!important}
+.seg{display:inline-flex;gap:4px;padding:4px;border:1px solid var(--line2);border-radius:999px;background:rgba(6,22,30,.6);flex-wrap:wrap}
+.seg button{font:600 .92rem var(--f-body);color:var(--ink);background:none;border:0;border-radius:999px;padding:10px 18px;cursor:pointer;transition:background .25s,color .25s}.seg button[aria-pressed=true]{background:var(--accent);color:var(--on-accent)}.seg button:hover:not([aria-pressed=true]){background:rgba(234,242,240,.1)}
+.tr{display:flex;align-items:center;gap:16px}.tr input{flex:1;accent-color:#ff6b3d;height:28px;cursor:pointer}.tr output{font:500 1.1rem var(--f-mono);color:var(--ink);min-width:3.6em;text-align:right}
+.tg3{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}.tg3 fieldset{margin:0;border:1px solid var(--line);border-radius:14px;padding:10px 14px 12px;background:rgba(6,22,30,.45)}
+.tg3 legend{font:500 .7rem var(--f-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--ink2);padding:0 6px}.tg3 label{display:flex;gap:10px;align-items:center;font-size:.93rem;color:var(--ink);padding:5px 0;cursor:pointer}.tg3 input{width:18px;height:18px;accent-color:#ff6b3d}
+.res{display:flex;align-items:center;gap:16px;margin-top:16px}.res .arc{transition:stroke-dashoffset .6s cubic-bezier(.3,.8,.3,1)}.res .wo{margin:0!important}
+.wb{display:inline-block;vertical-align:middle;margin-left:12px;font:500 .62rem var(--f-mono);letter-spacing:.12em;text-transform:uppercase;padding:4px 9px;border-radius:999px;border:1px solid var(--line2);color:var(--ink2)}
+.wb.coperto{border-color:rgba(155,232,184,.5);color:#9be8b8}.wb.aperto{border-color:rgba(255,138,91,.55);color:var(--glow)}
+.dim{opacity:.32;filter:saturate(.4);transition:opacity .4s,filter .4s}.body>*{transition:opacity .4s,filter .4s}
+.tappe li.hot::before{background:#fff;box-shadow:0 0 0 6px rgba(255,107,61,.45),0 0 18px var(--accent)}.tappe li.hot b{color:var(--glow)}
+'''
+WIDGET_JS=r"""<script>(function(){var W=function(n){return document.querySelector('.wdg[data-w="'+n+'"]')},ill=document.querySelector('.hero-ill svg');
+function span(h2){var a=[h2],n=h2.nextElementSibling;while(n&&n.tagName!=='H2'){a.push(n);n=n.nextElementSibling}return a}
+function seg(w,cb){if(!w)return;var b=[].slice.call(w.querySelectorAll('.seg button'));b.forEach(function(x){x.addEventListener('click',function(){b.forEach(function(y){y.setAttribute('aria-pressed',y===x)});cb(x.dataset.v)})})}
+var r=W('rain');if(r){var hs=[].slice.call(document.querySelectorAll('.body h2[data-w]')),out=r.querySelector('.wo');
+function rain(v){var wet=v==='rain';if(ill)ill.classList.toggle('dry',!wet);var open=[];hs.forEach(function(h){var o=h.dataset.w==='aperto';span(h).forEach(function(e){e.classList.toggle('dim',wet&&o)});if(o)open.push(h.firstChild.textContent.replace(/^\d+\.\s*/,''))});
+out.textContent=wet?(hs.length-open.length)+' tappe su '+hs.length+' restano comode al coperto. Da accorciare o saltare: '+open.join(', ')+'.':'Senza pioggia vanno bene tutte e '+hs.length+' le tappe: la parte all\'aperto dà il meglio la mattina presto.'}
+seg(r,rain);rain('rain')}
+var t=W('time');if(t){var inp=t.querySelector('input'),o=t.querySelector('output'),wo=t.querySelector('.wo'),li=[].slice.call(document.querySelectorAll('.tappe li'));
+function time(){var h=parseFloat(inp.value),hh=Math.floor(h),mm=h%1?'30':'00';o.textContent=(hh<10?'0':'')+hh+':'+mm;var i=h<10?0:h<12?1:h<14?2:h<16?3:4;li.forEach(function(e,k){e.classList.toggle('hot',k===i)});var cur=li[i];if(cur)wo.textContent=cur.querySelector('b').textContent+': '+cur.querySelector('p').textContent;
+if(ill){var up=h>=6.8&&h<=17.8,y=up?196-120*Math.sin(Math.PI*(h-6.8)/11):300,x=140+(h-6.8)/11*400;var g=ill.querySelector('.sun');if(g)g.style.transform='translate('+(up?x-440:0)+'px,'+(y-190)+'px)';var nt=ill.querySelector('.nt');if(nt)nt.setAttribute('opacity',Math.max(0,Math.min(1,(Math.abs(h-12.3)-4.2)/2))*.72);var rf=ill.querySelector('.rfg');if(rf)rf.style.opacity=up?1:0}}
+inp.addEventListener('input',time);time()}
+var d=W('days');if(d){var items=[].slice.call(document.querySelectorAll('.tappe li')),hd=[].slice.call(document.querySelectorAll('.body h2')).filter(function(h){return/^(?:Giorno|Day) [12]/.test(h.textContent)}),wd=d.querySelector('.wo');
+seg(d,function(v){items.forEach(function(e){var m=e.querySelector('.tm').textContent.match(/(?:Giorno|Day) (\d)/);e.classList.toggle('dim',v!=='all'&&m&&m[1]!==v)});hd.forEach(function(h){var m=h.textContent.match(/(?:Giorno|Day) (\d)/);span(h).forEach(function(e){e.classList.toggle('dim',v!=='all'&&m[1]!==v)})});wd.textContent=v==='1'?'Giorno 1: la Roma antica, tra Colosseo, Foro e Campidoglio.':v==='2'?'Giorno 2: Vaticano al mattino, centro storico e Trastevere dopo.':'Due giorni, due zone: non mischiarle e risparmi ore di cammino.'});wd.textContent='Due giorni, due zone: non mischiarle e risparmi ore di cammino.'}
+var q=W('test');if(q){var cb=[].slice.call(q.querySelectorAll('input')),arc=q.querySelector('.arc'),wo2=q.querySelector('.wo');
+function test(){var n=cb.filter(function(c){return c.checked}).length;arc.style.strokeDashoffset=113-113*n/9;wo2.textContent=n===0?'Spunta le caselle: ti dico se l\'itinerario regge.':n===9?'Itinerario solido: tutte e tre le tappe sono verificate. Puoi partire.':n>=7?'Quasi: controlla ciò che manca prima di partire ('+n+' su 9).':n>=4?'Da rivedere: troppe cose non verificate ('+n+' su 9).':'Ricomincia: non fidarti ancora di questo itinerario ('+n+' su 9).'}
+cb.forEach(function(c){c.addEventListener('change',test)});test()}})()</script>"""
+WIDGET_CSS+='''
+.browse{margin:8px auto 36px}.browse h2{font:500 .74rem var(--f-mono);letter-spacing:.16em;text-transform:uppercase;color:var(--glow);margin:30px 0 14px}
+.bc{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}.bc a{display:block;padding:20px 22px;border:1px solid var(--line2);border-radius:18px;background:linear-gradient(135deg,rgba(14,42,51,.7),rgba(6,22,30,.7));text-decoration:none;color:var(--ink);transition:transform .3s,border-color .3s}
+.bc a:hover{transform:translateY(-3px);border-color:var(--accent)}.bc b{display:block;font:600 1.25rem var(--f-head);margin-bottom:4px}.bc span{color:var(--ink2);font-size:.92rem}
+.bt{display:flex;flex-wrap:wrap;gap:10px}.bt a{padding:10px 18px;border:1px solid var(--line2);border-radius:999px;color:var(--ink);text-decoration:none;font-weight:600;font-size:.95rem}.bt a:hover{background:var(--accent);color:var(--on-accent);border-color:var(--accent)}
+.qa{max-width:760px;margin:0 auto}.qa details{border-bottom:1px solid var(--line);padding:16px 0}.qa summary{cursor:pointer;font:600 1.1rem var(--f-head);color:var(--ink)}.qa p{color:var(--ink2);margin:10px 0 6px}.qa a{color:var(--glow)}
+'''
+WIDGET_CSS+='''
+input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none;display:none}
+'''

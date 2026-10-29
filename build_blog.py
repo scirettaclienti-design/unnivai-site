@@ -337,7 +337,7 @@ def related(p):
 for i,p in enumerate(posts):
     url=f"{BASE}/blog/{p['slug']}";img=f"{BASE}/blog/og/{p['slug']}.png"
     faq=''.join(f'<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q,a in p['faq'])
-    graph=[{"@context":"https://schema.org","@type":"BlogPosting","headline":p['title'],"description":p['description'],"image":img,"datePublished":p['date'],"dateModified":p.get('updated',p['date']),"inLanguage":"it","keywords":", ".join(p['tags']),"author":{"@type":"Person","name":"Ivano Sciretta","url":BASE+"/autore"},"publisher":ORG,"mainEntityOfPage":url,"articleSection":p['category'],"wordCount":len(plain(p['body']).split()),"timeRequired":"PT"+str(max(1,round(len(plain(p['body']).split())/200)))+"M","isAccessibleForFree":True},
+    graph=[{"@context":"https://schema.org","@type":"BlogPosting","headline":p['title'],"description":p['description'],"image":img,"datePublished":p['date'],"dateModified":p.get('updated',p['date']),"inLanguage":"it","keywords":", ".join(p['tags']),"author":{"@type":"Person","name":"Ivano Sciretta","url":BASE+"/autore"},"publisher":ORG,"mainEntityOfPage":url,"articleSection":p['category'],"about":{"@type":"Place","name":p['category']},"isPartOf":{"@type":"Blog","name":"Blog UNNIVAI","url":BASE+"/blog"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr","h1"]},"wordCount":len(plain(p['body']).split()),"timeRequired":"PT"+str(max(1,round(len(plain(p['body']).split())/200)))+"M","isAccessibleForFree":True},
       {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"UNNIVAI","item":BASE+"/"},{"@type":"ListItem","position":2,"name":"Blog","item":BASE+"/blog"},{"@type":"ListItem","position":3,"name":p['category'],"item":f"{BASE}/blog/categoria/{slugify(p['category'])}"},{"@type":"ListItem","position":4,"name":p['title'],"item":url}]}]
     if p['faq']:graph.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in p['faq']]})
     body=p['body'];m=re.search(r'<aside class="callout">(.*?)</aside>',body,re.S);tl=''
@@ -381,7 +381,7 @@ print('posts',len(posts))
 
 # ---------- link blog nella home ----------
 tp=open(SITE+'/index.template.html').read()
-links='<ul class="blogl"><li><b>Dal blog</b></li><li><a href="/blog">Tutti gli articoli</a></li>'+''.join('<li><a href="/blog/'+p['slug']+'">'+esc(p['title'].split(':')[0])+'</a></li>' for p in posts)+'</ul>'
+links='<ul class="blogl"><li><b>Dal blog</b></li><li><a href="/blog">Tutti gli articoli</a></li>'+''.join('<li><a href="/blog/categoria/'+slugify(c)+'">'+esc(c)+'</a></li>' for c in cats)+''.join('<li><a href="/blog/'+p['slug']+'">'+esc(p['title'].split(':')[0])+'</a></li>' for p in posts)+'</ul>'
 if not EN:
     assert '<!--BLOGLINKS-->' in tp
     open(SITE+'/index.template.html','w').write(tp.replace('<!--BLOGLINKS-->',links))

@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Venezia senza folla: come evitarla e dove mangiare davvero](https://unnivai.com/blog/venezia-come-evitare-la-folla): Come visitare Venezia senza la folla: contributo di accesso, vaporetto, orari del mercato di Rialto e bacari, con le discordanze tra le fonti segnalate.
 - [Pescheria di Catania: orari, cosa vedere e come visitarla](https://unnivai.com/blog/pescheria-di-catania-orari-e-consigli): Orari indicativi, quando andare, cosa guardare e cosa evitare alla Pescheria di Catania, il mercato del pesce a pochi passi da Piazza Duomo.
 - [Lecce in un giorno: barocco, pasticciotto e vicoli a piedi](https://unnivai.com/blog/lecce-in-un-giorno): Itinerario a piedi per vedere Lecce in una giornata: anfiteatro, Duomo, Santa Croce, castello e pasticciotto, con orari e prezzi dalle fonti ufficiali.
 - [Firenze in 48 ore senza code inutili](https://unnivai.com/blog/firenze-in-48-ore): Due giorni a Firenze con ordine sensato: Duomo e Cupola, Accademia, Uffizi. Orari, giorni di chiusura, prezzi e prenotazioni letti sui siti ufficiali.
@@ -14,6 +15,7 @@
 
 ## Blog (English)
 - [What to eat in Catania: 10 tastes in order of the day](https://unnivai.com/en/blog/what-to-eat-in-catania): Arancino, granita with brioche, pasta alla Norma, horse meat and Sant'Agata sweets: what to order in Catania, when, and roughly what it costs.
+- [Venice without the crowds: when to go and where to eat](https://unnivai.com/en/blog/venice-without-the-crowds): How to visit Venice without the crowds: the access fee, vaporetto fares, Rialto market hours and bacari, with the sources' disagreements flagged.
 - [One day in Lecce: baroque, pasticciotto and walking lanes](https://unnivai.com/en/blog/one-day-in-lecce): A walking itinerary for one day in Lecce: Roman amphitheatre, Duomo, Santa Croce, the castle and a pasticciotto, with hours and prices from official sources.
 - [Florence in 48 hours without pointless queues](https://unnivai.com/en/blog/florence-in-48-hours): Two days in Florence in a sensible order: Duomo and Dome, Accademia, Uffizi. Hours, closing days, prices and bookings read on the official sites.
 - [Catania fish market: hours, what to see and how to visit](https://unnivai.com/en/blog/catania-fish-market-hours-and-tips): Indicative hours, when to go, what to look at and what to avoid at the Catania fish market, a few steps from Piazza Duomo.

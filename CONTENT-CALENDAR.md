@@ -8,7 +8,7 @@ Fonti consigliate = punto di partenza, non sostituiscono la verifica: ogni dato 
 |---|---|---|---|---|---|---|
 | 1 | [x] | Puglia | Lecce in un giorno: barocco, pasticciotto e vicoli a piedi | One day in Lecce | Itinerario a piedi | sito del Comune, musei civici, consorzio turistico |
 | 2 | [x] | Toscana | Firenze in 48 ore senza code inutili | Florence in 48 hours | Itinerario + prenotazioni | Gallerie degli Uffizi/Accademia (sito ufficiale), Comune |
-| 3 | [ ] | Veneto | Venezia: come evitare la folla e dove mangiare davvero | Venice without the crowds | Logistica + cibo | Comune di Venezia (accesso, contributo), ACTV |
+| 3 | [x] | Veneto | Venezia: come evitare la folla e dove mangiare davvero | Venice without the crowds | Logistica + cibo | Comune di Venezia (accesso, contributo), ACTV |
 | 4 | [ ] | Campania | Napoli: cosa mangiare, in ordine di giornata | What to eat in Naples | Cibo | Comune, consorzi/pizza napoletana (STG), guide gastronomiche |
 | 5 | [ ] | Sicilia | Palermo street food: mercati, orari e cosa ordinare | Palermo street food guide | Cibo + mercati | Comune di Palermo, mercati storici |
 | 6 | [ ] | Lombardia | Milano in un weekend: itinerario con la pioggia | Milan in a weekend, rain-proof | Piano B | Duomo di Milano, musei civici, ATM |

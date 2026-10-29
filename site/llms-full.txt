@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Venezia senza folla: come evitarla e dove mangiare davvero](https://unnivai.com/blog/venezia-come-evitare-la-folla): Come visitare Venezia senza la folla: contributo di accesso, vaporetto, orari del mercato di Rialto e bacari, con le discordanze tra le fonti segnalate.
 - [Pescheria di Catania: orari, cosa vedere e come visitarla](https://unnivai.com/blog/pescheria-di-catania-orari-e-consigli): Orari indicativi, quando andare, cosa guardare e cosa evitare alla Pescheria di Catania, il mercato del pesce a pochi passi da Piazza Duomo.
 - [Lecce in un giorno: barocco, pasticciotto e vicoli a piedi](https://unnivai.com/blog/lecce-in-un-giorno): Itinerario a piedi per vedere Lecce in una giornata: anfiteatro, Duomo, Santa Croce, castello e pasticciotto, con orari e prezzi dalle fonti ufficiali.
 - [Firenze in 48 ore senza code inutili](https://unnivai.com/blog/firenze-in-48-ore): Due giorni a Firenze con ordine sensato: Duomo e Cupola, Accademia, Uffizi. Orari, giorni di chiusura, prezzi e prenotazioni letti sui siti ufficiali.
@@ -14,6 +15,7 @@
 
 ## Blog (English)
 - [What to eat in Catania: 10 tastes in order of the day](https://unnivai.com/en/blog/what-to-eat-in-catania): Arancino, granita with brioche, pasta alla Norma, horse meat and Sant'Agata sweets: what to order in Catania, when, and roughly what it costs.
+- [Venice without the crowds: when to go and where to eat](https://unnivai.com/en/blog/venice-without-the-crowds): How to visit Venice without the crowds: the access fee, vaporetto fares, Rialto market hours and bacari, with the sources' disagreements flagged.
 - [One day in Lecce: baroque, pasticciotto and walking lanes](https://unnivai.com/en/blog/one-day-in-lecce): A walking itinerary for one day in Lecce: Roman amphitheatre, Duomo, Santa Croce, the castle and a pasticciotto, with hours and prices from official sources.
 - [Florence in 48 hours without pointless queues](https://unnivai.com/en/blog/florence-in-48-hours): Two days in Florence in a sensible order: Duomo and Dome, Accademia, Uffizi. Hours, closing days, prices and bookings read on the official sites.
 - [Catania fish market: hours, what to see and how to visit](https://unnivai.com/en/blog/catania-fish-market-hours-and-tips): Indicative hours, when to go, what to look at and what to avoid at the Catania fish market, a few steps from Piazza Duomo.
@@ -30,6 +32,76 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Venezia senza folla: come evitarla e dove mangiare davvero
+URL: https://unnivai.com/blog/venezia-come-evitare-la-folla
+Language: it
+Updated: 2026-10-29
+
+Venezia non è una città da "fare": è una città da attraversare in un certo ordine, a certe ore. Il problema non è la città, è il momento in cui ci arrivi. Questa guida mette insieme quello che dicono le pagine ufficiali del Comune e di AVM (contributo di accesso, vaporetto, regole di comportamento) con quello che dicono i siti turistici su orari, quartieri più tranquilli e bacari, indicando ogni volta dove le fonti non concordano.
+
+In breve. Oggi a Venezia non si paga alcun contributo di accesso (la sperimentazione 2026 è finita il 26 luglio; nel 2027 tornerà in giornate fissate tra marzo e agosto, dalle 8.30 alle 16.30). Per evitare la folla vai al mattino presto o dopo il tramonto, sposta il centro della giornata a Cannaregio e Castello, mangia a bancone nei bacari invece che ai tavoli intorno a San Marco. Per vaporetto e mercati controlla sempre le pagine ufficiali: prezzi e giorni cambiano.
+
+Mattina prestoRialto: mercato e ErbariaIl mercato dà il meglio nella prima parte della mattina; frutta e verdura, secondo due siti, chiudono alle 13.30.
+
+Metà mattinaCannaregioFondamenta, canali e il ghetto: qui la città scorre a ritmo di residenti.
+
+PranzoUn bacaroCicchetti in piedi al bancone, un'ombra di vino e via: il pranzo veneziano è corto.
+
+Primo pomeriggioCastelloIl sestiere meno turistico secondo i siti locali: via Garibaldi, giardini e Arsenale.
+
+PomeriggioVaporetto verso la GiudeccaUn solo biglietto lungo, per guardare la città dall'acqua.
+
+SeraCannaregio o DorsoduroDopo il tramonto molti visitatori giornalieri sono già partiti.
+
+Devo pagare per entrare a Venezia?#
+
+Il contributo di accesso è la domanda più frequente, ed è anche il punto in cui le fonti si contraddicono tra loro. La pagina informativa del Comune di Venezia, aggiornata il 13 marzo 2026, descrive ancora il calendario del 2026: dal 3 aprile al 26 luglio, per 60 giornate non consecutive. Il sito ufficiale del contributo (cda.ve.it), invece, riporta in apertura che la sperimentazione 2026 è terminata e che dal 27 luglio 2026 il contributo non si applica: si può visitare Venezia senza alcun pagamento né richiesta di esenzione. Questa seconda indicazione è la più recente, e coincide con la data di oggi: nessun contributo da pagare.
+
+Per il futuro, lo stesso sito elenca le giornate del 2027: marzo 26, 27, 28, 29; aprile 2, 3, 4, 9, 10, 11, 16, 17, 18 e dal 23 al 30; maggio 1, 2, 7, 8, 9, 14, 15, 16, 21, 22, 23 e dal 28 al 31; giugno 1-6, 11, 12, 13, 18, 19, 20, 25, 26, 27; luglio 2, 3, 4, 9, 10, 11, 16, 17, 18, 23, 24, 25, 30, 31; agosto 1, 6, 7, 8, 13, 14, 15. La fascia oraria è 8.30-16.30. Modalità e importo del 2027 non sono pubblicati: il sito scrive che saranno resi noti entro il 31 dicembre e che le FAQ del 2027 non sono ancora disponibili. Dalla pagina del Comune, riferita al 2026, risulta che il contributo riguarda chi ha più di 14 anni e visita la città antica, e che sono esclusi o esenti, tra gli altri, residenti nel Comune di Venezia, lavoratori e studenti, chi pernotta in strutture ricettive del territorio comunale (ma deve registrarsi sul portale) e i residenti in Veneto. La sanzione per chi non paga era da 25 a 150 euro (più il contributo). Sono regole del 2026: controllale di nuovo prima di un viaggio nel 2027.
+
+Come si evita la folla, in pratica?#
+
+La strategia più semplice è anche la più antica: cambiare ora. Una guida locale letta per questo articolo indica come momenti più quieti il mattino presto, quando canali e calli sono ancora deserti, e la sera dopo il tramonto, quando molti visitatori giornalieri se ne sono andati; aggiunge che la bassa stagione, da novembre a febbraio esclusi i periodi festivi, è un buon momento per una Venezia più tranquilla. La stessa logica compare nelle indicazioni della Città di Venezia, che tra le sue 12 buone pratiche invita a "pianificare il viaggio in giorni di minor afflusso" e a fermarsi più giorni per conoscere anche i luoghi meno noti.
+
+La seconda leva è il quartiere. I siti locali indicano Cannaregio e Castello come i sestieri più autentici: a Cannaregio la chiesa della Madonna dell'Orto (dove si trova la tomba di Tintoretto) e il canale della Misericordia, a Castello via Garibaldi, i giardini e l'Arsenale. Tra i luoghi poco noti la stessa guida cita i chiostri dei Carmelitani Scalzi e di San Francesco della Vigna. Fra gli itinerari ufficiali di Venezia Unica ce n'è uno sulla Giudecca e San Giorgio Maggiore che termina con la vista dal campanile di San Giorgio, alto 75 metri, e uno su Cannaregio. Tieni presente che i siti turistici più commerciali riportano anche proposte a pagamento: ho usato solo le informazioni descrittive, non i consigli di acquisto.
+
+Vaporetto: quale biglietto serve davvero?#
+
+Sul sito ufficiale di AVM i prezzi principali sono questi: biglietto ordinario da 75 minuti sulla rete unica 9,50 €, 24 ore 25 €, 48 ore 35 €, 72 ore 45 €, 7 giorni 65 €. Il biglietto a tempo è valido su tutti i mezzi di terra e di navigazione e permette viaggi illimitati nella fascia oraria che parte alla prima validazione; i collegamenti con l'aeroporto Marco Polo non sono compresi. Il biglietto va convalidato appena saliti, avvicinandolo alla validatrice, e a ogni cambio di mezzo serve una nuova convalida. La pagina indica anche un'offerta "Rolling Venice - Giovani" con biglietto 72 ore a 27 €: non ho letto le condizioni, quindi verifica prima di contarci.
+
+Un conto che aiuta: due biglietti da 75 minuti costano 19 €, meno del biglietto da 24 ore (25 €); tre biglietti costano 28,50 €, più del 24 ore. Quindi il 24 ore conviene solo se prevedi almeno tre viaggi in momenti diversi della giornata. Sono conti sui prezzi indicativi di oggi e dipendono da come usi le linee; a Venezia molte tratte si fanno comunque a piedi.
+
+Come ci si comporta?#
+
+La Città di Venezia ha una campagna, "Enjoy Respect Venezia", con 12 gesti concreti. Alcuni valgono per tutti: camminare a destra e in fila per uno nelle calli strette, non sostare sui ponti, non condurre le biciclette neanche a mano; non usare scalini di chiese, pozzi, rive e monumenti come aree picnic (per mangiare ci sono i giardini pubblici); intorno a Piazza San Marco non è consentito sostare fuori dagli spazi previsti per consumare cibi o bevande; non è consentito il bivacco, circolare a torso nudo, tuffarsi o nuotare; non dare da mangiare ai colombi e non lasciare lucchetti. Sono le regole che fanno la differenza tra un bel giorno e una multa, e tra l'essere ospite e il pesare sulla città.
+
+Dove mangiare davvero: il bacaro#
+
+Il bacaro è l'osteria tipica veneziana: piccolo, rustico, spesso in legno, con i cicchetti esposti in una vetrina vicino al banco. Secondo il sito Visit Venezia (che riporta nel testo collaborazioni commerciali) i cicchetti più comuni sono sarde in saor, baccalà mantecato, polpette, mozzarelle in carrozza, pesce fritto e tramezzini, e si accompagnano a un'ombra di vino o a uno spritz. Il giro di bacaro in bacaro si fa a pranzo o all'ora dell'aperitivo; la stessa fonte nota che molti turisti prendono un vassoio di cicchetti come pasto completo, e che così si perde il senso del rito, che è un assaggio itinerante.
+
+Quanto costa? Il sito riporta da 0,60 a 2 € per un bicchiere di vino e da 1 a 3 € per un cicchetto. La pagina non è datata, quindi trattala come un ordine di grandezza, non come un listino. Per le zone, cita Cannaregio (lungo la Fondamenta degli Ormesini), Santa Croce, Dorsoduro (Campo Santa Margherita) e Castello, descritto come il sestiere meno turistico e perciò ricco di bacari frequentati dai locali. Non ti dico il nome di un locale preciso: non l'ho verificato su una pagina ufficiale e i bacari cambiano gestione e orari. Il criterio pratico è un altro: scegli dove vedi persone che chiacchierano al banco, non dove un cameriere ti porge il menu in strada.
+
+Il mercato di Rialto: quando andare#
+
+A Rialto si trova il mercato storico, con la pescheria e la zona dell'Erbaria. Due strutture ricettive veneziane che descrivono il mercato nel loro sito riportano orari quasi identici ma non uguali: il pesce dal martedì al sabato (7.30-12) per uno, dal martedì al venerdì (7.30-12) per l'altro; frutta e verdura dal lunedì al sabato fino alle 13.30 per entrambi. Il sabato è dunque il giorno incerto: non ho trovato una pagina del Comune che risolva la discordanza. Uno dei due siti ricorda anche che la Loggia della pescheria è del 1907, opera di Domenico Rupolo, con capitelli diversi ispirati alla pesca, e che l'isola di Sant'Erasmo è tradizionalmente legata ai prodotti che si vendono qui. Se vuoi vedere il mercato nel suo momento migliore, vai nella prima parte della mattina: è il momento in cui la vita quotidiana è più visibile. Dopo, le bancarelle si svuotano.
+
+Cosa lasciare fuori#
+
+Piazza San Marco all'ora di punta: guardala all'inizio o alla fine della giornata e dedica il centro della giornata ad altro.
+Il pasto seduto nei punti più fotografati: allontanati di due o tre calli e cerca il banco con le persone in piedi.
+L'idea di fare tutto in un giorno: Venezia premia chi si ferma più giorni e non rincorre le liste.
+
+Se hai altri giorni#
+
+Per un'altra città d'arte organizzata per giorni leggi Firenze in 48 ore senza code inutili; per un itinerario a piedi in una città del Sud c'è Lecce in un giorno; per un'altra città iconica ordinata per area, Roma in due giorni, e per il cibo in ordine di giornata Cosa mangiare a Catania.
+
+Il piano per la tua giornata#
+
+Scegliere l'ora, il quartiere e il biglietto giusti dipende dal giorno in cui arrivi, dal meteo e dalle regole in vigore quel momento: è esattamente il tipo di decisione che UNNIVAI vuole rendere automatica. Iscriviti alla lista d'attesa.
+
+Verificato il 29 ottobre 2026 su pagine aperte per questo articolo. Orari, prezzi e regole di accesso cambiano durante l'anno: controlla le fonti ufficiali prima di partire.
+
 
 # Pescheria di Catania: orari, cosa vedere e come visitarla
 URL: https://unnivai.com/blog/pescheria-di-catania-orari-e-consigli
@@ -613,6 +685,76 @@ If the day changes#
 UNNIVAI rewrites the route when weather, time or hunger change. If you need it, be among the first.
 
 Prices and hours are indicative averages from the sources listed and change during the year: check before you go.
+
+
+# Venice without the crowds: when to go and where to eat
+URL: https://unnivai.com/en/blog/venice-without-the-crowds
+Language: en
+Updated: 2026-10-29
+
+Venice is not a city to "do": it is a city to cross in a certain order, at certain hours. The problem is not the city, it is the moment you arrive. This guide puts together what the official pages of the City and of AVM say (access fee, vaporetto, rules of conduct) with what tourism sites say about hours, quieter districts and bacari, flagging every time where sources disagree. Most of the sources are in Italian, so the names of pages and terms are given as they appear.
+
+In short. Today there is no access fee to enter Venice (the 2026 trial ended on 26 July; in 2027 it returns on fixed days between March and August, from 8:30 to 16:30). To avoid the crowds go early in the morning or after sunset, put the middle of the day in Cannaregio and Castello, and eat at the counter in a bacaro rather than at the tables around San Marco. For vaporetto and markets always check the official pages: prices and days change.
+
+Early morningRialto: market and ErbariaThe market gives its best in the first part of the morning; fruit and vegetables, according to two sites, close at 13:30.
+
+Mid-morningCannaregioFondamenta, canals and the ghetto: here the city runs at the pace of its residents.
+
+LunchA bacaroCicchetti standing at the counter, an ombra of wine and off you go: the Venetian lunch is short.
+
+Early afternoonCastelloThe least touristy district according to local sites: Via Garibaldi, the gardens and the Arsenale.
+
+AfternoonVaporetto to the GiudeccaA single long ride, to look at the city from the water.
+
+EveningCannaregio or DorsoduroAfter sunset many day visitors have already left.
+
+Do I have to pay to enter Venice?#
+
+The access fee is the most frequent question, and it is also where the sources contradict each other. The City of Venice's information page, updated on 13 March 2026, still describes the 2026 calendar: from 3 April to 26 July, for 60 non-consecutive days. The official fee site (cda.ve.it), on the other hand, states at the top that the 2026 trial has ended and that from 27 July 2026 the fee does not apply: you can visit Venice without any payment or request for exemption. This second statement is the most recent, and it matches today's date: no fee to pay.
+
+For the future, the same site lists the 2027 days: March 26, 27, 28, 29; April 2, 3, 4, 9, 10, 11, 16, 17, 18 and 23 to 30; May 1, 2, 7, 8, 9, 14, 15, 16, 21, 22, 23 and 28 to 31; June 1 to 6, 11, 12, 13, 18, 19, 20, 25, 26, 27; July 2, 3, 4, 9, 10, 11, 16, 17, 18, 23, 24, 25, 30, 31; August 1, 6, 7, 8, 13, 14, 15. The time band is 8:30 to 16:30. Procedures and amount for 2027 are not published: the site says they will be announced by 31 December and that the 2027 FAQ are not yet available. From the City's page, which refers to 2026, the fee applied to people over 14 visiting the old city, and those excluded or exempt included residents of the municipality of Venice, workers and students, people staying overnight in accommodation within the municipality (who must still register on the portal) and residents of the Veneto region. The penalty for not paying was 25 to 150 euros (plus the fee). These are 2026 rules: check them again before a trip in 2027.
+
+How do you avoid the crowds in practice?#
+
+The simplest strategy is also the oldest one: change the hour. A local guide read for this article lists early morning as the quietest time, when canals and lanes are still empty, and the evening after sunset, when many day visitors have left; it adds that the low season, from November to February excluding holiday periods, is a good time for a calmer Venice. The same logic appears in the City of Venice's guidance, which among its 12 good practices asks visitors to "plan the trip on days of lower traffic" and to stay more than one day to get to know the lesser-known places too.
+
+The second lever is the district. Local sites point to Cannaregio and Castello as the most authentic sestieri: in Cannaregio the church of Madonna dell'Orto (where Tintoretto's tomb is) and the Misericordia canal, in Castello Via Garibaldi, the gardens and the Arsenale. Among lesser-known places the same guide cites the cloisters of the Carmelitani Scalzi and of San Francesco della Vigna. Among the official Venezia Unica itineraries there is one on the Giudecca and San Giorgio Maggiore that ends with the view from the San Giorgio bell tower, 75 metres tall, and one on Cannaregio. Keep in mind that the more commercial tourism sites also carry paid offers: I used only the descriptive information, not the purchase suggestions.
+
+Vaporetto: which ticket do you really need?#
+
+On the official AVM site the main prices are these: ordinary 75-minute ticket on the single network 9.50 €, 24 hours 25 €, 48 hours 35 €, 72 hours 45 €, 7 days 65 €. The time ticket is valid on all land and water vehicles and allows unlimited trips within the time band that starts at first validation; connections to Marco Polo airport are not included. The ticket must be validated as soon as you board, by touching it to the validator, and each change of vehicle needs a new validation. The page also lists a "Rolling Venice - Youth" offer with a 72-hour ticket at 27 €: I did not read the conditions, so check before relying on it.
+
+A calculation that helps: two 75-minute tickets cost 19 €, less than the 24-hour ticket (25 €); three tickets cost 28.50 €, more than the 24-hour one. So the 24-hour ticket only pays if you expect at least three trips at different times of the day. These are sums on today's indicative prices and depend on how you use the lines; in Venice many stretches are done on foot anyway.
+
+How should you behave?#
+
+The City of Venice runs a campaign, "Enjoy Respect Venezia", with 12 concrete gestures. Some apply to everyone: walk on the right and in single file in narrow lanes, do not stop on bridges, do not lead bicycles even by hand; do not use church steps, wells, quays and monuments as picnic areas (for eating there are the public gardens); around Piazza San Marco you may not stop outside the designated spaces to eat or drink; camping or bivouacking, walking about shirtless, diving or swimming are not allowed; do not feed the pigeons and do not leave padlocks. These are the rules that make the difference between a good day and a fine, and between being a guest and being a weight on the city.
+
+Where to eat for real: the bacaro#
+
+The bacaro is Venice's typical tavern: small, rustic, often wooden, with the cicchetti displayed in a case near the counter. According to the Visit Venezia site (which notes commercial partnerships in its text) the most common cicchetti are sarde in saor (sweet-and-sour sardines), baccalà mantecato (whipped salt cod), meatballs, mozzarelle in carrozza, fried fish and tramezzini, and they go with an ombra of wine or a spritz. The round from bacaro to bacaro is done at lunchtime or at aperitivo time; the same source notes that many tourists take a tray of cicchetti as a full meal, and that this misses the point of the ritual, which is a roaming tasting.
+
+How much does it cost? The site gives 0.60 to 2 € for a glass of wine and 1 to 3 € for a cicchetto. The page is undated, so treat it as an order of magnitude, not a price list. For areas, it cites Cannaregio (along the Fondamenta degli Ormesini), Santa Croce, Dorsoduro (Campo Santa Margherita) and Castello, described as the least touristy sestiere and therefore rich in bacari frequented by locals. I am not giving you the name of a specific place: I have not verified it on an official page and bacari change management and hours. The practical criterion is different: choose where you see people chatting at the counter, not where a waiter hands you a menu in the street.
+
+Rialto market: when to go#
+
+At Rialto you find the historic market, with the fish market and the Erbaria area. Two Venetian accommodations that describe the market on their sites give hours that are nearly identical but not the same: the fish market Tuesday to Saturday (7:30 to 12:00) for one, Tuesday to Friday (7:30 to 12:00) for the other; fruit and vegetables Monday to Saturday until 13:30 for both. Saturday is therefore the uncertain day: I found no City page resolving the discrepancy. One of the two sites also recalls that the fish market's Loggia dates from 1907, the work of Domenico Rupolo, with different capitals inspired by fishing, and that the island of Sant'Erasmo is traditionally tied to the produce sold here. If you want to see the market at its best, go in the first part of the morning: it is the moment when daily life is most visible. Later, the stalls empty out.
+
+What to leave out#
+
+Piazza San Marco at peak hour: look at it at the start or end of the day and give the middle of the day to something else.
+The seated meal at the most photographed spots: move two or three lanes away and look for the counter with people standing.
+The idea of doing everything in one day: Venice rewards those who stay longer and do not chase lists.
+
+If you have more days#
+
+For another art city organised by day read Florence in 48 hours without pointless queues; for a walking itinerary in a southern city there is One day in Lecce on foot; for another iconic city ordered by area, Rome in two days, and for food in order of the day What to eat in Catania.
+
+A plan for your day#
+
+Choosing the right hour, district and ticket depends on the day you arrive, the weather and the rules in force at that moment: it is exactly the kind of decision UNNIVAI wants to make automatic. Join the waitlist.
+
+Checked on 29 October 2026 on pages opened for this article. Hours, prices and access rules change during the year: check the official sources before you go.
 
 
 # One day in Lecce: baroque, pasticciotto and walking lanes

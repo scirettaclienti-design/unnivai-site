@@ -5,7 +5,7 @@ UI=[
 ('Vai al contenuto','Skip to content'),
 ('aria-label="Principale"','aria-label="Main"'),('aria-label="Sito"','aria-label="Site"'),
 ("Dove vai, in siciliano. Turismo con luoghi veri che si adatta alla tua giornata. Nasce in Sicilia, per tutta l'Italia.","“Dove vai” is Sicilian for “where are you going”. Travel built on real places, adapting to your day. Born in Sicily, for all of Italy."),
-('<b>Dal blog</b>','<b>From the blog</b>'),('>Autore<','>Author<'),('/ Autore<','/ Author<'),
+('<b>Dal blog</b>','<b>From the blog</b>'),('>Autore<','>Author<'),('>Metodo<','>Method<'),('/ Autore<','/ Author<'),
 ('>Privacy<','>Privacy<'),
 ('Il blog di UNNIVAI','The UNNIVAI blog'),
 ('Dove andare, e come andarci <em>bene.</em>','Where to go, and how to get there <em>well.</em>'),
@@ -62,7 +62,7 @@ def months(en):return ['January','February','March','April','May','June','July',
 def rewrite_urls(h):
     B=r'(?:(https://unnivai\.com)|(?<![\w.-]))'
     rep=[(r'/blog/categoria/','/en/blog/category/'),(r'/blog/tema/','/en/blog/topic/'),(r'/blog/domande(?![\w-])','/en/blog/questions'),(r'/blog/search\.json','/en/blog/search.json'),
-         (r'/autore(?![\w-])','/en/author'),(r'/blog(?=["\'/?#])(?!/og/|/img/)','/en/blog'),(r'/rss\.xml','/en/rss.xml'),(r'/blog\.css','/blog.css')]
+         (r'/autore(?![\w-])','/en/author'),(r'/metodo(?![\w-])','/en/method'),(r'/blog(?=["\'/?#])(?!/og/|/img/)','/en/blog'),(r'/rss\.xml','/en/rss.xml'),(r'/blog\.css','/blog.css')]
     for pat,to in rep:
         if pat==r'/blog\.css':continue
         h=re.sub(B+pat,lambda m:(m.group(1) or '')+to,h)

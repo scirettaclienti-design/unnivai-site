@@ -24,3 +24,8 @@ Diretto, concreto, caldo. Niente "scopri la magia", niente superlativi vuoti, ni
 
 ## Controllo automatico
 `python3 scripts/check_article.py <id>` deve passare (parole, fonti, FAQ, link, date, EN presente). Poi `bash make.sh` e `python3 audit.py` senza problemi. Solo allora si fa push.
+
+## Foto (da 2026-10-30)
+- Ogni articolo nuovo: 1–2 foto vere da Wikimedia Commons, solo licenze CC BY / CC BY-SA / CC0 / pubblico dominio.
+- Procedura: cercare su Commons (API con User-Agent) -> `python3 scripts/add_photo.py "File:Nome.jpg" nome-breve` (rate limit: pause di 15 s, se 429 riprovare) -> VERIFICARE a vista che l'immagine mostri davvero il luogo -> nell'articolo `:::foto nome-breve | didascalia` prima del primo `##` (IT e EN, didascalia tradotta).
+- Mai foto generate con AI presentate come foto del luogo. Mai consigli "personali" inventati: le fonti restano quelle citate.

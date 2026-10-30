@@ -1,0 +1,42 @@
+{
+ "castello-ursino": {
+  "file": "File:Castello Ursino, Catania 2024.jpg",
+  "artist": "Cayambe",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Castello_Ursino,_Catania_2024.jpg",
+  "w": 1400,
+  "h": 573
+ },
+ "pescheria-catania": {
+  "file": "File:Pescheria (Catania) 08 11 2025 02.jpg",
+  "artist": "Effems",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Pescheria_(Catania)_08_11_2025_02.jpg",
+  "w": 1400,
+  "h": 691
+ },
+ "ortigia-marina": {
+  "file": "File:Ortigia - La Marina (Siracusa, Sicilia).jpg",
+  "artist": "Darold Massaro",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Ortigia_-_La_Marina_(Siracusa,_Sicilia).jpg",
+  "w": 1400,
+  "h": 930
+ },
+ "pantheon-roma": {
+  "file": "File:Pantheon (Roma) - Front.jpg",
+  "artist": "NikonZ7II",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Pantheon_(Roma)_-_Front.jpg",
+  "w": 1400,
+  "h": 966
+ },
+ "colosseo-foro": {
+  "file": "File:Il Colosseo dal Foro Romano, Roma.JPG",
+  "artist": "Roma1314",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Il_Colosseo_dal_Foro_Romano,_Roma.JPG",
+  "w": 1400,
+  "h": 930
+ }
+}

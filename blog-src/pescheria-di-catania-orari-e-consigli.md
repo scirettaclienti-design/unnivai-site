@@ -40,6 +40,8 @@ La Pescheria di Catania non è un'attrazione allestita per i turisti: è un merc
 - Dopo | Assaggi in piedi | Street food nei dintorni.
 :::
 
+:::foto pescheria-catania | Banchi e clienti alla Pescheria di Catania di mattina
+
 ## Orari: cosa sappiamo e cosa no
 
 Le fonti che abbiamo consultato concordano su due punti: il mercato è aperto dal lunedì al sabato e la domenica è chiuso. Sugli orari esatti divergono: Nomado Travel, Loving Sicilia e Do Eat Better Experience indicano circa dalle 7 alle 14, Siviaggia dalle 8 alle 14:30. Non c'è una fonte ufficiale che chiuda la questione, perché non ne abbiamo trovata una comunale aperta e consultabile. Per questo la regola pratica è la più sicura: arriva entro metà mattina. Dopo mezzogiorno alcuni banchi cominciano già a smontare, e i prodotti migliori sono finiti.

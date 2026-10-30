@@ -46,6 +46,8 @@ Ortigia è piccola, e proprio per questo è facile sbagliarla: la si attraversa 
 
 :::widget time
 
+:::foto ortigia-marina | Ortigia vista dal mare, con il lungomare e le case sul fronte acqua
+
 ## Come ci si arriva
 
 Ortigia è l'isola che fa da centro storico di Siracusa: secondo Italia.it misura poco più di un chilometro quadrato ed è collegata alla città da due ponti, Ponte Umbertino e Ponte Santa Lucia. Da Catania il modo più semplice è il treno fino a Siracusa. Due pagine di orari consultate non concordano sui dettagli: una parla di 33 treni trovati, il primo alle 6:06 e l'ultimo alle 21:29, con viaggi tra 1h07 e 1h23; l'altra di 12 treni diretti, dal primo alle 10:39 all'ultimo alle 20:20, durata media 1h18 e minima 1h05, con biglietto da circa 9 € e autobus da circa 5 € (medie indicative). Le differenze dipendono probabilmente dal giorno di consultazione: guarda l'orario reale la sera prima.

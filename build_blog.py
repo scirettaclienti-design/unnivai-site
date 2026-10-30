@@ -20,6 +20,8 @@ def slugify(t):
     t=t.lower();t=re.sub(r'[àá]','a',t);t=re.sub(r'[èé]','e',t);t=re.sub(r'[ìí]','i',t);t=re.sub(r'[òó]','o',t);t=re.sub(r'[ùú]','u',t)
     return re.sub(r'[^a-z0-9]+','-',t).strip('-')
 exec(open('widgets.py').read())
+import json as _j,os as _o
+PHOTOS=_j.load(open('blog-src/photos.json')) if _o.path.exists('blog-src/photos.json') else {}
 def dom(u):return re.sub(r'^https?://(www\.)?','',u).split('/')[0]
 def md(body):
     out=[];toc=[];lines=body.strip().split('\n');para=[];lst=None;i=0
@@ -43,6 +45,9 @@ def md(body):
                     out.append('<dl class="scheda">'+''.join('<div><dt>'+esc(x.split('|')[0].strip())+'</dt><dd>'+inline(x.split('|')[1].strip())+'</dd></div>' for x in blk)+'</dl>')
             elif name=='fonte':
                 n,u,d=[x.strip() for x in rest.split('|')];out.append(f'<a class="fonte" href="{u}" rel="noopener" target="_blank"><span class="dom">{esc(dom(u))}</span><b>{esc(n)}</b><p>{esc(d)}</p><i aria-hidden="true">↗</i></a>')
+            elif name=='foto':
+                k,cap=[x.strip() for x in rest.split('|',1)];ph=PHOTOS[k]
+                out.append(f'<figure class="ph"><img src="/blog/img/{k}.webp" alt="{html.escape(cap,quote=True)}" width="{ph["w"]}" height="{ph["h"]}" loading="lazy" decoding="async"><figcaption>{esc(cap)} <span>{"Photo" if EN else "Foto"}: {esc(ph["artist"])}, <a href="{ph["url"]}" rel="noopener" target="_blank">{esc(ph["license"])}</a>, Wikimedia Commons</span></figcaption></figure>')
             elif name=='widget':
                 out.append(WIDGETS.get(rest,''))
             elif name=='consiglio':
@@ -205,6 +210,7 @@ a.ext:hover,a.int:hover{background-image:linear-gradient(var(--accent),var(--acc
 .tappe .tm{font:500 .76rem var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--glow);padding-top:.35em}
 .tappe b{font:800 1.12rem var(--f-display);letter-spacing:-.01em;color:var(--ink)}.tappe p{margin:.2em 0 0!important;font-size:.98rem}
 @media(max-width:520px){.tappe li{grid-template-columns:1fr}.tappe .tm{padding:0}}
+.ph{margin:1.8em 0}.ph img{width:100%;height:auto;border-radius:18px;display:block;border:1px solid var(--line2)}.ph figcaption{font-size:.82rem;color:#b7c9cc;margin-top:8px;line-height:1.45}.ph figcaption span{display:block;color:#8fa6ab;font-size:.75rem}.ph figcaption a{color:inherit}
 .tip{margin:1.8em 0;padding:20px 24px;border-radius:18px;position:relative;background:rgba(14,42,51,.6);border:1px solid var(--line2);overflow:hidden}
 .tip::before{content:"";position:absolute;inset:-1px;border-radius:18px;padding:1.5px;background:conic-gradient(from var(--a,0deg),transparent 0 70%,var(--accent) 85%,transparent 100%);-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;animation:spin 6s linear infinite;pointer-events:none}
 @property --a{syntax:"<angle>";initial-value:0deg;inherits:false}@keyframes spin{to{--a:360deg}}

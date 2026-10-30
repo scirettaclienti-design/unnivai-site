@@ -47,6 +47,8 @@ Ortigia is small, and that is exactly why it is easy to get wrong: you cross it 
 
 :::widget time
 
+:::foto ortigia-marina | Ortigia seen from the sea, with its seafront and waterside houses
+
 ## Getting there
 
 Ortigia is the island that forms the historic centre of Syracuse: according to Italia.it it measures a little over one square kilometre and is linked to the city by two bridges, Ponte Umbertino and Ponte Santa Lucia. From Catania the simplest way is the train to Siracusa. Two timetable pages we read do not agree on the details: one lists 33 trains, the first at 6:06 and the last at 21:29, with journeys between 1h07 and 1h23; the other lists 12 direct trains, from 10:39 to 20:20, with an average of 1h18 and a minimum of 1h05, a train ticket from about 9 EUR and a bus from about 5 EUR (indicative averages). The gap probably depends on the day each page was captured: check the real timetable the evening before.

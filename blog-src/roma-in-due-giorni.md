@@ -46,6 +46,10 @@ Roma si può vedere in due giorni se accetti una regola: non cercare di vedere t
 
 :::widget days
 
+:::foto colosseo-foro | Il Colosseo visto dal Foro Romano
+
+:::foto pantheon-roma | La facciata del Pantheon a Roma
+
 ## Giorno 1: la Roma antica
 
 **Mattina: Colosseo, Foro e Palatino.** Sono vicini e si visitano con un unico biglietto. Sul sito ufficiale del Parco il biglietto standard è valido 24 ore e dà un solo accesso al Colosseo (primo e secondo ordine, senza arena) e un solo accesso a Foro Romano e Palatino. Questo significa che puoi spezzare la visita: Colosseo all'apertura, Foro e Palatino dopo pranzo, purché entro le 24 ore.

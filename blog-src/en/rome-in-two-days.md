@@ -47,6 +47,10 @@ You can see Rome in two days if you accept one rule: do not try to see everythin
 
 :::widget days
 
+:::foto colosseo-foro | The Colosseum seen from the Roman Forum
+
+:::foto pantheon-roma | The façade of the Pantheon in Rome
+
 ## Day 1: ancient Rome
 
 **Morning: Colosseum, Forum and Palatine.** They are close and covered by one ticket. On the park's official site the standard ticket is valid for 24 hours and gives one entry to the Colosseum (first and second tier, no arena) and one entry to the Roman Forum and Palatine. That means you can split the visit: the Colosseum when it opens, the Forum and Palatine after lunch, as long as you stay inside the 24 hours.

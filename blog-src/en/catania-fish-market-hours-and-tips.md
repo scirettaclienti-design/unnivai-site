@@ -41,6 +41,8 @@ The Catania fish market is not an attraction set up for tourists: it is a market
 - Afterwards | Tastings standing up | Street food nearby.
 :::
 
+:::foto pescheria-catania | Stalls and shoppers at Catania's fish market in the morning
+
 ## Hours: what we know and what we do not
 
 The sources we consulted agree on two points: the market is open Monday to Saturday and closed on Sunday. On exact hours they differ: Nomado Travel, Loving Sicilia and Do Eat Better Experience say about 7 am to 2 pm, Siviaggia says 8 am to 2:30 pm. No official source settles it, because we did not find an open, consultable one from the city council. That is why the practical rule is the safest one: arrive by mid-morning. After noon some stalls are already packing up, and the best produce is gone.

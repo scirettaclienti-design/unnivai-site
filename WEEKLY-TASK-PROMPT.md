@@ -12,7 +12,7 @@ Sei l'editor del blog UNNIVAI (turismo in Italia, bilingue IT/EN). Lavora nel re
 1. Prendi la prima riga `[ ]` di `CONTENT-CALENDAR.md`. Se la regione è uguale a quella dell'ultimo articolo pubblicato, prendi la riga successiva con regione diversa.
 2. Ricerca web vera: apri almeno 5 pagine (almeno 1 ufficiale) e annota solo dati letti. Se una fonte è bloccata, usane un'altra. Mai dati dalla memoria.
 3. Scrivi `blog-src/<slug-it>.md` e `blog-src/en/<slug-en>.md` (stesso `id` = slug IT) seguendo le regole. `date` = oggi. Scegli un widget solo se utile.
-4. Esegui `python3 scripts/check_article.py <slug-it>`: correggi finché passa. Poi `bash make.sh` e `python3 audit.py`: zero problemi. Guarda uno screenshot della pagina (Playwright) per controllare layout.
+4. Aggiungi 1–2 foto vere da Wikimedia Commons seguendo la sezione "Foto" di EDITORIAL-RULES.md (scripts/add_photo.py, verifica a vista, `:::foto`). 5. Esegui `python3 scripts/check_article.py <slug-it>`: correggi finché passa. Poi `bash make.sh` e `python3 audit.py`: zero problemi. Guarda uno screenshot della pagina (Playwright) per controllare layout.
 5. Segna la riga del calendario come `[x]`. Commit con messaggio `articolo: <titolo IT>` e push su `main` (quello pubblica: Vercel fa il deploy, GitHub Actions avvisa Google e Bing).
 6. Se un controllo fallisce e non riesci a correggerlo, NON fare push: apri un branch `bozza/<slug>` con il lavoro e riportalo.
 7. Chiudi con 5 righe: titolo, fonti usate (URL), cosa non hai potuto verificare, link all'articolo.

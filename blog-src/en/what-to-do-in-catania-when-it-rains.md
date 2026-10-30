@@ -33,6 +33,8 @@ In Catania rain does not ruin the day: it moves it. The historic centre is compa
 
 > **In short.** Keep the stops close, alternate an indoor place with a short outdoor stretch, and check opening hours: museums and monuments change days and time slots. The Achillean Baths, for instance, are listed as open only until 2:00 pm, so they belong in the morning.
 
+:::foto castello-ursino | Castello Ursino, one of Catania's indoor stops
+
 ## When does it actually rain in Catania?
 
 Rain is not spread evenly through the year. One climate page we read lists 7 rainy days in October, 5 in November and 8 in each of December and January, against 1 in June and 1 in July. A second page with a rainfall table puts October at the top with 84 mm, followed by September with 77 mm, and gives a yearly total around 600 mm; the same page, however, says in its text that November is the wettest month, so read the numbers as orders of magnitude. The practical message is simple: from October to January an indoor plan is not an exception, it is part of the trip.

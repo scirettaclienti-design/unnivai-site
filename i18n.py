@@ -62,7 +62,7 @@ def months(en):return ['January','February','March','April','May','June','July',
 def rewrite_urls(h):
     B=r'(?:(https://unnivai\.com)|(?<![\w.-]))'
     rep=[(r'/blog/categoria/','/en/blog/category/'),(r'/blog/tema/','/en/blog/topic/'),(r'/blog/domande(?![\w-])','/en/blog/questions'),(r'/blog/search\.json','/en/blog/search.json'),
-         (r'/autore(?![\w-])','/en/author'),(r'/blog(?=["\'/?#])(?!/og/)','/en/blog'),(r'/rss\.xml','/en/rss.xml'),(r'/blog\.css','/blog.css')]
+         (r'/autore(?![\w-])','/en/author'),(r'/blog(?=["\'/?#])(?!/og/|/img/)','/en/blog'),(r'/rss\.xml','/en/rss.xml'),(r'/blog\.css','/blog.css')]
     for pat,to in rep:
         if pat==r'/blog\.css':continue
         h=re.sub(B+pat,lambda m:(m.group(1) or '')+to,h)

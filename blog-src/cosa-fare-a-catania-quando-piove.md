@@ -32,6 +32,8 @@ A Catania la pioggia non rovina la giornata: la sposta. Il centro storico è com
 
 > **In breve.** Tieni le tappe vicine, alterna un luogo al coperto a un passaggio breve all'aperto, e controlla gli orari: musei e monumenti cambiano giorni e fasce di apertura. Le Terme Achilliane, per esempio, risultano aperte solo fino alle 14:00, quindi vanno messe in mattinata.
 
+:::foto castello-ursino | Il Castello Ursino, tra i luoghi al coperto di Catania
+
 ## Quando piove davvero a Catania?
 
 Le piogge non sono distribuite in modo uniforme. Una pagina di clima consultata indica 7 giorni di pioggia a ottobre, 5 a novembre e 8 sia a dicembre sia a gennaio, contro 1 a giugno e 1 a luglio. Una seconda pagina, con una tabella di precipitazioni, mette ottobre in cima con 84 mm, seguito da settembre con 77 mm, e stima il totale annuo attorno ai 600 mm; la stessa pagina però nel testo parla di novembre come mese più piovoso, quindi prendi i numeri come un ordine di grandezza. Il messaggio pratico è semplice: da ottobre a gennaio un piano al coperto non è un'eccezione, è parte del viaggio.

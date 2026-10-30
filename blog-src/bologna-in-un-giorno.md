@@ -1,6 +1,6 @@
 ---
 title: Bologna: tortellini, portici e una giornata a piedi
-description: Una giornata a Bologna sotto i portici: San Petronio, Torre dell'Orologio, Quadrilatero, Archiginnasio, San Luca, con tortellini e orari dalle fonti ufficiali.
+description: Una giornata a Bologna sotto i portici: San Petronio, Torre dell'Orologio, Quadrilatero, Archiginnasio e San Luca, con tortellini e orari verificati.
 date: 2026-10-30
 category: Bologna
 cover: Bologna

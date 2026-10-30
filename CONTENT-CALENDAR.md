@@ -9,12 +9,12 @@ Fonti consigliate = punto di partenza, non sostituiscono la verifica: ogni dato 
 | 1 | [x] | Puglia | Lecce in un giorno: barocco, pasticciotto e vicoli a piedi | One day in Lecce | Itinerario a piedi | sito del Comune, musei civici, consorzio turistico |
 | 2 | [x] | Toscana | Firenze in 48 ore senza code inutili | Florence in 48 hours | Itinerario + prenotazioni | Gallerie degli Uffizi/Accademia (sito ufficiale), Comune |
 | 3 | [x] | Veneto | Venezia: come evitare la folla e dove mangiare davvero | Venice without the crowds | Logistica + cibo | Comune di Venezia (accesso, contributo), ACTV |
-| 4 | [ ] | Campania | Napoli: cosa mangiare, in ordine di giornata | What to eat in Naples | Cibo | Comune, consorzi/pizza napoletana (STG), guide gastronomiche |
-| 5 | [ ] | Sicilia | Palermo street food: mercati, orari e cosa ordinare | Palermo street food guide | Cibo + mercati | Comune di Palermo, mercati storici |
-| 6 | [ ] | Lombardia | Milano in un weekend: itinerario con la pioggia | Milan in a weekend, rain-proof | Piano B | Duomo di Milano, musei civici, ATM |
-| 7 | [ ] | Basilicata | Matera: come visitare i Sassi (e quando) | Visiting Matera's Sassi | Itinerario + logistica | Comune, Fondazione Matera, UNESCO |
-| 8 | [ ] | Liguria | Cinque Terre a piedi: sentieri, treni e cosa è chiuso | Cinque Terre on foot | Logistica | Parco Nazionale, Trenitalia |
-| 9 | [ ] | Emilia-Romagna | Bologna: tortellini, portici e una giornata | Bologna in a day | Cibo + itinerario | Comune, UNESCO portici |
+| 4 | [x] | Campania | Napoli: cosa mangiare, in ordine di giornata | What to eat in Naples | Cibo | Comune, consorzi/pizza napoletana (STG), guide gastronomiche |
+| 5 | [x] | Sicilia | Palermo street food: mercati, orari e cosa ordinare | Palermo street food guide | Cibo + mercati | Comune di Palermo, mercati storici |
+| 6 | [x] | Lombardia | Milano in un weekend: itinerario con la pioggia | Milan in a weekend, rain-proof | Piano B | Duomo di Milano, musei civici, ATM |
+| 7 | [x] | Basilicata | Matera: come visitare i Sassi (e quando) | Visiting Matera's Sassi | Itinerario + logistica | Comune, Fondazione Matera, UNESCO |
+| 8 | [x] | Liguria | Cinque Terre a piedi: sentieri, treni e cosa è chiuso | Cinque Terre on foot | Logistica | Parco Nazionale, Trenitalia |
+| 9 | [x] | Emilia-Romagna | Bologna: tortellini, portici e una giornata | Bologna in a day | Cibo + itinerario | Comune, UNESCO portici |
 | 10 | [ ] | Puglia | Polignano a Mare e dintorni: cosa fare senza auto | Polignano a Mare without a car | Logistica | Comune, Ferrovie Sud Est |
 | 11 | [ ] | Piemonte | Torino: musei, caffè storici e giornata di pioggia | Turin on a rainy day | Piano B | Musei Torino, Comune |
 | 12 | [ ] | Sicilia | Taormina e l'Etna: una giornata, come organizzarla | Taormina and Etna in a day | Itinerario | Parco dell'Etna, Parco archeologico |

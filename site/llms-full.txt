@@ -3,6 +3,12 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Palermo street food: mercati, orari e cosa ordinare](https://unnivai.com/blog/palermo-street-food-mercati-orari-cosa-ordinare): Capo, Ballarò e Vucciria a Palermo: a che ora andare, cosa ordinare (panelle, arancina, sfincione, pani ca meusa) e quanto costa, con le fonti che discordano.
+- [Cosa mangiare a Napoli: la giornata in ordine di assaggio](https://unnivai.com/blog/napoli-cosa-mangiare-in-ordine-di-giornata): Sfogliatella, pizza fritta, portafoglio, cuoppo, babà e pizza STG: cosa mangiare a Napoli e a che ora, con prezzi indicativi e fonti che discordano.
+- [Milano in un weekend con la pioggia: itinerario Piano B](https://unnivai.com/blog/milano-in-un-weekend-con-la-pioggia): Due giorni a Milano quando piove: Duomo, Galleria, Novecento, Castello, Brera e Cenacolo, con orari, prezzi indicativi e giorni di chiusura da fonti ufficiali.
+- [Matera: come visitare i Sassi e quando andare](https://unnivai.com/blog/matera-come-visitare-i-sassi): I Sassi di Matera a piedi in un giorno: itinerario tra Sasso Barisano e Caveoso, Casa Grotta, come arrivare e quando andare, con fonti ufficiali.
+- [Cinque Terre a piedi: sentieri, treni e cosa è chiuso](https://unnivai.com/blog/cinque-terre-a-piedi): Come camminare alle Cinque Terre a fine ottobre 2026: quali sentieri risultano chiusi, quanto costano Trekking Card e treni, Via dell'Amore e lavori.
+- [Bologna: tortellini, portici e una giornata a piedi](https://unnivai.com/blog/bologna-in-un-giorno): Una giornata a Bologna sotto i portici: San Petronio, Torre dell'Orologio, Quadrilatero, Archiginnasio, San Luca, con tortellini e orari dalle fonti ufficiali.
 - [Venezia senza folla: come evitarla e dove mangiare davvero](https://unnivai.com/blog/venezia-come-evitare-la-folla): Come visitare Venezia senza la folla: contributo di accesso, vaporetto, orari del mercato di Rialto e bacari, con le discordanze tra le fonti segnalate.
 - [Pescheria di Catania: orari, cosa vedere e come visitarla](https://unnivai.com/blog/pescheria-di-catania-orari-e-consigli): Orari indicativi, quando andare, cosa guardare e cosa evitare alla Pescheria di Catania, il mercato del pesce a pochi passi da Piazza Duomo.
 - [Lecce in un giorno: barocco, pasticciotto e vicoli a piedi](https://unnivai.com/blog/lecce-in-un-giorno): Itinerario a piedi per vedere Lecce in una giornata: anfiteatro, Duomo, Santa Croce, castello e pasticciotto, con orari e prezzi dalle fonti ufficiali.
@@ -14,6 +20,12 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [What to eat in Naples, in the order of the day](https://unnivai.com/en/blog/what-to-eat-in-naples): Sfogliatella, fried pizza, pizza a portafoglio, cuoppo, babà and STG pizza: what to eat in Naples and when, with indicative prices and where sources disagree.
+- [Visiting Matera's Sassi: how to see them and when to go](https://unnivai.com/en/blog/visiting-matera-sassi-and-when-to-go): The Sassi of Matera on foot in one day: a route through Sasso Barisano and Caveoso, the Casa Grotta, how to get there and when to go, with official sources.
+- [Palermo street food guide: markets, hours and what to order](https://unnivai.com/en/blog/palermo-street-food-guide): Capo, Ballarò and Vucciria in Palermo: when to go, what to order (panelle, arancina, sfincione, pani ca meusa) and what it costs, with sources that disagree.
+- [Milan in a weekend when it rains: a Plan B itinerary](https://unnivai.com/en/blog/milan-in-a-weekend-in-the-rain): Two rainy days in Milan: the Duomo, Galleria, Museo del Novecento, Castello Sforzesco, Brera and the Last Supper, with hours, indicative prices and closures.
+- [Cinque Terre on foot: trails, trains and what is closed](https://unnivai.com/en/blog/cinque-terre-on-foot): Walking the Cinque Terre in late October 2026: which trails show as closed, what the Trekking Card and trains cost, the Via dell'Amore and rail works.
+- [Bologna in a day: tortellini, porticoes and a walking plan](https://unnivai.com/en/blog/bologna-in-a-day): One day in Bologna under the porticoes: San Petronio, the Clock Tower, Quadrilatero, Archiginnasio and San Luca, with tortellini and official hours.
 - [What to eat in Catania: 10 tastes in order of the day](https://unnivai.com/en/blog/what-to-eat-in-catania): Arancino, granita with brioche, pasta alla Norma, horse meat and Sant'Agata sweets: what to order in Catania, when, and roughly what it costs.
 - [Venice without the crowds: when to go and where to eat](https://unnivai.com/en/blog/venice-without-the-crowds): How to visit Venice without the crowds: the access fee, vaporetto fares, Rialto market hours and bacari, with the sources' disagreements flagged.
 - [One day in Lecce: baroque, pasticciotto and walking lanes](https://unnivai.com/en/blog/one-day-in-lecce): A walking itinerary for one day in Lecce: Roman amphitheatre, Duomo, Santa Croce, the castle and a pasticciotto, with hours and prices from official sources.
@@ -32,6 +44,545 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Palermo street food: mercati, orari e cosa ordinare
+URL: https://unnivai.com/blog/palermo-street-food-mercati-orari-cosa-ordinare
+Language: it
+Updated: 2026-10-30
+
+I tre grandi mercati di Palermo sembrano tre varianti dello stesso posto, e invece hanno tre orari diversi. Il Capo e Ballarò sono mercati da mattina, la Vucciria è un posto da sera. Se sbagli ora trovi saracinesche chiuse o una piazza vuota, e Palermo diventa una città difficile da capire. Questa guida mette in fila i mercati, dice cosa ordinare e dove le fonti non concordano lo scrive.
+
+In breve. Vai al Capo e a Ballarò di mattina, quando i banchi sono in funzione e le friggitrici sono accese; lascia la Vucciria alla sera. Ordina panelle e crocchè, arancina, sfincione e, se ti senti coraggioso, pani ca meusa. Con circa 10-15 € a persona (stima indicativa, in contanti) si mangia bene. Evita la domenica pomeriggio per i mercati.
+
+Il mercato di Ballarò a Palermo, tra banchi di frutta e verdura e il passaggio dei clienti Foto: Benjamín Núñez González, CC BY-SA 4.0, Wikimedia Commons
+Mattina prestoMercato del CapoEntrata da Porta Carini e via Cappuccinelle: panelle, sfincione, arancine, frutta e pesce.
+
+Tarda mattinaCattedrale e AlbergheriaDal Capo si scende verso la Cattedrale e poi nel quartiere di Ballarò.
+
+MezzogiornoBallaròIl mercato più antico e grande: frittura, sfincione e la voce dei venditori.
+
+PomeriggioUna pasticceriaUn cannolo, meglio se riempito al momento.
+
+SeraVucciriaPiazza Caracciolo si anima con le griglie: stigghiola, pani ca meusa, un bicchiere.
+
+Quale mercato scegliere, e a che ora?#
+
+Il Portale del Turismo del Comune di Palermo mette quattro nomi nella lista dei mercati storici più importanti: Ballarò, la Vucciria, il Capo e Borgo Vecchio. Li paragona ai suk dei paesi musulmani, con il richiamo dei venditori, l'«abbanniata», come colonna sonora. Per lo street food, però, le guide scelgono ruoli diversi.
+
+Palermo Food Tours, un operatore di tour il cui testo riporta una verifica del 25 ottobre 2026, riassume così: il Capo e Ballarò sono mercati diurni, più animati dalla tarda mattina e meglio in un giorno feriale; la Vucciria di giorno è la più tranquilla e prende vita al buio, quando escono le griglie. Il Capo è nel quartiere di Seralcadio, vicino alla Cattedrale, ed è, scrive, uno dei più facili da girare mangiando, con panelle, sfincione, arancine e dolci accanto a frutta e pesce. Ballarò, nell'Albergheria, è il più antico e il più grande, e secondo la stessa fonte il più locale.
+
+Tieni a mente che «mattina» non significa «all'alba»: secondo la guida di Palermo Food Tours i due mercati diurni sono più pieni tra le nove e l'una, quando le friggitrici sono a pieno regime. Il sabato mattina è il momento più affollato, con i palermitani che fanno la spesa della settimana.
+
+Gli orari: dove le fonti discordano#
+
+Qui conviene essere prudenti, perché gli orari scritti non coincidono.
+
+Ballarò. Per il Comune è aperto dal lunedì al sabato dalle 7:30 alle 20:00, e la domenica prevalentemente solo di mattina. Do Eat Better scrive lunedì-sabato dalle 7:00 alle 19:00. La differenza è di mezz'ora la mattina e un'ora la sera.
+Capo. Il Comune dice soltanto «aperto tutti i giorni la mattina e il pomeriggio». Do Eat Better indica lunedì-sabato dalle 9:00 alle 17:00.
+Vucciria. Anche qui il Comune scrive «aperto tutti i giorni la mattina e il pomeriggio», ma le guide dicono tutt'altro: secondo Do Eat Better di giorno è quasi desolata e la vera atmosfera inizia dopo le 21, e Palermo Food Tours la descrive tranquilla di giorno e viva dopo il tramonto. Probabilmente è il banco della frutta e del pesce che resta di mattina, mentre il cibo di strada si sposta alla sera; ma la nostra è un'interpretazione, non un dato.
+Borgo Vecchio. Palermo Food Tours lo descrive come un mercato che si anima nel tardo pomeriggio e la sera, con carne alla griglia e stigghiola, frequentato soprattutto dai palermitani.
+
+Un'ultima avvertenza: Palermo Food Tours scrive che la domenica pomeriggio è il momento peggiore per i mercati, perché molti banchi chiudono. Il Comune conferma per Ballarò che la domenica è «prevalentemente solo mattina».
+
+Cosa ordinare: i classici in ordine di giornata#
+
+Panelle e crocchè. Le panelle sono frittelle di farina di ceci, i crocchè sono crocchette di patate e menta, e secondo Do Eat Better si mangiano insieme in una mafalda al sesamo, uno degli street food naturalmente vegani più diffusi. Il Comune li cita tra le specialità vendute al Capo.
+
+Sfincione. Secondo Towns of Italy è una focaccia alta e morbida con pomodoro, cipolla, acciuga, caciocavallo e pangrattato, venduta da ambulanti da grandi teglie rettangolari; Do Eat Better lo descrive come un rettangolo di pasta spugnosa e lo consiglia a colazione a Ballarò. Il Comune cita anche lo «sfincionello».
+
+Arancina. A Palermo si dice al femminile, ed è la regola su cui concordano Do Eat Better e Towns of Italy (se vuoi il confronto con Catania, c'è la guida cosa mangiare a Catania, dove si dice arancino). La classica «al burro» ha mozzarella e prosciutto cotto; quella «al ragù» ha la carne.
+
+Pani ca meusa. È il panino con la milza. Towns of Italy lo descrive come milza di vitello cotta nello strutto, servita in un panino al sesamo con ricotta o caciocavallo; Do Eat Better parla di milza e polmone a pezzetti, bolliti e fritti nello strutto, e dice che si chiede schiettu (solo limone) o maritatu (con formaggio). La fonte indica circa 3 € in un chiosco della Vucciria; Towns of Italy colloca il panino a Vucciria o Ballarò.
+
+Stigghiola e frittola. La stigghiola è budello di agnello o vitello avvolto attorno a un cipollotto e grigliato: Palermo Food Tours e Do Eat Better la mettono alla Vucciria, la sera. La frittola è un misto di scarti di vitello bolliti e fritti, venduta da un cesto coperto da un panno: è l'unico cibo del giro su cui Do Eat Better consiglia cautela a chi ha lo stomaco sensibile.
+
+Cannolo. Towns of Italy raccomanda di chiedere che sia «riempito al momento»: in una pasticceria seria guscio e ricotta restano separati fino all'ordine.
+
+Quanto costa#
+
+Per Do Eat Better la maggior parte degli assaggi costa tra 1,50 € e 5 €, e si mangia bene con meno di 15 € a persona; a Ballarò indica 1-5 € al pezzo e al Capo 2,50-6 €. Per la stessa fonte un panino con panelle e crocchè costa 2,50 € in un locale del Capo. Sono cifre indicative, lette su un solo sito: i prezzi cambiano. Palermo Food Tours e Do Eat Better concordano sul punto pratico: porta contanti e monete, perché molti banchi non accettano carte.
+
+Come mettere insieme la giornata#
+
+Due fonti propongono due ordini diversi. Palermo Food Tours suggerisce di partire presto dal Capo, vicino a Porta Carini, mangiare scendendo tra fritture e sfincione, tagliare verso la Cattedrale e poi entrare a Ballarò, passando per l'Albergheria: in circa mezza giornata si vedono due mercati, la Cattedrale e i Quattro Canti. Do Eat Better propone l'ordine inverso: Ballarò al mattino (8-12), il Capo a pranzo (12-14) e la Vucciria dalle 21.
+
+Noi seguiamo la geografia: il Capo e Ballarò sono sulla stessa linea di cammino tra via Beati Paoli e via Vittorio Emanuele, come ricorda anche Palermo Mare Holidays, e la Cattedrale sta in mezzo. Ma l'ordine dei due mercati conta meno dell'ora: arriva entro le tredici.
+
+ConsiglioNon andare alla Vucciria alle 11 del mattino aspettandoti il mercato che hai visto nelle foto: Do Eat Better lo dice chiaramente e Palermo Food Tours conferma che di giorno è la più quieta. Tienila per la sera, anche solo per un bicchiere in piazza.
+
+Se arrivi fuori orario#
+
+Se i mercati sono chiusi, le friggitorie spesso no. Palermo Mare Holidays (una pagina aggiornata nel marzo 2025, quindi da ricontrollare) segnala per esempio una friggitoria in via Vittorio Emanuele aperta tutti i giorni dalle 9 all'una di notte e una in corso Camillo Finocchiaro Aprile aperta, scrive, 24 ore su 24. Non sono dati datati a ottobre 2026: telefona o controlla sulle mappe prima di partire.
+
+Sicurezza e buone maniere#
+
+Do Eat Better scrive che il cibo è sicuro (alte temperature e ricambio continuo di clienti) e che il rischio principale è il borseggio nei punti più stretti di Ballarò: telefono in tasca anteriore e borsa chiusa. Palermo Food Tours dà lo stesso consiglio per tutti i mercati affollati. Altra regola ripetuta: non ordinare troppo al primo banco, e cerca le code di palermitani.
+
+Cosa lasciare fuori#
+
+Tutte e tre le tappe nella stessa mattina: la Vucciria al mattino è la scelta sbagliata.
+La domenica pomeriggio: i banchi si diradano.
+Il pranzo seduto: tra un assaggio e l'altro si fa già un pasto. Lascia la tavola alla sera.
+
+Se hai un altro giorno#
+
+Per capire come si legge un mercato del pesce, la guida alla pescheria di Catania ha lo stesso ritmo mattutino. In Sicilia orientale, un giorno a Ortigia è un'altra giornata da fare a piedi, e se piove, cosa fare a Catania quando piove ha i piani al coperto. Se ti incuriosisce come far costruire a un'AI un giro del genere senza farsi inventare orari, leggi itinerario turistico con l'AI: cosa funziona.
+
+Se cambia la giornata#
+
+UNNIVAI riscrive il giro quando cambiano orari, pioggia o stanchezza: stessi mercati, ordine diverso. Se ti serve, entra tra i primi.
+
+Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Orari e prezzi sono letti su siti di operatori e guide e cambiano durante l'anno: controllali prima di partire. Dove due fonti discordano lo abbiamo scritto; i nomi dei locali sono citati solo come li riportano le fonti.
+
+
+# Cosa mangiare a Napoli: la giornata in ordine di assaggio
+URL: https://unnivai.com/blog/napoli-cosa-mangiare-in-ordine-di-giornata
+Language: it
+Updated: 2026-10-30
+
+A Napoli si mangia a tutte le ore, ma non tutto va bene a tutte le ore. La sfogliatella è una cosa da mattina, la pizza fritta vuole il fuoco appena spento, la pizza da forno si ordina la sera e il babà chiude bene qualunque giornata. Questa guida mette gli assaggi in ordine, dice quanto costano più o meno, e dove le fonti non vanno d'accordo lo scrive.
+
+In breve. Colazione con caffè e sfogliatella, a metà mattina una pizza fritta, a pranzo la pizza a portafoglio con una frittatina o un crocchè, a merenda un cuoppo o un babà, la sera una pizza vera al tavolo. Con circa 20-30 € a persona (stima indicativa) si fa un giro completo. I prezzi e i giorni di chiusura cambiano da locale a locale: controllali prima di partire.
+
+Una pizza margherita: pomodoro, mozzarella, basilico e cornicione rialzato Foto: Valerio Capello at English Wikipedia, CC BY-SA 3.0, Wikimedia Commons
+ColazioneCaffè e sfogliatellaRiccia o frolla: provale entrambe se sei in due. Costa in genere un paio di euro.
+
+Metà mattinaPizza frittaRipiena di ricotta, cicoli e pepe: va mangiata appena uscita dall'olio.
+
+PranzoPizza a portafoglio e frittatinaUna margherita piegata in quattro e una frittatina di pasta: due assaggi da pochi euro.
+
+MerendaCuoppo o frittura mistaIl cono di fritti si mangia camminando: crocchè, zeppole, arancini.
+
+SeraPizza al tavoloMarinara o margherita, le due classiche: arriva presto per evitare la coda.
+
+Dopo cenaBabà, fiocco di neve o ministerialeUn dolce per chiudere: dipende da quale pasticceria incroci.
+
+Cosa si mangia a colazione a Napoli? Sfogliatella e caffè#
+
+Si comincia con una sfogliatella, e subito servono due parole. La riccia è quella a conchiglia, fatta di strati sottilissimi e croccante; la frolla è tonda, liscia e più morbida. Il ripieno è lo stesso, secondo Lost in Food: una crema di ricotta, semolino, uova e zucchero, con canditi. Naples Insider conferma le due varianti e ricorda che sulla preferenza ci sono dispute amichevoli senza soluzione: la cosa più utile è assaggiarle tutte e due.
+
+Una sfogliatella riccia, tagliata per mostrare il ripieno di ricotta e canditi Foto: Saggittarius A, CC BY-SA 4.0, Wikimedia Commons
+Quanto alla storia, le fonti sono due versioni che non coincidono. Lost in Food racconta che la ricetta originale risalirebbe al 1600 e sarebbe nata nel convento di Santa Rosa, sulla Costiera Amalfitana, e dice anche che una celebre pasticceria in via Toledo vanta di averla inventata per prima. Sono racconti, non documenti: li riportiamo come tali. Come indirizzo, la guida di Viaggi Pop sceglie per le sue visite l'Antico Forno delle Sfogliatelle Attanasio, vicino alla Stazione Centrale; Naples Insider cita anche Scaturchio e Pintauro, avvertendo che nei posti più noti ci si ritrova in fila. Lost in Food aggiunge che Pintauro in estate di solito chiude ad agosto: dato non datato, quindi da verificare.
+
+E a metà mattina? La pizza fritta#
+
+È il momento giusto, dice la guida di Viaggi Pop: dopo un po' di cammino, verso le 10:30. Il disciplinare dell'AVPN (l'associazione che tutela la Verace Pizza Napoletana) descrive la pizza fritta come un disco di pasta tirato a mano, sottile (circa 2-3 mm), chiuso a mezzaluna (calzone fritto) o tondo, cotto in olio a circa 175 °C. La versione classica è ripiena di ricotta, provola o fiordilatte, salame napoletano o cicoli e pepe; esiste anche la montanara, con fiordilatte, pomodoro e basilico.
+
+Qui ci sono due indirizzi citati da fonti diverse. Viaggi Pop propone La Masardona e il banco di Zia Esterina Sorbillo su Toledo; Lost in Food consiglia Zia Esterina Sorbillo, accanto a Sorbillo in via dei Tribunali, dove segnala che c'è un locale dedicato all'asporto e quindi niente coda di due ore. Attenzione a un dettaglio: per La Masardona, Viaggi Pop dà l'indirizzo di via Giulio Cesare Capaccio, mentre Lost in Food parla di Piazza Vittoria. Le due fonti discordano, quindi cerca l'indirizzo aggiornato prima di andare. Un consiglio pratico che ricaviamo da entrambe: la pizza fritta si mangia appena fatta, e lascia l'olio sulla carta, quindi porta dei fazzoletti.
+
+A pranzo: pizza a portafoglio, frittatina e crocchè#
+
+La pizza a portafoglio è la risposta napoletana al pranzo veloce: una margherita più piccola, da asporto, piegata in quattro. Secondo Naples Insider costa attorno ai 3 euro, ed è la stessa idea che la scheda dell'Unione europea chiama «piegabile a libretto» quando descrive la consistenza della pizza napoletana. Lost in Food riporta che una pizza a portafoglio più una pizza fritta in un locale da asporto costavano 6 € in totale; è un dato non datato con precisione e non va preso come garanzia.
+
+Accanto, una frittatina di pasta: nasce come soluzione anti-spreco con la pasta avanzata del giorno prima, fritta con uovo e altri ingredienti, e secondo Naples Insider costa attorno ai 3 euro. Il crocchè di patate è la crocchetta fritta con patate e formaggio filante, tra uno e tre euro nella stessa guida. Se vuoi tutto insieme, ordina un cuoppo: il cono di carta con fritti misti (crocchè, frittatine, zeppole, arancini, a volte verdure in pastella) si mangia camminando. Viaggi Pop suggerisce la frittura mista a metà pomeriggio, quando i profumi delle friggitorie fanno tornare fame.
+
+A cena: la pizza da forno e cosa significa STG#
+
+Alla sera si cambia registro. Prima una parola sui marchi: «Pizza Napoletana STG» è una Specialità Tradizionale Garantita registrata con il regolamento (UE) n. 97/2010. Il disciplinare allegato fissa diametro non oltre 35 cm, bordo rialzato di 1-2 cm, centro sottile, panetti da 180 a 250 g, cottura solo in forno a legna a circa 485 °C per 60-90 secondi, e vieta mattarello e macchina a disco. Gli ingredienti previsti sono farina di grano tenero, lievito, acqua, pomodori pelati o pomodorini, sale, olio extravergine, con aglio, origano, basilico e mozzarella di bufala campana DOP o mozzarella STG.
+
+Qui due fonti non coincidono. Il disciplinare dell'AVPN (la versione in inglese è un file del 2024) ammette anche forni a gas o elettrici certificati e indica il centro a circa 0,25-0,30 cm (il testo europeo parla di 0,4 cm); per la lievitazione complessiva indica da 12 a 24 ore, mentre il testo europeo descrive due fasi, una da 2 ore e una da 4 a 6. Non è un errore di nessuno: sono due documenti con funzioni diverse, uno europeo, uno dell'associazione. Il risultato pratico è che una pizzeria può essere aderente all'AVPN, fare un prodotto eccellente e non seguire alla lettera il marchio europeo.
+
+Sulla storia, il testo UE ricorda che la marinara risalirebbe al 1734 e la margherita al periodo 1796-1810, offerta alla regina d'Italia in visita a Napoli nel 1889 per i colori che richiamano la bandiera. Lost in Food racconta invece che nel 1889 Raffaele Esposito l'avrebbe creata per l'occasione. Nel dubbio, tienile come due versioni. L'UNESCO, dal canto suo, ha iscritto nel 2017 «l'arte del pizzaiuolo napoletano» tra i patrimoni immateriali dell'umanità e stima circa 3.000 pizzaiuoli a Napoli.
+
+Quanto costa e come si fa la coda
+Naples Insider indica che una pizza semplice da asporto costa attorno ai 4 euro la marinara e ai 5-6 la margherita. Lost in Food riporta di aver pagato 18 euro in due per due margherite, acqua, birra e una bibita da Michele, in un'occasione di agosto. Lo stesso autore descrive code lunghe, tavoli spesso non prenotabili e ambienti spartani nelle pizzerie storiche, e segnala che da Sorbillo si chiude la domenica. Sono osservazioni di un singolo visitatore e non datate con precisione: l'orario di chiusura va sempre controllato.
+
+E dopo cena? Babà, fiocco di neve, ministeriale#
+
+Il babà è il dolce a fungo, inzuppato di liquore. Lost in Food considera Capparelli in via dei Tribunali il migliore; Viaggi Pop chiude il suo percorso con il babà di Casa Infante in via Toledo. Due fonti, due scelte: le due opinioni sono soggettive. Il fiocco di neve di Poppella è un pasticcino ripieno di crema al latte, che Naples Insider presenta come una novità degli ultimi anni; Lost in Food sostiene che la crema è a base di ricotta di pecora, e che l'idea è nata nel Rione Sanità. Il ministeriale, il medaglione al cioccolato di Scaturchio, e la pastiera, che Naples Insider lega soprattutto ai giorni di Pasqua, completano il quadro.
+
+Cosa lasciare fuori#
+
+Troppi fritti di fila: pizza fritta al mattino e cuoppo a merenda possono bastare. Il resto lo lasci per un altro viaggio.
+La fila più lunga per forza: Lost in Food riporta due ore di coda da Michele e code più brevi da Di Matteo, dove si può intanto ordinare un fritto dal banco.
+Il cibo senza acqua: Naples Insider ricorda che in città si trovano spesso fontanelle pubbliche con acqua potabile.
+
+ConsiglioSe in giornata vuoi una sola pizza al tavolo, prenotala o presentati presto, e tieni il fritto per mattina e merenda. Così la sera resta alla pizza da forno e non ti ritrovi a scegliere tra tre fritti.
+
+Se hai un altro giorno#
+
+Un altro dolce da colazione lo trovi a Lecce: leggi Lecce in un giorno per il pasticciotto, e per il Sud in chiave street food confronta con cosa mangiare a Catania. Se la meta successiva è una grande città da camminare, Roma in due giorni mette in fila le tappe, e per capire come mangiare senza code in un posto affollato guarda Venezia: come evitare la folla. Se ti interessa far costruire un giro così a un'intelligenza artificiale senza farsi inventare orari, c'è itinerario turistico con l'AI: cosa funziona.
+
+Se cambia la giornata#
+
+UNNIVAI riscrive il giro quando cambiano orari, pioggia o appetito: stessi assaggi, ordine diverso. Se ti serve, entra tra i primi.
+
+Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Prezzi e giorni di chiusura sono riportati da guide non sempre datate con precisione e cambiano da locale a locale: controllali prima di partire. Dove due fonti discordano lo abbiamo scritto; i nomi dei locali sono citati solo come li riportano le fonti.
+
+
+# Milano in un weekend con la pioggia: itinerario Piano B
+URL: https://unnivai.com/blog/milano-in-un-weekend-con-la-pioggia
+Language: it
+Updated: 2026-10-30
+
+Milano con la pioggia non è una città da annullare: è una città da riordinare. Il centro è fitto di musei, la metropolitana arriva quasi ovunque e le tappe più importanti stanno in due zone abbastanza raccolte. Serve soltanto un ordine sensato e qualche controllo su orari e giorni di chiusura, perché è lì che un weekend piovoso si rovina davvero.
+
+In breve. Il sabato resta in piazza Duomo: Museo del Novecento, Cattedrale e Museo del Duomo, Galleria Vittorio Emanuele II. La domenica passa al Castello Sforzesco e alla Pinacoteca di Brera. Il lunedì i musei principali sono chiusi, e per L'Ultima Cena la prenotazione è obbligatoria con settimane di anticipo: non è un Piano B dell'ultimo minuto.
+
+Piazza Duomo vista dall'alto, il punto di partenza del sabato (foto con il sole: con la pioggia sarà diversa) Foto: Elena Chochkova, CC BY-SA 3.0, Wikimedia Commons
+Quanto piove a Milano, davvero?#
+
+Non esiste un mese "sicuro". Secondo la voce di Wikipedia sul clima di Milano le precipitazioni medie annue sono circa 920 mm, distribuite in 82 giorni, con il picco in autunno, un massimo secondario in primavera e un minimo relativo in inverno (circa 40 mm a febbraio). La stessa pagina nota che i giorni di nebbia sono sempre meno frequenti. Sono medie climatiche, non una previsione: il messaggio pratico è che un weekend milanese di ottobre o novembre può essere asciutto o bagnato, e conviene avere un piano al coperto già pronto.
+
+Prima regola: una zona per giorno#
+
+Il percorso peggiore con la pioggia è quello che attraversa mezza città a ogni tappa. Qui il vantaggio è netto: il sabato tutto ruota intorno a piazza Duomo, dove la scheda di Lombardia.info indica Palazzo Reale a circa 120 metri dal Duomo e la Galleria Vittorio Emanuele II a circa 250. La domenica sposti il baricentro verso il Castello Sforzesco e Brera. Non ho verificato le distanze a piedi tra Castello e Brera: guarda la mappa prima di uscire.
+
+Provalo
+☔ Piove☀ Non piove
+
+1. Duomo di Milano: Cattedrale e MuseoAl coperto#
+
+Il biglietto unico per Cattedrale e Museo del Duomo, con la chiesa di San Gottardo in Corte, costa 10 € intero e 5 € ridotto secondo la pagina ufficiale sugli accessi in vigore dal 1° aprile 2025. Il mercoledì il Museo è chiuso e il biglietto scende a 8 € e 4 €. Nel weekend non hai quindi problemi. Sul sito del Duomo gli orari non sono lineari: la biglietteria in Sala delle Colonne risulta aperta dalle 9:00 alle 18:00, con ultimo biglietto alle 17:50, mentre un'altra riga della stessa pagina parla di accesso dal portone nord dalle 8:00 alle 19:00 con ultimo ingresso alle 18:10. Lombardia.info riporta 9:00-19:00. Le fonti non coincidono, quindi se vuoi stare tranquillo arriva entro le 17:50. Un'altra discordanza riguarda il Museo del Duomo: il sito ufficiale lo dà chiuso il mercoledì, Lombardia.info lo dà aperto da martedì a domenica e chiuso il lunedì.
+
+2. Terrazze del DuomoAll'aperto#
+
+Le Terrazze sono la tappa che soffre di più la pioggia. La pagina ufficiale ricorda 135 guglie, oltre 3.400 statue, un primo livello a circa 31 metri e una terrazza centrale a circa 45, e precisa che i monti si vedono "nelle giornate di tempo sereno". I biglietti ufficiali costano 18 € con l'ascensore e 16 € a piedi per le sole Terrazze (9 € e 8 € ridotti). Con il Combo, che comprende anche Cattedrale e Museo, si paga 26 € con l'ascensore e 22 € a piedi. Sulle pagine consultate non ho trovato una regola di chiusura per maltempo: chiedilo al momento dell'acquisto, o rimanda la salita a una giornata limpida.
+
+3. Galleria Vittorio Emanuele IIAl coperto#
+
+Secondo la scheda del catalogo Lombardia Beni Culturali è "una strada pedonale coperta" con struttura in ferro e vetro, su pianta a croce, progettata da Giuseppe Mengoni. I lavori partirono nel 1865 e la galleria fu inaugurata due anni dopo, non ancora finita; il complesso fu completato circa dodici anni più tardi. Al centro dell'ottagono c'è un mosaico con lo stemma di Casa Savoia. È la tappa giusta per i dieci minuti tra una visita e l'altra, quando smette di piovere solo per un attimo e vuoi restare all'asciutto. Nomi di caffè e negozi non li indico: non li ho verificati.
+
+4. Museo del NovecentoAl coperto#
+
+In piazza Duomo 8, a circa 250 metri a piedi dalla fermata Duomo di M1 e M3 secondo il sito del museo. Gli orari ufficiali: chiuso il lunedì, da martedì a domenica 10:00-19:30, il giovedì fino alle 22:30, ultimo ingresso un'ora prima della chiusura. Non ho trovato i prezzi sulle pagine che ho aperto, quindi non li scrivo. È l'ideale per la prima mattina del sabato, perché non obbliga a correre.
+
+5. Castello Sforzesco: musei sì, cortili noAl coperto#
+
+I Musei del Castello sono aperti da martedì a domenica, 10:00-17:30, con biglietteria che chiude alle 16:30; i cortili sono invece gratuiti e aperti ogni giorno dalle 7:00 alle 19:30, ma sono all'aperto. Il biglietto è valido per l'intera giornata e dà accesso a tutti i musei. Sul prezzo la pagina ufficiale discorda con sé stessa: nel testo indica 10 € intero e 5 € ridotto, mentre la descrizione della stessa pagina parla di 5 € e 3 €. Fidati del testo, che è il più dettagliato, e verifica in biglietteria. Ogni weekend alle 11:00 c'è una visita guidata senza prenotazione, di sabato in inglese e di domenica in italiano, a 20 € con biglietto incluso. La prima domenica del mese l'ingresso è gratuito per tutti.
+
+6. Pinacoteca di BreraAl coperto#
+
+Orario ufficiale: da martedì a domenica 8:30-19:15, ultimo ingresso alle 18:00, chiusa il lunedì. Il biglietto "La Grande Brera" costa 20 € intero e 4 € per i 18-25 anni; include la pinacoteca e Palazzo Citterio, che si può visitare lo stesso giorno e nei sei giorni successivi. La prima domenica del mese l'ingresso è gratuito con prenotazione obbligatoria. L'apertura alle 8:30 la rende la tappa perfetta per cominciare la domenica prima della folla.
+
+7. Cenacolo Vinciano: solo se hai prenotatoAl coperto#
+
+Il Museo del Cenacolo è aperto da martedì a domenica, dalle 8:15 alle 19:00 (ultimo ingresso 18:45). Il sito ufficiale è netto: la prenotazione è obbligatoria sempre, per tutti, anche per i biglietti gratuiti. Le vendite aprono ogni tre mesi, e il biglietto intero costa 15 €, 2 € per chi ha tra 18 e 25 anni, gratis fino a 18. Il turno dura 15 minuti, e devi presentarti in biglietteria almeno 30 minuti prima, pena la perdita dell'ingresso. Se non hai già il biglietto, non contarci come Piano B.
+
+Come ordinare il weekend#
+
+Il vincolo vero non è la pioggia, ma il calendario dei musei. Con questi orari ufficiali l'ordine che regge meglio è questo:
+
+Sabato mattinaMuseo del NovecentoApre alle 10:00 e chiude alle 19:30, con ultimo ingresso un'ora prima. Se ti resta una serata libera, il giovedì è aperto fino alle 22:30.
+
+Sabato mezzogiornoGalleria Vittorio Emanuele IIA pochi minuti a piedi: una pausa coperta, con tutta la calma che serve.
+
+Sabato pomeriggioCattedrale e Museo del DuomoEntra prima delle 17:50. Se il cielo si apre, valuta le Terrazze.
+
+Domenica mattinaPinacoteca di BreraDalle 8:30, con ultimo ingresso alle 18:00: la mattina è la più tranquilla.
+
+Domenica pomeriggioCastello SforzescoI musei chiudono alle 17:30 e la biglietteria alle 16:30: arriva entro le 16:00.
+
+OpzionaleCenacolo VincianoSolo con prenotazione già in tasca e arrivo 30 minuti prima del turno.
+
+ConsiglioCompra online il biglietto del Cenacolo e di Brera con settimane di anticipo, e tieni il Duomo per un momento in cui hai già un'ora libera: se il tempo cambia, il Piano B è sempre il Museo del Novecento o il Castello.
+
+Come muoversi con la pioggia: ATM#
+
+Secondo ATM il biglietto singolo da 90 minuti costa 2,20 €, il giornaliero (24 ore dalla prima convalida) 7,60 € e quello da 3 giorni 15,50 €. Due giornalieri fanno 15,20 €, quasi quanto il biglietto da 3 giorni, quindi per un weekend scegli in base a come ti muovi: la pagina ATM aggiunge che si può pagare anche con carta contactless e che dal quarto viaggio il sistema applica la tariffa giornaliera. Le fermate Duomo sono sulle linee M1 (rossa) e M3 (gialla). Sulle linee di tram che fermano al Duomo le fonti discordano: Lombardia.info elenca 2, 12, 14, 16 e 19, il Museo del Novecento 2, 3, 12, 14, 15, 16 e 19. Per il tram giusto, usa l'app ATM.
+
+Quanto costa, in media#
+
+Sommando i prezzi ufficiali letti sulle pagine, un weekend con Combo scale del Duomo (22 €), Castello (10 €) e Brera (20 €) costa circa 52 € a persona, 67 € con il Cenacolo. Sono medie indicative, senza Museo del Novecento, di cui non ho verificato il prezzo, e senza trasporti e pasti. La pagina del Castello elenca anche lo YesMilano City Pass Standard a 60 € per 3 giorni, che comprende trasporti, Duomo con scale, Castello, Museo del Novecento e altri musei: fai il conto con le tappe che hai scelto, perché conviene solo se le visiti quasi tutte.
+
+Errori comuni#
+
+Arrivare di lunedì con un programma fatto di musei: Castello, Novecento, Brera e Cenacolo sono chiusi.
+Pensare di entrare al Cenacolo senza prenotazione.
+Contare sulle Terrazze con il cielo coperto.
+Arrivare al Castello alle 17:00: la biglietteria ha chiuso alle 16:30.
+Fidarsi di un solo sito per gli orari del Duomo: abbiamo visto che le fonti non coincidono.
+
+Cosa saltare#
+
+Se hai solo una giornata di pioggia, salta il Castello e tieni Duomo, Galleria e un museo tra Novecento e Brera. Se non hai prenotato il Cenacolo, non perdere tempo a cercarlo: costruisci il weekend senza.
+
+Se hai un altro giorno#
+
+Per ragionare in modo simile in un'altra città, leggi cosa fare a Catania quando piove, oppure Roma in due giorni e Firenze in 48 ore. Per evitare il peggio delle code ovunque, c'è anche Venezia senza folla, e per ripensare un itinerario quando cambia il tempo, come usare l'intelligenza artificiale per gli itinerari.
+
+Il piano B si costruisce prima#
+
+Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
+
+Nota di verifica. Dati letti il 30 ottobre 2026 sulle pagine elencate nelle fonti: siti ufficiali del Duomo di Milano, di ATM, del Castello Sforzesco, del Museo del Novecento, della Pinacoteca di Brera e del Cenacolo Vinciano, più Lombardia.info, il catalogo Lombardia Beni Culturali e Wikipedia. Dove le fonti discordano (orari del Duomo, giorno di chiusura del Museo del Duomo, prezzo del Castello, linee di tram) lo abbiamo scritto. Non abbiamo verificato prezzi e accessibilità del Museo del Novecento, né le distanze a piedi tra Castello e Brera. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
+
+
+# Matera: come visitare i Sassi e quando andare
+URL: https://unnivai.com/blog/matera-come-visitare-i-sassi
+Language: it
+Updated: 2026-10-30
+
+Matera non si visita con la mappa in mano, si visita con i piedi. I Sassi sono una città scavata e costruita sul bordo di un canyon, e il modo migliore per capirli è camminarci, salire, scendere e fermarsi nei pochi posti dove si può entrare davvero. Questa guida mette in ordine una giornata, spiega quando conviene andare e dice chiaramente dove le fonti non coincidono.
+
+In breve. I Sassi di Matera si visitano a piedi in una giornata: parti dal Sasso Barisano, sali alla Civita e alla Cattedrale, poi scendi nel Sasso Caveoso con la Casa Grotta di Vico Solitario. Primavera e autunno sono le stagioni indicate come migliori. Per la Cripta del Peccato Originale la prenotazione è obbligatoria.
+
+I Sassi di Matera con la Cattedrale sulla Civita e la gravina sullo sfondo Foto: Gigi.Parentini, CC BY-SA 4.0, Wikimedia Commons
+Che cosa sono i Sassi, in poche righe#
+
+Secondo la scheda UNESCO il sito dei Sassi e del Parco delle Chiese Rupestri comprende case, chiese, monasteri ed eremi costruiti nelle grotte naturali della Murgia, su un'area di 1.016 ettari, con più di mille abitazioni e molte botteghe. L'occupazione dura dal Paleolitico e si intensifica dall'VIII secolo. I Sassi sono due, Barisano e Caveoso, e in mezzo c'è la Civita, il primo nucleo abitato, dove nel XIII secolo fu costruita una cattedrale romanica. Italia.it ricorda che il sito è patrimonio UNESCO dal 1993. Secondo la stessa scheda UNESCO l'intera popolazione dei Sassi fu trasferita negli anni Cinquanta, e il ritorno degli abitanti è cominciato dagli anni Ottanta.
+
+Sulla data dell'abbandono le fonti si muovono: il Ministero della Cultura parla di una legge di risanamento del 1952, Lonely Planet Italia scrive che nella Casa Grotta si visse "fino al 1956", Italia.it dice 1958. UNESCO si limita a "anni Cinquanta". Quando leggi una data precisa, chiediti da dove viene.
+
+Come si arriva a Matera#
+
+L'aeroporto più vicino è Bari Palese, a 55 chilometri secondo il portale turistico del Comune, che indica anche Brindisi (140 km) e Napoli (250 km) e un servizio navetta tra Bari Aeroporto e Matera. Gli orari della navetta riportati sul portale sono datati: controllali prima di partire.
+
+Per il treno c'è una sorpresa. La stazione più vicina delle linee nazionali, indica la stessa fonte, è Ferrandina-Scalo Matera, e da lì si prosegue su gomma. Diretto da Bari è invece il treno della FAL (Ferrovie Appulo Lucane) da Bari Centrale: ferma a Matera Centrale, Matera Sud e Matera Villa Longo. Attenzione, la stazione FAL non è dentro Bari Centrale: l'ingresso è in corso Italia 8. Non ho trovato durata e frequenza ufficiali del treno, quindi non le scrivo.
+
+Quando andare: il clima e le stagioni#
+
+Lonely Planet Italia indica primavera e autunno come stagioni migliori, con massime tra 15 e 20 °C e poche precipitazioni, e dice che l'inverno permette di vedere Casa Grotta, Palombaro Lungo e Santa Maria de Idris senza la folla dei ponti primaverili e dell'estate. La neve, secondo la stessa pagina, di solito non arriva prima di metà febbraio, e a dicembre-febbraio le massime stanno intorno ai 9-10 °C.
+
+Qui le fonti discordano. Lonely Planet scrive che in inverno le precipitazioni sono "praticamente nulle", mentre la scheda climatica di Climi e Viaggi dà dicembre come mese più piovoso, con 75 mm in 9 giorni (novembre 60 mm in 7 giorni, ottobre 45 mm in 5). Sempre quella scheda indica massime medie di 31 °C a luglio e 30 ad agosto, e 20 °C a ottobre. In sintesi: in estate fa caldo e c'è più gente, in primavera e in autunno si cammina bene, in inverno si ha più tranquillità ma conviene un giubbotto impermeabile.
+
+Prima di partire: scarpe, salite e orari#
+
+I vicoli della Civita, scrive il Comune, si percorrono solo a piedi. Il basolato e le scale sono parte del percorso: scarpe con suola che tiene, non sandali. Gli orari cambiano con la stagione e ora siamo in autunno: la Casa Grotta, per esempio, da ottobre a dicembre apre dal lunedì al venerdì dalle 9:30 alle 18:00, con ultimo accesso alle 17:40, e il sabato e la domenica fino alle 19:00, con ultimo accesso alle 18:40.
+
+Mattina: Sasso Barisano e Civita#
+
+Il Comune di Matera propone un percorso a piedi che parte dalla Villa Comunale e scende per via Pentasuglia fino a via D'Addozio, già dentro il Sasso Barisano. Qui si incontra il Monastero di Sant'Agostino, costruito nel 1591 e rimaneggiato nel 1747, la cui chiesa sorge sulle rovine di un cenobio rupestre; dal sagrato la vista si apre sulla Murgia Timone e sul canyon della Gravina. Poco dopo, la chiesa di San Pietro Barisano mostra una facciata settecentesca su una chiesa ipogea; secondo la pagina del Comune, aggiornata a gennaio 2024, l'interno non è visitabile.
+
+Da via Fiorentini si risale la Civita, il cuore antico dominato dalla Cattedrale. Non ho verificato orari e ingresso della Cattedrale: controlla sul posto.
+
+Pausa pranzo: cosa assaggiare#
+
+Italia.it indica tre piatti per cominciare: la cialledda (pane bagnato con pomodoro, aglio e olive, caldo con uova e alloro oppure freddo), i peperoni cruschi di Senise e la pignata, un piatto di montone cotto lentamente in una pentola di terracotta con patate, pomodori e soppressata. Non indico locali perché non ne ho verificati.
+
+Primo pomeriggio: Sasso Caveoso#
+
+Dalla Civita si scende verso via Madonna delle Virtù, che corre lungo il bordo della gravina, fino al complesso rupestre di Madonna delle Virtù e San Nicola dei Greci, fondato tra il X e l'XI secolo, che ospita da luglio a ottobre mostre di scultura. Si arriva poi in piazza San Pietro Caveoso, con la chiesa ricostruita nel 1706 e ancora aperta al culto, e a Vico Solitario.
+
+La Storica Casa Grotta di Vico Solitario è il posto più chiaro per capire come si viveva: il sito indica l'ingresso a 8 € intero e 5 € ridotto, con Neviera, grotta naturale e la chiesa rupestre di Sant'Agostino al Casalnuovo inclusi, e un'audioguida in più lingue. La scheda del Ministero della Cultura, aggiornata nel 2020 e con orari incoerenti nella stessa pagina, riporta invece 3 € e 2 €: non la userei come riferimento. Secondo la scheda ministeriale la casa conserva il focolare, il letto, la stalla con la mangiatoia del mulo e il sistema di raccolta dell'acqua piovana, con canalizzazione e cisterna.
+
+Fine giornata: i belvedere#
+
+Per la vista classica sul presepe di pietra, Italia.it consiglia il Belvedere di Murgia Timone nel Parco della Murgia Materana, soprattutto verso sera. Il Comune indica anche un piazzale Belvedere raggiungibile in auto dalla SS 7 Appia in direzione Laterza. La piazzetta Pascoli, in centro, è un balcone sui Sassi senza bisogno di allontanarsi.
+
+Se hai un secondo giorno#
+
+Tre idee con un dato certo. La Cripta del Peccato Originale, che Italia.it segnala tra le chiese rupestri da non perdere, risale all'epoca longobarda con un ciclo di affreschi che vale l'appellativo di "Cappella Sistina delle chiese rupestri" (Italia.it): si visita solo su prenotazione online, e a ottobre i turni partono alle 9:30, 11:00, 12:30, 15:30 e 17:00, ridotti a quattro (senza le 17:00) da novembre a febbraio. La biglietteria è presso l'Azienda Agricola Dragone e devi presentarti mezz'ora prima. Il Palombaro Lungo, sotto piazza Vittorio Veneto, è una cisterna scavata in più fasi dal XVI secolo, profonda 16 metri, lunga 50 e con una capacità di 5 milioni di litri secondo il sito ufficiale; non ho verificato orari e prezzi. Casa Noha, a due passi dalla Cattedrale, è un progetto curato dal FAI secondo Italia.it; non ho verificato orari e prezzi.
+
+Come ordinare la giornata#
+
+MattinaSasso BarisanoDalla Villa Comunale per via Pentasuglia e via D'Addozio, con la sosta al sagrato di Sant'Agostino.
+
+Tarda mattinaCivitaLe stradine pedonali verso il centro e la Cattedrale.
+
+PranzoPiatto materanoCialledda, peperoni cruschi o pignata, secondo Italia.it.
+
+Primo pomeriggioSasso CaveosoMadonna delle Virtù, piazza San Pietro Caveoso e Casa Grotta, entrando prima delle 17:40.
+
+Tardo pomeriggioBelvedereMurgia Timone o piazzetta Pascoli, con la luce di fine giornata.
+
+ConsiglioIn autunno la Casa Grotta chiude alle 18:00 nei giorni feriali: mettila prima del tramonto e tieni i belvedere per dopo, quando non ti servono più né biglietti né orari.
+
+Quanto costa, in media#
+
+L'unica spesa che ho verificato è l'ingresso alla Casa Grotta (8 €, media indicativa dal sito ufficiale). Per camminare nei Sassi seguendo il percorso del Comune non ho trovato un biglietto d'ingresso sulle pagine consultate. Non ho letto prezzi per Cripta, Palombaro Lungo o musei, quindi non li quantifico. Pasti e trasporti non sono stati verificati.
+
+Errori comuni#
+
+Arrivare alla Cripta senza prenotazione: si visita solo online.
+Presentarsi all'ultimo minuto: serve mezz'ora prima del turno.
+Fidarsi di una sola scheda per i prezzi della Casa Grotta: tre fonti, tre cifre.
+Salire e scendere senza scarpe adatte.
+Programmare tutto con orari estivi in autunno.
+
+Cosa saltare#
+
+Se hai solo mezza giornata, salta le tappe che richiedono prenotazione e tieni la camminata del Comune con una visita sola, la Casa Grotta. I belvedere si vedono gratis e restano il momento migliore.
+
+Altri itinerari#
+
+Per provare lo stesso approccio in altre città a piedi, leggi Lecce in un giorno o Un giorno a Ortigia. Se hai poco tempo e vuoi organizzare un piano B per la pioggia, c'è cosa fare a Catania quando piove, e per ragionare su come costruire un itinerario con l'aiuto dell'AI, itinerari con l'intelligenza artificiale.
+
+Il percorso che si adatta#
+
+Matera è il tipo di posto dove un orario sbagliato o una prenotazione mancata rovina il pomeriggio. È il problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
+
+Nota di verifica. Dati letti il 30 ottobre 2026 sulle pagine elencate nelle fonti: UNESCO, Comune di Matera e il suo portale turistico MateraWelcome, Italia.it, il sito della Casa Grotta e la scheda del Ministero della Cultura, il sito della Cripta del Peccato Originale, il sito del Palombaro Lungo, Lonely Planet Italia e una scheda climatica. Dove le fonti discordano (prezzo della Casa Grotta, data dell'abbandono dei Sassi, piovosità invernale) lo abbiamo scritto. Non abbiamo verificato orari e ingresso della Cattedrale, prezzi della Cripta, orari e prezzi del Palombaro Lungo, durata e frequenza del treno FAL, dove mangiare. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
+
+
+# Cinque Terre a piedi: sentieri, treni e cosa è chiuso
+URL: https://unnivai.com/blog/cinque-terre-a-piedi
+Language: it
+Updated: 2026-10-30
+
+cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
+
+UNESCO, Portovenere, Cinque Terre e isole::https://whc.unesco.org/en/list/826/
+CinqueTerre.eu.com (sito privato), situazione dei sentieri::https://www.cinqueterre.eu.com/it/cinque-terre-situazione-sentieri
+
+--- Le Cinque Terre si camminano meglio con una domanda in testa: che cosa è aperto oggi? Qui lo stato dei sentieri non è un dato fisso, cambia con il meteo, i lavori e la folla, e l'unica pagina che conta è quella del Parco. L'Unesco descrive questo paesaggio come una costa scoscesa di circa 15 km tra Levanto e La Spezia, modellata nei secoli da terrazzamenti di muri a secco per vigne e ulivi: è per questo che i sentieri si manutengono, e si chiudono, con regole precise. Questo articolo mette in ordine ciò che abbiamo letto il 30 ottobre 2026 su sentieri, card, treni e Via dell'Amore, dice dove le fonti non coincidono e ti lascia un piano a prova di chiusura.
+
+In breve. Il 30 ottobre 2026 la mappa del Parco mostra chiuso il tratto Manarola-Corniglia del sentiero azzurro (si aggira in treno), mentre la Via dell'Amore è percorribile solo con prenotazione, in un senso (Riomaggiore verso Manarola) e dalle 9 alle 18. Per camminare servono la Trekking Card (10 € adulti, 15 € in alta affluenza) o la Treno Card. Dal 14 novembre ci sono weekend con treni sospesi per lavori: guarda sempre la pagina ufficiale prima di partire.
+
+Vernazza vista dall'alto, da un punto panoramico sul sentiero azzurro Foto: СССР, CC BY-SA 2.5 ca, Wikimedia Commons
+Che cosa è chiuso oggi?All'aperto#
+
+La rete dei sentieri ha una pagina ufficiale che si aggiorna: la trovi sul sito del Parco Nazionale delle Cinque Terre, con un messaggio sull'allerta meteo (quando l'abbiamo aperta riportava "Nessuna allerta", messaggio del 29 ottobre 2026) e quattro categorie di percorso: turistico, escursionistico, esperto e chiuso. Il sentiero azzurro, la costa che collega i paesi, compare così: Riomaggiore-Manarola (la Via dell'Amore) come turistico, con 25 minuti di tempo dichiarato; Manarola-Corniglia come chiuso; Corniglia-Vernazza (1 h 30) e Vernazza-Monterosso (2 h) come percorsi per esperti.
+
+Un confronto utile: il sito privato CinqueTerre.eu.com elenca come chiuso, "a causa di una frana", il tratto Manarola-Corniglia sul lungomare, ma la sua pagina riporta come ultima modifica il 18 maggio 2026. Le due fonti coincidono sul tratto chiuso, ma quella del Parco è l'unica aggiornata alla settimana in cui scriviamo. È un buon esempio del perché non si copia un elenco di chiusure da un blog, nemmeno da questo: ti diciamo come leggerlo, non ti promettiamo che domani sarà uguale.
+
+Il Parco stesso avvisa che sentieri e percorsi possono essere chiusi o limitati per meteo e sicurezza, manutenzioni e gestione dei flussi quando c'è molta gente. La card, aggiunge il Parco, include servizi e accessi ma non sostituisce le regole di sicurezza.
+
+Quali tratti si fanno a piedi, in pratica?All'aperto#
+
+Con le chiusure di oggi, il percorso più lineare è una giornata in tre pezzi più il treno. Parti da Riomaggiore e fai la Via dell'Amore, che il Parco indica a senso unico fino a Manarola, di circa 30 minuti. Poi prendi il treno da Manarola a Corniglia, perché il tratto a piedi in mezzo risulta chiuso. Da Corniglia cammini fino a Vernazza (1 h 30) e, se hai gambe e luce, fino a Monterosso (2 h). Sommando i tempi dichiarati dal Parco sono circa 4 ore di cammino effettivo, soste escluse: è una nostra somma, non un dato del Parco.
+
+Le due ore tra Vernazza e Monterosso e l'ora e mezza tra Corniglia e Vernazza sono classificate "per esperti" sulla mappa ufficiale. Il vademecum del Parco chiede scarpe chiuse con suola scolpita e antiscivolo (le calzature aperte o a suola liscia sono vietate, con sanzioni) e ricorda che camminare in condizioni meteo avverse è vietato.
+
+MattinaRiomaggiore, Via dell'AmoreIngresso su prenotazione, percorso a senso unico verso Manarola, circa 30 minuti.
+
+PoiTreno Manarola-CornigliaIl sentiero costiero tra le due risulta chiuso: salta il tratto in treno, con la tariffa o la card che hai scelto.
+
+Metà giornataCorniglia-VernazzaTempo dichiarato dal Parco 1 h 30, percorso classificato per esperti.
+
+PomeriggioVernazza-MonterossoTempo dichiarato 2 h. Se la luce cala, ferma la giornata a Vernazza e rientra in treno.
+
+SeraRientro in trenoControlla l'ultimo treno su Trenitalia prima di partire. Sui regionali in partenza da Levanto o La Spezia Centrale dopo le 19:30 vale la tariffa serale, pari alla fascia A.
+
+Come funziona la Via dell'Amore?All'aperto#
+
+È il tratto più breve e più regolato. Secondo la pagina ufficiale, l'ingresso è a Riomaggiore, il percorso è a senso unico fino a Manarola, dura circa 30 minuti e per i turisti individuali la prenotazione è obbligatoria in una fascia oraria. Gli orari sono cambiati con il passaggio all'ora invernale: fino al 24 ottobre 2026 era aperta dalle 9 alle 21 (ultimo ingresso 20:30); dal 26 ottobre 2026 al 28 marzo 2027 è aperta dalle 9 alle 18 con ultimo ingresso alle 17:30.
+
+Qui le fonti non coincidono sul tempo di cammino: la mappa dei sentieri indica 25 minuti, la pagina sull'accesso indica circa 30, e il sito privato che abbiamo citato parla di 900 metri e 20 minuti. Per pianificare conta poco, ma è bene non fissare la coincidenza del treno sul minuto. La Via dell'Amore è inclusa sia nella Trekking Card sia nella Treno Card: senza card non si entra, e la prenotazione si fa online sul sito delle card o negli infopoint del Parco.
+
+Quale card serve: Trekking, Treno o biglietto singolo?All'aperto#
+
+La scelta dipende da quante volte sali sul treno. La Trekking Card, secondo il Parco, include il sentiero azzurro tra Monterosso, Vernazza e Corniglia, la Via dell'Amore, i bus dentro i paesi, i servizi igienici nelle stazioni (per chi non ha la card costano 1 €) e altro. Per un adulto di 12-69 anni costa 10 € per un giorno, 17 € per due, 23,50 € per tre; nei giorni di alta affluenza sale a 15, 26,70 e 37,50 €. Il calendario dei giorni di alta affluenza è un PDF separato sul sito del Parco: noi non l'abbiamo letto e non ne riportiamo le date.
+
+La Treno Card aggiunge i viaggi illimitati in seconda classe sui regionali tra Levanto e La Spezia. Il listino cambia il 2 novembre: fino al 1 novembre un adulto paga 22, 29,50 o 35 € per un giorno secondo la fascia, mentre dal 2 novembre al 31 dicembre 2026 il Parco indica 17,30 € per un giorno, 29 € per due e 34 € per tre. Una discordanza: Trenitalia riporta per la card da due giorni, fascia C, 61,50 €, mentre la pagina inglese del Parco indica 61,00 €. Se compri quella fascia, controlla l'importo al momento dell'acquisto.
+
+Il biglietto singolo sul regionale con tariffa Cinque Terre costa, secondo Trenitalia, 5, 8 o 10 € a seconda della fascia del giorno, fino al 1 novembre 2026; va convalidato e vale 75 minuti per un solo viaggio diretto, senza fermate intermedie. Non abbiamo letto la tariffa in vigore dopo il 1 novembre, quindi non la scriviamo. Le card, infine, non sono rimborsabili tranne casi previsti dal regolamento (allerta meteo, cause di forza maggiore, sciopero per la card treno), e quelle da due o tre giorni non si rimborsano se usate anche in parte.
+
+Treni e lavori: quando la linea si fermaAll'aperto#
+
+Dopo il 1 novembre il quadro cambia e conviene guardarlo prima di prenotare l'alloggio. RFI e il Parco segnalano lavori per accessibilità alle stazioni di Riomaggiore e Manarola (ascensori e un nuovo collegamento a Manarola). Per eseguirli sarà sospesa la circolazione per 48 ore tra Corniglia e La Spezia nei weekend del 14-15 novembre e 19-20 dicembre 2026 e del 9-10 gennaio e 6-7 febbraio 2027, e tra Levanto e La Spezia dalle 22:30 alle 6:30 nelle notti tra venerdì e domenica degli stessi weekend. Il cantiere lavora tutti i giorni, in prevalenza di notte.
+
+Per te significa due cose. Riomaggiore e Manarola stanno tra La Spezia e Corniglia: in quei weekend, per 48 ore, non pianificare la Via dell'Amore con il treno da La Spezia. E nelle notti tra venerdì e domenica interessate dai lavori il rientro dopo una camminata lunga va deciso prima delle 22:30. Il Parco rimanda a Trenitalia per gli aggiornamenti.
+
+Quanto spendere (medie indicative)#
+
+Una giornata a piedi tra Via dell'Amore e il sentiero azzurro, con Trekking Card adulti, costa 10 € (15 € in alta affluenza), a cui aggiungi i biglietti dei treni usati: fra Manarola e Corniglia e il rientro, sul regionale con tariffa Cinque Terre, la forbice letta è 5-10 € a corsa fino al 1 novembre. Con la Treno Card di un giorno, dal 2 novembre, il Parco indica 17,30 € per un adulto. Sono medie indicative: dipendono dalla fascia del giorno, da riduzioni e da cosa trovi aperto.
+
+E se il tempo cambia?Al coperto#
+
+Il Parco è netto. Con allerta meteo gialla sconsiglia l'accesso ai sentieri e può fermare la vendita della Trekking Card; con allerta arancione o rossa vieta l'accesso a tutta la rete e sospende la vendita di tutte le card. In questi casi la giornata diventa trasferimento tra i paesi con il treno e le passeggiate nei borghi, senza sentieri. Il bus dentro i paesi è gratuito con la card, ma non collega un paese all'altro e la card non vale sui bus di La Spezia e Portovenere. Per le emergenze sui sentieri il vademecum indica il 112.
+
+Cosa lasciare fuori#
+
+Il tentativo di fare "tutto il sentiero azzurro" quando un tratto è chiuso: meglio due tratti fatti bene che una deviazione improvvisata.
+Le scarpe da città: sono vietate sui sentieri, e il controllo non è un dettaglio.
+Il rientro all'ultimo: la Via dell'Amore chiude alle 18 con ultimo ingresso 17:30, e nei weekend di lavori la linea può fermarsi di notte.
+Il calendario preso da un blog: lo stato dei percorsi si guarda sulla pagina del Parco, ogni volta.
+
+ConsiglioMetti nello stesso giorno il tratto che dipende da una prenotazione (la Via dell'Amore) e quello che può chiudere per il meteo (Corniglia-Vernazza e Vernazza-Monterosso). La mattina apri la pagina del Parco o passa in un infopoint, e se uno dei due salta hai ancora un piano e l'altro. Ne guadagni in serenità più che in tempo.
+
+Se hai un altro giorno#
+
+Le Cinque Terre vivono di logistica e di folla: per un'altra città dove contano l'accesso e i biglietti leggi Venezia senza folla, che ha lo stesso criterio di verifica. Se invece ti serve una giornata a piedi più rilassata, Lecce in un giorno è tutta in piano. E se vuoi sapere come farti costruire un itinerario da un'AI senza farti inventare orari di sentieri, vedi itinerario turistico con l'AI: cosa funziona.
+
+Se la giornata cambia#
+
+UNNIVAI riscrive il percorso quando cambia un'apertura, il meteo o la stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
+
+Stato dei sentieri, orari, prezzi e lavori sono verificati sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano spesso: controlla la pagina del Parco il giorno stesso. Dove due fonti discordano lo abbiamo scritto. Non abbiamo letto il calendario delle giornate di alta affluenza né la tariffa dei treni dopo il 1 novembre.
+
+
+# Bologna: tortellini, portici e una giornata a piedi
+URL: https://unnivai.com/blog/bologna-in-un-giorno
+Language: it
+Updated: 2026-10-30
+
+Prenotazione-salita-alla-Torre-degli-Asinelli
+
+Bologna Welcome, Torre dell'Orologio e Collezioni Comunali d'Arte::https://www.bolognawelcome.com/it/esperienze/300685/Visita-alla-Torre-dell-Orologio-e-alle-Collezioni-Comunali-d-Arte
+Bologna Welcome, San Luca::https://www.bolognawelcome.com/en/blog/san-luca-eng
+Basilica di San Petronio, info e orari::https://www.basilicadisanpetronio.org/info-e-orari/
+Basilica di San Petronio, visite::https://www.basilicadisanpetronio.org/visite/
+Musei di Bologna, Archiginnasio e Teatro Anatomico::https://www.museidibologna.it/archiginnasio/
+Dotta Confraternita del Tortellino, la ricetta depositata::https://www.confraternitadeltortellino.it/la-ricetta-depositata/
+Bologna Welcome, ragù alla bolognese (Accademia Italiana della Cucina)::https://www.bolognawelcome.com/en/other/recipes-and-typical-products/ragu-alla-bolognese-2
+Emilia Romagna Turismo, Quadrilatero del gusto::https://emiliaromagnaturismo.it/it/itinerari/quadrilatero-del-gusto
+
+--- Bologna si cammina con un tetto sulla testa. I portici fanno da corridoio tra una tappa e l'altra e, se il tempo cambia, il programma cambia poco. Questo itinerario mette in ordine una giornata a piedi tra piazza, torri, mercato e portici, con i tortellini al centro, e dice dove gli orari sono stagionali, dove le fonti non coincidono e che cosa, oggi, è chiuso.
+
+In breve. Mattina tra Piazza Maggiore, San Petronio (ingresso gratuito) e la Torre dell'Orologio; pranzo nel Quadrilatero; primo pomeriggio all'Archiginnasio; se ti restano energie, il portico di San Luca. La Torre degli Asinelli, quando abbiamo aperto la pagina ufficiale di prenotazione, risultava chiusa per manutenzione: la Torre dell'Orologio è l'alternativa indicata. Il lunedì le collezioni d'arte sono chiuse.
+
+Un tratto del portico di San Luca, tra le arcate che salgono verso il santuario Foto: Puscas Vadim  (Nebbius), CC BY-SA 4.0, Wikimedia Commons
+MattinaPiazza Maggiore e San PetronioIngresso alla basilica gratuito, senza prenotazione. Il percorso a pagamento alle tre cappelle costa 5 €.
+
+10:00Torre dell'OrologioPrenotazione obbligatoria; da settembre a febbraio il primo ingresso è alle 10:00.
+
+PranzoQuadrilateroVie Clavature, Drapperie, Pescherie Vecchie: salumi, pasta fresca e banchi da mangiare in piedi.
+
+PomeriggioArchiginnasio e Teatro AnatomicoAntica sede dell'Università: visita con audioguida, ingressi ogni 10 minuti.
+
+Fine giornataPortico di San LucaFacoltativo, in salita: più di 2 km di percorso in pendenza o a gradini.
+
+Provalo
+☔ Piove☀ Non piove
+
+Che cosa è chiuso o cambia in autunno?All'aperto#
+
+Tre cose da sapere prima di partire. Primo: la Torre degli Asinelli. Sulla pagina di prenotazione di Bologna Welcome campeggiava l'avviso "Torre Asinelli chiusa per manutenzione nell'area", con il rimando alla Torre dell'Orologio. Quando riapre, la salita richiede prenotazione obbligatoria, ha 498 gradini e nessun ascensore. Secondo: la Torre dell'Orologio ha un orario stagionale. Dal 7 settembre 2026 al 28 febbraio 2027 il primo ingresso è alle 10:00 e l'ultimo alle 18:20, con tre ingressi all'ora. Terzo: le Collezioni Comunali d'Arte aperte nello stesso palazzo hanno orari diversi (martedì e giovedì 14-19, mercoledì e venerdì 10-19, sabato, domenica e festivi 10-18:30) e sono chiuse il lunedì non festivo.
+
+La conseguenza pratica è semplice: se hai solo il lunedì, la torre si può fare ma le collezioni no, e l'Asinelli va controllata prima. Se hai un altro giorno, scegli un martedì-venerdì.
+
+Mattina: Piazza Maggiore e San PetronioAll'aperto#
+
+Si parte dalla piazza dove tutto converge. La Basilica di San Petronio, secondo il sito ufficiale, ha ingresso gratuito e non richiede prenotazione per le visite individuali. Per entrare nelle cappelle dei Re Magi (Bolognini), di San Sebastiano e di San Vincenzo Ferrer si compra sul posto il percorso a pagamento: 5 € intero e 3 € ridotto, dalle 10:00 alle 17:30 con ultimo ingresso alle 17:15. Altre cappelle singole e il Presbiterio si visitano solo su richiesta via e-mail, con almeno una settimana di anticipo, a 3 € a persona per ciascuna.
+
+Gli orari della navata per i visitatori non li riportiamo: le funzioni li cambiano, e il sito della basilica avvisa dei giorni in cui le visite guidate saltano per eventi. Guarda la pagina il giorno stesso.
+
+Torre dell'Orologio e Palazzo d'AccursioAl coperto#
+
+È la salita alternativa all'Asinelli, e in autunno è comoda perché apre alle 10:00. Il biglietto comprende la visita con audioguida alla torre (circa 40 minuti) e l'ingresso alle Collezioni Comunali d'Arte (circa un'ora): 10 € intero, 7 € ridotto, secondo Bologna Welcome. La prenotazione è obbligatoria, ci si presenta 5 minuti prima e in caso di ritardo non si sale al turno dopo. Il punto di ritrovo è la Sala Farnese, al secondo piano di Palazzo d'Accursio, in Piazza Maggiore 6. L'accesso alla terrazza in cima è su una scala stretta, con liberatoria firmata sul posto e divieto sotto gli 8 anni; non c'è ascensore.
+
+Pranzo nel Quadrilatero: dove si mangiano i tortelliniAll'aperto#
+
+Il Quadrilatero è la zona di botteghe e mercato del centro storico: secondo Emilia Romagna Turismo il perimetro è tracciato dall'incrocio tra via Rizzoli, via dell'Archiginnasio, via Farini e via Castiglione. In via Clavature c'è uno degli ingressi del Mercato di Mezzo, con banchi che si mangiano da asporto o ai tavoli comuni; in via Capraie e via Drapperie si trovano salumerie e botteghe con mortadella, pasta fresca e dolci; in via Pescherie Vecchie, tigelle e salumi per l'aperitivo. La stessa fonte nomina l'Osteria del Sole, in Vicolo dei Ranocchi, descritta come l'osteria più antica di Bologna, dove si serve solo vino e ognuno porta il proprio cibo.
+
+Non indichiamo ristoranti di tortellini, perché non ne abbiamo letto sulle fonti consultate. Il criterio, invece, c'è: la Dotta Confraternita del Tortellino riporta il deposito del 15 aprile 2008 presso la Camera di Commercio, che definisce la forma classica, il ripieno, lo spessore della sfoglia e un peso finale di 5 grammi, con sfoglia tagliata a quadretti di 3 cm di lato. Secondo la stessa pagina, per circa mille tortellini servono 10 uova e un chilo di farina per la pasta; 300 g di lombo di maiale, 300 g di prosciutto crudo, 300 g di mortadella, 450 g di Parmigiano Reggiano e 3 uova per il ripieno; e per il brodo un chilo di manzo, mezza gallina, sedano, carota, cipolla e sale. Chiedere se il brodo è fatto in casa e se la sfoglia è tirata ogni giorno è un test più utile di qualsiasi classifica.
+
+Sul ragù la fonte è Bologna Welcome, che riporta la versione aggiornata depositata dall'Accademia Italiana della Cucina presso la Camera di Commercio (l'originale è del 1982): 300 g di manzo tritato (diaframma, pancia o spalla), 150 g di pancetta, 50 g ciascuno di carota, sedano e cipolla, 300 g di passata o pelati, mezzo bicchiere di vino bianco e di latte intero, brodo, e circa due ore di cottura.
+
+Primo pomeriggio: Archiginnasio e Teatro AnatomicoAl coperto#
+
+L'Archiginnasio, antica sede dell'Università, si visita con audioguida o con visita guidata. Secondo la pagina di Musei di Bologna, aggiornata a luglio 2025 e quindi da ricontrollare, le visite con audioguida sono dal lunedì al sabato dalle 10:00 alle 17:40, con ingressi ogni 10 minuti e durata di 40 minuti; il biglietto intero costa 10 € e il ridotto 8 €. Le visite guidate costano 12 € intero e partono a orari fissi (per luglio e agosto in italiano alle 13:30 e 15:30). Metti questa tappa dopo pranzo: è tutta al coperto e non richiede più di un'ora.
+
+I portici e il portico di San LucaAl coperto#
+
+I portici non sono un contorno: l'UNESCO li iscrive come sito seriale di 12 gruppi di portici, e il Comune ricorda che la rete complessiva è lunga 62 km. L'iscrizione è del 28 luglio 2021. Tra i dodici gruppi c'è anche "San Luca".
+
+Il portico di San Luca collega la città al santuario. Qui le fonti non coincidono: il Comune parla di circa 3600 metri e osserva che il numero tradizionale di 666 arcate è in realtà leggermente inferiore, perché dipende da come si contano; Bologna Welcome riporta 3,5 km e 666 arcate. Sul percorso il Comune è preciso: dall'Arco Bonaccorsi si segue via Saragozza, in piano, per circa un chilometro e mezzo; poi per più di 2 chilometri si sale, anche a gradini. Bologna Welcome indica di proseguire sotto il portico da Porta Saragozza. Alternativa, secondo Bologna Welcome: bus 20 fino alla chiesa di San Martino a Casalecchio di Reno e poi bus 58 fino al santuario. Non abbiamo letto i tempi di percorrenza: la nostra stima è di non meno di un paio d'ore tra andata e ritorno a piedi, ed è appunto una stima.
+
+Quanto spendere (medie indicative)#
+
+Con le cifre lette: Torre dell'Orologio con collezioni 10 €, Archiginnasio con audioguida 10 €, percorso a pagamento di San Petronio 5 €. In totale circa 25 € di ingressi per un adulto, con San Luca e la basilica gratuiti. Sono medie indicative: dipendono da riduzioni, giorni e carte come Bologna Welcome Card (che le fonti indicano gratuita per Asinelli e Torre dell'Orologio).
+
+Cosa lasciare fuori#
+
+Troppe torri: se l'Asinelli è chiusa, la Torre dell'Orologio basta come panorama.
+Il lunedì per i musei: le collezioni d'arte restano chiuse.
+San Luca con la pioggia o a fine giornata se sei stanco: è in salita e conviene farlo a luce piena.
+La caccia al ristorante "giusto": meglio il test del brodo e un banco del Quadrilatero.
+
+ConsiglioPrenota la Torre dell'Orologio per le 10:00 e fai San Petronio subito dopo: sono a pochi passi, la prima è a turni fissi e la seconda no. Così il Quadrilatero lo trovi all'ora in cui si pranza, e l'Archiginnasio, con ingressi ogni 10 minuti, lo infili dove capita.
+
+Se hai un altro giorno#
+
+Dopo Bologna, la logica cambia ma il criterio resta: Firenze in 48 ore per un altro centro storico a misura di piedi, con prenotazioni da fare prima. Se la parte che ti ha convinto è il cibo, cosa mangiare a Catania è la risposta del sud, con la stessa cura per le fonti. E per sapere come farsi costruire un giro così da un'AI senza farsi inventare orari, leggi itinerario turistico con l'AI: cosa funziona.
+
+Se la giornata cambia#
+
+UNNIVAI riscrive il percorso quando cambia un orario, il tempo o la stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
+
+Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto. Non abbiamo verificato gli orari della navata di San Petronio né i tempi a piedi per San Luca.
+
 
 # Venezia senza folla: come evitarla e dove mangiare davvero
 URL: https://unnivai.com/blog/venezia-come-evitare-la-folla
@@ -818,6 +1369,545 @@ Il piano B si costruisce prima#
 Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
 
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
+
+
+# What to eat in Naples, in the order of the day
+URL: https://unnivai.com/en/blog/what-to-eat-in-naples
+Language: en
+Updated: 2026-10-30
+
+In Naples you can eat at any hour, but not everything suits every hour. The sfogliatella belongs to the morning, fried pizza wants to come straight from the oil, oven-baked pizza is an evening order, and a babà closes any day well. This guide puts the tastings in order, says roughly what they cost, and where the sources disagree it says so.
+
+In short. Breakfast with coffee and a sfogliatella, a fried pizza mid-morning, a pizza a portafoglio with a frittatina or a crocchè at lunch, a cuoppo or a babà in the afternoon, a proper sit-down pizza in the evening. About €20-30 per person (indicative) covers the full round. Prices and closing days change from place to place: check before you go.
+
+A margherita pizza: tomato, mozzarella, basil and a raised crust Photo: Valerio Capello at English Wikipedia, CC BY-SA 3.0, Wikimedia Commons
+BreakfastCoffee and a sfogliatellaRiccia or frolla: try both if there are two of you. It generally costs a couple of euros.
+
+Mid-morningFried pizzaFilled with ricotta, pork cracklings and pepper: eat it straight out of the oil.
+
+LunchPizza a portafoglio and a frittatinaA margherita folded in four and a pasta frittata: two tastings for a few euros.
+
+AfternoonCuoppo or mixed fryThe paper cone of fried things is eaten while walking: crocchè, zeppole, rice balls.
+
+EveningSit-down pizzaMarinara or margherita, the two classics: arrive early to avoid the queue.
+
+After dinnerBabà, fiocco di neve or ministerialeA sweet to finish: it depends on which pastry shop you pass.
+
+What do people eat for breakfast in Naples? Sfogliatella and coffee#
+
+Start with a sfogliatella, and two words are needed right away. The riccia is the shell-shaped one, made of very thin layers and crisp; the frolla is round, smooth and softer. According to Lost in Food the filling is the same: a cream of ricotta, semolina, eggs and sugar, with candied fruit. Naples Insider confirms the two kinds and says people argue about them without ever settling it: the most useful thing is to taste both.
+
+A sfogliatella riccia, cut open to show the ricotta and candied-fruit filling Photo: Saggittarius A, CC BY-SA 4.0, Wikimedia Commons
+As for history, the sources tell two versions that do not coincide. Lost in Food says the original recipe goes back to 1600 and was born in the convent of Santa Rosa on the Amalfi Coast, and also says a famous pastry shop on Via Toledo claims to have invented it first. Those are stories, not documents, and we report them as such. As for where to go, the Viaggi Pop guide picks Antico Forno delle Sfogliatelle Attanasio, near the central station, for its own tours; Naples Insider also names Scaturchio and Pintauro and warns that at the best-known places you end up queuing. Lost in Food adds that Pintauro is usually closed in August, an undated remark, so check it.
+
+What about mid-morning? Fried pizza#
+
+It is the right moment, says the Viaggi Pop guide: after a bit of walking, around 10:30. The AVPN rules (the association that protects the Verace Pizza Napoletana) describe fried pizza as a disc of dough stretched by hand, thin (about 2-3 mm), either closed into a half-moon (fried calzone) or round, cooked in oil at about 175 °C. The classic filling is ricotta, provola or fiordilatte, Neapolitan salami or pork cracklings and pepper; there is also the montanara, with fiordilatte, tomato and basil.
+
+Two places come up in different sources. Viaggi Pop proposes La Masardona and the counter of Zia Esterina Sorbillo on Toledo; Lost in Food recommends Zia Esterina Sorbillo, next to Sorbillo on Via dei Tribunali, where it says there is a takeaway-only shop and so no two-hour queue. Mind one detail: for La Masardona, Viaggi Pop gives an address on Via Giulio Cesare Capaccio, while Lost in Food speaks of Piazza Vittoria. The two sources disagree, so look up the current address before you go. One practical tip we take from both: fried pizza is eaten right away, and the oil soaks the paper, so bring tissues.
+
+At lunch: pizza a portafoglio, frittatina and crocchè#
+
+The pizza a portafoglio is Naples' answer to a quick lunch: a smaller takeaway margherita, folded in four. According to Naples Insider it costs around €3, and it is the same idea the European specification expresses when it says the pizza should be easy to fold «a libretto» (like a book). Lost in Food reports that a pizza a portafoglio plus a fried pizza at a takeaway shop cost €6 in total; the figure is not precisely dated and should not be taken as a guarantee.
+
+Next to it, a frittatina di pasta: it started as an anti-waste solution with the previous day's leftover pasta, fried with egg and other ingredients, and according to Naples Insider it costs around €3. The potato crocchè is the fried croquette of potato and stringy cheese, between €1 and €3 in the same guide. If you want everything at once, order a cuoppo: the paper cone of mixed fried things (crocchè, frittatine, zeppole, rice balls, sometimes battered vegetables) is eaten while walking. Viaggi Pop suggests a mixed fry in mid-afternoon, when the smell of the fry shops brings back the hunger.
+
+In the evening: oven-baked pizza and what STG means#
+
+In the evening the register changes. First a word about labels: «Pizza Napoletana STG» is a Traditional Speciality Guaranteed registered by Regulation (EU) No 97/2010. The attached specification sets a diameter of no more than 35 cm, a raised rim of 1-2 cm, a thin centre, dough balls of 180 to 250 g, baking only in a wood-fired oven at about 485 °C for 60-90 seconds, and bans the rolling pin and the disc press. The listed ingredients are soft wheat flour, yeast, water, tomatoes (peeled or cherry), salt and extra-virgin olive oil, with garlic, oregano, basil and Mozzarella di Bufala Campana PDO or Mozzarella TSG.
+
+Here two sources do not match. The AVPN rules (the English version is a 2024 file) also admit certified gas or electric ovens and give the centre at about 0.25-0.30 cm (the European text says 0.4 cm); for total fermentation they give 12 to 24 hours, while the European text describes two stages, one of 2 hours and one of 4 to 6. Nobody is wrong: they are two documents with different purposes, one European, one from the association. The practical outcome is that a pizzeria can belong to the AVPN, make an excellent product and not follow the European label to the letter.
+
+On history, the EU text says the marinara goes back to 1734 and the margherita to the period 1796-1810, offered to the Queen of Italy on her visit to Naples in 1889 for the colours that recall the flag. Lost in Food tells instead that in 1889 Raffaele Esposito created it for the occasion. When in doubt, keep them as two versions. UNESCO, for its part, inscribed «the art of the Neapolitan pizzaiuolo» on the list of intangible heritage in 2017 and estimates about 3,000 pizzaiuoli in Naples.
+
+How much it costs and how queues work
+Naples Insider says a simple takeaway pizza costs about €4 for a marinara and €5-6 for a margherita. Lost in Food reports paying €18 for two people for two margheritas, water, a beer and a cola at Da Michele, on one occasion in August. The same author describes long queues, tables that often cannot be booked and spartan rooms in the historic pizzerias, and says Sorbillo is closed on Sundays. These are one visitor's remarks, not precisely dated: always check closing days.
+
+And after dinner? Babà, fiocco di neve, ministeriale#
+
+The babà is the mushroom-shaped cake soaked in liqueur. Lost in Food considers Capparelli on Via dei Tribunali the best; Viaggi Pop ends its route with the babà at Casa Infante on Via Toledo. Two sources, two choices: both are opinions. The fiocco di neve from Poppella is a small pastry filled with milk cream, which Naples Insider presents as a novelty of recent years; Lost in Food says the cream is made with sheep's ricotta and that the idea was born in the Rione Sanità. The ministeriale, the chocolate medallion from Scaturchio, and the pastiera, which Naples Insider ties mostly to Easter, complete the picture.
+
+What to leave out#
+
+Too many fried things in a row: fried pizza in the morning and a cuoppo in the afternoon may be enough. The rest can wait for another trip.
+The longest queue on principle: Lost in Food reports two hours at Da Michele and shorter queues at Di Matteo, where you can meanwhile order something fried from the counter.
+Eating without water: Naples Insider points out that you often find public drinking fountains in the city.
+
+ConsiglioIf you want a single sit-down pizza in the day, book it or turn up early, and keep the fried food for morning and afternoon. That way the evening is left to oven pizza and you do not end up choosing between three fried dishes.
+
+If you have another day#
+
+Another breakfast sweet awaits in Lecce: read one day in Lecce for the pasticciotto, and for southern street food compare what to eat in Catania. If your next stop is a big city to walk, Rome in two days puts the stops in line, and for how to eat without queues in a crowded place see Venice without the crowds. If you wonder how to have an AI build a day like this without making up opening hours, there is AI travel itineraries: what works.
+
+If your day changes#
+
+UNNIVAI rewrites the route when hours, rain or appetite change: same tastings, different order. If it sounds useful, join the first people in.
+
+Information checked on 30 October 2026 on the sources listed. Prices and closing days are reported by guides that are not always precisely dated and change from place to place: check before you go. Where two sources disagree, we said so; venue names are quoted only as the sources report them.
+
+
+# Visiting Matera's Sassi: how to see them and when to go
+URL: https://unnivai.com/en/blog/visiting-matera-sassi-and-when-to-go
+Language: en
+Updated: 2026-10-30
+
+You do not visit Matera with a map in your hand; you visit it with your feet. The Sassi are a city carved and built on the edge of a canyon, and the best way to understand them is to walk, climb, descend and pause in the few places you can really go inside. This guide puts one day in order, explains when to go and says plainly where the sources disagree.
+
+In short. The Sassi of Matera are best seen on foot in a day: start in Sasso Barisano, climb to the Civita and the Cathedral, then descend into Sasso Caveoso and the Casa Grotta di Vico Solitario. Spring and autumn are named as the best seasons. For the Crypt of Original Sin, booking is compulsory.
+
+The Sassi of Matera with the Cathedral on the Civita and the ravine in the background Photo: Gigi.Parentini, CC BY-SA 4.0, Wikimedia Commons
+What the Sassi are, in a few lines#
+
+According to the UNESCO entry, the property of the Sassi and the Park of the Rupestrian Churches comprises houses, churches, monasteries and hermitages built into the natural caves of the Murgia, covering 1,016 hectares, with more than a thousand dwellings and many workshops. Occupation goes back to the Palaeolithic and intensifies from the 8th century. There are two Sassi, Barisano and Caveoso, and between them lies the Civita, the first inhabited nucleus, where a Romanesque cathedral was built in the 13th century. Italia.it notes that the site has been a UNESCO World Heritage Site since 1993. The UNESCO entry adds that the entire population of the Sassi was relocated in the 1950s, and that people began to return in the 1980s.
+
+On the date of the evacuation the sources wander: the Ministry of Culture mentions a clearance law of 1952, Lonely Planet Italia says people lived in the Casa Grotta "until 1956", and Italia.it says 1958. UNESCO says only "the 1950s". When you read a precise date, ask where it comes from.
+
+How to get to Matera#
+
+The nearest airport is Bari Palese, 55 kilometres away according to the Comune's tourist portal, which also lists Brindisi (140 km) and Naples (250 km) and a shuttle between Bari Airport and Matera. The shuttle timetable on the portal is dated, so check it before you travel.
+
+Trains hold a surprise. The nearest station on the national network, the same source says, is Ferrandina-Scalo Matera, and from there you continue by road. The direct option from Bari is the FAL (Ferrovie Appulo Lucane) train from Bari Centrale: it stops at Matera Centrale, Matera Sud and Matera Villa Longo. Careful: the FAL station is not inside Bari Centrale; its entrance is at Corso Italia 8. We found no official journey time or frequency, so we do not quote any.
+
+When to go: climate and seasons#
+
+Lonely Planet Italia names spring and autumn as the best seasons, with highs between 15 and 20 °C and little rain, and says winter lets you see the Casa Grotta, the Palombaro Lungo and Santa Maria de Idris without the crowds of the spring bank holidays and summer. Snow, per the same page, usually does not arrive before mid-February, and from December to February highs sit around 9-10 °C.
+
+Here the sources disagree. Lonely Planet writes that winter rain is "practically nil", whereas the Climi e Viaggi climate page makes December the wettest month, with 75 mm over 9 days (November 60 mm over 7 days, October 45 mm over 5). The same page gives average highs of 31 °C in July and 30 in August, and 20 °C in October. In short: summer is hot and busier, spring and autumn are good for walking, winter is quieter but you want a waterproof jacket.
+
+Before you go: shoes, slopes and hours#
+
+The lanes of the Civita, the Comune writes, can only be walked. Paving and steps are part of the route: shoes with a grippy sole, not sandals. Hours change with the season and we are now in autumn: the Casa Grotta, for example, from October to December opens Monday to Friday from 9:30 to 18:00, with last access at 17:40, and Saturday and Sunday until 19:00, with last access at 18:40.
+
+Morning: Sasso Barisano and the Civita#
+
+The Comune di Matera suggests a walking route that starts at the Villa Comunale and goes down via Pentasuglia to via D'Addozio, already inside Sasso Barisano. Here you meet the Monastery of Sant'Agostino, built in 1591 and partly rebuilt in 1747, whose church stands on the ruins of a rock-cut monastery; from the churchyard the view opens onto Murgia Timone and the Gravina canyon. A little further on, the church of San Pietro Barisano has an 18th-century facade over an underground church; according to the Comune's page, last updated in January 2024, the interior is not open to visitors.
+
+From via Fiorentini you climb the Civita, the old heart dominated by the Cathedral. We did not verify the Cathedral's hours or admission: check on the spot.
+
+Lunch break: what to taste#
+
+Italia.it points to three dishes to start with: cialledda (bread soaked with tomato, garlic and olives, hot with egg and bay leaf or cold), Senise crusco peppers, and pignata, mutton slow-cooked in a clay pot with potatoes, tomatoes and soppressata. We name no restaurants because we have not verified any.
+
+Early afternoon: Sasso Caveoso#
+
+From the Civita you descend towards via Madonna delle Virtù, which runs along the edge of the ravine, to the rock-cut complex of Madonna delle Virtù and San Nicola dei Greci, founded between the 10th and 11th centuries, which hosts sculpture exhibitions from July to October. Then you reach Piazza San Pietro Caveoso, with the church rebuilt in 1706 and still used for worship, and Vico Solitario.
+
+The Storica Casa Grotta di Vico Solitario is the clearest place to understand how people lived: the site gives admission at 8 € full and 5 € reduced, including the Neviera, a natural cave and the rock church of Sant'Agostino al Casalnuovo, plus a multilingual audio guide. The Ministry of Culture listing, updated in 2020 and with inconsistent hours on the same page, gives instead 3 € and 2 €: we would not use it as a reference. According to the ministerial entry, the house preserves the hearth, the bed, the stall with the mule's manger and the rainwater collection system, with its channelling and cistern.
+
+End of the day: the viewpoints#
+
+For the classic view of the stone nativity scene, Italia.it recommends the Belvedere of Murgia Timone in the Murgia Materana Park, especially towards evening. The Comune also mentions a Belvedere square reachable by car from the SS 7 Appia towards Laterza. Piazzetta Pascoli, in the centre, is a balcony over the Sassi without going far.
+
+If you have a second day#
+
+Three ideas with one certain fact each. The Crypt of Original Sin, which Italia.it lists among the rock churches not to be missed, dates from the Lombard period; it can only be visited by online booking, and in October the slots start at 9:30, 11:00, 12:30, 15:30 and 17:00, reduced to four (without the 17:00) from November to February. The ticket office is at the Azienda Agricola Dragone and you must arrive half an hour before. The Palombaro Lungo, under Piazza Vittorio Veneto, is a cistern dug in phases from the 16th century, 16 metres deep, 50 long and holding 5 million litres according to the official site; we did not verify hours and prices. Casa Noha, a short step from the Cathedral, is a project curated by FAI per Italia.it; we did not verify hours or prices.
+
+How to order the day#
+
+MorningSasso BarisanoFrom the Villa Comunale along via Pentasuglia and via D'Addozio, pausing at the churchyard of Sant'Agostino.
+
+Late morningCivitaThe pedestrian lanes towards the centre and the Cathedral.
+
+LunchA Matera dishCialledda, crusco peppers or pignata, per Italia.it.
+
+Early afternoonSasso CaveosoMadonna delle Virtù, Piazza San Pietro Caveoso and the Casa Grotta, going in before 17:40.
+
+Late afternoonViewpointMurgia Timone or Piazzetta Pascoli, in end-of-day light.
+
+ConsiglioIn autumn the Casa Grotta closes at 18:00 on weekdays: put it before sunset and keep the viewpoints for later, when you no longer need tickets or hours.
+
+How much it costs, on average#
+
+The only cost we verified is admission to the Casa Grotta (8 €, an indicative average from the official site). For walking through the Sassi along the Comune's route we found no entry ticket on the pages we read. We read no prices for the Crypt, the Palombaro Lungo or the museums, so we do not quantify them. Meals and transport were not verified.
+
+Common mistakes#
+
+Turning up at the Crypt without a booking: it is online only.
+Arriving at the last minute: you need to be there half an hour before the slot.
+Trusting a single listing for Casa Grotta prices: three sources, three figures.
+Climbing up and down without proper shoes.
+Planning everything on summer hours in autumn.
+
+What to skip#
+
+With only half a day, skip the stops that require booking and keep the Comune's walk with a single visit, the Casa Grotta. The viewpoints cost nothing and remain the best moment.
+
+More itineraries#
+
+To try the same approach in other walking cities, read one day in Lecce or one day in Ortigia. If you are short of time and want a rain plan, there is what to do in Catania when it rains, and for thinking about how to build an itinerary with AI help, itineraries with artificial intelligence.
+
+A route that adapts#
+
+Matera is the kind of place where a wrong opening time or a missed booking wrecks the afternoon. It is the problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, join the waitlist.
+
+Verification note. Data read on 30 October 2026 on the pages listed in the sources: UNESCO, the Comune di Matera and its tourist portal MateraWelcome, Italia.it, the Casa Grotta website and the Ministry of Culture listing, the Crypt of Original Sin website, the Palombaro Lungo website, Lonely Planet Italia and a climate page. Where sources disagree (the Casa Grotta price, the date of the Sassi evacuation, winter rainfall) we say so. We did not verify the Cathedral's hours and admission, Crypt prices, Palombaro Lungo hours and prices, FAL train journey time and frequency, or where to eat. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.
+
+
+# Palermo street food guide: markets, hours and what to order
+URL: https://unnivai.com/en/blog/palermo-street-food-guide
+Language: en
+Updated: 2026-10-30
+
+Palermo's three great markets look like three versions of the same place, but they keep three different clocks. The Capo and Ballarò are morning markets, the Vucciria is an evening place. Get the hour wrong and you find shutters down or an empty square, and Palermo becomes a hard city to read. This guide lines up the markets, says what to order, and where the sources disagree it says so.
+
+In short. Go to the Capo and Ballarò in the morning, when the stalls are working and the fryers are on; leave the Vucciria for the evening. Order panelle and crocchè, an arancina, sfincione and, if you feel brave, pani ca meusa. About €10-15 per person (indicative, in cash) is enough to eat well. Avoid Sunday afternoon for the markets.
+
+The Ballarò market in Palermo, between fruit and vegetable stalls and a steady flow of shoppers Photo: Benjamín Núñez González, CC BY-SA 4.0, Wikimedia Commons
+Early morningCapo marketEnter from Porta Carini and Via Cappuccinelle: panelle, sfincione, arancine, fruit and fish.
+
+Late morningCathedral and AlbergheriaFrom the Capo you walk down to the Cathedral and then into the Ballarò district.
+
+MiddayBallaròThe oldest and largest market: fried things, sfincione and the call of the vendors.
+
+AfternoonA pastry shopA cannolo, ideally filled on the spot.
+
+EveningVucciriaPiazza Caracciolo comes alive with the grills: stigghiola, pani ca meusa, a glass of something.
+
+Which market to choose, and when?#
+
+The Comune di Palermo tourism portal lists four names among the most important historic markets: Ballarò, the Vucciria, the Capo and Borgo Vecchio. It likens them to the souks of Muslim cities, with the vendors' call, the «abbanniata», as a soundtrack. For street food, though, the guides give each one a different role.
+
+Palermo Food Tours, a tour operator whose text carries a check date of 25 October 2026, sums it up like this: the Capo and Ballarò are daytime markets, busiest from mid-morning and better on a weekday; the Vucciria is quietest by day and comes alive in the dark, when the grills come out. The Capo is in the Seralcadio district, near the Cathedral, and is, it says, one of the easiest to eat through, with panelle, sfincione, arancine and sweets next to fruit and fish. Ballarò, in the Albergheria, is the oldest and largest, and according to the same source the most local.
+
+Keep in mind that «morning» does not mean «at dawn»: according to the Palermo Food Tours guide the two daytime markets are fullest between nine and one, when the fryers are going full. Saturday morning is the busiest time, with Palermitans doing their weekly shop.
+
+Opening hours: where the sources disagree#
+
+Be cautious here, because the written hours do not match.
+
+Ballarò. According to the Comune it is open Monday to Saturday from 7:30 am to 8 pm, and on Sunday mostly in the morning only. Do Eat Better writes Monday to Saturday 7 am to 7 pm. The difference is half an hour in the morning and an hour in the evening.
+Capo. The Comune says only «open every day in the morning and afternoon». Do Eat Better gives Monday to Saturday 9 am to 5 pm.
+Vucciria. Here too the Comune writes «open every day in the morning and afternoon», but the guides say something else entirely: according to Do Eat Better by day it is nearly deserted and the real atmosphere begins after 9 pm, and Palermo Food Tours describes it as quiet by day and lively after sunset. It is probably the fruit and fish stalls that stay open in the morning while the street food moves to the evening; but that is our interpretation, not a data point.
+Borgo Vecchio. Palermo Food Tours describes it as a market that wakes up in the late afternoon and evening, with grilled meat and stigghiola, mostly frequented by Palermitans.
+
+One last warning: Palermo Food Tours writes that Sunday afternoon is the worst time for the markets, because many stalls close. The Comune confirms for Ballarò that Sunday is «mostly mornings only».
+
+What to order: the classics in order of the day#
+
+Panelle and crocchè. Panelle are chickpea-flour fritters, crocchè are potato and mint croquettes, and according to Do Eat Better they are eaten together in a sesame-seed roll, one of the most common naturally vegan street foods. The Comune lists them among the specialities sold at the Capo.
+
+Sfincione. According to Towns of Italy it is a thick, soft focaccia with tomato, onion, anchovy, caciocavallo and breadcrumbs, sold by street vendors from big rectangular trays; Do Eat Better describes it as a rectangle of spongy dough and recommends it for breakfast at Ballarò. The Comune also mentions the «sfincionello».
+
+Arancina. In Palermo it is feminine, and that is the rule on which Do Eat Better and Towns of Italy agree (for a comparison with Catania, see our guide what to eat in Catania, where it is masculine). The classic «al burro» has mozzarella and cooked ham; the «al ragù» has meat.
+
+Pani ca meusa. It is the spleen sandwich. Towns of Italy describes it as veal spleen cooked in lard, served in a sesame bun with ricotta or caciocavallo; Do Eat Better speaks of spleen and lung in small pieces, boiled and fried in lard, and says you order it schiettu (lemon only) or maritatu (with cheese). That source gives about €3 at a Vucciria stall; Towns of Italy places the sandwich at the Vucciria or Ballarò.
+
+Stigghiola and frittola. Stigghiola is lamb or veal intestine wrapped around a spring onion and grilled: Palermo Food Tours and Do Eat Better put it at the Vucciria, in the evening. Frittola is a mix of boiled and fried veal trimmings, sold from a covered basket: it is the one food on the route where Do Eat Better advises caution for sensitive stomachs.
+
+Cannolo. Towns of Italy recommends asking for it «riempito al momento» (filled right now): in a serious pastry shop the shell and the ricotta stay separate until you order.
+
+What it costs#
+
+According to Do Eat Better most tastings cost between €1.50 and €5, and you can eat well for under €15 per person; for Ballarò it lists €1-5 per piece and for the Capo €2.50-6. For the same source a panelle and crocchè sandwich costs €2.50 at a place on the Capo. These are indicative figures, read on a single site: prices change. Palermo Food Tours and Do Eat Better agree on the practical point: bring cash and coins, because many stalls do not take cards.
+
+How to put the day together#
+
+Two sources suggest two different orders. Palermo Food Tours suggests starting early at the Capo, near Porta Carini, eating your way down through the fritters and sfincione, cutting across to the Cathedral and then entering Ballarò through the Albergheria: in about half a day you see two markets, the Cathedral and the Quattro Canti. Do Eat Better proposes the reverse order: Ballarò in the morning (8-12), the Capo at lunch (12-14) and the Vucciria from 9 pm.
+
+We follow geography: the Capo and Ballarò are on the same line of walking between Via Beati Paoli and Via Vittorio Emanuele, as Palermo Mare Holidays also points out, and the Cathedral stands in between. But the order of the two markets matters less than the hour: be there before one.
+
+ConsiglioDo not go to the Vucciria at 11 in the morning expecting the market you saw in the photos: Do Eat Better says so plainly and Palermo Food Tours confirms that by day it is the quietest. Keep it for the evening, even just for a drink in the square.
+
+If you arrive out of hours#
+
+If the markets are closed, the fry shops often are not. Palermo Mare Holidays (a page updated in March 2025, so worth re-checking) lists for instance a fry shop on Via Vittorio Emanuele open every day from 9 am to 1 am and one on Corso Camillo Finocchiaro Aprile open, it writes, 24 hours a day. These are not data dated to October 2026: call or check on a map before you set out.
+
+Safety and manners#
+
+Do Eat Better writes that the food is safe (high temperatures and a constant turnover of customers) and that the main risk is pickpocketing in the tightest parts of Ballarò: phone in a front pocket and bag closed. Palermo Food Tours gives the same advice for every crowded market. Another repeated rule: do not over-order at the first stall, and look for queues of locals.
+
+What to leave out#
+
+All three stops in the same morning: the Vucciria in the morning is the wrong choice.
+Sunday afternoon: the stalls thin out.
+A sit-down lunch: between tastings you already have a meal. Leave the table for the evening.
+
+If you have another day#
+
+To learn how to read a fish market, our guide to Catania's fish market has the same morning rhythm. In eastern Sicily, one day in Ortigia is another day to do on foot, and if it rains, what to do in Catania when it rains has indoor plans. If you wonder how to have an AI build a day like this without making up opening hours, read AI travel itineraries: what works.
+
+If your day changes#
+
+UNNIVAI rewrites the route when hours, rain or tiredness change: same markets, different order. If it sounds useful, join the first people in.
+
+Information checked on 30 October 2026 on the sources listed. Hours and prices are read on operators' sites and guides and change during the year: check before you go. Where two sources disagree, we said so; venue names are quoted only as the sources report them.
+
+
+# Milan in a weekend when it rains: a Plan B itinerary
+URL: https://unnivai.com/en/blog/milan-in-a-weekend-in-the-rain
+Language: en
+Updated: 2026-10-30
+
+Rain does not cancel Milan; it just reshuffles it. The centre is packed with museums, the metro reaches almost everywhere, and the big sights sit in two fairly compact areas. All you need is a sensible order and a few checks on hours and closing days, because that is where a wet weekend really goes wrong.
+
+In short. On Saturday stay around Piazza Duomo: Museo del Novecento, the Cathedral and Duomo Museum, Galleria Vittorio Emanuele II. On Sunday move to the Castello Sforzesco and the Pinacoteca di Brera. On Mondays the main museums are closed, and The Last Supper must be booked weeks ahead: it is not a last-minute Plan B.
+
+Piazza Duomo seen from above, the starting point of Saturday (a sunny day: in the rain it will look different) Photo: Elena Chochkova, CC BY-SA 3.0, Wikimedia Commons
+How much does it actually rain in Milan?#
+
+There is no "safe" month. According to the Italian Wikipedia entry on Milan's climate, average annual rainfall is about 920 mm over 82 days, with the peak in autumn, a secondary maximum in spring and a relative low in winter (around 40 mm in February). The same page notes that foggy days are becoming less frequent. These are climate averages, not a forecast: the practical point is that an October or November weekend in Milan can be dry or soaked, so have an indoor plan ready.
+
+Rule one: one area per day#
+
+The worst rainy-day route is one that crosses half the city at every stop. Here the advantage is clear: Saturday revolves around Piazza Duomo, where the Lombardia.info page puts Palazzo Reale about 120 metres from the Duomo and the Galleria Vittorio Emanuele II about 250. On Sunday you shift towards the Castello Sforzesco and Brera. We did not verify the walking distance between the Castello and Brera, so check the map before you leave.
+
+Provalo
+☔ Piove☀ Non piove
+
+1. Duomo di Milano: Cathedral and MuseumAl coperto#
+
+The single ticket for the Cathedral and the Duomo Museum, including the church of San Gottardo in Corte, costs 10 € full price and 5 € reduced, according to the official access page in force since 1 April 2025. On Wednesdays the Museum is closed and the ticket drops to 8 € and 4 €. On a weekend that does not affect you. The Duomo's hours are not straightforward: the ticket office in the Sala delle Colonne is listed as open 9:00 to 18:00, with the last ticket at 17:50, while another line on the same page mentions access through the north portal from 8:00 to 19:00 with last entry at 18:10. Lombardia.info gives 9:00-19:00. The sources do not match, so to be safe arrive before 17:50. There is a second discrepancy about the Duomo Museum: the official site says it is closed on Wednesday, while Lombardia.info says it is open Tuesday to Sunday and closed on Monday.
+
+2. The Duomo terracesAll'aperto#
+
+The terraces are the stop that suffers most in the rain. The official page mentions 135 spires, over 3,400 statues, a first level at about 31 metres and a central terrace at about 45, and says the mountains can be seen "on clear days". Official tickets for the terraces alone cost 18 € by lift and 16 € on foot (9 € and 8 € reduced). The Combo, which also includes the Cathedral and Museum, is 26 € by lift and 22 € on foot. We found no bad-weather closure rule on the pages we read: ask when you buy, or leave the climb for a clear day.
+
+3. Galleria Vittorio Emanuele IIAl coperto#
+
+According to the Lombardia Beni Culturali catalogue entry it is a "covered pedestrian street" with an iron-and-glass structure on a cross-shaped plan, designed by Giuseppe Mengoni. Work began in 1865 and the gallery opened two years later, still unfinished; the complex was completed about twelve years after that. At the centre of the octagon there is a mosaic of the House of Savoy coat of arms. It is the right place for the ten minutes between visits, when the rain eases for a moment and you want to stay dry. We do not name cafés or shops here: we did not verify any.
+
+4. Museo del NovecentoAl coperto#
+
+At Piazza Duomo 8, about 250 metres on foot from the Duomo stop on lines M1 and M3, according to the museum's site. Official hours: closed Monday, Tuesday to Sunday 10:00-19:30, Thursday until 22:30, last entry one hour before closing. We did not find ticket prices on the pages we opened, so we do not quote them. It is ideal for early Saturday because it does not force you to rush.
+
+5. Castello Sforzesco: museums yes, courtyards noAl coperto#
+
+The Castello museums are open Tuesday to Sunday, 10:00-17:30, with the ticket office closing at 16:30; the courtyards are free and open daily from 7:00 to 19:30, but they are outdoors. The ticket is valid for the whole day and covers all the museums. On the price the official page disagrees with itself: the body text says 10 € full and 5 € reduced, while the page description says 5 € and 3 €. Trust the body text, which is more detailed, and confirm at the ticket office. Every weekend at 11:00 there is a guided tour without booking, in English on Saturday and in Italian on Sunday, at 20 € with the museum ticket included. Entry is free for everyone on the first Sunday of the month.
+
+6. Pinacoteca di BreraAl coperto#
+
+Official hours: Tuesday to Sunday 8:30-19:15, last entry at 18:00, closed on Mondays. The "La Grande Brera" ticket costs 20 € full and 4 € for ages 18-25; it covers the picture gallery and Palazzo Citterio, which you can visit the same day and in the following six days. On the first Sunday of the month entry is free with compulsory booking. The 8:30 opening makes it a good way to start Sunday before the crowds.
+
+7. The Last Supper: only if you have bookedAl coperto#
+
+The Cenacolo Vinciano museum is open Tuesday to Sunday, 8:15 to 19:00 (last entry 18:45). The official site is blunt: booking is always compulsory, for everyone, even for free tickets. Sales open in three-month blocks, and the full ticket costs 15 €, 2 € for ages 18 to 25, free up to 18. The visit slot lasts 15 minutes and you must be at the ticket office at least 30 minutes before, or you lose your entry. If you do not already have a ticket, do not count on it as a Plan B.
+
+How to order the weekend#
+
+The real constraint is not the rain but the museum calendar. With these official hours, this order holds up best:
+
+Saturday morningMuseo del NovecentoOpens at 10:00 and closes at 19:30, last entry one hour earlier. If you have a free evening, Thursday it stays open until 22:30.
+
+Saturday middayGalleria Vittorio Emanuele IIA few minutes' walk away: a covered pause with no rush.
+
+Saturday afternoonCathedral and Duomo MuseumGo in before 17:50. If the sky clears, consider the terraces.
+
+Sunday morningPinacoteca di BreraFrom 8:30, last entry at 18:00: mornings are the calmest.
+
+Sunday afternoonCastello SforzescoMuseums close at 17:30 and the ticket office at 16:30: arrive by 16:00.
+
+OptionalThe Last SupperOnly with a booking already in hand, arriving 30 minutes before your slot.
+
+ConsiglioBuy the Last Supper and Brera tickets online weeks ahead, and keep the Duomo for a moment when you already have a free hour: if the weather turns, your real Plan B is always the Museo del Novecento or the Castello.
+
+Getting around in the rain: ATM#
+
+According to ATM, the single 90-minute ticket costs 2.20 €, the daily ticket (24 hours from first validation) 7.60 € and the 3-day ticket 15.50 €. Two daily tickets come to 15.20 €, almost the price of a 3-day ticket, so for a weekend choose by how you move: the ATM page adds that you can pay with a contactless card and that from the fourth journey the system applies the daily fare. The Duomo stop is on lines M1 (red) and M3 (yellow). On which tram lines stop at the Duomo the sources disagree: Lombardia.info lists 2, 12, 14, 16 and 19, while the Museo del Novecento lists 2, 3, 12, 14, 15, 16 and 19. For the right tram, use the ATM app.
+
+How much it costs, on average#
+
+Adding up the official prices read on the pages, a weekend with the Duomo stairs Combo (22 €), the Castello (10 €) and Brera (20 €) costs about 52 € per person, or 67 € with the Last Supper. These are indicative averages, excluding the Museo del Novecento, whose price we did not verify, and excluding transport and meals. The Castello page also lists the YesMilano City Pass Standard at 60 € for 3 days, which includes transport, the Duomo with stairs, the Castello, the Museo del Novecento and other museums: do the sums for your own list, because it only pays off if you visit most of it.
+
+Common mistakes#
+
+Arriving on a Monday with a museum-only plan: the Castello, the Novecento, Brera and the Last Supper are all closed.
+Assuming you can walk into the Last Supper without a booking.
+Counting on the terraces under a grey sky.
+Reaching the Castello at 17:00: the ticket office closed at 16:30.
+Trusting a single site for the Duomo hours: as we saw, the sources do not agree.
+
+What to skip#
+
+With only one rainy day, skip the Castello and keep the Duomo, the Galleria and one museum between the Novecento and Brera. If you have not booked the Last Supper, do not waste time hunting for it: build the weekend without it.
+
+If you have another day#
+
+For the same plan-B thinking in another city, read what to do in Catania when it rains, or Rome in two days and Florence in 48 hours. To beat the worst of the queues anywhere, there is also Venice without the crowds, and for rebuilding an itinerary when the weather changes, how to use artificial intelligence for itineraries.
+
+Plan B is built beforehand#
+
+The problem with rain is not the rain: it is having to rebuild the programme from scratch, in the downpour, with your phone in your hand. It is the same problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, join the waitlist.
+
+Verification note. Data read on 30 October 2026 on the pages listed in the sources: the official websites of the Duomo di Milano, ATM, the Castello Sforzesco, the Museo del Novecento, the Pinacoteca di Brera and the Cenacolo Vinciano, plus Lombardia.info, the Lombardia Beni Culturali catalogue and Wikipedia. Where sources disagree (Duomo hours, the Duomo Museum closing day, the Castello price, tram lines) we say so. We did not verify prices or accessibility at the Museo del Novecento, nor the walking distances between the Castello and Brera. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.
+
+
+# Cinque Terre on foot: trails, trains and what is closed
+URL: https://unnivai.com/en/blog/cinque-terre-on-foot
+Language: en
+Updated: 2026-10-30
+
+cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
+
+UNESCO World Heritage Centre, Portovenere, Cinque Terre and the Islands::https://whc.unesco.org/en/list/826/
+CinqueTerre.eu.com (private site), trail status (Italian)::https://www.cinqueterre.eu.com/it/cinque-terre-situazione-sentieri
+
+--- The Cinque Terre are best walked with one question in mind: what is open today? Trail status here is not fixed. It moves with the weather, works and crowds, and the only page that counts is the park's. This article puts in order what we read on 30 October 2026 about trails, cards, trains and the Via dell'Amore, says where sources disagree, and leaves you a plan that survives a closure. UNESCO describes the landscape as a steep coast of about 15 km between Levanto and La Spezia, shaped over centuries by dry-stone terraces for vines and olives, which is why trails are maintained, and closed, by precise rules.
+
+In short. On 30 October 2026 the park's map shows the Manarola-Corniglia stretch of the Blue Path as closed (skip it by train), while the Via dell'Amore is open only by reservation, one way (Riomaggiore towards Manarola) and from 9 am to 6 pm. To walk you need the Trekking Card (10 € adults, 15 € on high-attendance days) or the Train Card. From 14 November there are weekends with trains suspended for works: always check the official page before leaving.
+
+Vernazza seen from above, from a viewpoint on the Blue Path Photo: СССР, CC BY-SA 2.5 ca, Wikimedia Commons
+What is closed today?All'aperto#
+
+The trail network has an official, updated page on the Cinque Terre National Park site, with a weather-alert message (when we opened it, it read "Nessuna allerta", no alert, dated 29 October 2026) and four route categories: tourist, hiking, expert and closed. The Blue Path, the coastal route linking the villages, appears like this: Riomaggiore-Manarola (the Via dell'Amore) as tourist, with a stated 25 minutes; Manarola-Corniglia as closed; Corniglia-Vernazza (1 h 30) and Vernazza-Monterosso (2 h) as routes for experts.
+
+A useful cross-check: the private site CinqueTerre.eu.com lists the coastal Manarola-Corniglia stretch as closed "because of a landslide", but its page shows a last edit of 18 May 2026. The two sources agree on the closed stretch, but only the park's is current to the week we are writing. It is a good example of why you never copy a list of closures from a blog, this one included: we tell you how to read it, we do not promise it will be the same tomorrow.
+
+The park itself warns that trails may be closed or limited for weather and safety, maintenance and crowd management, and adds that the card includes services and access but does not replace safety rules.
+
+Which stretches can you actually walk?All'aperto#
+
+With today's closures, the simplest route is a day in three pieces plus a train. Start in Riomaggiore and do the Via dell'Amore, which the park describes as one-way to Manarola, about 30 minutes. Then take the train from Manarola to Corniglia, because the walk between them shows as closed. From Corniglia walk to Vernazza (1 h 30) and, if you have the legs and the light, on to Monterosso (2 h). Adding the park's stated times gives about 4 hours of actual walking, stops excluded: that is our sum, not a park figure.
+
+The 1.5 hours between Corniglia and Vernazza and the 2 hours between Vernazza and Monterosso are classed "expert" on the official map. The park's guidelines ask for closed shoes with a lugged, non-slip sole (open or smooth-soled footwear is banned, with fines) and remind you that walking in bad weather is prohibited.
+
+MorningRiomaggiore, Via dell'AmoreEntry by reservation, one-way towards Manarola, about 30 minutes.
+
+ThenTrain Manarola-CornigliaThe coastal path between them shows as closed: skip it by train, with the fare or card you chose.
+
+MiddayCorniglia-VernazzaPark's stated time 1 h 30, route classed for experts.
+
+AfternoonVernazza-MonterossoStated time 2 h. If the light fades, stop at Vernazza and take the train back.
+
+EveningTrain backCheck the last train on Trenitalia before you set off. On regional trains leaving Levanto or La Spezia Centrale after 7:30 pm the evening fare applies, equal to band A.
+
+How does the Via dell'Amore work?All'aperto#
+
+It is the shortest and most regulated stretch. According to the official page, the entrance is in Riomaggiore, the route is one-way to Manarola, takes about 30 minutes, and individual visitors must reserve a time slot. Hours changed with the end of summer time: until 24 October 2026 it was open 9 am to 9 pm (last entry 8:30 pm); from 26 October 2026 to 28 March 2027 it is open 9 am to 6 pm with last entry at 5:30 pm.
+
+Here the sources disagree on walking time: the trail map says 25 minutes, the access page says about 30, and the private site we cited says 900 metres and 20 minutes. It matters little, but do not time a train connection to the minute. The Via dell'Amore is included in both the Trekking Card and the Train Card: without a card you do not get in, and you book online on the card site or at park infopoints.
+
+Which card do you need: Trekking, Train or single ticket?All'aperto#
+
+It depends on how many times you board a train. The Trekking Card, per the park, includes the Blue Path between Monterosso, Vernazza and Corniglia, the Via dell'Amore, buses inside the villages, toilets in the stations (1 € for non-holders) and more. For an adult aged 12-69 it costs 10 € for one day, 17 € for two, 23.50 € for three; on high-attendance days that rises to 15, 26.70 and 37.50 €. The calendar of high-attendance days is a separate PDF on the park's site: we did not read it and do not give its dates.
+
+The Train Card adds unlimited second-class travel on regional trains between Levanto and La Spezia. The price list changes on 2 November: until 1 November an adult pays 22, 29.50 or 35 € for one day depending on the band, while from 2 November to 31 December 2026 the park lists 17.30 € for one day, 29 € for two and 34 € for three. One discrepancy: Trenitalia lists the two-day card, band C, at 61.50 €, while the park's English page says 61.00 €. If you buy that band, check the amount at purchase.
+
+A single regional ticket at the Cinque Terre fare costs, per Trenitalia, 5, 8 or 10 € depending on the day's band, until 1 November 2026; it must be validated and is valid 75 minutes for one direct trip. We did not read the fare in force after 1 November, so we do not state it. Finally, cards are non-refundable except in cases set by the rules (weather alerts, force majeure, a train strike for the train card), and two- or three-day cards are not refunded if even partly used.
+
+Trains and works: when the line stopsAll'aperto#
+
+After 1 November the picture changes, and it is worth checking before you book a room. RFI and the park report works on accessibility at Riomaggiore and Manarola stations (lifts and a new link at Manarola). To carry them out, trains will be suspended for 48 hours between Corniglia and La Spezia on the weekends of 14-15 November and 19-20 December 2026 and 9-10 January and 6-7 February 2027, and between Levanto and La Spezia from 10:30 pm to 6:30 am on Friday to Sunday nights of the same weekends. The site works every day, mostly at night.
+
+For you this means two things. Riomaggiore and Manarola sit between La Spezia and Corniglia: on those weekends, for 48 hours, do not plan the Via dell'Amore around a train from La Spezia. And on the affected nights, decide before 10:30 pm how you get back after a long walk. The park refers readers to Trenitalia for updates.
+
+How much to spend (indicative averages)#
+
+A day on foot between the Via dell'Amore and the Blue Path, with an adult Trekking Card, costs 10 € (15 € on high-attendance days), plus the train tickets you use: between Manarola and Corniglia and back, on regional trains at the Cinque Terre fare, the range we read is 5-10 € a trip until 1 November. With a one-day Train Card from 2 November the park lists 17.30 € for an adult. These are indicative averages: they depend on the day's band, discounts and what is open.
+
+What if the weather turns?Al coperto#
+
+The park is blunt. With a yellow weather alert it advises against the trails and may stop selling the Trekking Card; with an orange or red alert it bans access to the whole network and suspends sales of all cards. On those days the plan becomes hopping between villages by train and strolling the old streets, no trails. The bus inside the villages is free with the card, but it does not link one village to another, and the card is not valid on La Spezia or Portovenere buses. For trail emergencies the guidelines give 112.
+
+What to leave out#
+
+Trying to do "the whole Blue Path" when a stretch is closed: two stretches done well beat an improvised detour.
+City shoes: they are banned on the trails, and checks are not a detail.
+A last-minute return: the Via dell'Amore closes at 6 pm with last entry 5:30 pm, and on works weekends the line can stop at night.
+A calendar copied from a blog: trail status is read on the park's page, every time.
+
+ConsiglioPut the stretch that depends on a reservation (the Via dell'Amore) and the ones that can close for weather (Corniglia-Vernazza and Vernazza-Monterosso) in the same day. In the morning open the park's page or stop at an infopoint, and if one of them drops out you still have a plan and the other. You gain peace of mind more than time.
+
+If you have another day#
+
+The Cinque Terre run on logistics and crowds: for another city where access and tickets matter, read Venice without the crowds, which uses the same checking approach. If you want an easier walking day, one day in Lecce is all flat. And if you wonder how to have an AI build an itinerary without inventing trail hours, see AI travel itineraries: what works.
+
+If your day changes#
+
+UNNIVAI is built to rewrite the route when an opening, the weather or tiredness changes: same walk, different order. If it sounds useful, join the first people in.
+
+Trail status, hours, prices and works were checked on the official sources listed on 30 October 2026 and change often: check the park's page on the day. Where two sources disagree, we said so. We did not read the calendar of high-attendance days or the train fare after 1 November.
+
+
+# Bologna in a day: tortellini, porticoes and a walking plan
+URL: https://unnivai.com/en/blog/bologna-in-a-day
+Language: en
+Updated: 2026-10-30
+
+Prenotazione-salita-alla-Torre-degli-Asinelli
+
+Bologna Welcome, Clock Tower and Municipal Art Collections (Italian)::https://www.bolognawelcome.com/it/esperienze/300685/Visita-alla-Torre-dell-Orologio-e-alle-Collezioni-Comunali-d-Arte
+Bologna Welcome, San Luca::https://www.bolognawelcome.com/en/blog/san-luca-eng
+Basilica di San Petronio, info and hours (Italian)::https://www.basilicadisanpetronio.org/info-e-orari/
+Basilica di San Petronio, visits (Italian)::https://www.basilicadisanpetronio.org/visite/
+Musei di Bologna, Archiginnasio and Anatomical Theatre (Italian)::https://www.museidibologna.it/archiginnasio/
+Dotta Confraternita del Tortellino, the deposited recipe (Italian)::https://www.confraternitadeltortellino.it/la-ricetta-depositata/
+Bologna Welcome, ragù alla bolognese (Accademia Italiana della Cucina)::https://www.bolognawelcome.com/en/other/recipes-and-typical-products/ragu-alla-bolognese-2
+Emilia Romagna Tourism, Quadrilatero del gusto (Italian)::https://emiliaromagnaturismo.it/it/itinerari/quadrilatero-del-gusto
+
+--- Bologna is walked with a roof over your head. The porticoes work as a corridor between stops and, if the weather turns, the plan barely changes. This itinerary puts one walking day in order across square, towers, market and porticoes, with tortellini at the centre, and says where hours are seasonal, where sources disagree and what is closed right now.
+
+In short. Morning around Piazza Maggiore, San Petronio (free entry) and the Clock Tower; lunch in the Quadrilatero; early afternoon at the Archiginnasio; if you have energy left, the San Luca portico. When we opened the official booking page, the Asinelli Tower was listed as closed for maintenance: the Clock Tower is the alternative it points to. The art collections are closed on Mondays.
+
+A stretch of the San Luca portico, with arches climbing towards the sanctuary Photo: Puscas Vadim  (Nebbius), CC BY-SA 4.0, Wikimedia Commons
+MorningPiazza Maggiore and San PetronioFree entry to the basilica, no reservation. The paid route through three chapels costs 5 €.
+
+10:00 amClock TowerReservation required; from September to February the first entry is at 10:00 am.
+
+LunchQuadrilateroVia Clavature, Drapperie, Pescherie Vecchie: cured meats, fresh pasta and stalls to eat at.
+
+AfternoonArchiginnasio and Anatomical TheatreThe old university seat: audioguide visit, entries every 10 minutes.
+
+LateSan Luca porticoOptional, uphill: more than 2 km of slope or steps.
+
+Provalo
+☔ Piove☀ Non piove
+
+What is closed or changes in autumn?All'aperto#
+
+Three things to know before you go. First, the Asinelli Tower. Bologna Welcome's booking page carried the notice "Torre Asinelli chiusa per manutenzione nell'area", with a pointer to the Clock Tower. When it reopens, the climb needs a reservation, has 498 steps and no lift. Second, the Clock Tower has seasonal hours. From 7 September 2026 to 28 February 2027 the first entry is at 10:00 am and the last at 6:20 pm, with three entries an hour. Third, the Municipal Art Collections in the same palace have different hours (Tuesday and Thursday 2-7 pm, Wednesday and Friday 10 am-7 pm, Saturday, Sunday and holidays 10 am-6:30 pm) and are closed on non-holiday Mondays.
+
+The practical consequence is simple: if Monday is all you have, the tower works but the collections do not, and the Asinelli needs checking. If you have a choice, pick a Tuesday to Friday.
+
+Morning: Piazza Maggiore and San PetronioAll'aperto#
+
+Start in the square where everything converges. The Basilica of San Petronio, according to its official site, has free entry and needs no reservation for individual visits. To enter the chapels of the Magi (Bolognini), San Sebastiano and San Vincenzo Ferrer you buy the paid route on the spot: 5 € full and 3 € reduced, from 10:00 am to 5:30 pm with last entry at 5:15 pm. Other single chapels and the Presbytery are visited only on request by email, at least a week ahead, at 3 € per person for each.
+
+We do not give the nave's visiting hours: services change them, and the basilica's site warns of days when guided visits are cancelled for events. Check the page on the day.
+
+Clock Tower and Palazzo d'AccursioAl coperto#
+
+It is the alternative climb to the Asinelli, and in autumn it is convenient because it opens at 10:00 am. The ticket includes the audioguide visit of the tower (about 40 minutes) and entry to the Municipal Art Collections (about an hour): 10 € full, 7 € reduced, according to Bologna Welcome. Reservation is mandatory, you show up 5 minutes before and if you are late you cannot go up on the next slot. The meeting point is the Sala Farnese, on the second floor of Palazzo d'Accursio, Piazza Maggiore 6. The summit terrace is reached by a narrow stair, with a waiver signed on site and a ban under 8 years of age; there is no lift.
+
+Lunch in the Quadrilatero: where tortellini liveAll'aperto#
+
+The Quadrilatero is the centre's shop-and-market district: according to Emilia Romagna Tourism its perimeter is drawn by the crossing of via Rizzoli, via dell'Archiginnasio, via Farini and via Castiglione. On via Clavature there is one entrance of the Mercato di Mezzo, with stalls to eat from, take away or at shared tables; on via Capraie and via Drapperie you find delis and shops with mortadella, fresh pasta and sweets; on via Pescherie Vecchie, tigelle and cured meats for an aperitivo. The same source names the Osteria del Sole, in Vicolo dei Ranocchi, described as the oldest osteria in Bologna, where only wine is served and everyone brings their own food.
+
+We do not name tortellini restaurants, because we read none on the sources we consulted. What we can give you is a yardstick: the Dotta Confraternita del Tortellino reports the deposit of 15 April 2008 at the Chamber of Commerce, which defines the classic shape, the filling, the thickness of the pasta and a final weight of 5 grams, with the pasta cut into squares 3 cm on a side. According to the same page, for about a thousand tortellini you need 10 eggs and a kilo of flour for the pasta; 300 g of pork loin, 300 g of raw ham, 300 g of mortadella, 450 g of Parmigiano Reggiano and 3 eggs for the filling; and for the broth a kilo of beef, half a hen, celery, carrot, onion and salt. Asking whether the broth is made in-house and whether the pasta is rolled daily is a more useful test than any ranking.
+
+For ragù the source is Bologna Welcome, which gives the updated version deposited by the Accademia Italiana della Cucina at the Chamber of Commerce (the original dates from 1982): 300 g of minced beef (diaphragm, belly or shoulder), 150 g of pancetta, 50 g each of carrot, celery and onion, 300 g of tomato passata or peeled tomatoes, half a glass each of dry white wine and whole milk, broth, and about two hours of cooking.
+
+Early afternoon: Archiginnasio and Anatomical TheatreAl coperto#
+
+The Archiginnasio, the old university seat, is visited with an audioguide or a guided tour. According to the Musei di Bologna page, updated in July 2025 and so worth rechecking, audioguide visits run Monday to Saturday from 10:00 am to 5:40 pm, with entries every 10 minutes and a duration of 40 minutes; the full ticket is 10 € and the reduced 8 €. Guided tours cost 12 € full and leave at fixed times (for July and August, in Italian at 1:30 and 3:30 pm). Put this stop after lunch: it is entirely indoors and takes no more than an hour.
+
+The porticoes and the San Luca porticoAl coperto#
+
+The porticoes are not a backdrop: UNESCO inscribes them as a serial site of 12 portico ensembles, and the Comune notes that the whole network is 62 km long. The listing dates from 28 July 2021. Among the twelve ensembles is "San Luca".
+
+The San Luca portico links the city to the sanctuary. Here the sources disagree: the Comune speaks of about 3,600 metres and notes that the traditional count of 666 arches is actually slightly lower, depending on how they are counted; Bologna Welcome gives 3.5 km and 666 arches. On the route the Comune is precise: from the Arco Bonaccorsi you follow via Saragozza, flat, for about a kilometre and a half; then for more than 2 kilometres you climb, partly on steps. Bologna Welcome says to continue under the portico from Porta Saragozza. The alternative, per Bologna Welcome: bus 20 to the church of San Martino in Casalecchio di Reno, then bus 58 to the sanctuary. We did not read walking times: our estimate is no less than a couple of hours there and back on foot, and it is only an estimate.
+
+How much to spend (indicative averages)#
+
+With the figures read: Clock Tower with collections 10 €, Archiginnasio with audioguide 10 €, San Petronio's paid route 5 €. In all about 25 € in tickets for one adult, with San Luca and the basilica free. These are indicative averages: they depend on discounts, days and cards such as the Bologna Welcome Card (which the sources list as free for the Asinelli and the Clock Tower).
+
+What to leave out#
+
+Too many towers: if the Asinelli is closed, the Clock Tower is enough for a panorama.
+Mondays for museums: the art collections stay closed.
+San Luca in the rain or at day's end if you are tired: it is uphill and best in full daylight.
+The hunt for the "right" restaurant: the broth test and a Quadrilatero stall are better.
+
+ConsiglioBook the Clock Tower for 10:00 am and do San Petronio right after: they are a few steps apart, the first runs on fixed slots and the second does not. That way you reach the Quadrilatero at lunchtime, and the Archiginnasio, with entries every 10 minutes, fits wherever it falls.
+
+If you have another day#
+
+After Bologna the logic changes but the yardstick stays: Florence in 48 hours for another walkable historic centre, with reservations to make ahead. If the food is what won you over, what to eat in Catania is the southern answer, with the same care for sources. And to learn how to have an AI build a day like this without inventing opening hours, read AI travel itineraries: what works.
+
+If your day changes#
+
+UNNIVAI is built to rewrite the route when an opening, the weather or tiredness changes: same walk, different order. If it sounds useful, join the first people in.
+
+Hours, prices and opening days were read and checked on the official sources listed on 30 October 2026 and change during the year: check before you go. Where two sources disagree, we said so. We did not verify San Petronio's nave hours or walking times to San Luca.
 
 
 # What to eat in Catania: 10 tastes in order of the day

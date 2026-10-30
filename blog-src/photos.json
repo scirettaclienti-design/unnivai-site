@@ -38,5 +38,61 @@
   "url": "https://commons.wikimedia.org/wiki/File:Il_Colosseo_dal_Foro_Romano,_Roma.JPG",
   "w": 1400,
   "h": 930
+ },
+ "vernazza-sentiero": {
+  "file": "File:Vernazza dal Sentiero Azzurro.jpg",
+  "artist": "СССР",
+  "license": "CC BY-SA 2.5 ca",
+  "url": "https://commons.wikimedia.org/wiki/File:Vernazza_dal_Sentiero_Azzurro.jpg",
+  "w": 1400,
+  "h": 833
+ },
+ "sassi-matera": {
+  "file": "File:Panorama dei Sassi di Matera.jpg",
+  "artist": "Gigi.Parentini",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Panorama_dei_Sassi_di_Matera.jpg",
+  "w": 1400,
+  "h": 788
+ },
+ "sfogliatella-riccia": {
+  "file": "File:Sfogliatella riccia napoletana.jpg",
+  "artist": "Saggittarius A",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Sfogliatella_riccia_napoletana.jpg",
+  "w": 1400,
+  "h": 1050
+ },
+ "pizza-margherita-napoli": {
+  "file": "File:Eq it-na pizza-margherita sep2005 sml.jpg",
+  "artist": "Valerio Capello at English Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+  "w": 1024,
+  "h": 768
+ },
+ "portico-san-luca": {
+  "file": "File:Portico san luca.jpg",
+  "artist": "Puscas Vadim  (Nebbius)",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Portico_san_luca.jpg",
+  "w": 1400,
+  "h": 2100
+ },
+ "ballaro-mercato": {
+  "file": "File:Ballarò, gente en el mercado, Palermo, Sicilia, Italia, 2015.JPG",
+  "artist": "Benjamín Núñez González",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Ballar%C3%B2,_gente_en_el_mercado,_Palermo,_Sicilia,_Italia,_2015.JPG",
+  "w": 1400,
+  "h": 1050
+ },
+ "duomo-milano": {
+  "file": "File:Piazza Duomo (Milan) E1.jpg",
+  "artist": "Elena Chochkova",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Piazza_Duomo_(Milan)_E1.jpg",
+  "w": 1400,
+  "h": 1050
  }
 }

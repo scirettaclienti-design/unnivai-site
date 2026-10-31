@@ -94,5 +94,21 @@
   "url": "https://commons.wikimedia.org/wiki/File:Piazza_Duomo_(Milan)_E1.jpg",
   "w": 1400,
   "h": 1050
+ },
+ "santa-croce-lecce": {
+  "file": "File:Basilica of Santa Croce, Lecce 06.jpg",
+  "artist": "Bernard Gagnon",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Basilica_of_Santa_Croce,_Lecce_06.jpg",
+  "w": 1400,
+  "h": 1960
+ },
+ "anfiteatro-lecce": {
+  "file": "File:Lecce - anfiteatro romano di Lecce - 202109291412.jpg",
+  "artist": "NalaRome",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Lecce_-_anfiteatro_romano_di_Lecce_-_202109291412.jpg",
+  "w": 1400,
+  "h": 788
  }
 }

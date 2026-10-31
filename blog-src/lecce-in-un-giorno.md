@@ -2,6 +2,7 @@
 title: Lecce in un giorno: barocco, pasticciotto e vicoli a piedi
 description: Itinerario a piedi per vedere Lecce in una giornata: anfiteatro, Duomo, Santa Croce, castello e pasticciotto, con orari e prezzi dalle fonti ufficiali.
 date: 2026-10-29
+updated: 2026-10-31
 category: Lecce
 cover: Lecce
 tags: A piedi, Una giornata, Barocco
@@ -27,10 +28,16 @@ sources:
 - Museo Faggiano, tariffe e orari::https://www.museofaggiano.it/tariffe/
 - Castello Carlo V, orari e biglietti::https://www.ilcastellodilecce.it/orari-e-biglietti/
 - Wikipedia, Pasticciotto::https://it.wikipedia.org/wiki/Pasticciotto
+- Italia.it (portale turistico ufficiale), Lecce: storia, cosa vedere, cosa mangiare::https://www.italia.it/it/puglia/lecce/guida-storia-curiosita
+- Ministero della Cultura, Museo Sigismondo Castromediano::https://cultura.gov.it/luogo/museo-sigismondo-castromediano
 ---
 Lecce è una città da camminare con il naso in su. Il barocco leccese non si capisce da una foto: serve il passo lento, la pietra chiara che cambia colore con la luce e qualche sosta dolce. Questo itinerario mette in ordine una giornata a piedi, con poche tappe e il perché di ciascuna, e dice chiaramente dove gli orari cambiano con la stagione.
 
 > **In breve.** Colazione con pasticciotto, anfiteatro in Piazza Sant'Oronzo e Museo Faggiano al mattino, castello a metà giornata, itinerario barocco (Duomo, Santa Croce) nel pomeriggio. Da ottobre a marzo le chiese chiudono alle 18 e l'anfiteatro chiude intorno alle 15:30: l'ordine delle tappe conta. Evita il lunedì.
+
+:::foto anfiteatro-lecce | L'anfiteatro romano in Piazza Sant'Oronzo, a Lecce
+
+:::foto santa-croce-lecce | Particolare della facciata della Basilica di Santa Croce, a Lecce
 
 :::tappe
 - Colazione | Pasticciotto in un bar del centro | Frolla e crema, meglio ancora tiepido. È il rito salentino del mattino.
@@ -69,7 +76,7 @@ Il Museo Faggiano è aperto ogni giorno dalle 9:30 alle 20 e costa 5 € per i s
 
 ## Castello Carlo V: l'unica tappa con orario fisso {coperto}
 
-Il castello si visita soltanto con una guida, in turni di circa 50 minuti. Da ottobre a maggio, da martedì a domenica, le visite partono alle 10:30, 11:30 e 12:30 e poi alle 16, 17, 18 e 19. Il prezzo della visita guidata è 10 € intero e 6 € ridotto, e sul sito si compra online; il sito indica anche mostre a pagamento separato. Ti suggerisco il turno delle 12:30: non crea nodi con il resto e ti lascia il pranzo subito dopo. Se arrivi senza prenotare, presentati in biglietteria qualche minuto prima della partenza, come indica il sito.
+Il castello si visita soltanto con una guida, in turni di circa 50 minuti. Da ottobre a maggio, da martedì a domenica, le visite partono alle 10:30, 11:30 e 12:30 e poi alle 16, 17, 18 e 19. Il prezzo della visita guidata è 10 € intero e 6 € ridotto, e sul sito si compra online; il sito indica anche mostre a pagamento separato (vedi più sotto). Ti suggerisco il turno delle 12:30: non crea nodi con il resto e ti lascia il pranzo subito dopo. Se arrivi senza prenotare, presentati in biglietteria qualche minuto prima della partenza, come indica il sito.
 
 ## Pomeriggio: Piazza del Duomo, Santa Croce e il biglietto unico {coperto}
 
@@ -77,9 +84,35 @@ Il cuore del barocco leccese si fa con un solo biglietto: il Duomo con la sua cr
 
 Dedica tempo alla facciata di Santa Croce prima di entrare: è lì che la pietra racconta più cose. E non fare l'errore di entrare nelle chiese per ultime, alle 17:50: con la chiusura alle 18 e l'ingresso consentito fino a 15 minuti prima, rischi di pagare un biglietto e vedere poco.
 
+## Il pranzo: cosa ordinare a Lecce {aperto}
+
+La guida di Italia.it, il portale turistico ufficiale, elenca tra i piatti tipici le orecchiette al sugo, i ciceri e tria (pasta tagliata a rombi, in parte lessata e in parte fritta, con i ceci), le sagne 'ncannulate (tagliatelle ritorte con pomodoro, ricotta e basilico) e il rustico leccese, due dischi di pasta sfoglia ripieni di besciamella, pomodoro e mozzarella. Per il pesce segnala la scapece, pesce azzurro fritto e condito con aceto e zafferano. Se non vuoi un pranzo seduto, il rustico è il formato più facile da incastrare tra castello e chiese. Per il dolce, oltre al pasticciotto, la stessa guida cita il fruttone: frolla con marmellata e pasta di mandorle, coperta di cioccolato fondente. E il caffè alla leccese è un espresso servito con ghiaccio e latte di mandorla.
+
+## Serve prenotare il castello? Conviene il full ticket?
+
+Il sito del castello dice che le visite sono solo guidate e che si può comprare online oppure presentarsi in biglietteria pochi minuti prima della partenza; non indica quanti posti ci sono per turno, quindi non possiamo dirti se a ottobre i turni si riempiano. Se vuoi il 12:30 per incastrare il pranzo, comprare online è la scelta prudente.
+
+Sul full ticket dell'itinerario barocco la differenza è chiara: 21 € invece di 11 €, cioè 10 € in più per la salita al campanile del Duomo, con partenze ogni 20 minuti, e l'orario del full ticket parte alle 10 invece che alle 9. È una spesa che ha senso con il cielo limpido; con nuvole basse o pioggia i 10 € in più rendono poco. Non abbiamo trovato l'orario dell'ultima salita: chiedilo in biglietteria in Piazza Duomo.
+
+## Che mostre ci sono al castello adesso?
+
+Sul sito del castello, oltre alla visita guidata, compaiono due mostre con biglietto separato. "Bella Figura" era in programma dal 5 giugno al 23 agosto 2026, quindi è finita. "La materia dei sogni" è indicata dal 17 luglio 2026 al 10 gennaio 2027, con ultimo ingresso alle 19: 8 € intero e 4 € per i 18-25 anni. C'è anche un biglietto combinato castello più mostre a 15 € intero, acquistabile solo in biglietteria: costa meno della somma di visita guidata (10 €) e mostra (8 €), che fa 18 €. Se la mostra ti interessa, il combinato fa risparmiare 3 €.
+
+## Errori comuni a Lecce
+
+- Arrivare all'anfiteatro dopo le 15: nella pagina della biglietteria ufficiale la vendita dei biglietti chiude alle 15 e il pubblico esce alle 15:30.
+- Contare sul lunedì: anfiteatro e castello sono chiusi, e secondo la pagina del Ministero anche il Museo Castromediano non apre.
+- Cercare il Teatro romano: la biglietteria avvisa che è momentaneamente chiuso per lavori di riallestimento.
+- Lasciare le chiese per le 17:50: con chiusura alle 18 da ottobre a marzo e ingresso consentito fino a 15 minuti prima, rischi di non entrare.
+- Fidarsi di un solo prezzo: per l'anfiteatro, come detto sopra, le fonti non coincidono.
+
+## Se hai ancora tempo: Museo Castromediano e le mura
+
+Il Museo Castromediano, in Viale Gallipoli, è presentato da Italia.it come il più antico museo archeologico della Puglia, con pinacoteca e lapidario e reperti di epoca messapica e romana. La pagina del Ministero della Cultura lo dà aperto tutti i giorni tranne il lunedì, da ottobre a maggio dalle 9 alle 19, con ultimo ingresso mezz'ora prima della chiusura. Attenzione: quella pagina risulta aggiornata nel 2022 e non riporta il prezzo, quindi conferma orario e biglietto prima di andare. Sempre secondo Italia.it, le Mura Urbiche furono volute da Carlo V contro le incursioni turche, e Porta Napoli, un varco a forma di arco di trionfo, è uno degli ingressi al centro storico. Tra le chiese, la guida segnala San Matteo (compresa nel biglietto unico) per la facciata particolare: parte superiore concava e liscia, parte inferiore convessa e decorata a squame e bugne.
+
 ## Quanto spendere (medie indicative)
 
-Mettendo insieme le cifre lette sui siti ufficiali: anfiteatro 5 €, Museo Faggiano 5 €, itinerario barocco 11 €, castello 10 €. In totale sono circa 31 € di ingressi per una persona adulta, circa 41 € se aggiungi il campanile del Duomo. Sono medie indicative e dipendono da riduzioni, giorni gratuiti e mostre temporanee: non vanno prese come una promessa.
+Mettendo insieme le cifre lette sui siti ufficiali: anfiteatro 5 €, Museo Faggiano 5 €, itinerario barocco 11 €, castello 10 €. In totale sono circa 31 € di ingressi per una persona adulta, circa 41 € se aggiungi il campanile del Duomo; con il biglietto combinato castello più mostra (15 € invece di 10 €) si arriva a circa 36 €. Sono medie indicative e dipendono da riduzioni, giorni gratuiti e mostre temporanee: non vanno prese come una promessa.
 
 ## Piano B: se cambia il tempo
 
@@ -91,14 +124,14 @@ Con la pioggia il programma si riscrive in modo naturale. Anfiteatro e piazza si
 - Il pranzo in piazza: due isolati dalle piazze più fotografate bastano per cambiare qualità e prezzi.
 - La fretta delle 17:50: le chiese si godono con calma.
 
-:::consiglio Se hai solo il lunedì, inverti l'idea: tieni Museo Faggiano e itinerario barocco, lascia anfiteatro e castello al giorno dopo. E se puoi scegliere, il 4 novembre 2026 l'ingresso all'anfiteatro risulta gratuito.
+:::consiglio Se hai solo il lunedì, inverti l'idea: tieni Museo Faggiano e itinerario barocco, lascia anfiteatro e castello al giorno dopo. E se puoi scegliere, l'ingresso all'anfiteatro risulta gratuito domenica 1 novembre 2026 (prima domenica del mese) e mercoledì 4 novembre 2026, secondo la biglietteria ufficiale: in quei giorni conviene essere in fila all'apertura delle 9.
 
 ## Se hai un altro giorno
 
-Dopo Lecce, la Sicilia barocca è un altro respiro: guarda [un giorno a Ortigia](/blog/un-giorno-a-ortigia) per un itinerario a piedi con la stessa logica, oppure [cosa mangiare a Catania](/blog/cosa-mangiare-a-catania) se la parte che ti ha convinto è il cibo. Se ti interessa come far costruire un giro così dall'intelligenza artificiale senza farsi inventare orari, leggi [itinerario turistico con l'AI: cosa funziona](/blog/itinerario-turistico-con-intelligenza-artificiale).
+Dopo Lecce, la Sicilia barocca è un altro respiro: guarda [un giorno a Ortigia](/blog/un-giorno-a-ortigia) per un itinerario a piedi con la stessa logica, oppure [cosa mangiare a Catania](/blog/cosa-mangiare-a-catania) se la parte che ti ha convinto è il cibo. Per un altro Sud da girare a piedi c'è [Matera e i Sassi](/blog/matera-come-visitare-i-sassi); per mangiare in ordine di giornata, [Napoli](/blog/napoli-cosa-mangiare-in-ordine-di-giornata) e [Palermo](/blog/palermo-street-food-mercati-orari-cosa-ordinare) hanno la stessa logica. Se ti interessa come far costruire un giro così dall'intelligenza artificiale senza farsi inventare orari, leggi [itinerario turistico con l'AI: cosa funziona](/blog/itinerario-turistico-con-intelligenza-artificiale).
 
 ## Se cambia la giornata
 
 UNNIVAI è pensata per riscrivere il percorso quando cambiano tempo, orario o stanchezza: stesso giro, ordine diverso. Se ti serve, [entra tra i primi](/?src=blog-lecce-in-un-giorno#iscriviti).
 
-*Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate il 29 ottobre 2026 e cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto.*
+*Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate e riverificati il 31 ottobre 2026 e cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto.*

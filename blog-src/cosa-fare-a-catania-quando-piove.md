@@ -58,6 +58,8 @@ Il castello di epoca sveva fu costruito tra il 1239 e il 1250 sotto Federico II,
 
 Uno dei grandi complessi monastici d'Europa, oggi sede del Dipartimento di Scienze Umanistiche dell'Università di Catania, in piazza Dante 32. Le pagine consultate lo datano a metà Cinquecento (una indica il 1558) e ricordano il restauro dell'architetto Giancarlo De Carlo. Per la parte UNESCO: Catania è una delle otto città del Val di Noto iscritte nel 2002 secondo la scheda consultata. Le visite guidate sono state organizzate negli anni da Officine Culturali con prenotazione consigliata, ma le informazioni che ho trovato su orari e prezzi sono datate e non le riporto. Se piove, decidi la mattina presto e chiama.
 
+:::foto catania-benedettini-chiostro | Il chiostro del Monastero dei Benedettini di San Nicolò l'Arena a Catania, con la fontana al centro e i portici intorno
+
 ## 4. La Cattedrale di Sant'Agata {coperto}
 
 Il Duomo affaccia su piazza Duomo, con la Fontana dell'Elefante e il Liotru, simbolo della città. Secondo Museionline è aperto ogni giorno dalle 10:30 alle 17:30 e l'ingresso è gratuito, ma la stessa scheda consiglia di confermare l'orario. Fu costruita in epoca normanna, distrutta dal terremoto del 1693 e ricostruita da Giovanni Battista Vaccarini tra il 1733 e il 1761. All'interno c'è la tomba di Vincenzo Bellini e, in sacrestia, un affresco che ritrae l'eruzione dell'Etna del 1669. L'interno è un riparo perfetto per una pausa tra due passaggi all'aperto.
@@ -65,6 +67,8 @@ Il Duomo affaccia su piazza Duomo, con la Fontana dell'Elefante e il Liotru, sim
 ## 5. Le Terme Achilliane sotto la Cattedrale {coperto}
 
 Nei sotterranei dell'area del Duomo si trovano ambienti di epoca romana, datati al IV-V secolo. Della struttura si vede solo una piccola parte: una sala centrale con volte a crociera sostenute da quattro pilastri e un corridoio a botte. La scheda di Museionline indica orario dal lunedì al sabato 9:00-14:00, domenica solo su prenotazione, 5 € per le sole terme (media indicativa; la pagina elenca anche biglietti combinati), e raccomanda di confermare per telefono. L'accesso avviene da una breve scala, quindi non è un luogo senza gradini. Un'altra scheda sul Duomo parla di una porta sul lato destro della facciata. È la classica tappa che non sai di volere finché non piove: asciutta, insolita e vicinissima al centro.
+
+:::foto catania-cattedrale-facciata-notte | La facciata barocca della Cattedrale di Sant'Agata su piazza Duomo, illuminata di sera
 
 ## 6. Un pranzo alla Pescheria, ma al riparo {aperto}
 

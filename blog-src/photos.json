@@ -174,5 +174,45 @@
   "url": "https://commons.wikimedia.org/wiki/File:Fondamenta_della_Misericordia_Rio_della_Misericordia_San_Marziale.jpg",
   "w": 1400,
   "h": 934
+ },
+ "milano-castello-sforzesco": {
+  "file": "File:Veduta della Torre del Filarete dall'interno del cortile del Castello Sforzesco di Milano.jpg",
+  "artist": "Paolobon140",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Veduta_della_Torre_del_Filarete_dall%27interno_del_cortile_del_Castello_Sforzesco_di_Milano.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "catania-benedettini-chiostro": {
+  "file": "File:Monastero di San Nicolò l'Arena (Catania) - Cloister 07.jpg",
+  "artist": "Derbrauni",
+  "license": "CC BY 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Monastero_di_San_Nicol%C3%B2_l%27Arena_(Catania)_-_Cloister_07.jpg",
+  "w": 1400,
+  "h": 788
+ },
+ "milano-galleria-vittorio-emanuele": {
+  "file": "File:The Galleria Vittorio Emanuele II in Milan 2013-09-18 (02).jpg",
+  "artist": "Max_Ryazanov",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:The_Galleria_Vittorio_Emanuele_II_in_Milan_2013-09-18_(02).jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "catania-cattedrale-facciata-notte": {
+  "file": "File:Catania - Cattedrale di Sant'Agata 20240104-19.jpg",
+  "artist": "Pymouss",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Catania_-_Cattedrale_di_Sant%27Agata_20240104-19.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "catania-pasta-alla-norma": {
+  "file": "File:Pasta alla Norma - Wiki Loves Sicilia.jpg",
+  "artist": "8w9d",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Pasta_alla_Norma_-_Wiki_Loves_Sicilia.jpg",
+  "w": 1400,
+  "h": 1007
  }
 }

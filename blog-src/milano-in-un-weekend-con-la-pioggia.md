@@ -35,7 +35,7 @@ Milano con la pioggia non è una città da annullare: è una città da riordinar
 
 > **In breve.** Il sabato resta in piazza Duomo: Museo del Novecento, Cattedrale e Museo del Duomo, Galleria Vittorio Emanuele II. La domenica passa al Castello Sforzesco e alla Pinacoteca di Brera. Il lunedì i musei principali sono chiusi, e per L'Ultima Cena la prenotazione è obbligatoria con settimane di anticipo: non è un Piano B dell'ultimo minuto.
 
-:::foto duomo-milano | Piazza Duomo vista dall'alto, il punto di partenza del sabato (foto con il sole: con la pioggia sarà diversa)
+:::foto milano-castello-sforzesco | La Torre del Filarete del Castello Sforzesco vista dal cortile, con lo stemma del Biscione sulla torre
 
 ## Quanto piove a Milano, davvero?
 
@@ -51,6 +51,8 @@ Il percorso peggiore con la pioggia è quello che attraversa mezza città a ogni
 
 Il biglietto unico per Cattedrale e Museo del Duomo, con la chiesa di San Gottardo in Corte, costa 10 € intero e 5 € ridotto secondo la pagina ufficiale sugli accessi in vigore dal 1° aprile 2025. Il mercoledì il Museo è chiuso e il biglietto scende a 8 € e 4 €. Nel weekend non hai quindi problemi. Sul sito del Duomo gli orari non sono lineari: la biglietteria in Sala delle Colonne risulta aperta dalle 9:00 alle 18:00, con ultimo biglietto alle 17:50, mentre un'altra riga della stessa pagina parla di accesso dal portone nord dalle 8:00 alle 19:00 con ultimo ingresso alle 18:10. Lombardia.info riporta 9:00-19:00. Le fonti non coincidono, quindi se vuoi stare tranquillo arriva entro le 17:50. Un'altra discordanza riguarda il Museo del Duomo: il sito ufficiale lo dà chiuso il mercoledì, Lombardia.info lo dà aperto da martedì a domenica e chiuso il lunedì.
 
+:::foto duomo-milano | Piazza Duomo vista dall'alto, il punto di partenza del sabato (foto con il sole: con la pioggia sarà diversa)
+
 ## 2. Terrazze del Duomo {aperto}
 
 Le Terrazze sono la tappa che soffre di più la pioggia. La pagina ufficiale ricorda 135 guglie, oltre 3.400 statue, un primo livello a circa 31 metri e una terrazza centrale a circa 45, e precisa che i monti si vedono "nelle giornate di tempo sereno". I biglietti ufficiali costano 18 € con l'ascensore e 16 € a piedi per le sole Terrazze (9 € e 8 € ridotti). Con il Combo, che comprende anche Cattedrale e Museo, si paga 26 € con l'ascensore e 22 € a piedi. Sulle pagine consultate non ho trovato una regola di chiusura per maltempo: chiedilo al momento dell'acquisto, o rimanda la salita a una giornata limpida.
@@ -58,6 +60,8 @@ Le Terrazze sono la tappa che soffre di più la pioggia. La pagina ufficiale ric
 ## 3. Galleria Vittorio Emanuele II {coperto}
 
 Secondo la scheda del catalogo Lombardia Beni Culturali è "una strada pedonale coperta" con struttura in ferro e vetro, su pianta a croce, progettata da Giuseppe Mengoni. I lavori partirono nel 1865 e la galleria fu inaugurata due anni dopo, non ancora finita; il complesso fu completato circa dodici anni più tardi. Al centro dell'ottagono c'è un mosaico con lo stemma di Casa Savoia. È la tappa giusta per i dieci minuti tra una visita e l'altra, quando smette di piovere solo per un attimo e vuoi restare all'asciutto. Nomi di caffè e negozi non li indico: non li ho verificati.
+
+:::foto milano-galleria-vittorio-emanuele | L'interno della Galleria Vittorio Emanuele II, con la copertura in vetro e ferro sopra i negozi e i passanti
 
 ## 4. Museo del Novecento {coperto}
 

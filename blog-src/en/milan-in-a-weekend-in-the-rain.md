@@ -36,7 +36,7 @@ Rain does not cancel Milan; it just reshuffles it. The centre is packed with mus
 
 > **In short.** On Saturday stay around Piazza Duomo: Museo del Novecento, the Cathedral and Duomo Museum, Galleria Vittorio Emanuele II. On Sunday move to the Castello Sforzesco and the Pinacoteca di Brera. On Mondays the main museums are closed, and The Last Supper must be booked weeks ahead: it is not a last-minute Plan B.
 
-:::foto duomo-milano | Piazza Duomo seen from above, the starting point of Saturday (a sunny day: in the rain it will look different)
+:::foto milano-castello-sforzesco | The Torre del Filarete of the Sforza Castle seen from the courtyard, with the Biscione coat of arms on the tower
 
 ## How much does it actually rain in Milan?
 
@@ -52,6 +52,8 @@ The worst rainy-day route is one that crosses half the city at every stop. Here 
 
 The single ticket for the Cathedral and the Duomo Museum, including the church of San Gottardo in Corte, costs 10 € full price and 5 € reduced, according to the official access page in force since 1 April 2025. On Wednesdays the Museum is closed and the ticket drops to 8 € and 4 €. On a weekend that does not affect you. The Duomo's hours are not straightforward: the ticket office in the Sala delle Colonne is listed as open 9:00 to 18:00, with the last ticket at 17:50, while another line on the same page mentions access through the north portal from 8:00 to 19:00 with last entry at 18:10. Lombardia.info gives 9:00-19:00. The sources do not match, so to be safe arrive before 17:50. There is a second discrepancy about the Duomo Museum: the official site says it is closed on Wednesday, while Lombardia.info says it is open Tuesday to Sunday and closed on Monday.
 
+:::foto duomo-milano | Piazza Duomo seen from above, the starting point of Saturday (a sunny day: in the rain it will look different)
+
 ## 2. The Duomo terraces {aperto}
 
 The terraces are the stop that suffers most in the rain. The official page mentions 135 spires, over 3,400 statues, a first level at about 31 metres and a central terrace at about 45, and says the mountains can be seen "on clear days". Official tickets for the terraces alone cost 18 € by lift and 16 € on foot (9 € and 8 € reduced). The Combo, which also includes the Cathedral and Museum, is 26 € by lift and 22 € on foot. We found no bad-weather closure rule on the pages we read: ask when you buy, or leave the climb for a clear day.
@@ -59,6 +61,8 @@ The terraces are the stop that suffers most in the rain. The official page menti
 ## 3. Galleria Vittorio Emanuele II {coperto}
 
 According to the Lombardia Beni Culturali catalogue entry it is a "covered pedestrian street" with an iron-and-glass structure on a cross-shaped plan, designed by Giuseppe Mengoni. Work began in 1865 and the gallery opened two years later, still unfinished; the complex was completed about twelve years after that. At the centre of the octagon there is a mosaic of the House of Savoy coat of arms. It is the right place for the ten minutes between visits, when the rain eases for a moment and you want to stay dry. We do not name cafés or shops here: we did not verify any.
+
+:::foto milano-galleria-vittorio-emanuele | Inside the Galleria Vittorio Emanuele II, with its glass-and-iron roof above the shops and passers-by
 
 ## 4. Museo del Novecento {coperto}
 

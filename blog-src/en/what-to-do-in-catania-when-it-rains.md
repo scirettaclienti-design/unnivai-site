@@ -59,6 +59,8 @@ The Swabian-era castle was built between 1239 and 1250 under Frederick II, and t
 
 One of the great monastic complexes in Europe, now home to the Humanities Department of the University of Catania, at Piazza Dante 32. The pages we read date it to the mid-16th century (one says 1558) and mention the restoration by architect Giancarlo De Carlo. On the UNESCO side: according to the World Heritage listing page we read, Catania is one of the eight Val di Noto towns inscribed in 2002. Guided visits have been run over the years by Officine Culturali, with booking recommended, but the information we found on times and prices is dated, so we do not repeat it. If it rains, decide early in the morning and call.
 
+:::foto catania-benedettini-chiostro | The cloister of the Benedictine Monastery of San Nicolò l'Arena in Catania, with the fountain at the centre and arcades around it
+
 ## 4. The Cathedral of Sant'Agata {coperto}
 
 The Duomo faces Piazza Duomo, with the Elephant Fountain and the Liotru, the symbol of the city. According to Museionline it is open daily from 10:30 to 17:30 with free entry, though the same page advises confirming the hours. It was built in the Norman period, destroyed by the 1693 earthquake and rebuilt by Giovanni Battista Vaccarini between 1733 and 1761. Inside you find the tomb of Vincenzo Bellini and, in the sacristy, a fresco of the 1669 Etna eruption. The interior is a perfect shelter for a break between two outdoor stretches.
@@ -66,6 +68,8 @@ The Duomo faces Piazza Duomo, with the Elephant Fountain and the Liotru, the sym
 ## 5. The Achillean Baths under the Cathedral {coperto}
 
 In the basements of the Duomo area there are Roman-era rooms, dated to the 4th-5th century. Only a small part is visible: a central room with cross vaults on four pillars and a barrel-vaulted corridor. The Museionline page lists Monday to Saturday 9:00-14:00, Sunday by reservation only, 5 EUR for the baths alone (indicative average; the page also lists combined tickets), and recommends confirming by phone. Access is by a short staircase, so this is not a step-free place. A page on the Duomo mentions a door on the right side of the facade. It is the classic stop you do not know you want until it rains: dry, unusual and very close to the centre.
+
+:::foto catania-cattedrale-facciata-notte | The Baroque façade of the Cathedral of Sant'Agata on Piazza Duomo, lit up in the evening
 
 ## 6. Lunch at the fish market, but under cover {aperto}
 

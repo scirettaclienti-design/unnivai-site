@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Polignano a Mare senza auto: treno, piedi e cosa vedere](https://unnivai.com/blog/polignano-a-mare-senza-auto): Come visitare Polignano a Mare senza macchina: treno da Bari, centro storico, Lama Monachile, museo Pascali e passeggiata a San Vito, con fonti ufficiali.
 - [Palermo street food: mercati, orari e cosa ordinare](https://unnivai.com/blog/palermo-street-food-mercati-orari-cosa-ordinare): Capo, Ballarò e Vucciria a Palermo: a che ora andare, cosa ordinare (panelle, arancina, sfincione, pani ca meusa) e quanto costa, con le fonti che discordano.
 - [Cosa mangiare a Napoli: la giornata in ordine di assaggio](https://unnivai.com/blog/napoli-cosa-mangiare-in-ordine-di-giornata): Sfogliatella, pizza fritta, portafoglio, cuoppo, babà e pizza STG: cosa mangiare a Napoli e a che ora, con prezzi indicativi e fonti che discordano.
 - [Milano in un weekend con la pioggia: itinerario Piano B](https://unnivai.com/blog/milano-in-un-weekend-con-la-pioggia): Due giorni a Milano quando piove: Duomo, Galleria, Novecento, Castello, Brera e Cenacolo, con orari, prezzi indicativi e giorni di chiusura da fonti ufficiali.
@@ -20,6 +21,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [Polignano a Mare without a car: train, on foot, what to see](https://unnivai.com/en/blog/polignano-a-mare-without-a-car): How to visit Polignano a Mare without a car: train from Bari, old town, Lama Monachile, the Pascali museum and the coastal walk to San Vito, with sources.
 - [What to eat in Naples, in the order of the day](https://unnivai.com/en/blog/what-to-eat-in-naples): Sfogliatella, fried pizza, pizza a portafoglio, cuoppo, babà and STG pizza: what to eat in Naples and when, with indicative prices and where sources disagree.
 - [Visiting Matera's Sassi: how to see them and when to go](https://unnivai.com/en/blog/visiting-matera-sassi-and-when-to-go): The Sassi of Matera on foot in one day: a route through Sasso Barisano and Caveoso, the Casa Grotta, how to get there and when to go, with official sources.
 - [Palermo street food guide: markets, hours and what to order](https://unnivai.com/en/blog/palermo-street-food-guide): Capo, Ballarò and Vucciria in Palermo: when to go, what to order (panelle, arancina, sfincione, pani ca meusa) and what it costs, with sources that disagree.
@@ -44,6 +46,94 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Polignano a Mare senza auto: treno, piedi e cosa vedere
+URL: https://unnivai.com/blog/polignano-a-mare-senza-auto
+Language: it
+Updated: 2026-11-02
+
+Polignano a Mare è uno di quei posti che sembrano fatti per chi arriva a piedi: un centro storico bianco affacciato sulla scogliera, una piccola baia incassata tra le rocce e un lungomare che porta fin quasi a Bari. Di auto, qui, non c'è bisogno. Questa guida mette in fila come arrivarci con i mezzi, cosa fare una volta scesi dal treno e quali informazioni, onestamente, non siamo riusciti a verificare.
+
+In breve. A Polignano a Mare si arriva comodamente in treno regionale dalla linea Bari-Lecce e tutto il resto si fa a piedi: Arco Marchesale, centro storico, Lama Monachile e, volendo, la camminata costiera di circa 40 minuti fino a San Vito. Il museo Pascali è aperto solo il pomeriggio e da mercoledì a domenica. Per orari e tariffe dei treni usa sempre il sito di Trenitalia: i numeri di questa guida su frequenze e prezzi vengono da siti terzi.
+
+La Lama Monachile e il centro storico di Polignano a Mare, in una veduta notturna Foto: Riccardo Noya, CC BY-SA 4.0, Wikimedia Commons
+Il ponte sulla Lama Monachile con le case del centro storico, a Polignano a Mare Foto: Giacomo Resta, CC BY-SA 4.0, Wikimedia Commons
+Come si arriva a Polignano a Mare senza auto?#
+
+Il paese si trova a circa 33 chilometri a sud di Bari, lungo la direttrice Bari-Lecce, e confina con Mola di Bari, Conversano, Castellana Grotte e Monopoli, secondo la voce di Wikipedia. La stazione è sulla linea ferroviaria Adriatica, la stessa che collega Bari e Lecce: secondo la scheda di Wikipedia è servita da treni regionali e da alcuni a lunga percorrenza. Ha tre binari, il primo per i treni da Bari verso Lecce, il secondo per quelli in senso opposto e il terzo usato per le precedenze. La versione inglese della stessa enciclopedia ricorda che il servizio regionale è gestito da Trenitalia e l'infrastruttura da RFI, e che la stazione è aperta dal 1865.
+
+Un limite da dichiarare subito: non abbiamo trovato su nessuna pagina letta la distanza tra la stazione e il centro storico, quindi non scriviamo quanti minuti servano a piedi. Il consiglio pratico è guardare la mappa prima di partire e decidere se la camminata ti va bene con il bagaglio.
+
+Quanti treni ci sono e quanto costano?#
+
+Per i numeri abbiamo dovuto ricorrere a un aggregatore di viaggi, che non è una fonte ufficiale e va trattato con prudenza. La pagina Omio per la tratta Bari-Polignano a Mare indicava, per la data cercata, circa 34 treni al giorno e un prezzo medio di 4 € per il regionale; l'Intercity elencato costava 9 €. Sulla durata la stessa pagina dà due cifre che non coincidono del tutto: parla di 34 minuti a bordo come media, ma per le corse elencate scrive tra 17 e 28 minuti. Noi le riportiamo entrambe e ti diciamo che non sappiamo quale rappresenti meglio la tua corsa: guarda l'orario del giorno.
+
+Sempre da quella pagina, e solo come esempio di una singola data, la prima corsa elencata partiva alle 5:02 e l'ultima alle 20:40. Non sono gli orari "di sempre": sono un campione. Il sito di Trenitalia, nelle pagine regionali che abbiamo aperto, dice una cosa utile ai viaggiatori con bambini: in Puglia i bambini fino a dieci anni non compiuti viaggiano gratis se accompagnati da un adulto con regolare titolo di viaggio, mentre dai dieci anni non ci sono riduzioni legate all'età.
+
+Esiste anche il bus. Lo stesso aggregatore elenca corse di Ferrovie del Sud Est di 40-45 minuti, con prezzi da 3 €, la prima del campione alle 12:10 e l'ultima alle 20:00. Per chi parte presto, quindi, il treno resta la scelta più comoda.
+
+E dall'aeroporto di Bari?#
+
+Il confronto dei percorsi su Rome2rio, anche questo una stima e non un orario, indica come più rapido il treno dall'aeroporto a Bari Centrale e poi un cambio per Polignano, in circa 1 ora e 27 minuti, con un costo tra 10 e 14 dollari (la pagina usa i dollari). In alternativa propone la linea urbana 16 fino a Bari Centrale e poi un autobus, in circa 2 ore e 40, o la linea 16 più il treno, in circa 2 ore e 6. L'auto è data a circa 40 minuti, il taxi a 40 minuti ma con un costo molto più alto. La pagina Trenitalia dedicata all'aeroporto, invece, non riporta frequenze né tempi: conferma solo che esiste una sezione sui collegamenti aeroportuali e che si possono comprare biglietti digitali regionali.
+
+Cosa fare appena arrivati: Arco Marchesale e centro storico#
+
+Dalla stazione si cammina verso il mare e il centro storico. Secondo Italia.it, il portale turistico ufficiale, la città vecchia è un intrico di vicoli di case bianche di origine medievale costruite sulla scogliera, e l'ingresso tradizionale è l'Arco Marchesale, o Porta Grande, del XVI secolo. Fino al 1780 era l'unico accesso: il paese era circondato da un fossato con ponte levatoio. Dentro si trovano la Chiesa Matrice, duecentesca, il Palazzo Marchesale e il Palazzo dell'Orologio.
+
+La mossa migliore è non avere un programma: i vicoli sono pochi e corti, e ti riportano comunque verso il bordo della roccia. Cerca i punti panoramici, quelli in cui il centro finisce e comincia il vuoto sopra il mare.
+
+Lama Monachile: come scendere e quando andare#
+
+La Lama Monachile è la cala che taglia la scogliera ed è, secondo Italia.it, il punto più fotografato del paese, molto affollato d'estate. Il ponte che la sovrasta poggia su un ponte romano sulla via Traiana, la strada Roma-Brindisi; la voce di Wikipedia aggiunge che il ponte è ancora percorribile e che fu ristrutturato nel 1997. Il nome, sempre secondo Wikipedia, ricorda l'antica presenza della foca monaca. Sempre sul lungomare c'è la statua di Domenico Modugno, nato a Polignano e autore di "Nel blu dipinto di blu".
+
+Per scendere in spiaggia una guida di settore, Spiagge.it, indica due percorsi: la scalinata in pietra sotto il ponte romano, più diretta e panoramica, e il sentiero vicino al Bastione di Santo Stefano, più dolce e meno ripido. La spiaggia è di ciottoli, quindi servono scarpe comode; per chi ha mobilità ridotta il sentiero del Bastione è l'opzione meno ripida, ma la stessa fonte avverte che non ci sono passerelle fino alla riva. Per i tempi dell'anno, la guida consiglia giugno e settembre, con luglio e agosto più affollati, e per evitare la folla la mattina prima delle 9, il tardo pomeriggio dopo le 17 e i giorni feriali. Il mare mosso, aggiunge, rende la balneazione più difficile: guarda le bandiere.
+
+Tieni presente che queste indicazioni di stagione vengono da una guida privata, non da un'ordinanza. Sul sito del Comune, nella pagina che abbiamo aperto il 2 novembre 2026, non c'era nessuna informazione su accessi alla baia, parcheggi o navette turistiche: se ti serve una regola ufficiale, chiedi al Comune (telefono indicato in home page: 080 4252300).
+
+Grotte e Grotta Palazzese: cosa si sa e cosa no#
+
+Italia.it ricorda che lungo la costa si aprono una ventina di grotte marine, di cui la più grande è la Grotta Palazzese. Il palazzo sopra di essa è oggi un hotel a cinque stelle, con il ristorante ricavato nelle cavità naturali, e la grotta è ancora raggiungibile dal mare. Non diamo prezzi o orari: non li abbiamo letti su una fonte ufficiale e non nominiamo locali. Se ti interessa vederla da vicino senza auto, l'esperienza è via mare, e le modalità vanno chieste direttamente a chi le organizza.
+
+Fondazione Pascali: il museo d'arte contemporanea#
+
+Una tappa spesso saltata. Il Museo comunale d'arte contemporanea Pino Pascali ha sede nell'ex mattatoio comunale, in Via Parco del Lauro 119, vicino al lungomare sud. Secondo la scheda del Ministero della Cultura è aperto da mercoledì a domenica, dalle 16 alle 20, chiuso lunedì e martedì, senza obbligo di prenotazione; il biglietto intero costa 5 € e il ridotto 2,50 €. Il museo è stato aperto nel 1998 con una mostra antologica dedicata a Pino Pascali, nato a Polignano nel 1935. Attenzione alla data della scheda, ultimo aggiornamento settembre 2022: gli orari invernali e le mostre in corso vanno riverificati. Italia.it, per parte sua, colloca la Fondazione dal lato opposto del paese rispetto al centro storico e dice che ospita mostre di arte contemporanea.
+
+Camminata da Polignano a San Vito#
+
+Se ti avanza mezza giornata, Italia.it descrive una passeggiata di circa 40 minuti lungo la costa verso Bari, che attraversa le cale di Ponte dei Lapilli e Porto Cavallo e arriva a San Vito. Qui si trovano i ruderi di un'abbazia del X secolo e una torre quadrata; la frazione è nota per bar e ristoranti. È un'ottima soluzione senza auto: in 40 minuti vai, mangi o prendi un caffè e torni con calma. Controlla l'ora dell'ultimo treno prima di partire e lascia margine per il rientro, perché a piedi il tempo scorre più veloce del previsto.
+
+Cosa mangiare senza prenotare un tavolo#
+
+Sempre secondo Italia.it, i piatti da cercare sono la crudità di mare e il riso, patate e cozze. C'è anche una carota locale, la carota di Polignano, coltivata vicino all'abbazia di San Vito e presidio Slow Food. Tra le bevande è citato il caffè speciale: caffè zuccherato con scorza di limone, panna e amaretto, servito in un bicchierino. Non indichiamo locali, perché non abbiamo letto fonti che li indicassero, e ti consigliamo di scegliere dove vedi gente del posto seduta.
+
+Errori comuni a Polignano senza auto#
+
+Dare per scontato un orario del treno: i numeri che abbiamo trovato sono un campione di un sito terzo, non una tabella ufficiale.
+Arrivare al museo Pascali di mattina: è aperto solo il pomeriggio, e il lunedì e il martedì è chiuso.
+Scendere in spiaggia con calzature leggere: la spiaggia è di ciottoli e i percorsi sono ripidi.
+Contare su una spiaggia tranquilla nei giorni più affollati dell'estate: le guide di settore indicano luglio e agosto come i mesi di maggior affluenza.
+Lasciare il rientro all'ultimo: se vai a San Vito a piedi, calcola anche il ritorno.
+
+Piano B se cambia il tempo#
+
+Con mare mosso la guida di settore ricorda che fare il bagno diventa più difficile, e con la pioggia la discesa in spiaggia perde senso. In quei giorni punta sul centro storico, sul museo Pascali (dalle 16, da mercoledì a domenica) e su una pausa al coperto. Se ti manca un'alternativa, il treno regionale ti porta in altre città pugliesi: leggi Lecce in un giorno per un itinerario a piedi con la stessa logica.
+
+Quanto spendere (medie indicative)#
+
+Per una persona adulta, il conto di una giornata senza auto è basso: circa 4 € a tratta per il treno regionale secondo l'aggregatore, quindi sui 8 € andata e ritorno, più 5 € se aggiungi il museo Pascali. Non sono prezzi ufficiali e dipendono da treno scelto e riduzioni; non includono cibo, per cui non azzardiamo cifre.
+
+Se hai ancora tempo#
+
+Per un altro giro a piedi del Sud, guarda Matera e i Sassi, dove l'orario conta quanto in Puglia. Per un'altra costa da fare senza auto c'è Cinque Terre a piedi; per una città da mangiare in una giornata, Bologna. Se vuoi una guida su come usare l'intelligenza artificiale per pianificare senza orari inventati, leggi itinerario turistico con l'AI: cosa funziona.
+
+ConsiglioSe puoi scegliere, arriva con il primo treno utile del mattino e guarda la Lama Monachile prima delle 9: la guida di settore indica proprio quella fascia come la più tranquilla. Lascia il museo Pascali per il pomeriggio, quando apre.
+
+Se cambia la giornata#
+
+UNNIVAI è pensata per riscrivere il percorso quando cambiano tempo, orario del treno o stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
+
+Orari, prezzi e giorni di apertura sono letti sulle fonti indicate e verificati il 2 novembre 2026; cambiano durante l'anno: controlla prima di partire. Dove le fonti non erano ufficiali o discordavano lo abbiamo scritto; non siamo riusciti a verificare la distanza stazione-centro, la presenza di ZTL e navette, gli orari ufficiali dei treni e le modalità per vedere le grotte dal mare.
+
 
 # Palermo street food: mercati, orari e cosa ordinare
 URL: https://unnivai.com/blog/palermo-street-food-mercati-orari-cosa-ordinare
@@ -1397,6 +1487,94 @@ Il piano B si costruisce prima#
 Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
 
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
+
+
+# Polignano a Mare without a car: train, on foot, what to see
+URL: https://unnivai.com/en/blog/polignano-a-mare-without-a-car
+Language: en
+Updated: 2026-11-02
+
+Polignano a Mare is made for people who arrive on foot: a white old town on the cliff edge, a small cove squeezed between the rocks and a seafront path that reaches almost to Bari. You do not need a car here. This guide puts in order how to get there by public transport, what to do once you step off the train, and which facts we honestly could not verify.
+
+In short. You reach Polignano a Mare easily by regional train on the Bari-Lecce line and everything else is on foot: the Arco Marchesale, the old town, Lama Monachile and, if you like, the roughly 40-minute coastal walk to San Vito. The Pascali museum opens only in the afternoon and only Wednesday to Sunday. For train times and fares always use the Trenitalia site: the frequency and price figures in this guide come from third-party sites.
+
+Lama Monachile and the old town of Polignano a Mare, in a night view Photo: Riccardo Noya, CC BY-SA 4.0, Wikimedia Commons
+The bridge over Lama Monachile with the old town houses behind it, Polignano a Mare Photo: Giacomo Resta, CC BY-SA 4.0, Wikimedia Commons
+How do you get to Polignano a Mare without a car?#
+
+The town is about 33 kilometres south of Bari on the Bari-Lecce route and borders Mola di Bari, Conversano, Castellana Grotte and Monopoli, according to the Italian Wikipedia entry. The station is on the Adriatic railway, the line linking Bari and Lecce: the Italian Wikipedia says it is served by regional trains and some long-distance ones. It has three tracks, the first for trains from Bari towards Lecce, the second for the opposite direction and the third for passing. The English Wikipedia page adds that Trenitalia runs the regional service, RFI owns the infrastructure, and the station opened in 1865.
+
+One limit to state at once: none of the pages we read gives the distance between the station and the old town, so we do not say how many minutes the walk takes. The practical advice is to check the map before you travel and decide whether the walk suits you with luggage.
+
+How many trains are there and what do they cost?#
+
+For numbers we had to rely on a travel aggregator, which is not an official source and should be treated with caution. The Omio page for Bari to Polignano a Mare listed, for the date searched, about 34 trains a day and an average fare of 4 € for the regional train; the Intercity listed cost 9 €. On duration the same page gives two figures that do not quite match: it speaks of 34 minutes on board as an average, but for the listed runs it says between 17 and 28 minutes. We report both and tell you we do not know which better describes your train: look at the timetable for your day.
+
+Also from that page, and only as a sample for a single date, the first listed departure was at 5:02 and the last at 20:40. These are not the "usual" hours, just a sample. The Trenitalia regional pages we opened say something useful for families: in Puglia children up to ten (not yet ten) travel free with an adult holding a valid ticket, and from ten there are no age-based discounts.
+
+There is also the bus. The same aggregator lists Ferrovie del Sud Est runs of 40-45 minutes, from 3 €, with the first of the sample at 12:10 and the last at 20:00. For an early start, then, the train is the easier choice.
+
+What about from Bari airport?#
+
+The Rome2rio route comparison, again an estimate and not a timetable, lists as fastest the train from the airport to Bari Centrale and then a change for Polignano, in about 1 hour 27 minutes, at 10 to 14 dollars (the page uses dollars). As alternatives it offers city line 16 to Bari Centrale and then a bus, in about 2 hours 40, or line 16 plus the train, in about 2 hours 6. Driving is given as about 40 minutes and a taxi as 40 minutes too, at a much higher cost. The Trenitalia page about the airport gives no frequencies or times: it only confirms there is an airport connections section and that digital regional tickets can be bought.
+
+What to do on arrival: the Arco Marchesale and the old town#
+
+From the station you walk towards the sea and the old town. According to Italia.it, the official tourism portal, the old town is a maze of narrow lanes of white houses of medieval origin built on the cliff, and the traditional entrance is the 16th-century Arco Marchesale, or Porta Grande. Until 1780 it was the only way in: the town was surrounded by a moat with a drawbridge. Inside are the 13th-century Chiesa Matrice, the Palazzo Marchesale and the Palazzo dell'Orologio.
+
+The best approach is to have no plan: the lanes are few and short, and they bring you back to the edge of the rock anyway. Look for the viewpoints, where the town ends and the drop over the sea begins.
+
+Lama Monachile: how to get down and when to go#
+
+Lama Monachile is the cove cutting through the cliff and, per Italia.it, the most photographed spot in town, very crowded in summer. The bridge above it stands on a Roman bridge on the Via Traiana, the Rome-Brindisi road; the Wikipedia entry adds that it can still be walked and was restored in 1997. The name, again per Wikipedia, recalls the old presence of the monk seal. On the seafront there is also the statue of Domenico Modugno, born in Polignano and author of "Nel blu dipinto di blu".
+
+To reach the beach, a beach guide, Spiagge.it, lists two routes: the stone staircase under the Roman bridge, more direct and scenic, and the path near the Bastione di Santo Stefano, gentler and less steep. The beach is pebbles, so wear comfortable shoes; for reduced mobility the Bastione path is the least steep option, but the same source warns there are no walkways down to the water. On timing, the guide recommends June and September, with July and August the busiest, and to avoid crowds early morning before 9, late afternoon after 5 pm and weekdays. Rough sea, it adds, makes swimming harder: watch the flags.
+
+Keep in mind these seasonal hints come from a private guide, not from a local order. The Municipality's home page, which we opened on 2 November 2026, had nothing on access to the cove, parking or tourist shuttles: if you need an official rule, ask the Comune (phone on the home page: +39 080 4252300).
+
+Caves and the Grotta Palazzese: what is known and what is not#
+
+Italia.it notes that about twenty sea caves open along the coast, the largest being the Grotta Palazzese. The palace above it is now a five-star hotel with its restaurant carved into the natural cavities, and the cave can still be reached by sea. We give no prices or hours: we did not read them on an official source and we name no venues. If you want to see it up close without a car, the experience is by sea, and the terms must be asked of whoever runs it.
+
+The Pascali foundation: contemporary art#
+
+A stop people often skip. The Pino Pascali municipal museum of contemporary art is in the former municipal slaughterhouse, at Via Parco del Lauro 119, near the southern seafront. According to the Ministry of Culture listing it is open Wednesday to Sunday, 4 pm to 8 pm, closed Monday and Tuesday, with no booking required; the full ticket is 5 € and reduced 2.50 €. The museum opened in 1998 with a retrospective of Pino Pascali, born in Polignano in 1935. Mind the listing date, last updated in September 2022: winter hours and current exhibitions need rechecking. Italia.it, for its part, places the foundation on the opposite side of town from the old centre and says it hosts contemporary art shows.
+
+The walk from Polignano to San Vito#
+
+If you have half a day left, Italia.it describes a walk of about 40 minutes along the coast towards Bari, past the coves of Ponte dei Lapilli and Porto Cavallo, to San Vito. There are the ruins of a 10th-century abbey and a square tower; the village is known for bars and restaurants. It is a good car-free option: 40 minutes out, a meal or a coffee, and back at an easy pace. Check the last train before you go and leave a margin for the return, because on foot time runs faster than you expect.
+
+What to eat without booking a table#
+
+Again per Italia.it, the dishes to look for are raw seafood and riso, patate e cozze (rice, potatoes and mussels). There is also a local carrot, the carota di Polignano, grown near the San Vito abbey and a Slow Food presidium. Among drinks it cites the caffè speciale: sweetened coffee with lemon peel, cream and amaretto, served in a small glass. We name no venues, because no source we read did, and suggest you pick a place where you see locals sitting.
+
+Common mistakes in Polignano without a car#
+
+Assuming a train time: the figures we found are a sample from a third-party site, not an official table.
+Turning up at the Pascali museum in the morning: it opens only in the afternoon, and is closed Monday and Tuesday.
+Going down to the beach in light footwear: it is pebbles and the paths are steep.
+Counting on a quiet beach on the busiest summer days: beach guides list July and August as the peak.
+Leaving the return to the last minute: if you walk to San Vito, count the way back too.
+
+Plan B if the weather changes#
+
+In rough sea the beach guide notes that swimming becomes harder, and in rain the walk down to the beach makes less sense. On those days lean on the old town, the Pascali museum (from 4 pm, Wednesday to Sunday) and an indoor break. For another walkable Puglia day on the same logic, read one day in Lecce.
+
+What to spend (indicative averages)#
+
+For an adult the cost of a car-free day is low: about 4 € each way for the regional train according to the aggregator, so around 8 € return, plus 5 € if you add the Pascali museum. These are not official prices and depend on the train and any discounts; they do not include food, so we give no figures.
+
+If you have more time#
+
+For another walkable southern town, see Matera and the Sassi, where timing matters as much as in Puglia. For another coast without a car there is Cinque Terre on foot; for a city to eat through in one day, Bologna. If you wonder how to use AI to plan without made-up hours, read AI travel itineraries: what works.
+
+ConsiglioIf you can choose, take the first useful morning train and see Lama Monachile before 9: the beach guide names that slot as the quietest. Keep the Pascali museum for the afternoon, when it opens.
+
+If your day changes#
+
+UNNIVAI is built to rewrite the route when the weather, train time or tiredness change: same walk, different order. If it sounds useful, join the first people in.
+
+Hours, prices and opening days were read on the sources listed and checked on 2 November 2026; they change during the year: check before you go. Where sources were not official or disagreed we said so; we could not verify the station-to-centre distance, whether there are traffic-restricted zones or shuttles, official train timetables, or how to see the caves from the sea.
 
 
 # What to eat in Naples, in the order of the day

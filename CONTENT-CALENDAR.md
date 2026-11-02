@@ -15,7 +15,7 @@ Fonti consigliate = punto di partenza, non sostituiscono la verifica: ogni dato 
 | 7 | [x] | Basilicata | Matera: come visitare i Sassi (e quando) | Visiting Matera's Sassi | Itinerario + logistica | Comune, Fondazione Matera, UNESCO |
 | 8 | [x] | Liguria | Cinque Terre a piedi: sentieri, treni e cosa è chiuso | Cinque Terre on foot | Logistica | Parco Nazionale, Trenitalia |
 | 9 | [x] | Emilia-Romagna | Bologna: tortellini, portici e una giornata | Bologna in a day | Cibo + itinerario | Comune, UNESCO portici |
-| 10 | [ ] | Puglia | Polignano a Mare e dintorni: cosa fare senza auto | Polignano a Mare without a car | Logistica | Comune, Ferrovie Sud Est |
+| 10 | [x] | Puglia | Polignano a Mare e dintorni: cosa fare senza auto | Polignano a Mare without a car | Logistica | Comune, Ferrovie Sud Est |
 | 11 | [ ] | Piemonte | Torino: musei, caffè storici e giornata di pioggia | Turin on a rainy day | Piano B | Musei Torino, Comune |
 | 12 | [ ] | Sicilia | Taormina e l'Etna: una giornata, come organizzarla | Taormina and Etna in a day | Itinerario | Parco dell'Etna, Parco archeologico |
 | 13 | [ ] | Lazio | Roma: 5 quartieri oltre il Colosseo | Rome beyond the Colosseum | Itinerario | Roma Capitale, musei civici |

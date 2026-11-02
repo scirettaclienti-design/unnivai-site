@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Polignano a Mare senza auto: treno, piedi e cosa vedere](https://unnivai.com/blog/polignano-a-mare-senza-auto): Come visitare Polignano a Mare senza macchina: treno da Bari, centro storico, Lama Monachile, museo Pascali e passeggiata a San Vito, con fonti ufficiali.
 - [Palermo street food: mercati, orari e cosa ordinare](https://unnivai.com/blog/palermo-street-food-mercati-orari-cosa-ordinare): Capo, Ballarò e Vucciria a Palermo: a che ora andare, cosa ordinare (panelle, arancina, sfincione, pani ca meusa) e quanto costa, con le fonti che discordano.
 - [Cosa mangiare a Napoli: la giornata in ordine di assaggio](https://unnivai.com/blog/napoli-cosa-mangiare-in-ordine-di-giornata): Sfogliatella, pizza fritta, portafoglio, cuoppo, babà e pizza STG: cosa mangiare a Napoli e a che ora, con prezzi indicativi e fonti che discordano.
 - [Milano in un weekend con la pioggia: itinerario Piano B](https://unnivai.com/blog/milano-in-un-weekend-con-la-pioggia): Due giorni a Milano quando piove: Duomo, Galleria, Novecento, Castello, Brera e Cenacolo, con orari, prezzi indicativi e giorni di chiusura da fonti ufficiali.
@@ -20,6 +21,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [Polignano a Mare without a car: train, on foot, what to see](https://unnivai.com/en/blog/polignano-a-mare-without-a-car): How to visit Polignano a Mare without a car: train from Bari, old town, Lama Monachile, the Pascali museum and the coastal walk to San Vito, with sources.
 - [What to eat in Naples, in the order of the day](https://unnivai.com/en/blog/what-to-eat-in-naples): Sfogliatella, fried pizza, pizza a portafoglio, cuoppo, babà and STG pizza: what to eat in Naples and when, with indicative prices and where sources disagree.
 - [Visiting Matera's Sassi: how to see them and when to go](https://unnivai.com/en/blog/visiting-matera-sassi-and-when-to-go): The Sassi of Matera on foot in one day: a route through Sasso Barisano and Caveoso, the Casa Grotta, how to get there and when to go, with official sources.
 - [Palermo street food guide: markets, hours and what to order](https://unnivai.com/en/blog/palermo-street-food-guide): Capo, Ballarò and Vucciria in Palermo: when to go, what to order (panelle, arancina, sfincione, pani ca meusa) and what it costs, with sources that disagree.

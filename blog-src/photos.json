@@ -110,5 +110,21 @@
   "url": "https://commons.wikimedia.org/wiki/File:Lecce_-_anfiteatro_romano_di_Lecce_-_202109291412.jpg",
   "w": 1400,
   "h": 788
+ },
+ "lama-monachile": {
+  "file": "File:Lama Monachile Polignano.jpg",
+  "artist": "Riccardo Noya",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Lama_Monachile_Polignano.jpg",
+  "w": 1400,
+  "h": 871
+ },
+ "ponte-monachile": {
+  "file": "File:Polignano a Mare - ponte Lama Monachile - 202209071759.jpg",
+  "artist": "Giacomo Resta",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Polignano_a_Mare_-_ponte_Lama_Monachile_-_202209071759.jpg",
+  "w": 1400,
+  "h": 1050
  }
 }

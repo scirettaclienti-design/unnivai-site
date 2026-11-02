@@ -42,6 +42,8 @@ Florence goes wrong in two ways: standing in line in the sun outside a museum, o
 
 :::widget days
 
+:::foto firenze-duomo-cupola | Florence Cathedral with its dome, the Baptistery and Giotto's Bell Tower in Piazza del Duomo
+
 ## Day 1: Duomo, Dome and Accademia
 
 You start where the Pass forces you to be on time: the Dome. The Brunelleschi Pass includes entry to the Baptistery of San Giovanni, Giotto's Bell Tower, the Dome, the Museo dell'Opera del Duomo and the basilica of Santa Reparata, with one entry per monument, valid for 3 calendar days. Validity starts from the date chosen for the Dome, and the booked day and time cannot be changed: choose carefully. The other monuments can be visited with no time restriction.
@@ -56,9 +58,13 @@ The afternoon is for the Galleria dell'Accademia. According to the museum's site
 
 The Uffizi are open Tuesday to Sunday from 8:15 am to 6:30 pm, last entry 5:30 pm. The ticket is named, and the price changes with the day of purchase: 25 € full if bought on the same day, 29 € if bought earlier. There is also an "Afternoon" promotion, since 1 January 2026: for those who enter from 4 pm onwards the ticket costs 16 € (20 € if bought in advance). The museum occupies the first and second floors of the building put up between 1560 and 1580 to a design by Giorgio Vasari, and the names the site mentions include Giotto, Botticelli, Leonardo, Raphael, Michelangelo and Caravaggio.
 
+:::foto firenze-piazzale-uffizi | The Piazzale degli Uffizi seen from above, with the tower of Palazzo Vecchio in the background
+
 Two practical notes. The audio guide costs 6 € and handover stops at 5 pm; the cloakroom is free and umbrellas, backpacks and large bags must be left there. We do not name an ideal time to go in: it depends on your tolerance for crowds, and the site gives no attendance data.
 
 Leave the afternoon of day two free. After a morning of masterpieces your head asks for air: a walk through the squares and bridges, with no tickets, is the best way to finish.
+
+:::foto firenze-ponte-vecchio | The Ponte Vecchio seen from the bank of the Arno, with the houses overlooking the river
 
 ## How much to spend (indicative averages)
 

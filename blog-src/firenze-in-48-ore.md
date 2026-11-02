@@ -41,6 +41,8 @@ Firenze si fa male in due modi: con la fila sotto il sole davanti a un museo, o 
 
 :::widget days
 
+:::foto firenze-duomo-cupola | La Cattedrale di Santa Maria del Fiore con la cupola, il Battistero e il Campanile di Giotto in Piazza del Duomo
+
 ## Giorno 1: Duomo, Cupola e Accademia
 
 Si comincia da dove il Pass ti obbliga a essere puntuale: la Cupola. Il Brunelleschi Pass include l'accesso al Battistero di San Giovanni, al Campanile di Giotto, alla Cupola, al Museo dell'Opera del Duomo e alla basilica di Santa Reparata, con un ingresso per ogni monumento, valido 3 giorni di calendario. La validità decorre dalla data scelta per la Cupola, e la prenotazione di giorno e orario non è modificabile: scegli con attenzione. Il resto dei monumenti si visita senza vincolo di orario.
@@ -55,9 +57,13 @@ Il pomeriggio è per la Galleria dell'Accademia. Secondo il sito del museo è ap
 
 Gli Uffizi aprono dal martedì alla domenica dalle 8:15 alle 18:30, con ultimo ingresso alle 17:30. Il biglietto è nominativo, e il prezzo cambia con il giorno d'acquisto: 25 € intero se lo compri il giorno stesso, 29 € se lo compri prima. C'è anche una promozione "Pomeriggio", dall'1 gennaio 2026: per chi entra dalle 16 in poi il biglietto costa 16 € (20 € se acquistato in anticipo). Il museo occupa il primo e il secondo piano dell'edificio costruito tra il 1560 e il 1580 su progetto di Giorgio Vasari, e tra i nomi che il sito cita ci sono Giotto, Botticelli, Leonardo, Raffaello, Michelangelo e Caravaggio.
 
+:::foto firenze-piazzale-uffizi | Il Piazzale degli Uffizi visto dall'alto, con la torre di Palazzo Vecchio sullo sfondo
+
 Due note pratiche. L'audioguida costa 6 € e la consegna è attiva fino alle 17; il guardaroba è gratuito e vanno depositati ombrelli, zaini e borse grandi. Non indico un'ora ideale per entrare: dipende dalla tua tolleranza alla folla, e il sito non fornisce dati sull'affluenza.
 
 Il pomeriggio del secondo giorno lascialo libero. Dopo una mattina di capolavori la testa chiede aria: un giro a piedi tra le piazze e i ponti, senza biglietti, è il modo migliore per chiudere.
+
+:::foto firenze-ponte-vecchio | Il Ponte Vecchio visto dalla riva dell'Arno, con le case affacciate sul fiume
 
 ## Quanto spendere (medie indicative)
 

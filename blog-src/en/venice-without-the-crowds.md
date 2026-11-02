@@ -33,6 +33,8 @@ Venice is not a city to "do": it is a city to cross in a certain order, at certa
 
 > **In short.** Today there is no access fee to enter Venice (the 2026 trial ended on 26 July; in 2027 it returns on fixed days between March and August, from 8:30 to 16:30). To avoid the crowds go early in the morning or after sunset, put the middle of the day in Cannaregio and Castello, and eat at the counter in a bacaro rather than at the tables around San Marco. For vaporetto and markets always check the official pages: prices and days change.
 
+:::foto venezia-ponte-rialto | The Grand Canal with the Rialto Bridge in the background, gondolas and boats passing by
+
 :::tappe
 - Early morning | Rialto: market and Erbaria | The market gives its best in the first part of the morning; fruit and vegetables, according to two sites, close at 13:30.
 - Mid-morning | Cannaregio | Fondamenta, canals and the ghetto: here the city runs at the pace of its residents.
@@ -54,6 +56,8 @@ The simplest strategy is also the oldest one: change the hour. A local guide rea
 
 The second lever is the district. Local sites point to Cannaregio and Castello as the most authentic sestieri: in Cannaregio the church of Madonna dell'Orto (where Tintoretto's tomb is) and the Misericordia canal, in Castello Via Garibaldi, the gardens and the Arsenale. Among lesser-known places the same guide cites the cloisters of the Carmelitani Scalzi and of San Francesco della Vigna. Among the official Venezia Unica itineraries there is one on the Giudecca and San Giorgio Maggiore that ends with the view from the San Giorgio bell tower, 75 metres tall, and one on Cannaregio. Keep in mind that the more commercial tourism sites also carry paid offers: I used only the descriptive information, not the purchase suggestions.
 
+:::foto venezia-rio-misericordia | The Rio della Misericordia in Cannaregio, with the quayside and boats moored along the canal
+
 ## Vaporetto: which ticket do you really need?
 
 On the official AVM site the main prices are these: ordinary 75-minute ticket on the single network 9.50 €, 24 hours 25 €, 48 hours 35 €, 72 hours 45 €, 7 days 65 €. The time ticket is valid on all land and water vehicles and allows unlimited trips within the time band that starts at first validation; connections to Marco Polo airport are not included. The ticket must be validated as soon as you board, by touching it to the validator, and each change of vehicle needs a new validation. The page also lists a "Rolling Venice - Youth" offer with a 72-hour ticket at 27 €: I did not read the conditions, so check before relying on it.
@@ -73,6 +77,8 @@ How much does it cost? The site gives 0.60 to 2 € for a glass of wine and 1 to
 ## Rialto market: when to go
 
 At Rialto you find the historic market, with the fish market and the Erbaria area. Two Venetian accommodations that describe the market on their sites give hours that are nearly identical but not the same: the fish market Tuesday to Saturday (7:30 to 12:00) for one, Tuesday to Friday (7:30 to 12:00) for the other; fruit and vegetables Monday to Saturday until 13:30 for both. Saturday is therefore the uncertain day: I found no City page resolving the discrepancy. One of the two sites also recalls that the fish market's Loggia dates from 1907, the work of Domenico Rupolo, with different capitals inspired by fishing, and that the island of Sant'Erasmo is traditionally tied to the produce sold here. If you want to see the market at its best, go in the first part of the morning: it is the moment when daily life is most visible. Later, the stalls empty out.
+
+:::foto venezia-pescheria-rialto | The Pescheria at Rialto, the fish market building facing the Grand Canal
 
 ## What to leave out
 

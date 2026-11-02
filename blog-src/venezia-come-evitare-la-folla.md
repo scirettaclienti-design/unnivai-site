@@ -32,6 +32,8 @@ Venezia non è una città da "fare": è una città da attraversare in un certo o
 
 > **In breve.** Oggi a Venezia non si paga alcun contributo di accesso (la sperimentazione 2026 è finita il 26 luglio; nel 2027 tornerà in giornate fissate tra marzo e agosto, dalle 8.30 alle 16.30). Per evitare la folla vai al mattino presto o dopo il tramonto, sposta il centro della giornata a Cannaregio e Castello, mangia a bancone nei bacari invece che ai tavoli intorno a San Marco. Per vaporetto e mercati controlla sempre le pagine ufficiali: prezzi e giorni cambiano.
 
+:::foto venezia-ponte-rialto | Il Canal Grande con il Ponte di Rialto sullo sfondo, gondole e barche in transito
+
 :::tappe
 - Mattina presto | Rialto: mercato e Erbaria | Il mercato dà il meglio nella prima parte della mattina; frutta e verdura, secondo due siti, chiudono alle 13.30.
 - Metà mattina | Cannaregio | Fondamenta, canali e il ghetto: qui la città scorre a ritmo di residenti.
@@ -53,6 +55,8 @@ La strategia più semplice è anche la più antica: cambiare ora. Una guida loca
 
 La seconda leva è il quartiere. I siti locali indicano Cannaregio e Castello come i sestieri più autentici: a Cannaregio la chiesa della Madonna dell'Orto (dove si trova la tomba di Tintoretto) e il canale della Misericordia, a Castello via Garibaldi, i giardini e l'Arsenale. Tra i luoghi poco noti la stessa guida cita i chiostri dei Carmelitani Scalzi e di San Francesco della Vigna. Fra gli itinerari ufficiali di Venezia Unica ce n'è uno sulla Giudecca e San Giorgio Maggiore che termina con la vista dal campanile di San Giorgio, alto 75 metri, e uno su Cannaregio. Tieni presente che i siti turistici più commerciali riportano anche proposte a pagamento: ho usato solo le informazioni descrittive, non i consigli di acquisto.
 
+:::foto venezia-rio-misericordia | Il Rio della Misericordia a Cannaregio, con la fondamenta e le barche ormeggiate lungo il canale
+
 ## Vaporetto: quale biglietto serve davvero?
 
 Sul sito ufficiale di AVM i prezzi principali sono questi: biglietto ordinario da 75 minuti sulla rete unica 9,50 €, 24 ore 25 €, 48 ore 35 €, 72 ore 45 €, 7 giorni 65 €. Il biglietto a tempo è valido su tutti i mezzi di terra e di navigazione e permette viaggi illimitati nella fascia oraria che parte alla prima validazione; i collegamenti con l'aeroporto Marco Polo non sono compresi. Il biglietto va convalidato appena saliti, avvicinandolo alla validatrice, e a ogni cambio di mezzo serve una nuova convalida. La pagina indica anche un'offerta "Rolling Venice - Giovani" con biglietto 72 ore a 27 €: non ho letto le condizioni, quindi verifica prima di contarci.
@@ -72,6 +76,8 @@ Quanto costa? Il sito riporta da 0,60 a 2 € per un bicchiere di vino e da 1 a 
 ## Il mercato di Rialto: quando andare
 
 A Rialto si trova il mercato storico, con la pescheria e la zona dell'Erbaria. Due strutture ricettive veneziane che descrivono il mercato nel loro sito riportano orari quasi identici ma non uguali: il pesce dal martedì al sabato (7.30-12) per uno, dal martedì al venerdì (7.30-12) per l'altro; frutta e verdura dal lunedì al sabato fino alle 13.30 per entrambi. Il sabato è dunque il giorno incerto: non ho trovato una pagina del Comune che risolva la discordanza. Uno dei due siti ricorda anche che la Loggia della pescheria è del 1907, opera di Domenico Rupolo, con capitelli diversi ispirati alla pesca, e che l'isola di Sant'Erasmo è tradizionalmente legata ai prodotti che si vendono qui. Se vuoi vedere il mercato nel suo momento migliore, vai nella prima parte della mattina: è il momento in cui la vita quotidiana è più visibile. Dopo, le bancarelle si svuotano.
+
+:::foto venezia-pescheria-rialto | La Pescheria di Rialto, l'edificio del mercato del pesce affacciato sul Canal Grande
 
 ## Cosa lasciare fuori
 

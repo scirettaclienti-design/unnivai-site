@@ -67,6 +67,8 @@ The Comune di Matera suggests a walking route that starts at the Villa Comunale 
 
 From via Fiorentini you climb the Civita, the old heart dominated by the Cathedral. We did not verify the Cathedral's hours or admission: check on the spot.
 
+:::foto matera-piazza-duomo-vista | Pale stone houses of the Sasso Barisano and the Civita seen from above, with green doors and shutters among the rooftops
+
 ## Lunch break: what to taste
 
 Italia.it points to three dishes to start with: cialledda (bread soaked with tomato, garlic and olives, hot with egg and bay leaf or cold), Senise crusco peppers, and pignata, mutton slow-cooked in a clay pot with potatoes, tomatoes and soppressata. We name no restaurants because we have not verified any.
@@ -80,6 +82,8 @@ The Storica Casa Grotta di Vico Solitario is the clearest place to understand ho
 ## End of the day: the viewpoints
 
 For the classic view of the stone nativity scene, Italia.it recommends the Belvedere of Murgia Timone in the Murgia Materana Park, especially towards evening. The Comune also mentions a Belvedere square reachable by car from the SS 7 Appia towards Laterza. Piazzetta Pascoli, in the centre, is a balcony over the Sassi without going far.
+
+:::foto matera-sasso-barisano-sera | The Sasso Barisano at dusk, with lit stone houses and a bell tower above
 
 ## If you have a second day
 

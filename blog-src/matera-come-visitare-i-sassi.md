@@ -66,6 +66,8 @@ Il Comune di Matera propone un percorso a piedi che parte dalla Villa Comunale e
 
 Da via Fiorentini si risale la Civita, il cuore antico dominato dalla Cattedrale. Non ho verificato orari e ingresso della Cattedrale: controlla sul posto.
 
+:::foto matera-piazza-duomo-vista | Le case in pietra chiara del Sasso Barisano e della Civita viste dall'alto, con finestre e porte verdi tra i tetti
+
 ## Pausa pranzo: cosa assaggiare
 
 Italia.it indica tre piatti per cominciare: la cialledda (pane bagnato con pomodoro, aglio e olive, caldo con uova e alloro oppure freddo), i peperoni cruschi di Senise e la pignata, un piatto di montone cotto lentamente in una pentola di terracotta con patate, pomodori e soppressata. Non indico locali perché non ne ho verificati.
@@ -79,6 +81,8 @@ La Storica Casa Grotta di Vico Solitario è il posto più chiaro per capire come
 ## Fine giornata: i belvedere
 
 Per la vista classica sul presepe di pietra, Italia.it consiglia il Belvedere di Murgia Timone nel Parco della Murgia Materana, soprattutto verso sera. Il Comune indica anche un piazzale Belvedere raggiungibile in auto dalla SS 7 Appia in direzione Laterza. La piazzetta Pascoli, in centro, è un balcone sui Sassi senza bisogno di allontanarsi.
+
+:::foto matera-sasso-barisano-sera | Il Sasso Barisano all'ora blu, con le case in pietra illuminate e il campanile in alto
 
 ## Se hai un secondo giorno
 

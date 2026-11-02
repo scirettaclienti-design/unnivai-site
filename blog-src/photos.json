@@ -302,5 +302,21 @@
   "url": "https://commons.wikimedia.org/wiki/File:Piazza_del_Campidoglio_with_the_Marcus_Aurelius_replica,_Rome.jpg",
   "w": 1400,
   "h": 989
+ },
+ "matera-piazza-duomo-vista": {
+  "file": "File:Matera - View from Piazza Duomo - 1.jpg",
+  "artist": "Benjamin Smith",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Matera_-_View_from_Piazza_Duomo_-_1.jpg",
+  "w": 1400,
+  "h": 934
+ },
+ "cinque-terre-sentiero-corniglia": {
+  "file": "File:Vernazza from the Corniglia trail, Cinque Terre, Italy, April 2026.jpg",
+  "artist": "Mathieu Chollet - MChollet",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Vernazza_from_the_Corniglia_trail,_Cinque_Terre,_Italy,_April_2026.jpg",
+  "w": 1400,
+  "h": 1050
  }
 }

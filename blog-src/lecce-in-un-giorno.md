@@ -35,9 +35,7 @@ Lecce è una città da camminare con il naso in su. Il barocco leccese non si ca
 
 > **In breve.** Colazione con pasticciotto, anfiteatro in Piazza Sant'Oronzo e Museo Faggiano al mattino, castello a metà giornata, itinerario barocco (Duomo, Santa Croce) nel pomeriggio. Da ottobre a marzo le chiese chiudono alle 18 e l'anfiteatro chiude intorno alle 15:30: l'ordine delle tappe conta. Evita il lunedì.
 
-:::foto anfiteatro-lecce | L'anfiteatro romano in Piazza Sant'Oronzo, a Lecce
-
-:::foto santa-croce-lecce | Particolare della facciata della Basilica di Santa Croce, a Lecce
+:::foto lecce-piazza-sant-oronzo | Piazza Sant'Oronzo a Lecce, con il Sedile, la colonna del santo e le gradinate dell'anfiteatro romano in primo piano
 
 :::tappe
 - Colazione | Pasticciotto in un bar del centro | Frolla e crema, meglio ancora tiepido. È il rito salentino del mattino.
@@ -70,6 +68,8 @@ Non indico locali: in una città con questa densità di pasticcerie, entra dove 
 
 Qui le fonti non coincidono, e conviene saperlo. Il sito del Ministero e la biglietteria ufficiale riportano un biglietto intero da 5 € (ridotto 2 €), mentre il portale turistico Visit Lecce indica 10 € per gli adulti. Ti consiglio di fidarti della biglietteria ufficiale e di verificare al momento dell'acquisto. Sempre sulla biglietteria è indicato che l'ingresso è gratuito il 4 novembre 2026 e ogni prima domenica del mese, e che il Teatro romano è momentaneamente chiuso per lavori di riallestimento: il Museo del Teatro Romano, nella pagina del Comune, risulta aperto dal lunedì al sabato dalle 9:30 alle 13, con visite pomeridiane solo su prenotazione. Date e lavori cambiano: controlla prima.
 
+:::foto anfiteatro-lecce | L'anfiteatro romano in Piazza Sant'Oronzo, a Lecce
+
 ## Museo Faggiano: la pausa al coperto {coperto}
 
 Il Museo Faggiano è aperto ogni giorno dalle 9:30 alle 20 e costa 5 € per i singoli visitatori, con sconti per i ragazzi (gratis da 0 a 8 anni, 3 € da 8 a 16, secondo il sito). Dei musei del giro è quello con l'orario più comodo: resta aperto fino alle 20, quindi fa da jolly. Lo mettiamo a metà mattina perché è piccolo e non ti obbliga a incastri; se il tempo peggiora, puoi spostarlo di qualche ora senza perdere nulla.
@@ -83,6 +83,8 @@ Il castello si visita soltanto con una guida, in turni di circa 50 minuti. Da ot
 Il cuore del barocco leccese si fa con un solo biglietto: il Duomo con la sua cripta, la Basilica di Santa Croce, le chiese di San Matteo e Santa Chiara, l'antico Seminario con il chiostro e il Museo di arte sacra. Il sito ufficiale indica 11 € intero, 5 € ridotto e 24 € il biglietto family; se vuoi anche il panorama dal campanile del Duomo, il full ticket costa 21 € intero (13 € ridotto, 48 € family), con salite ogni 20 minuti. La biglietteria è in Piazza Duomo 5.
 
 Dedica tempo alla facciata di Santa Croce prima di entrare: è lì che la pietra racconta più cose. E non fare l'errore di entrare nelle chiese per ultime, alle 17:50: con la chiusura alle 18 e l'ingresso consentito fino a 15 minuti prima, rischi di pagare un biglietto e vedere poco.
+
+:::foto santa-croce-lecce | Particolare della facciata della Basilica di Santa Croce, a Lecce
 
 ## Il pranzo: cosa ordinare a Lecce {aperto}
 

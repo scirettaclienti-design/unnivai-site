@@ -36,9 +36,7 @@ Lecce is a city to walk with your chin up. Lecce baroque does not come across in
 
 > **In short.** Breakfast with a pasticciotto, the amphitheatre in Piazza Sant'Oronzo and the Faggiano museum in the morning, the castle around midday, the baroque route (Duomo, Santa Croce) in the afternoon. From October to March the churches close at 6 pm and the amphitheatre at about 3:30 pm, so the order of the stops matters. Avoid Mondays.
 
-:::foto anfiteatro-lecce | The Roman amphitheatre in Piazza Sant'Oronzo, Lecce
-
-:::foto santa-croce-lecce | Detail of the façade of the Basilica of Santa Croce, Lecce
+:::foto lecce-piazza-sant-oronzo | Piazza Sant'Oronzo in Lecce, with the Sedile, the saint's column and the tiers of the Roman amphitheatre in the foreground
 
 :::tappe
 - Breakfast | Pasticciotto in a café in the centre | Pastry and custard, even better lukewarm. It is the Salento morning ritual.
@@ -71,6 +69,8 @@ It is the first surprise of the day: at the most central point of the city, belo
 
 Here the sources do not agree, and it is worth knowing. The Ministry site and the official ticket office list a full ticket at 5 € (reduced 2 €), while the tourism portal Visit Lecce says 10 € for adults. We suggest trusting the official ticket office and checking at the moment of purchase. The ticket office also states that entry is free on 4 November 2026 and on the first Sunday of each month, and that the Roman Theatre is temporarily closed for refitting works. The Roman Theatre Museum, on the Comune's page, is listed as open Monday to Saturday from 9:30 am to 1 pm, with afternoon visits by reservation only. Dates and works change: check first.
 
+:::foto anfiteatro-lecce | The Roman amphitheatre in Piazza Sant'Oronzo, Lecce
+
 ## Faggiano museum: the indoor breather {coperto}
 
 The Faggiano museum is open every day from 9:30 am to 8 pm and costs 5 € for single visitors, with discounts for young people (free from 0 to 8 years, 3 € from 8 to 16, according to the site). Of the museums on this route it has the most convenient schedule: it stays open until 8 pm, so it works as a wildcard. We put it in mid-morning because it is small and does not force any awkward scheduling; if the weather turns, you can move it a few hours either way and lose nothing.
@@ -84,6 +84,8 @@ The castle can only be visited with a guide, in turns of about 50 minutes. From 
 The heart of Lecce baroque is done with one ticket: the Duomo with its crypt, the Basilica of Santa Croce, the churches of San Matteo and Santa Chiara, the old Seminary with its cloister and the Museum of Sacred Art. The official site lists 11 € full, 5 € reduced and 24 € family; if you also want the view from the Duomo bell tower, the full ticket costs 21 € (13 € reduced, 48 € family), with climbs every 20 minutes. The ticket office is at Piazza Duomo 5.
 
 Give the façade of Santa Croce some time before going in: it is where the stone says the most. And do not make the mistake of leaving the churches for last at 5:50 pm: with closing at 6 and entry allowed until 15 minutes before, you risk paying for a ticket and seeing little.
+
+:::foto santa-croce-lecce | Detail of the façade of the Basilica of Santa Croce, Lecce
 
 ## Lunch: what to order in Lecce {aperto}
 

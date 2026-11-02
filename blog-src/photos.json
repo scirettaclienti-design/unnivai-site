@@ -262,5 +262,45 @@
   "url": "https://commons.wikimedia.org/wiki/File:Pane_e_panelle.jpg",
   "w": 1400,
   "h": 1050
+ },
+ "palermo-vucciria-mercato": {
+  "file": "File:Mercato Vucciria - panoramio.jpg",
+  "artist": "trolvag",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Mercato_Vucciria_-_panoramio.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "napoli-spaccanapoli-vicolo": {
+  "file": "File:Napoli - Spaccanapoli (17340842723).jpg",
+  "artist": "Alpha 350 from Hungary",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Napoli_-_Spaccanapoli_(17340842723).jpg",
+  "w": 1400,
+  "h": 678
+ },
+ "roma-san-pietro-piazza": {
+  "file": "File:St. Peter's Basilica view from Saint Peter's Square, Vatican City, Rome, Italy.jpg",
+  "artist": "Mstyslav Chernov",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:St._Peter%27s_Basilica_view_from_Saint_Peter%27s_Square,_Vatican_City,_Rome,_Italy.jpg",
+  "w": 1400,
+  "h": 937
+ },
+ "matera-sasso-barisano-sera": {
+  "file": "File:Matera - Sasso Barisano at blue hour.jpg",
+  "artist": "Benjamin Smith",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Matera_-_Sasso_Barisano_at_blue_hour.jpg",
+  "w": 1400,
+  "h": 934
+ },
+ "roma-piazza-campidoglio": {
+  "file": "File:Piazza del Campidoglio with the Marcus Aurelius replica, Rome.jpg",
+  "artist": "Wilfredor",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Piazza_del_Campidoglio_with_the_Marcus_Aurelius_replica,_Rome.jpg",
+  "w": 1400,
+  "h": 989
  }
 }

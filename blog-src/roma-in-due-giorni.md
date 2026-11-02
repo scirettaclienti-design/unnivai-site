@@ -48,8 +48,6 @@ Roma si può vedere in due giorni se accetti una regola: non cercare di vedere t
 
 :::foto colosseo-foro | Il Colosseo visto dal Foro Romano
 
-:::foto pantheon-roma | La facciata del Pantheon a Roma
-
 ## Giorno 1: la Roma antica
 
 **Mattina: Colosseo, Foro e Palatino.** Sono vicini e si visitano con un unico biglietto. Sul sito ufficiale del Parco il biglietto standard è valido 24 ore e dà un solo accesso al Colosseo (primo e secondo ordine, senza arena) e un solo accesso a Foro Romano e Palatino. Questo significa che puoi spezzare la visita: Colosseo all'apertura, Foro e Palatino dopo pranzo, purché entro le 24 ore.
@@ -60,6 +58,8 @@ Gli orari contano. Secondo la pagina del Parco, dal 25 ottobre 2026 al 28 febbra
 
 **Pomeriggio: Campidoglio e centro.** Sali al Campidoglio per la vista sul Foro e prosegui a piedi verso il centro storico. È la parte elastica del giorno: se sei stanco, ti fermi lì; se hai energie, scendi verso il centro.
 
+:::foto roma-piazza-campidoglio | Piazza del Campidoglio con la statua equestre di Marco Aurelio davanti al Palazzo Senatorio
+
 ## Giorno 2: centro storico e Vaticano
 
 Qui conta una decisione: il Vaticano richiede tempo e di solito una prenotazione. Se lo vuoi vedere, mettilo la mattina e tieni il resto della giornata più leggero.
@@ -68,7 +68,11 @@ Qui conta una decisione: il Vaticano richiede tempo e di solito una prenotazione
 
 La Basilica ha regole di abbigliamento: i pantaloni devono essere lunghi o arrivare sotto il ginocchio, le gonne sotto il ginocchio, le spalle coperte per tutti. Non c'è guardaroba, quindi porta solo uno zainetto piccolo. Tutti passano un controllo di sicurezza prima di entrare.
 
+:::foto roma-san-pietro-piazza | La facciata della Basilica di San Pietro con la cupola, vista da piazza San Pietro
+
 **Pomeriggio: Pantheon, piazza Navona e Trevi.** Sono vicini tra loro e si fanno a piedi, senza un ordine obbligato. Il Pantheon è una chiesa attiva: la pagina ufficiale indica messa il sabato e i prefestivi alle 17:00, la domenica e i festivi alle 10:30, e la vendita dei biglietti si ferma un'ora prima delle attività liturgiche. Durante le celebrazioni l'ingresso è libero e limitato ai fedeli. Regola pratica: se puoi scegliere, non metterlo il sabato verso le 16-17 né la domenica mattina.
+
+:::foto pantheon-roma | La facciata del Pantheon a Roma
 
 **Sera: Trastevere.** Una passeggiata senza programma è il modo giusto di chiudere. Non serve una lista di locali: attraversa il fiume, perditi per le vie più strette e scegli dove cenare guardando chi mangia.
 

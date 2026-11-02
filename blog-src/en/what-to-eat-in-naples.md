@@ -31,7 +31,7 @@ In Naples you can eat at any hour, but not everything suits every hour. The sfog
 
 > **In short.** Breakfast with coffee and a sfogliatella, a fried pizza mid-morning, a pizza a portafoglio with a frittatina or a crocchè at lunch, a cuoppo or a babà in the afternoon, a proper sit-down pizza in the evening. About €20-30 per person (indicative) covers the full round. Prices and closing days change from place to place: check before you go.
 
-:::foto pizza-margherita-napoli | A margherita pizza: tomato, mozzarella, basil and a raised crust
+:::foto napoli-spaccanapoli-vicolo | View over the historic centre of Naples from above, with rooftops, church domes and modern towers in the distance
 
 :::tappe
 - Breakfast | Coffee and a sfogliatella | Riccia or frolla: try both if there are two of you. It generally costs a couple of euros.
@@ -69,6 +69,8 @@ In the evening the register changes. First a word about labels: «Pizza Napoleta
 Here two sources do not match. The AVPN rules (the English version is a 2024 file) also admit certified gas or electric ovens and give the centre at about 0.25-0.30 cm (the European text says 0.4 cm); for total fermentation they give 12 to 24 hours, while the European text describes two stages, one of 2 hours and one of 4 to 6. Nobody is wrong: they are two documents with different purposes, one European, one from the association. The practical outcome is that a pizzeria can belong to the AVPN, make an excellent product and not follow the European label to the letter.
 
 On history, the EU text says the marinara goes back to 1734 and the margherita to the period 1796-1810, offered to the Queen of Italy on her visit to Naples in 1889 for the colours that recall the flag. Lost in Food tells instead that in 1889 Raffaele Esposito created it for the occasion. When in doubt, keep them as two versions. UNESCO, for its part, inscribed «the art of the Neapolitan pizzaiuolo» on the list of intangible heritage in 2017 and estimates about 3,000 pizzaiuoli in Naples.
+
+:::foto pizza-margherita-napoli | A margherita pizza: tomato, mozzarella, basil and a raised crust
 
 ### How much it costs and how queues work
 

@@ -49,8 +49,6 @@ You can see Rome in two days if you accept one rule: do not try to see everythin
 
 :::foto colosseo-foro | The Colosseum seen from the Roman Forum
 
-:::foto pantheon-roma | The façade of the Pantheon in Rome
-
 ## Day 1: ancient Rome
 
 **Morning: Colosseum, Forum and Palatine.** They are close and covered by one ticket. On the park's official site the standard ticket is valid for 24 hours and gives one entry to the Colosseum (first and second tier, no arena) and one entry to the Roman Forum and Palatine. That means you can split the visit: the Colosseum when it opens, the Forum and Palatine after lunch, as long as you stay inside the 24 hours.
@@ -61,6 +59,8 @@ Hours matter. According to the park's page, from 25 October 2026 to 28 February 
 
 **Afternoon: Capitoline Hill and the centre.** Climb the Capitoline Hill for the view over the Forum and continue on foot towards the historic centre. This is the elastic part of the day: if you are tired, stop there; if you still have energy, keep walking into the centre.
 
+:::foto roma-piazza-campidoglio | Piazza del Campidoglio with the equestrian statue of Marcus Aurelius in front of the Palazzo Senatorio
+
 ## Day 2: historic centre and Vatican
 
 One decision matters here: the Vatican takes time and usually a booking. If you want to see it, put it in the morning and keep the rest of the day lighter.
@@ -69,7 +69,11 @@ One decision matters here: the Vatican takes time and usually a booking. If you 
 
 The Basilica has a dress code: trousers must be long or reach below the knee, skirts below the knee, and shoulders covered for everyone. There is no cloakroom, so bring only a small backpack. Everyone goes through a security check before entering.
 
+:::foto roma-san-pietro-piazza | The facade of St Peter's Basilica with its dome, seen from St Peter's Square
+
 **Afternoon: Pantheon, Piazza Navona and Trevi.** They are close to one another and you can walk them in any order. The Pantheon is an active church: the official page lists Mass on Saturdays and the day before holidays at 17:00, and on Sundays and holidays at 10:30, and ticket sales stop one hour before liturgical activities. During services entry is free and limited to worshippers. Practical rule: if you can choose, do not schedule it for Saturday around 16:00-17:00 or Sunday morning.
+
+:::foto pantheon-roma | The façade of the Pantheon in Rome
 
 **Evening: Trastevere.** A stroll with no plan is the right way to finish. You do not need a list of restaurants: cross the river, wander the narrower streets and choose where to eat by looking at who is eating.
 

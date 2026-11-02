@@ -30,7 +30,7 @@ A Napoli si mangia a tutte le ore, ma non tutto va bene a tutte le ore. La sfogl
 
 > **In breve.** Colazione con caffè e sfogliatella, a metà mattina una pizza fritta, a pranzo la pizza a portafoglio con una frittatina o un crocchè, a merenda un cuoppo o un babà, la sera una pizza vera al tavolo. Con circa 20-30 € a persona (stima indicativa) si fa un giro completo. I prezzi e i giorni di chiusura cambiano da locale a locale: controllali prima di partire.
 
-:::foto pizza-margherita-napoli | Una pizza margherita: pomodoro, mozzarella, basilico e cornicione rialzato
+:::foto napoli-spaccanapoli-vicolo | Veduta dall'alto del centro storico di Napoli, con i tetti, le cupole delle chiese e in fondo i palazzi moderni
 
 :::tappe
 - Colazione | Caffè e sfogliatella | Riccia o frolla: provale entrambe se sei in due. Costa in genere un paio di euro.
@@ -68,6 +68,8 @@ Alla sera si cambia registro. Prima una parola sui marchi: «Pizza Napoletana ST
 Qui due fonti non coincidono. Il disciplinare dell'AVPN (la versione in inglese è un file del 2024) ammette anche forni a gas o elettrici certificati e indica il centro a circa 0,25-0,30 cm (il testo europeo parla di 0,4 cm); per la lievitazione complessiva indica da 12 a 24 ore, mentre il testo europeo descrive due fasi, una da 2 ore e una da 4 a 6. Non è un errore di nessuno: sono due documenti con funzioni diverse, uno europeo, uno dell'associazione. Il risultato pratico è che una pizzeria può essere aderente all'AVPN, fare un prodotto eccellente e non seguire alla lettera il marchio europeo.
 
 Sulla storia, il testo UE ricorda che la marinara risalirebbe al 1734 e la margherita al periodo 1796-1810, offerta alla regina d'Italia in visita a Napoli nel 1889 per i colori che richiamano la bandiera. Lost in Food racconta invece che nel 1889 Raffaele Esposito l'avrebbe creata per l'occasione. Nel dubbio, tienile come due versioni. L'UNESCO, dal canto suo, ha iscritto nel 2017 «l'arte del pizzaiuolo napoletano» tra i patrimoni immateriali dell'umanità e stima circa 3.000 pizzaiuoli a Napoli.
+
+:::foto pizza-margherita-napoli | Una pizza margherita: pomodoro, mozzarella, basilico e cornicione rialzato
 
 ### Quanto costa e come si fa la coda
 

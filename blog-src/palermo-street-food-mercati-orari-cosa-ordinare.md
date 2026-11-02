@@ -31,7 +31,7 @@ I tre grandi mercati di Palermo sembrano tre varianti dello stesso posto, e inve
 
 > **In breve.** Vai al Capo e a Ballarò di mattina, quando i banchi sono in funzione e le friggitrici sono accese; lascia la Vucciria alla sera. Ordina panelle e crocchè, arancina, sfincione e, se ti senti coraggioso, pani ca meusa. Con circa 10-15 € a persona (stima indicativa, in contanti) si mangia bene. Evita la domenica pomeriggio per i mercati.
 
-:::foto ballaro-mercato | Il mercato di Ballarò a Palermo, tra banchi di frutta e verdura e il passaggio dei clienti
+:::foto palermo-vucciria-mercato | Una strada del mercato della Vucciria a Palermo, con banchi di frutta secca e verdura, una macelleria e le tettoie a righe
 
 :::tappe
 - Mattina presto | Mercato del Capo | Entrata da Porta Carini e via Cappuccinelle: panelle, sfincione, arancine, frutta e pesce.
@@ -49,6 +49,8 @@ Palermo Food Tours, un operatore di tour il cui testo riporta una verifica del 2
 
 Tieni a mente che «mattina» non significa «all'alba»: secondo la guida di Palermo Food Tours i due mercati diurni sono più pieni tra le nove e l'una, quando le friggitrici sono a pieno regime. Il sabato mattina è il momento più affollato, con i palermitani che fanno la spesa della settimana.
 
+:::foto ballaro-mercato | Il mercato di Ballarò a Palermo, tra banchi di frutta e verdura e il passaggio dei clienti
+
 ## Gli orari: dove le fonti discordano
 
 Qui conviene essere prudenti, perché gli orari scritti non coincidono.
@@ -63,6 +65,8 @@ Un'ultima avvertenza: Palermo Food Tours scrive che la domenica pomeriggio è il
 ## Cosa ordinare: i classici in ordine di giornata
 
 **Panelle e crocchè.** Le panelle sono frittelle di farina di ceci, i crocchè sono crocchette di patate e menta, e secondo Do Eat Better si mangiano insieme in una mafalda al sesamo, uno degli street food naturalmente vegani più diffusi. Il Comune li cita tra le specialità vendute al Capo.
+
+:::foto palermo-pane-e-panelle | Un panino al sesamo farcito con panelle fritte, vendute come street food a Palermo
 
 **Sfincione.** Secondo Towns of Italy è una focaccia alta e morbida con pomodoro, cipolla, acciuga, caciocavallo e pangrattato, venduta da ambulanti da grandi teglie rettangolari; Do Eat Better lo descrive come un rettangolo di pasta spugnosa e lo consiglia a colazione a Ballarò. Il Comune cita anche lo «sfincionello».
 

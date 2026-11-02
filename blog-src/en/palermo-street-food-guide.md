@@ -32,7 +32,7 @@ Palermo's three great markets look like three versions of the same place, but th
 
 > **In short.** Go to the Capo and Ballarò in the morning, when the stalls are working and the fryers are on; leave the Vucciria for the evening. Order panelle and crocchè, an arancina, sfincione and, if you feel brave, pani ca meusa. About €10-15 per person (indicative, in cash) is enough to eat well. Avoid Sunday afternoon for the markets.
 
-:::foto ballaro-mercato | The Ballarò market in Palermo, between fruit and vegetable stalls and a steady flow of shoppers
+:::foto palermo-vucciria-mercato | A street in the Vucciria market in Palermo, with stalls of dried goods and vegetables, a butcher's counter and striped awnings
 
 :::tappe
 - Early morning | Capo market | Enter from Porta Carini and Via Cappuccinelle: panelle, sfincione, arancine, fruit and fish.
@@ -50,6 +50,8 @@ Palermo Food Tours, a tour operator whose text carries a check date of 25 Octobe
 
 Keep in mind that «morning» does not mean «at dawn»: according to the Palermo Food Tours guide the two daytime markets are fullest between nine and one, when the fryers are going full. Saturday morning is the busiest time, with Palermitans doing their weekly shop.
 
+:::foto ballaro-mercato | The Ballarò market in Palermo, between fruit and vegetable stalls and a steady flow of shoppers
+
 ## Opening hours: where the sources disagree
 
 Be cautious here, because the written hours do not match.
@@ -64,6 +66,8 @@ One last warning: Palermo Food Tours writes that Sunday afternoon is the worst t
 ## What to order: the classics in order of the day
 
 **Panelle and crocchè.** Panelle are chickpea-flour fritters, crocchè are potato and mint croquettes, and according to Do Eat Better they are eaten together in a sesame-seed roll, one of the most common naturally vegan street foods. The Comune lists them among the specialities sold at the Capo.
+
+:::foto palermo-pane-e-panelle | A sesame bread roll filled with fried panelle, sold as street food in Palermo
 
 **Sfincione.** According to Towns of Italy it is a thick, soft focaccia with tomato, onion, anchovy, caciocavallo and breadcrumbs, sold by street vendors from big rectangular trays; Do Eat Better describes it as a rectangle of spongy dough and recommends it for breakfast at Ballarò. The Comune also mentions the «sfincionello».
 

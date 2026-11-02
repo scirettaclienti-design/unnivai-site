@@ -22,7 +22,7 @@ WIDGET_JS=r"""<script>(function(){var W=function(n){return document.querySelecto
 function span(h2){var a=[h2],n=h2.nextElementSibling;while(n&&n.tagName!=='H2'){a.push(n);n=n.nextElementSibling}return a}
 function seg(w,cb){if(!w)return;var b=[].slice.call(w.querySelectorAll('.seg button'));b.forEach(function(x){x.addEventListener('click',function(){b.forEach(function(y){y.setAttribute('aria-pressed',y===x)});cb(x.dataset.v)})})}
 var r=W('rain');if(r){var hs=[].slice.call(document.querySelectorAll('.body h2[data-w]')),out=r.querySelector('.wo');
-function rain(v){var wet=v==='rain';if(ill)ill.classList.toggle('dry',!wet);var open=[];hs.forEach(function(h){var o=h.dataset.w==='aperto';span(h).forEach(function(e){e.classList.toggle('dim',wet&&o)});if(o)open.push(h.firstChild.textContent.replace(/^\d+\.\s*/,''))});
+function rain(v){var wet=v==='rain';if(ill)ill.classList.toggle('dry',!wet);var hp=document.querySelector('.hero-ph.rain');if(hp)hp.classList.toggle('dry',!wet);var open=[];hs.forEach(function(h){var o=h.dataset.w==='aperto';span(h).forEach(function(e){e.classList.toggle('dim',wet&&o)});if(o)open.push(h.firstChild.textContent.replace(/^\d+\.\s*/,''))});
 out.textContent=wet?(hs.length-open.length)+' tappe su '+hs.length+' restano comode al coperto. Da accorciare o saltare: '+open.join(', ')+'.':'Senza pioggia vanno bene tutte e '+hs.length+' le tappe: la parte all\'aperto dà il meglio la mattina presto.'}
 seg(r,rain);rain('rain')}
 var t=W('time');if(t){var inp=t.querySelector('input'),o=t.querySelector('output'),wo=t.querySelector('.wo'),li=[].slice.call(document.querySelectorAll('.tappe li'));

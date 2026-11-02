@@ -126,5 +126,21 @@
   "url": "https://commons.wikimedia.org/wiki/File:Polignano_a_Mare_-_ponte_Lama_Monachile_-_202209071759.jpg",
   "w": 1400,
   "h": 1050
+ },
+ "firenze-duomo-cupola": {
+  "file": "File:Florence, Duomo di Firenze.jpg",
+  "artist": "George M. Groutas",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Florence,_Duomo_di_Firenze.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "firenze-ponte-vecchio": {
+  "file": "File:Ponte Vecchio Arno Florence.jpg",
+  "artist": "Jebulon",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_Arno_Florence.jpg",
+  "w": 1400,
+  "h": 932
  }
 }

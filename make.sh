@@ -1,5 +1,6 @@
 set -e
 cd "$(dirname "$0")"
+python3 scripts/make_variants.py
 python3 build_site.py
 python3 build_blog.py
 BLANG=en python3 build_blog.py

@@ -5,9 +5,10 @@ def url(path):
     u=path.replace('/index.html','').replace('.html','')
     return BASE+(u or '/')
 latest=max(p['date'] for l in S for p in S[l]['posts'])
-lm={}
+lm={};IMG={}
 for l in S:
-    for p in S[l]['posts']:lm[('/en' if l=='en' else '')+'/blog/'+p['slug']]=p['updated']
+    for p in S[l]['posts']:
+        k=('/en' if l=='en' else '')+'/blog/'+p['slug'];lm[k]=p['updated'];IMG[k]=p.get('img')
 def mod(u):return lm.get(u.replace(BASE,''),latest)
 def prio(u):
     r=u.replace(BASE,'')
@@ -36,7 +37,7 @@ for pg in rows:
     u=url(pg['path'])
     r=u.replace(BASE,'')
     slug=r.split('/')[-1]
-    img=f'{BASE}/blog/og/{slug}.png' if r in lm else None
+    img=(IMG.get(r) or f'{BASE}/blog/og/{slug}.png') if r in lm else None
     out.append(entry(u,mod(u),prio(u),pg['alt'],img));allurls.append(u)
 open(SITE+'/sitemap.xml','w').write(X+''.join(out)+'</urlset>')
 BOTS=['GPTBot','OAI-SearchBot','ChatGPT-User','ClaudeBot','Claude-SearchBot','Claude-User','PerplexityBot','Perplexity-User','Google-Extended','Applebot-Extended','CCBot','Bingbot']

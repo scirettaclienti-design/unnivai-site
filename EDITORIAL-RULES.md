@@ -25,7 +25,9 @@ Diretto, concreto, caldo. Niente "scopri la magia", niente superlativi vuoti, ni
 ## Controllo automatico
 `python3 scripts/check_article.py <id>` deve passare (parole, fonti, FAQ, link, date, EN presente). Poi `bash make.sh` e `python3 audit.py` senza problemi. Solo allora si fa push.
 
-## Foto (da 2026-10-30)
-- Ogni articolo nuovo: 1–2 foto vere da Wikimedia Commons, solo licenze CC BY / CC BY-SA / CC0 / pubblico dominio.
-- Procedura: cercare su Commons (API con User-Agent) -> `python3 scripts/add_photo.py "File:Nome.jpg" nome-breve` (rate limit: pause di 15 s, se 429 riprovare) -> VERIFICARE a vista che l'immagine mostri davvero il luogo -> nell'articolo `:::foto nome-breve | didascalia` prima del primo `##` (IT e EN, didascalia tradotta).
-- Mai foto generate con AI presentate come foto del luogo. Mai consigli "personali" inventati: le fonti restano quelle citate.
+## Foto (aggiornato 2026-11-02)
+- Ogni articolo: 3–4 foto vere da Wikimedia Commons, solo licenze CC BY / CC BY-SA / CC0 / pubblico dominio. Una ogni due o tre sezioni, non tutte in cima.
+- La PRIMA `:::foto` dell'articolo è la copertina: il generatore la toglie dal corpo, la mostra come hero (WebP con width/height, fetchpriority=high, alt descrittivo, zoom/pan CSS lento, disattivato con prefers-reduced-motion), la usa come immagine OG (JPEG 1200×630) e nello schema Article (ImageObject ≥1200 px). Deve essere orizzontale.
+- Procedura: cercare su Commons (API con User-Agent) -> `python3 scripts/add_photo.py "File:Nome.jpg" nome-breve` (pause di 15 s, su 429 riprovare; peso ≤ ~200 KB, le varianti -640/-960 le crea `make.sh`) -> GUARDARE ogni immagine con Read e verificare che mostri davvero il luogo -> nell'articolo `:::foto nome-breve | didascalia` (IT e EN, didascalia tradotta). La prima prima del primo `##`, le altre tra le sezioni.
+- Se non si trova una foto adatta e verificata: lasciare l'articolo com'è e scriverlo nella nota di verifica. Mai foto generate con AI presentate come foto del luogo. Mai consigli "personali" inventati: le fonti restano quelle citate.
+- Versione EN: titolo e "In breve" devono funzionare da soli, con la domanda reale che un turista straniero cercherebbe su Google. Chiudi con un invito all'app che segua il valore dato, non lo anticipi.

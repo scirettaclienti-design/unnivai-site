@@ -23,6 +23,10 @@ exec(open('widgets.py').read())
 import json as _j,os as _o
 PHOTOS=_j.load(open('blog-src/photos.json')) if _o.path.exists('blog-src/photos.json') else {}
 def dom(u):return re.sub(r'^https?://(www\.)?','',u).split('/')[0]
+def srcset(k):
+    w=PHOTOS[k]['w'];return f'srcset="/blog/img/{k}-640.webp 640w, /blog/img/{k}-960.webp 960w, /blog/img/{k}.webp {w}w"'
+def credit(k,cap):
+    ph=PHOTOS[k];return f'<figcaption>{esc(cap)} <span>{"Photo" if EN else "Foto"}: {esc(ph["artist"])}, <a href="{ph["url"]}" rel="noopener" target="_blank">{esc(ph["license"])}</a>, Wikimedia Commons</span></figcaption>'
 def md(body):
     out=[];toc=[];lines=body.strip().split('\n');para=[];lst=None;i=0
     def flush():
@@ -47,7 +51,7 @@ def md(body):
                 n,u,d=[x.strip() for x in rest.split('|')];out.append(f'<a class="fonte" href="{u}" rel="noopener" target="_blank"><span class="dom">{esc(dom(u))}</span><b>{esc(n)}</b><p>{esc(d)}</p><i aria-hidden="true">↗</i></a>')
             elif name=='foto':
                 k,cap=[x.strip() for x in rest.split('|',1)];ph=PHOTOS[k]
-                out.append(f'<figure class="ph"><img src="/blog/img/{k}.webp" alt="{html.escape(cap,quote=True)}" width="{ph["w"]}" height="{ph["h"]}" loading="lazy" decoding="async"><figcaption>{esc(cap)} <span>{"Photo" if EN else "Foto"}: {esc(ph["artist"])}, <a href="{ph["url"]}" rel="noopener" target="_blank">{esc(ph["license"])}</a>, Wikimedia Commons</span></figcaption></figure>')
+                out.append(f'<figure class="ph"><img src="/blog/img/{k}.webp" {srcset(k)} sizes="(max-width:760px) 100vw, 720px" alt="{html.escape(cap,quote=True)}" width="{ph["w"]}" height="{ph["h"]}" loading="lazy" decoding="async">'+credit(k,cap)+'</figure>')
             elif name=='widget':
                 out.append(WIDGETS.get(rest,''))
             elif name=='consiglio':
@@ -84,7 +88,11 @@ def parse(path):
         if cur=='faq' and ln.startswith('- '):
             q,a=ln[2:].split('::',1);meta['faq'].append((q.strip(),a.strip()));continue
         k,v=ln.split(':',1);meta[k.strip()]=v.strip()
-    meta['tags']=[x.strip() for x in meta.get('tags','').split(',') if x.strip()];meta['slug']=os.path.basename(path)[:-3];meta.setdefault('id',meta['slug']);meta['body'],meta['toc']=md(body);return meta
+    meta['tags']=[x.strip() for x in meta.get('tags','').split(',') if x.strip()];meta['slug']=os.path.basename(path)[:-3];meta.setdefault('id',meta['slug'])
+    mc=re.search(r'^:::foto[ \t]+([^|\n]+?)[ \t]*\|[ \t]*(.+?)[ \t]*$',body,re.M)
+    if mc and mc.group(1) in PHOTOS:
+        meta['cover_ph']=(mc.group(1),mc.group(2));body=body.replace(mc.group(0),'',1)
+    meta['body'],meta['toc']=md(body);return meta
 def _fm(path):
     _,fm,_b=open(path,encoding='utf-8').read().split('---',2);d={}
     for ln in fm.strip().split('\n'):
@@ -94,9 +102,36 @@ OTHERS=[_fm(p) for p in glob.glob(('blog-src/*.md') if EN else 'blog-src/en/*.md
 posts=sorted([parse(p) for p in glob.glob(SRC+'/*.md')],key=lambda p:(p['date'],p['slug']),reverse=True)
 # ---------- cover generativa ----------
 exec(open('illus.py').read())
-def cover(p,big=False):
-    if p['slug'] in ILLS:return ILLS[p['slug']]()
+def cover(p,ctx='card'):
+    if p.get('cover_ph'):
+        k=p['cover_ph'][0];ph=PHOTOS[k];eager=ctx in('feat','hero')
+        if ctx in('card','feat'):
+            return f'<img class="cov cph" src="/blog/img/{k}-640.webp" srcset="/blog/img/{k}-640.webp 640w, /blog/img/{k}-960.webp 960w" sizes="{"(max-width:760px) 92vw, 560px" if ctx=="feat" else "(max-width:760px) 92vw, (max-width:1120px) 45vw, 360px"}" alt="" width="640" height="{round(640*ph["h"]/ph["w"])}" {"fetchpriority=\"high\"" if eager else "loading=\"lazy\""} decoding="async">'
+    if p['slug'] in ILLS and not p.get('cover_ph'):return ILLS[p['slug']]()
     return cover_gen(p)
+FXPAN={'un-giorno-a-ortigia','ortigia-in-one-day','one-day-in-ortigia'}
+def hero(p):
+    if not p.get('cover_ph'):return f'<div class="hero-ill">{cover(p)}</div>'
+    k,cap=p['cover_ph'];ph=PHOTOS[k]
+    fx='pan' if (p['slug'] in FXPAN or p.get('fx')=='pan') else 'zoom'
+    rain=' rain' if (p.get('id')=='cosa-fare-a-catania-quando-piove' or p.get('fx')=='rain') else ''
+    pos=p.get('coverpos','50% 45%')
+    return f'<figure class="hero-ph{rain}" data-fx="{fx}"><div class="frame"><img src="/blog/img/{k}.webp" {srcset(k)} sizes="(max-width:760px) 100vw, 720px" alt="{html.escape(cap,quote=True)}" width="{ph["w"]}" height="{ph["h"]}" fetchpriority="high" decoding="async" style="object-position:{pos}"></div>'+credit(k,cap)+'</figure>'
+PH_CSS='''
+.cph{object-fit:cover;background:#0e3a47}
+.hero-ph{margin:26px 0 0}
+.hero-ph .frame{position:relative;overflow:hidden;border-radius:22px;border:1px solid var(--line2);aspect-ratio:21/9;background:#0e3a47;box-shadow:0 30px 60px -30px rgba(255,107,61,.35)}
+@media(max-width:760px){.hero-ph .frame{aspect-ratio:4/3}}
+.hero-ph img{display:block;width:100%;height:100%;object-fit:cover;transform-origin:50% 55%;will-change:transform;animation:kbz 26s ease-in-out infinite alternate}
+.hero-ph[data-fx=pan] img{transform-origin:0 50%;animation:kbp 30s ease-in-out infinite alternate}
+@keyframes kbz{from{transform:scale(1)}to{transform:scale(1.08)}}
+@keyframes kbp{from{transform:scale(1.12) translateX(0)}to{transform:scale(1.12) translateX(-5%)}}
+.hero-ph figcaption{font-size:.8rem;color:#b7c9cc;margin-top:8px;line-height:1.45}.hero-ph figcaption span{display:block;color:#8fa6ab;font-size:.74rem}.hero-ph figcaption a{color:inherit}
+.hero-ph.rain .frame::before{content:"";position:absolute;inset:0;background:rgba(6,22,30,.30);z-index:1;transition:opacity .6s;pointer-events:none}
+.hero-ph.rain .frame::after{content:"";position:absolute;inset:-40px;background:repeating-linear-gradient(104deg,transparent 0 13px,rgba(205,226,233,.42) 13px 14px,transparent 14px 29px);background-size:100% 100%;z-index:2;opacity:.55;pointer-events:none;transition:opacity .6s;animation:rainfall .8s linear infinite}
+.hero-ph.rain.dry .frame::before,.hero-ph.rain.dry .frame::after{opacity:0}
+@keyframes rainfall{from{transform:translate(0,-40px)}to{transform:translate(-9px,40px)}}
+'''
 def cover_gen(p):
     r=random.Random(int(hashlib.md5(p['slug'].encode()).hexdigest()[:8],16))
     pts=[(14,150-r.randint(0,30))]
@@ -259,7 +294,7 @@ a.fonte i{position:absolute;right:18px;top:50%;transform:translateY(-50%);font-s
 @media(max-width:480px){.hm{display:none}.pill{padding:9px 12px}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 '''
-open(SITE+'/blog.css','w').write(CSS+ILL_CSS+WIDGET_CSS)
+open(SITE+'/blog.css','w').write(CSS+ILL_CSS+PH_CSS+WIDGET_CSS)
 LOGO='<img src="/logo.webp" alt="UnniVai" width="120" height="34">'
 PAGES=[]
 PAIR={}  # it id -> (it_slug,en_slug)
@@ -300,7 +335,7 @@ def footer():
 def ld(o):return '<script type="application/ld+json">'+json.dumps(o,ensure_ascii=False)+'</script>'
 ORG={"@type":"Organization","name":"UNNIVAI","url":BASE+"/","founder":{"@type":"Person","name":"Ivano Sciretta","url":BASE+"/autore"},"logo":{"@type":"ImageObject","url":BASE+"/icon-512.png"}}
 def card(p,feat=False):
-    return ('<a class="card'+(' feat' if feat else '')+'" href="/blog/'+p['slug']+'" data-cat="'+html.escape(p['category'])+'" data-s="'+p['slug']+'" data-tags="'+html.escape('|'.join(p['tags']))+'">'+cover(p)+'<div class="tx"><span class="cat">'+esc(p['category'])+'</span><h2>'+esc(p['title'])+'</h2><p>'+esc(p['description'])+'</p><span class="tgs">'+''.join('<em>'+esc(t)+'</em>' for t in p['tags'][:3])+'</span><span class="mt">'+dfmt(p['date'])+' · '+p['read']+' min di lettura</span></div></a>')
+    return ('<a class="card'+(' feat' if feat else '')+'" href="/blog/'+p['slug']+'" data-cat="'+html.escape(p['category'])+'" data-s="'+p['slug']+'" data-tags="'+html.escape('|'.join(p['tags']))+'">'+cover(p,'feat' if feat else 'card')+'<div class="tx"><span class="cat">'+esc(p['category'])+'</span><h2>'+esc(p['title'])+'</h2><p>'+esc(p['description'])+'</p><span class="tgs">'+''.join('<em>'+esc(t)+'</em>' for t in p['tags'][:3])+'</span><span class="mt">'+dfmt(p['date'])+' · '+p['read']+' min di lettura</span></div></a>')
 SCR_IDX="""<script>(function(){var b=document.querySelectorAll('.chip'),c=document.querySelectorAll('#grid .card');b.forEach(function(x){x.addEventListener('click',function(){b.forEach(function(y){y.setAttribute('aria-pressed',y===x)});var f=x.dataset.f;c.forEach(function(k){k.hidden=!!f&&k.dataset.cat!==f;k.classList.toggle('feat',!f&&k===c[0])})})})})()</script>"""
 SCR_ART_OLD="""<script>(function(){var p=document.querySelector('.prog b'),r=document.querySelector('.rail'),t=0;function u(){t=0;var h=document.documentElement,m=h.scrollHeight-innerHeight,v=m>0?Math.min(100,Math.max(0,scrollY/m*100)):0;p.style.setProperty('--p',v+'%');r.style.setProperty('--p',v+'%')}addEventListener('scroll',function(){t||(t=requestAnimationFrame(u))},{passive:true});u()})()</script>"""
 CINTRO_EN={'Florence':'Florence in two days: museums, the Dome and the Accademia in an order that respects closing days, bookings and hours.','Lecce':'Lecce, the baroque city of the Salento: walking itineraries with hours, tickets and the sweet stops checked on official sources.','Catania':'Catania between lava, baroque and fresh fish: what to do in the sun, in the rain and on foot, with hours and distances checked.','Syracuse':'Syracuse and Ortigia: an island to explore on foot, between market, sea and alleys. Itineraries built around the time of day.','Rome':'Rome organised by area, not by lists: itineraries of one or more days that do not make you cross the city back and forth.','Travel and AI':'How to use artificial intelligence to plan a trip, and how to tell when a generated itinerary holds up or makes things up.'}
@@ -340,10 +375,14 @@ W(SITE+P+'/blog/index.html',idx,(BASE+'/blog',BASE+'/en/blog'))
 def related(p):
     sc=lambda q:(q['category']==p['category'])*3+len(set(q['tags'])&set(p['tags']))
     return sorted([q for q in posts if q is not p],key=lambda q:-sc(q))[:3]
+def schema_img(p,og):
+    if not p.get('cover_ph'):return og
+    k,cap=p['cover_ph'];ph=PHOTOS[k]
+    return [{"@type":"ImageObject","url":og,"width":1200,"height":630},{"@type":"ImageObject","url":f"{BASE}/blog/img/{k}.webp","width":ph['w'],"height":ph['h'],"caption":cap,"creditText":ph['artist'],"creator":{"@type":"Person","name":ph['artist']},"acquireLicensePage":ph['url'],"copyrightNotice":ph['artist']+', '+ph['license']}]
 for i,p in enumerate(posts):
-    url=f"{BASE}/blog/{p['slug']}";img=f"{BASE}/blog/og/{p['slug']}.png"
+    url=f"{BASE}/blog/{p['slug']}";img=f"{BASE}/blog/og/{p['slug']}."+('jpg' if p.get('cover_ph') else 'png');p['og_img']=img
     faq=''.join(f'<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q,a in p['faq'])
-    graph=[{"@context":"https://schema.org","@type":"BlogPosting","headline":p['title'],"description":p['description'],"image":img,"datePublished":p['date'],"dateModified":p.get('updated',p['date']),"inLanguage":"it","keywords":", ".join(p['tags']),"author":{"@type":"Person","name":"Ivano Sciretta","url":BASE+"/autore"},"publisher":ORG,"mainEntityOfPage":url,"articleSection":p['category'],"about":{"@type":"Place","name":p['category']},"isPartOf":{"@type":"Blog","name":"Blog UNNIVAI","url":BASE+"/blog"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr","h1"]},"wordCount":len(plain(p['body']).split()),"timeRequired":"PT"+str(max(1,round(len(plain(p['body']).split())/200)))+"M","isAccessibleForFree":True},
+    graph=[{"@context":"https://schema.org","@type":"BlogPosting","headline":p['title'],"description":p['description'],"image":schema_img(p,img),"datePublished":p['date'],"dateModified":p.get('updated',p['date']),"inLanguage":"it","keywords":", ".join(p['tags']),"author":{"@type":"Person","name":"Ivano Sciretta","url":BASE+"/autore"},"publisher":ORG,"mainEntityOfPage":url,"articleSection":p['category'],"about":{"@type":"Place","name":p['category']},"isPartOf":{"@type":"Blog","name":"Blog UNNIVAI","url":BASE+"/blog"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr","h1"]},"wordCount":len(plain(p['body']).split()),"timeRequired":"PT"+str(max(1,round(len(plain(p['body']).split())/200)))+"M","isAccessibleForFree":True},
       {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"UNNIVAI","item":BASE+"/"},{"@type":"ListItem","position":2,"name":"Blog","item":BASE+"/blog"},{"@type":"ListItem","position":3,"name":p['category'],"item":f"{BASE}/blog/categoria/{slugify(p['category'])}"},{"@type":"ListItem","position":4,"name":p['title'],"item":url}]}]
     if p['faq']:graph.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in p['faq']]})
     body=p['body'];m=re.search(r'<aside class="callout">(.*?)</aside>',body,re.S);tl=''
@@ -360,7 +399,7 @@ for i,p in enumerate(posts):
     h+=f"""<a class="skip" href="#main">Vai al contenuto</a><div class="prog" aria-hidden="true"><b></b></div>
 <div class="artwrap"><main id="main"><article class="art"><p class="crumbs"><a href="/">UNNIVAI</a> / <a href="/blog">Blog</a> / <a href="/blog/categoria/{slugify(p['category'])}">{esc(p['category'])}</a></p>
 <h1>{esc(p['title'])}</h1><p class="meta"><span><b>{esc(p['category'])}</b></span><span>{p['read']} min</span><span>{L('di','by')} <a href="/autore">Ivano Sciretta</a></span><span>{L('Verificato il','Checked on')} {dfmt(p.get('updated',p['date']))}</span></p>
-<div class="hero-ill">{cover(p)}</div>{('<div class="tldr"><b>Risposta in breve</b><p>'+tl+'</p></div>') if tl else ''}
+{hero(p)}{('<div class="tldr"><b>Risposta in breve</b><p>'+tl+'</p></div>') if tl else ''}
 {('<dl class="scheda">'+''.join('<div><dt>'+esc(k)+'</dt><dd>'+esc(v)+'</dd></div>' for k,v in p['scheda'])+'</dl>') if p['scheda'] else ''}<details class="toc mob"><summary>In questo articolo</summary><ul>{toc_items}</ul></details>
 <div class="body">{body}</div>
 {('<section class="faq"><h2>Domande frequenti</h2>'+faq+'</section>') if faq else ''}
@@ -378,10 +417,13 @@ for i,p in enumerate(posts):
 urls=[(BASE+'/','2026-10-28','1.0'),(BASE+'/blog',posts[0]['date'],'0.9')]+[(f"{BASE}/blog/{p['slug']}",p['date'],'0.8') for p in posts]
 open(SITE+P+'/rss.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Blog UNNIVAI</title><link>'+BASE+'/blog</link><description>'+html.escape(idx_desc)+'</description><language>'+LG+'</language>'+''.join(f"<item><title>{html.escape(p['title'])}</title><link>{BASE}/blog/{p['slug']}</link><guid>{BASE}/blog/{p['slug']}</guid><pubDate>{p['date']}</pubDate><description>{html.escape(p['description'])}</description></item>" for p in posts)+'</channel></rss>')
 # ---------- OG ----------
+def og_bg(pp):
+    if pp.get('cover_ph'):return '<img src="file://'+os.path.abspath(SITE)+'/blog/img/'+pp['cover_ph'][0]+'.webp" alt="">'
+    return cover(pp)
 og=''
 for name,title,cat in ([('index_en','Where to go, and how to get there well.','UNNIVAI Blog')] if EN else [('index','Dove andare, e come andarci bene.','Blog UNNIVAI')])+[(p['slug'],p['title'],p['category']) for p in posts]:
     pp=next((p for p in posts if p['slug']==name),posts[0])
-    open(f'/tmp/og_{name}.html','w').write(f'''<!doctype html><meta charset=utf-8><style>{FONTS}body{{margin:0;width:1200px;height:630px;background:#06161e;color:#eaf2f0;font-family:'Instrument Sans';position:relative;overflow:hidden}}.c{{position:absolute;inset:0;opacity:.95}}.c svg{{width:100%;height:100%}}.v{{position:absolute;inset:0;background:linear-gradient(90deg,#06161e 38%,rgba(6,22,30,.2))}}.t{{position:absolute;left:70px;top:70px;right:420px}}.k{{font:500 24px 'IBM Plex Mono';letter-spacing:.16em;text-transform:uppercase;color:#ff8a5b}}h1{{font:800 74px/.98 'Bricolage Grotesque';letter-spacing:-.04em;margin:26px 0 0}}.u{{position:absolute;left:70px;bottom:56px;font:800 38px 'Bricolage Grotesque'}}.u i{{color:#ff6b3d;font-style:normal}}</style><div class=c>{cover(pp)}</div><div class=v></div><div class=t><div class=k>{html.escape(cat)}</div><h1>{html.escape(title)}</h1></div><div class=u>UNNIVAI<i>.</i></div>''')
+    open(f'/tmp/og_{name}.html','w').write(f'''{'<!--jpg-->' if pp.get('cover_ph') else ''}<!doctype html><meta charset=utf-8><style>{FONTS}.c img{{width:100%;height:100%;object-fit:cover;display:block}}body{{margin:0;width:1200px;height:630px;background:#06161e;color:#eaf2f0;font-family:'Instrument Sans';position:relative;overflow:hidden}}.c{{position:absolute;inset:0;opacity:.95}}.c svg{{width:100%;height:100%}}.v{{position:absolute;inset:0;background:linear-gradient(90deg,#06161e 38%,rgba(6,22,30,.2))}}.t{{position:absolute;left:70px;top:70px;right:420px}}.k{{font:500 24px 'IBM Plex Mono';letter-spacing:.16em;text-transform:uppercase;color:#ff8a5b}}h1{{font:800 74px/.98 'Bricolage Grotesque';letter-spacing:-.04em;margin:26px 0 0}}.u{{position:absolute;left:70px;bottom:56px;font:800 38px 'Bricolage Grotesque'}}.u i{{color:#ff6b3d;font-style:normal}}</style><div class=c>{og_bg(pp)}</div><div class=v{' style="background:linear-gradient(90deg,rgba(6,22,30,.94) 0%,rgba(6,22,30,.78) 42%,rgba(6,22,30,.12) 100%)"' if pp.get('cover_ph') else ''}></div><div class=t><div class=k>{html.escape(cat)}</div><h1>{html.escape(title)}</h1></div><div class=u>UNNIVAI<i>.</i></div>''')
 os.makedirs(SITE+'/blog/og',exist_ok=True)
 print('posts',len(posts))
 
@@ -450,4 +492,4 @@ mh+=f'''<main><article class="art"><p class="crumbs"><a href="/">UNNIVAI</a> / {
 W(SITE+P+f'/{DIRM}/index.html',mh,(BASE+'/metodo',BASE+'/en/method'))
 
 # ---------- dump per build_seo.py ----------
-json.dump({'pages':PAGES,'posts':[{'slug':p['slug'],'title':p['title'],'desc':p['description'],'date':p['date'],'updated':p.get('updated',p['date']),'cat':p['category'],'text':re.sub(r'\n\s*\n+','\n\n',re.sub(r'<[^>]+>','',re.sub(r'</(p|h2|li|aside|dd|div)>','\n',p['body'])).replace('&amp;','&').replace('&#x27;',"'"))} for p in posts]},open(f'seo_{LG}.json','w'),ensure_ascii=False)
+json.dump({'pages':PAGES,'posts':[{'slug':p['slug'],'title':p['title'],'desc':p['description'],'date':p['date'],'updated':p.get('updated',p['date']),'cat':p['category'],'img':p.get('og_img'),'text':re.sub(r'\n\s*\n+','\n\n',re.sub(r'<[^>]+>','',re.sub(r'</(p|h2|li|aside|dd|div)>','\n',p['body'])).replace('&amp;','&').replace('&#x27;',"'"))} for p in posts]},open(f'seo_{LG}.json','w'),ensure_ascii=False)

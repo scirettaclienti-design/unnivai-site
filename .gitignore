@@ -4,3 +4,4 @@ node_modules/
 .vercel/
 seo_*.json
 s*.png
+blog-src/.photos.lock

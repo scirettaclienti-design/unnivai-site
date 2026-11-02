@@ -222,5 +222,21 @@
   "url": "https://commons.wikimedia.org/wiki/File:Veduta_della_Basilica_di_San_Petronio_da_piazza_Maggiore,_Bologna.jpg",
   "w": 1400,
   "h": 933
+ },
+ "catania-piazza-duomo-elefante": {
+  "file": "File:Catania - Piazza Duomo 02.jpg",
+  "artist": "Luca Aless",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Catania_-_Piazza_Duomo_02.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "ortigia-piazza-duomo": {
+  "file": "File:Piazza Duomo, Ortigia, Syracuse, 12M1788.jpg",
+  "artist": "Zde",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Piazza_Duomo,_Ortigia,_Syracuse,_12M1788.jpg",
+  "w": 1400,
+  "h": 933
  }
 }

@@ -39,6 +39,8 @@ Mangiare a Catania non si risolve con un ristorante: si risolve con una giornata
 - Sera | Cavallo o pesce | Una scelta, non entrambe.
 :::
 
+:::foto pescheria-catania | Banchi e clienti alla Pescheria di Catania di mattina
+
 ## 1. Granita e brioche
 
 La colazione catanese è granita (acqua, zucchero e frutta) con una brioche siciliana, lievitata con uova e profumata alla vaniglia o agli agrumi. I gusti da cui partire sono mandorla, pistacchio, caffè e limone. Travel365 consiglia di provare per prima quella alla mandorla; per il caffè la stessa fonte suggerisce di prenderlo con brioche e panna. Se hai poco tempo, scegli un gusto solo e non litigare con il menu. Costo medio indicativo: circa 4 €.
@@ -59,6 +61,8 @@ A Catania si dice arancino, e ha la forma conica che ricorda l'Etna: riso con ra
 
 Pasta al pomodoro con melanzane fritte, ricotta salata e basilico. Il nome richiama la *Norma* di Bellini, nato a Catania. È il primo piatto che rappresenta meglio la città. Nelle trattorie semplici costa intorno agli 8 €; nei locali più curati sale.
 
+:::foto catania-pasta-alla-norma | Un piatto di pasta alla Norma con melanzane, pomodoro, ricotta salata grattugiata e una foglia di basilico
+
 ## 6. Spaghetti alla carrettiera
 
 Olio, aglio crudo, pepe e pecorino grattugiato, con qualche variante che aggiunge pomodoro. Il nome viene dai carrettieri, che viaggiavano a lungo e volevano una pasta rapida con ingredienti che si conservano bene. È la scelta giusta se hai già mangiato la Norma e vuoi un secondo primo, più asciutto. Circa 8 € secondo Travel365.
@@ -78,6 +82,8 @@ Cialda croccante con crema di ricotta di pecora. Il consiglio pratico è mangiar
 ## 10. Dolci di Sant'Agata
 
 Le minnuzze di Sant'Agata sono piccole cassatine con pan di spagna, ricotta, pasta reale e una ciliegina candita, sempre con copertura bianca. Le olivette sono dolci di pasta di mandorla a forma di oliva, colorati di verde: Travel365 le dà da circa 20 € al chilo. Per la fonte la patrona si festeggia dal 3 al 5 febbraio e in quei giorni i dolci si trovano ovunque; fuori da gennaio-febbraio chiedi prima di fare strada per cercarli.
+
+:::foto catania-piazza-duomo-elefante | La Fontana dell'Elefante in piazza Duomo a Catania, con il Palazzo dei Chierici sullo sfondo
 
 :::consiglio Non fare tutto in un giorno. Scegli quattro assaggi e fai un giro a piedi tra uno e l'altro: a Catania il centro è compatto e si cammina bene.
 

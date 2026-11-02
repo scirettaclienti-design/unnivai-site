@@ -67,6 +67,8 @@ Ortigia's market is a good starting point: it runs in the morning and it is wher
 
 Syracuse Cathedral is built around the remains of a Greek temple dedicated to Athena: the Doric columns are still visible in the side walls. According to Italia.it the temple was commissioned in 480 BC by the tyrant Gelon after the victory over the Carthaginians, was turned into a church in the 7th century by Bishop Zosimo, and the Baroque facade dates from the 18th century. It is a rare example of centuries layered in the same building. The same page lists daily opening from 7:00 to 20:00 and does not mention a ticket. The square in front, with its facade, is worth five minutes before moving on. If you want a second temple, the Temple of Apollo, on Largo XXV Luglio, dates from the early 6th century BC and is described as the oldest Doric temple in Sicily: over time it has been a church, a mosque and a barracks. You see it from the street and you pass by without a ticket.
 
+:::foto ortigia-piazza-duomo | The Baroque façade of Syracuse Cathedral on Piazza Duomo in Ortigia, with the church of Santa Lucia alla Badia in the background
+
 ## Lunch without hurry
 
 Ortigia lends itself to long lunches. Avoid trattorie with a tourist menu at the door and look for the side streets: two blocks from the square are enough to change quality and prices. We do not name specific places because we did not verify any address and would rather not invent them.

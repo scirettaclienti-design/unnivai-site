@@ -40,6 +40,8 @@ Eating in Catania is not solved with a restaurant: it is solved with a well-buil
 - Evening | Horse meat or fish | One choice, not both.
 :::
 
+:::foto pescheria-catania | Stalls and customers at Catania's fish market in the morning
+
 ## 1. Granita and brioche
 
 The Catanese breakfast is granita (water, sugar and fruit) with a Sicilian brioche, leavened with eggs and scented with vanilla or citrus. The flavours to start from are almond, pistachio, coffee and lemon. Travel365 recommends trying almond first; for coffee, the same source suggests having it with brioche and whipped cream. If you are short on time, pick just one flavour and do not argue with the menu. Indicative average cost: about €4.
@@ -60,6 +62,8 @@ In Catania it is arancino, and it has the cone shape that recalls Etna: rice wit
 
 Pasta with tomato sauce, fried aubergine, salted ricotta and basil. The name recalls Bellini's *Norma*; he was born in Catania. It is the first course that best represents the city. In simple trattorie it costs around €8; in smarter places it goes up.
 
+:::foto catania-pasta-alla-norma | A plate of pasta alla Norma with aubergine, tomato, grated ricotta salata and a basil leaf
+
 ## 6. Spaghetti alla carrettiera
 
 Oil, raw garlic, pepper and grated pecorino, with some variants adding tomato. The name comes from the cart drivers, who travelled for long stretches and wanted a quick pasta made with ingredients that keep well. It is the right choice if you have already had the Norma and want a second pasta, drier. About €8 according to Travel365.
@@ -79,6 +83,8 @@ A crisp shell with sheep's ricotta cream. The practical advice is to eat it fill
 ## 10. Sant'Agata sweets
 
 The minnuzze di Sant'Agata are small cassatine with sponge cake, ricotta, marzipan and a candied cherry, always with white icing. The olivette are almond-paste sweets shaped like olives and coloured green: Travel365 puts them at about €20 a kilo. According to the same source the patron saint is celebrated from 3 to 5 February and during those days the sweets are everywhere; outside January and February, ask before you walk across town looking for them.
+
+:::foto catania-piazza-duomo-elefante | The Elephant Fountain in Piazza Duomo in Catania, with the Palazzo dei Chierici in the background
 
 :::consiglio Do not do it all in one day. Pick four tastings and walk between them: in Catania the centre is compact and walking is easy.
 

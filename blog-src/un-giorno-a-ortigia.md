@@ -66,6 +66,8 @@ Il mercato di Ortigia è un buon punto di partenza: si svolge la mattina ed è i
 
 Il Duomo di Siracusa è costruito attorno ai resti di un tempio greco dedicato ad Atena: le colonne doriche sono ancora visibili nelle pareti laterali. Secondo Italia.it il tempio fu fatto costruire nel 480 a.C. dal tiranno Gelone dopo la vittoria sui Cartaginesi, fu trasformato in chiesa nel VII secolo dal vescovo Zosimo, e la facciata barocca è del Settecento. È un esempio raro di come i secoli si siano sovrapposti nello stesso edificio. La stessa pagina indica apertura tutti i giorni dalle 7:00 alle 20:00 e non parla di biglietto. La piazza davanti, con la facciata barocca, è la più bella dell'isola per fermarsi cinque minuti. Se vuoi un secondo tempio, il Tempio di Apollo, a largo XXV Luglio, risale all'inizio del VI secolo a.C. ed è descritto come il più antico tempio dorico di Sicilia: nel tempo è stato chiesa, moschea e caserma. Si vede dalla strada e ci passi senza biglietto.
 
+:::foto ortigia-piazza-duomo | La facciata barocca del Duomo di Siracusa in piazza Duomo a Ortigia, con la chiesa di Santa Lucia alla Badia sullo sfondo
+
 ## Pranzo senza fretta
 
 Ortigia si presta a pranzi lunghi. Evita le trattorie con il menù turistico sulla porta e cerca le vie secondarie: bastano due isolati dalla piazza per cambiare qualità e prezzi. Non ti suggerisco locali precisi perché non ho verificato nessun indirizzo e preferisco non inventarli.

@@ -36,8 +36,6 @@ Polignano a Mare is made for people who arrive on foot: a white old town on the 
 
 :::foto lama-monachile | Lama Monachile and the old town of Polignano a Mare, in a night view
 
-:::foto ponte-monachile | The bridge over Lama Monachile with the old town houses behind it, Polignano a Mare
-
 ## How do you get to Polignano a Mare without a car?
 
 The town is about 33 kilometres south of Bari on the Bari-Lecce route and borders Mola di Bari, Conversano, Castellana Grotte and Monopoli, according to the Italian Wikipedia entry. The station is on the Adriatic railway, the line linking Bari and Lecce: the Italian Wikipedia says it is served by regional trains and some long-distance ones. It has three tracks, the first for trains from Bari towards Lecce, the second for the opposite direction and the third for passing. The English Wikipedia page adds that Trenitalia runs the regional service, RFI owns the infrastructure, and the station opened in 1865.
@@ -62,6 +60,8 @@ From the station you walk towards the sea and the old town. According to Italia.
 
 The best approach is to have no plan: the lanes are few and short, and they bring you back to the edge of the rock anyway. Look for the viewpoints, where the town ends and the drop over the sea begins.
 
+:::foto polignano-centro-mare | The houses of Polignano a Mare's old town on the edge of the limestone cliff above the sea
+
 ## Lama Monachile: how to get down and when to go
 
 Lama Monachile is the cove cutting through the cliff and, per Italia.it, the most photographed spot in town, very crowded in summer. The bridge above it stands on a Roman bridge on the Via Traiana, the Rome-Brindisi road; the Wikipedia entry adds that it can still be walked and was restored in 1997. The name, again per Wikipedia, recalls the old presence of the monk seal. On the seafront there is also the statue of Domenico Modugno, born in Polignano and author of "Nel blu dipinto di blu".
@@ -69,6 +69,8 @@ Lama Monachile is the cove cutting through the cliff and, per Italia.it, the mos
 To reach the beach, a beach guide, Spiagge.it, lists two routes: the stone staircase under the Roman bridge, more direct and scenic, and the path near the Bastione di Santo Stefano, gentler and less steep. The beach is pebbles, so wear comfortable shoes; for reduced mobility the Bastione path is the least steep option, but the same source warns there are no walkways down to the water. On timing, the guide recommends June and September, with July and August the busiest, and to avoid crowds early morning before 9, late afternoon after 5 pm and weekdays. Rough sea, it adds, makes swimming harder: watch the flags.
 
 Keep in mind these seasonal hints come from a private guide, not from a local order. The Municipality's home page, which we opened on 2 November 2026, had nothing on access to the cove, parking or tourist shuttles: if you need an official rule, ask the Comune (phone on the home page: +39 080 4252300).
+
+:::foto ponte-monachile | The bridge over Lama Monachile with the old town houses behind it, Polignano a Mare
 
 ## Caves and the Grotta Palazzese: what is known and what is not
 

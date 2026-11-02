@@ -52,6 +52,8 @@ With today's closures, the simplest route is a day in three pieces plus a train.
 
 The 1.5 hours between Corniglia and Vernazza and the 2 hours between Vernazza and Monterosso are classed "expert" on the official map. The park's guidelines ask for closed shoes with a lugged, non-slip sole (open or smooth-soled footwear is banned, with fines) and remind you that walking in bad weather is prohibited.
 
+:::foto cinque-terre-sentiero-corniglia | Vernazza seen from the trail coming from Corniglia: the headland with its tower, the coloured houses, the small harbour and prickly pears in the foreground
+
 :::tappe
 - Morning | Riomaggiore, Via dell'Amore | Entry by reservation, one-way towards Manarola, about 30 minutes.
 - Then | Train Manarola-Corniglia | The coastal path between them shows as closed: skip it by train, with the fare or card you chose.
@@ -83,6 +85,8 @@ For you this means two things. Riomaggiore and Manarola sit between La Spezia an
 ## How much to spend (indicative averages)
 
 A day on foot between the Via dell'Amore and the Blue Path, with an adult Trekking Card, costs 10 € (15 € on high-attendance days), plus the train tickets you use: between Manarola and Corniglia and back, on regional trains at the Cinque Terre fare, the range we read is 5-10 € a trip until 1 November. With a one-day Train Card from 2 November the park lists 17.30 € for an adult. These are indicative averages: they depend on the day's band, discounts and what is open.
+
+:::foto monterosso-baia | The bay of Monterosso al Mare seen from the trail, with the rocky headland and the beachfront houses on the right
 
 ## What if the weather turns? {coperto}
 

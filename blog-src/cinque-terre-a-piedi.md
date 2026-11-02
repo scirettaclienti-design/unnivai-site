@@ -52,6 +52,8 @@ Con le chiusure di oggi, il percorso più lineare è una giornata in tre pezzi p
 
 Le due ore tra Vernazza e Monterosso e l'ora e mezza tra Corniglia e Vernazza sono classificate "per esperti" sulla mappa ufficiale. Il vademecum del Parco chiede scarpe chiuse con suola scolpita e antiscivolo (le calzature aperte o a suola liscia sono vietate, con sanzioni) e ricorda che camminare in condizioni meteo avverse è vietato.
 
+:::foto cinque-terre-sentiero-corniglia | Vernazza dal sentiero che arriva da Corniglia: il promontorio con la torre, le case colorate, il porticciolo e fichi d'India in primo piano
+
 :::tappe
 - Mattina | Riomaggiore, Via dell'Amore | Ingresso su prenotazione, percorso a senso unico verso Manarola, circa 30 minuti.
 - Poi | Treno Manarola-Corniglia | Il sentiero costiero tra le due risulta chiuso: salta il tratto in treno, con la tariffa o la card che hai scelto.
@@ -83,6 +85,8 @@ Per te significa due cose. Riomaggiore e Manarola stanno tra La Spezia e Cornigl
 ## Quanto spendere (medie indicative)
 
 Una giornata a piedi tra Via dell'Amore e il sentiero azzurro, con Trekking Card adulti, costa 10 € (15 € in alta affluenza), a cui aggiungi i biglietti dei treni usati: fra Manarola e Corniglia e il rientro, sul regionale con tariffa Cinque Terre, la forbice letta è 5-10 € a corsa fino al 1 novembre. Con la Treno Card di un giorno, dal 2 novembre, il Parco indica 17,30 € per un adulto. Sono medie indicative: dipendono dalla fascia del giorno, da riduzioni e da cosa trovi aperto.
+
+:::foto monterosso-baia | La baia di Monterosso al Mare vista dal sentiero, con il promontorio roccioso e le case della spiaggia sulla destra
 
 ## E se il tempo cambia? {coperto}
 

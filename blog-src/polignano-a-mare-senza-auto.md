@@ -35,8 +35,6 @@ Polignano a Mare è uno di quei posti che sembrano fatti per chi arriva a piedi:
 
 :::foto lama-monachile | La Lama Monachile e il centro storico di Polignano a Mare, in una veduta notturna
 
-:::foto ponte-monachile | Il ponte sulla Lama Monachile con le case del centro storico, a Polignano a Mare
-
 ## Come si arriva a Polignano a Mare senza auto?
 
 Il paese si trova a circa 33 chilometri a sud di Bari, lungo la direttrice Bari-Lecce, e confina con Mola di Bari, Conversano, Castellana Grotte e Monopoli, secondo la voce di Wikipedia. La stazione è sulla linea ferroviaria Adriatica, la stessa che collega Bari e Lecce: secondo la scheda di Wikipedia è servita da treni regionali e da alcuni a lunga percorrenza. Ha tre binari, il primo per i treni da Bari verso Lecce, il secondo per quelli in senso opposto e il terzo usato per le precedenze. La versione inglese della stessa enciclopedia ricorda che il servizio regionale è gestito da Trenitalia e l'infrastruttura da RFI, e che la stazione è aperta dal 1865.
@@ -61,6 +59,8 @@ Dalla stazione si cammina verso il mare e il centro storico. Secondo Italia.it, 
 
 La mossa migliore è non avere un programma: i vicoli sono pochi e corti, e ti riportano comunque verso il bordo della roccia. Cerca i punti panoramici, quelli in cui il centro finisce e comincia il vuoto sopra il mare.
 
+:::foto polignano-centro-mare | Le case del centro storico di Polignano a Mare affacciate sul mare, in cima alla scogliera di calcare
+
 ## Lama Monachile: come scendere e quando andare
 
 La Lama Monachile è la cala che taglia la scogliera ed è, secondo Italia.it, il punto più fotografato del paese, molto affollato d'estate. Il ponte che la sovrasta poggia su un ponte romano sulla via Traiana, la strada Roma-Brindisi; la voce di Wikipedia aggiunge che il ponte è ancora percorribile e che fu ristrutturato nel 1997. Il nome, sempre secondo Wikipedia, ricorda l'antica presenza della foca monaca. Sempre sul lungomare c'è la statua di Domenico Modugno, nato a Polignano e autore di "Nel blu dipinto di blu".
@@ -68,6 +68,8 @@ La Lama Monachile è la cala che taglia la scogliera ed è, secondo Italia.it, i
 Per scendere in spiaggia una guida di settore, Spiagge.it, indica due percorsi: la scalinata in pietra sotto il ponte romano, più diretta e panoramica, e il sentiero vicino al Bastione di Santo Stefano, più dolce e meno ripido. La spiaggia è di ciottoli, quindi servono scarpe comode; per chi ha mobilità ridotta il sentiero del Bastione è l'opzione meno ripida, ma la stessa fonte avverte che non ci sono passerelle fino alla riva. Per i tempi dell'anno, la guida consiglia giugno e settembre, con luglio e agosto più affollati, e per evitare la folla la mattina prima delle 9, il tardo pomeriggio dopo le 17 e i giorni feriali. Il mare mosso, aggiunge, rende la balneazione più difficile: guarda le bandiere.
 
 Tieni presente che queste indicazioni di stagione vengono da una guida privata, non da un'ordinanza. Sul sito del Comune, nella pagina che abbiamo aperto il 2 novembre 2026, non c'era nessuna informazione su accessi alla baia, parcheggi o navette turistiche: se ti serve una regola ufficiale, chiedi al Comune (telefono indicato in home page: 080 4252300).
+
+:::foto ponte-monachile | Il ponte sulla Lama Monachile con le case del centro storico, a Polignano a Mare
 
 ## Grotte e Grotta Palazzese: cosa si sa e cosa no
 

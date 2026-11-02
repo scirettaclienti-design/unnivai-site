@@ -81,6 +81,8 @@ Let yourself get lost in the maze of lanes. In the Giudecca area you find traces
 
 The Fountain of Arethusa is a freshwater spring a few steps from the sea, tied to the myth of the nymph Arethusa and the river god Alpheus. The semicircular basin with papyrus dates from 1843 and the water is now brackish because of seawater infiltration. Italia.it lists it open Friday to Sunday, 10:00-13:00: that does not coincide with sunset, so do not count on getting in at last light. We could not check the operator's own page, so if it is a fixed point for you, ask first. From here the walk along the sea leads to Castello Maniace, at the tip of the island. The best moment is when the light drops.
 
+:::foto ortigia-fonte-aretusa | The Fountain of Arethusa in Ortigia, with papyrus in the basin and the seafront promenade in the background
+
 On the Castello the sources do not agree. Italia.it: Monday 8:30-13:30, Tuesday to Saturday 8:30-16:30, Sunday closed. Museionline: Tuesday to Sunday 8:30-13:00, Saturday until 18:00, Monday 13:00-18:00. The measurements differ too: about 58 metres a side for one source, about 51 for the other. One page gives the ticket as 5 EUR full and 2.50 EUR reduced (indicative average). All you need to know: in the late afternoon the castle may already be closed, but the walk around it and the view from outside remain the real reason to come all the way. It was commissioned by Frederick II in 1239 and designed by Riccardo da Lentini, according to Italia.it.
 
 ## What to leave out

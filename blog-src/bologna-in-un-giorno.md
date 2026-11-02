@@ -36,7 +36,7 @@ Bologna si cammina con un tetto sulla testa. I portici fanno da corridoio tra un
 
 > **In breve.** Mattina tra Piazza Maggiore, San Petronio (ingresso gratuito) e la Torre dell'Orologio; pranzo nel Quadrilatero; primo pomeriggio all'Archiginnasio; se ti restano energie, il portico di San Luca. La Torre degli Asinelli, quando abbiamo aperto la pagina ufficiale di prenotazione, risultava chiusa per manutenzione: la Torre dell'Orologio è l'alternativa indicata. Il lunedì le collezioni d'arte sono chiuse.
 
-:::foto portico-san-luca | Un tratto del portico di San Luca, tra le arcate che salgono verso il santuario
+:::foto bologna-san-petronio-piazza-maggiore | La Basilica di San Petronio con la facciata incompiuta, vista da Piazza Maggiore
 
 :::tappe
 - Mattina | Piazza Maggiore e San Petronio | Ingresso alla basilica gratuito, senza prenotazione. Il percorso a pagamento alle tre cappelle costa 5 €.
@@ -76,11 +76,15 @@ Sul ragù la fonte è Bologna Welcome, che riporta la versione aggiornata deposi
 
 L'Archiginnasio, antica sede dell'Università, si visita con audioguida o con visita guidata. Secondo la pagina di Musei di Bologna, aggiornata a luglio 2025 e quindi da ricontrollare, le visite con audioguida sono dal lunedì al sabato dalle 10:00 alle 17:40, con ingressi ogni 10 minuti e durata di 40 minuti; il biglietto intero costa 10 € e il ridotto 8 €. Le visite guidate costano 12 € intero e partono a orari fissi (per luglio e agosto in italiano alle 13:30 e 15:30). Metti questa tappa dopo pranzo: è tutta al coperto e non richiede più di un'ora.
 
+:::foto bologna-teatro-anatomico | La sala lignea del Teatro Anatomico dell'Archiginnasio, con le statue nelle nicchie e la cattedra centrale
+
 ## I portici e il portico di San Luca {coperto}
 
 I portici non sono un contorno: l'UNESCO li iscrive come sito seriale di 12 gruppi di portici, e il Comune ricorda che la rete complessiva è lunga 62 km. L'iscrizione è del 28 luglio 2021. Tra i dodici gruppi c'è anche "San Luca".
 
 Il portico di San Luca collega la città al santuario. Qui le fonti non coincidono: il Comune parla di circa 3600 metri e osserva che il numero tradizionale di 666 arcate è in realtà leggermente inferiore, perché dipende da come si contano; Bologna Welcome riporta 3,5 km e 666 arcate. Sul percorso il Comune è preciso: dall'Arco Bonaccorsi si segue via Saragozza, in piano, per circa un chilometro e mezzo; poi per più di 2 chilometri si sale, anche a gradini. Bologna Welcome indica di proseguire sotto il portico da Porta Saragozza. Alternativa, secondo Bologna Welcome: bus 20 fino alla chiesa di San Martino a Casalecchio di Reno e poi bus 58 fino al santuario. Non abbiamo letto i tempi di percorrenza: la nostra stima è di non meno di un paio d'ore tra andata e ritorno a piedi, ed è appunto una stima.
+
+:::foto portico-san-luca | Un tratto del portico di San Luca, tra le arcate che salgono verso il santuario
 
 ## Quanto spendere (medie indicative)
 

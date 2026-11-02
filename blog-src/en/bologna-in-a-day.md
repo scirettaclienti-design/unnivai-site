@@ -37,7 +37,7 @@ Bologna is walked with a roof over your head. The porticoes work as a corridor b
 
 > **In short.** Morning around Piazza Maggiore, San Petronio (free entry) and the Clock Tower; lunch in the Quadrilatero; early afternoon at the Archiginnasio; if you have energy left, the San Luca portico. When we opened the official booking page, the Asinelli Tower was listed as closed for maintenance: the Clock Tower is the alternative it points to. The art collections are closed on Mondays.
 
-:::foto portico-san-luca | A stretch of the San Luca portico, with arches climbing towards the sanctuary
+:::foto bologna-san-petronio-piazza-maggiore | The Basilica of San Petronio with its unfinished facade, seen from Piazza Maggiore
 
 :::tappe
 - Morning | Piazza Maggiore and San Petronio | Free entry to the basilica, no reservation. The paid route through three chapels costs 5 €.
@@ -77,11 +77,15 @@ For ragù the source is Bologna Welcome, which gives the updated version deposit
 
 The Archiginnasio, the old university seat, is visited with an audioguide or a guided tour. According to the Musei di Bologna page, updated in July 2025 and so worth rechecking, audioguide visits run Monday to Saturday from 10:00 am to 5:40 pm, with entries every 10 minutes and a duration of 40 minutes; the full ticket is 10 € and the reduced 8 €. Guided tours cost 12 € full and leave at fixed times (for July and August, in Italian at 1:30 and 3:30 pm). Put this stop after lunch: it is entirely indoors and takes no more than an hour.
 
+:::foto bologna-teatro-anatomico | The wooden hall of the Anatomical Theatre of the Archiginnasio, with statues in niches and the central chair
+
 ## The porticoes and the San Luca portico {coperto}
 
 The porticoes are not a backdrop: UNESCO inscribes them as a serial site of 12 portico ensembles, and the Comune notes that the whole network is 62 km long. The listing dates from 28 July 2021. Among the twelve ensembles is "San Luca".
 
 The San Luca portico links the city to the sanctuary. Here the sources disagree: the Comune speaks of about 3,600 metres and notes that the traditional count of 666 arches is actually slightly lower, depending on how they are counted; Bologna Welcome gives 3.5 km and 666 arches. On the route the Comune is precise: from the Arco Bonaccorsi you follow via Saragozza, flat, for about a kilometre and a half; then for more than 2 kilometres you climb, partly on steps. Bologna Welcome says to continue under the portico from Porta Saragozza. The alternative, per Bologna Welcome: bus 20 to the church of San Martino in Casalecchio di Reno, then bus 58 to the sanctuary. We did not read walking times: our estimate is no less than a couple of hours there and back on foot, and it is only an estimate.
+
+:::foto portico-san-luca | A stretch of the San Luca portico, with arches climbing towards the sanctuary
 
 ## How much to spend (indicative averages)
 

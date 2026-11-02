@@ -80,6 +80,8 @@ Lasciati perdere nel dedalo delle stradine. Nell'area della Giudecca si trovano 
 
 La Fonte Aretusa è una sorgente d'acqua dolce a pochi passi dal mare, legata al mito della ninfa Aretusa e del fiume Alfeo. Il bacino semicircolare con i papiri risale al 1843 e oggi l'acqua è salmastra per le infiltrazioni di acqua di mare. Italia.it indica apertura da venerdì a domenica, 10:00-13:00: un orario che non coincide con il momento del tramonto, quindi non contare di entrare all'ultima luce. Non ho potuto verificare la pagina del gestore, quindi se è un punto fermo per te, chiedi prima. Da qui parte la passeggiata lungo il mare fino al Castello Maniace, alla punta dell'isola. Il momento migliore è quando la luce si abbassa.
 
+:::foto ortigia-fonte-aretusa | La Fonte Aretusa a Ortigia, con il papiro nella vasca e il lungomare sul mare sullo sfondo
+
 Sul Castello le fonti non concordano. Italia.it: lunedì 8:30-13:30, martedì-sabato 8:30-16:30, domenica chiuso. Museionline: martedì-domenica 8:30-13:00, sabato fino alle 18:00, lunedì 13:00-18:00. Anche le misure divergono: circa 58 metri di lato per una fonte, circa 51 per l'altra. Una scheda indica il biglietto a 5 € intero e 2,50 € ridotto (media indicativa). Ti serve solo sapere questo: nel tardo pomeriggio il castello potrebbe essere già chiuso, ma il giro attorno e la vista dall'esterno restano il motivo vero per arrivare fin lì. Fu fatto costruire da Federico II nel 1239 su progetto di Riccardo da Lentini, secondo Italia.it.
 
 ## Cosa lasciare fuori

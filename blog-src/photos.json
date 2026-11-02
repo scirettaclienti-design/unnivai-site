@@ -153,7 +153,7 @@
  },
  "venezia-pescheria-rialto": {
   "file": "File:Pescaria Rialto Venice.jpg",
-  "artist": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but ple",
+  "artist": "Wolfgang Moroder",
   "license": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Pescaria_Rialto_Venice.jpg",
   "w": 1400,
@@ -169,7 +169,7 @@
  },
  "venezia-rio-misericordia": {
   "file": "File:Fondamenta della Misericordia Rio della Misericordia San Marziale.jpg",
-  "artist": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but ple",
+  "artist": "Wolfgang Moroder",
   "license": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Fondamenta_della_Misericordia_Rio_della_Misericordia_San_Marziale.jpg",
   "w": 1400,
@@ -244,6 +244,14 @@
   "artist": "Luca Borghi",
   "license": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:Anatomical_theatre_of_the_Archiginnasio,_Bologna,_Italy_-_3_general_view.JPG",
+  "w": 1400,
+  "h": 1050
+ },
+ "ortigia-fonte-aretusa": {
+  "file": "File:Ortigia, fonte aretusa 01.JPG",
+  "artist": "sailko",
+  "license": "CC BY 2.5",
+  "url": "https://commons.wikimedia.org/wiki/File:Ortigia,_fonte_aretusa_01.JPG",
   "w": 1400,
   "h": 1050
  }

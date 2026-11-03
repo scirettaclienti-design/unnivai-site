@@ -36,5 +36,8 @@ for lab,p,d in [('IT',it,a)]+[('EN',en[0],fm(en[0]))] if en else [('IT',it,a)]:
     if re.search(r'TODO|XXX|lorem|\[\?\]',d['body'],re.I):errs.append(f'{lab}: segnaposto nel testo')
     if d.get('updated',d.get('date'))!=datetime.date.today().isoformat():errs.append(f"{lab}: 'date' (o 'updated' nei refresh) deve essere oggi ({datetime.date.today().isoformat()})")
     if len(re.findall(r'\d{1,2}[.:]\d{2}',d['body']))>0 and 'verific' not in d['body'].lower() and 'checked' not in d['body'].lower():errs.append(f'{lab}: orari presenti ma manca la nota di verifica')
+import subprocess
+r=subprocess.run([sys.executable,os.path.join(os.path.dirname(os.path.abspath(__file__)),'check_covers.py'),slug],capture_output=True,text=True)
+if r.returncode:errs+=[l[2:] for l in r.stdout.strip().split('\n') if l.startswith('✗')]
 if errs:print('\n'.join('✗ '+e for e in errs));sys.exit(1)
 print('✓ articolo ok:',slug)

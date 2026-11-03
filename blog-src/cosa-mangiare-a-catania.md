@@ -39,7 +39,7 @@ Mangiare a Catania non si risolve con un ristorante: si risolve con una giornata
 - Sera | Cavallo o pesce | Una scelta, non entrambe.
 :::
 
-:::foto pescheria-catania | Banchi e clienti alla Pescheria di Catania di mattina
+:::foto catania-piazza-duomo-elefante | La Fontana dell'Elefante in piazza Duomo a Catania, con il Palazzo dei Chierici sullo sfondo
 
 ## 1. Granita e brioche
 
@@ -83,7 +83,7 @@ Cialda croccante con crema di ricotta di pecora. Il consiglio pratico è mangiar
 
 Le minnuzze di Sant'Agata sono piccole cassatine con pan di spagna, ricotta, pasta reale e una ciliegina candita, sempre con copertura bianca. Le olivette sono dolci di pasta di mandorla a forma di oliva, colorati di verde: Travel365 le dà da circa 20 € al chilo. Per la fonte la patrona si festeggia dal 3 al 5 febbraio e in quei giorni i dolci si trovano ovunque; fuori da gennaio-febbraio chiedi prima di fare strada per cercarli.
 
-:::foto catania-piazza-duomo-elefante | La Fontana dell'Elefante in piazza Duomo a Catania, con il Palazzo dei Chierici sullo sfondo
+:::foto pescheria-catania | Banchi e clienti alla Pescheria di Catania di mattina
 
 :::consiglio Non fare tutto in un giorno. Scegli quattro assaggi e fai un giro a piedi tra uno e l'altro: a Catania il centro è compatto e si cammina bene.
 

@@ -40,7 +40,7 @@ Eating in Catania is not solved with a restaurant: it is solved with a well-buil
 - Evening | Horse meat or fish | One choice, not both.
 :::
 
-:::foto pescheria-catania | Stalls and customers at Catania's fish market in the morning
+:::foto catania-piazza-duomo-elefante | The Elephant Fountain in Piazza Duomo in Catania, with the Palazzo dei Chierici in the background
 
 ## 1. Granita and brioche
 
@@ -84,7 +84,7 @@ A crisp shell with sheep's ricotta cream. The practical advice is to eat it fill
 
 The minnuzze di Sant'Agata are small cassatine with sponge cake, ricotta, marzipan and a candied cherry, always with white icing. The olivette are almond-paste sweets shaped like olives and coloured green: Travel365 puts them at about €20 a kilo. According to the same source the patron saint is celebrated from 3 to 5 February and during those days the sweets are everywhere; outside January and February, ask before you walk across town looking for them.
 
-:::foto catania-piazza-duomo-elefante | The Elephant Fountain in Piazza Duomo in Catania, with the Palazzo dei Chierici in the background
+:::foto pescheria-catania | Stalls and customers at Catania's fish market in the morning
 
 :::consiglio Do not do it all in one day. Pick four tastings and walk between them: in Catania the centre is compact and walking is easy.
 

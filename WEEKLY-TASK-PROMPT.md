@@ -23,3 +23,4 @@ Stesso setup. Scegli l'articolo con `updated`/`date` più vecchio o che non pass
 
 LINK (aggiornamento 2026-11-04): dopo aver scritto l'articolo, scegli i 2 articoli più affini già pubblicati e aggiungi in ciascuno (IT ed EN) la riga "**Leggi anche:** … [anchor](/blog/slug)." prima della nota finale in corsivo, aggiornando `updated:` a oggi. Poi `python3 scripts/check_links.py` deve dire "✓ link interni ok" (nessun orfano). Almeno 3 link in uscita e 3 fonti, 1 ufficiale.
 
+SOCIAL (aggiornamento 2026-11-05): dopo l'articolo crea growth/social/<slug-it>.md seguendo growth/social/lecce-in-un-giorno.md e aggiungi la riga in growth/social/INDEX.md.

@@ -41,3 +41,8 @@ Diretto, concreto, caldo. Niente "scopri la magia", niente superlativi vuoti, ni
 - AUTORE: lo schema BlogPosting porta `author` con `sameAs` LinkedIn; non cambiare nome autore o URL.
 - Un nuovo articolo sullo stesso territorio di uno esistente è benvenuto (cluster): angolo diverso, copertina diversa, link reciproci.
 
+## Pacchetto social (aggiornato 2026-11-05)
+- Ogni articolo nuovo produce anche `growth/social/<slug-it>.md` con lo stesso formato di `growth/social/lecce-in-un-giorno.md`: video 30 s, carosello 7 slide, didascalie IG/TikTok/LinkedIn con link tracciato (`utm_source` ig|tiktok|linkedin, `utm_medium=social`, `utm_campaign=<slug-it>`), caption EN, 3 domande community senza link nel corpo.
+- Solo dati presenti nell'articolo; ogni beat max 12 parole; limiti: IG 600, TikTok 200, LinkedIn 900, EN 300 caratteri (link escluso). Riga nuova in `growth/social/INDEX.md` con la data di pubblicazione consigliata (2 a settimana, martedì e giovedì).
+- Se una scadenza o una chiusura citata passa prima della pubblicazione, il pacchetto va aggiornato o la frase tolta.
+

@@ -94,6 +94,7 @@ for a,b in sorted(M,key=lambda x:-len(x[0])):
 S=json.load(open('seo_en.json'))
 links='<ul class="blogl"><li><b>From the blog</b></li><li><a href="/en/blog">All articles</a></li>'+''.join(f'<li><a href="/en/blog/{p["slug"]}">{p["title"].split(":")[0]}</a></li>' for p in S['posts'])+'</ul>'
 h=re.sub(r'<ul class="blogl">.*?</ul>',links,h,count=1,flags=re.S)
+h=re.sub(r"<section class=\"wrap\" id=\"guida-pdf\".*?</section>\s*","",h,count=1,flags=re.S)
 os.makedirs(SITE+'/en',exist_ok=True)
 open(SITE+'/en/index.html','w').write(h)
 print('en landing',len(h))

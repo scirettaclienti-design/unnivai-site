@@ -1,0 +1,2 @@
+const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage();await p.goto('file:///home/claude/unnivai-site/growth/guida/guida.html');await p.waitForTimeout(800);
+await p.pdf({path:'/home/claude/unnivai-site/site/guida/unnivai-italia-un-giorno-alla-volta.pdf',width:'148mm',height:'210mm',printBackground:true,preferCSSPageSize:true,margin:{top:0,right:0,bottom:0,left:0}});await b.close()})()

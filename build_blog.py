@@ -332,7 +332,7 @@ def head(title,desc,url,img,extra='',typ='website',robots='index,follow,max-imag
 def footer():
     return f'''<footer><div class="wrap"><div>{LOGO}<p style="max-width:24em;margin:12px 0 0">Dove vai, in siciliano. Turismo con luoghi veri che si adatta alla tua giornata. Nasce in Sicilia, per tutta l'Italia.</p></div>
 <nav aria-label="Blog"><b>Dal blog</b>{''.join(f'<a href="/blog/{p["slug"]}">{esc(p["title"].split(":")[0])}</a>' for p in posts)}</nav>
-<nav aria-label="Sito"><b>UNNIVAI</b><a href="/">Home</a><a href="/blog">Blog</a><a href="/?src=blog#iscriviti">Accesso anticipato</a><a href="/autore">Autore</a><a href="/metodo">Metodo</a><a href="/rss.xml">RSS</a><a href="/#privacy">Privacy</a></nav></div></footer></body></html>'''
+<nav aria-label="Sito"><b>UNNIVAI</b><a href="/">Home</a><a href="/blog">Blog</a><a href="/?src=blog#iscriviti">Accesso anticipato</a><a href="/autore">Autore</a><a href="/metodo">Metodo</a>{'' if EN else '<a href="/guida">Guida PDF</a>'}<a href="/rss.xml">RSS</a><a href="/#privacy">Privacy</a></nav></div></footer></body></html>'''
 def ld(o):return '<script type="application/ld+json">'+json.dumps(o,ensure_ascii=False)+'</script>'
 ORG={"@type":"Organization","name":"UNNIVAI","url":BASE+"/","founder":{"@type":"Person","name":"Ivano Sciretta","url":BASE+"/autore"},"logo":{"@type":"ImageObject","url":BASE+"/icon-512.png"}}
 def card(p,feat=False):
@@ -491,6 +491,33 @@ mh+=f'''<main><article class="art"><p class="crumbs"><a href="/">UNNIVAI</a> / {
 <h2 id="errori">Found a mistake?</h2><p>Write to <a href="mailto:sciretta.clienti@gmail.com">sciretta.clienti@gmail.com</a> with the page and the detail: we check it, correct it and update the article's verification date.</p>
 <h2 id="app">What about the app?</h2><p>The blog guides are independent of the UNNIVAI app. In the future some may link to routes prepared in the app: we will always flag that explicitly.</p>""")}</div></article></main></body></html>'''
 W(SITE+P+f'/{DIRM}/index.html',mh,(BASE+'/metodo',BASE+'/en/method'))
+
+# ---------- guida PDF (lead magnet, solo IT) ----------
+if not EN and os.path.exists(SITE+'/guida/unnivai-italia-un-giorno-alla-volta.pdf'):
+    _env=dict(l.strip().split('=',1) for l in open('config/supabase.env') if '=' in l)
+    gdesc="15 guide verificate sulle fonti ufficiali (Milano, Roma, Napoli, Palermo, Catania e altre) in un PDF per telefono: orari, prezzi, foto con licenza."
+    gh=head('Guida PDF gratuita · Italia, un giorno alla volta',gdesc,BASE+'/guida',BASE+'/og.png',ld({"@context":"https://schema.org","@type":"WebPage","name":"Italia, un giorno alla volta · guida PDF","url":BASE+'/guida',"publisher":ORG}))
+    gh+=f'''<main style="padding-inline:var(--gut)"><article class="art"><p class="crumbs"><a href="/">UNNIVAI</a> / Guida PDF</p><h1>Italia, un giorno alla volta</h1><p class="meta"><span><b>Guida gratuita in PDF</b> · 19 pagine · formato telefono</span></p>
+<div class="body" style="margin-top:24px"><p>Quindici guide a piedi, in treno e a tavola, riassunte in un PDF da tenere sul telefono. Per ogni città: la risposta in breve, la scheda con zona, durata, budget e cosa controllare, la data dell'ultima verifica e il QR verso la guida completa.</p>
+<ul><li>Orari, prezzi e regole letti su pagine ufficiali, non a memoria.</li><li>Foto reali con licenza libera, con autore e crediti.</li><li>Milano, Venezia, Bologna, Firenze, Cinque Terre, Roma, Napoli, Matera, Lecce, Polignano, Palermo, Catania, Ortigia.</li></ul>
+<form id="gf" novalidate style="position:relative;margin:28px 0;padding:22px;border:1px solid var(--line2);border-radius:18px;background:rgba(234,242,240,.04)">
+<label for="ge" style="display:block;font-weight:600;margin-bottom:10px">Dove te la mando?</label>
+<input id="ge" type="email" inputmode="email" autocomplete="email" placeholder="La tua email" required style="width:100%;padding:14px 16px;border-radius:12px;border:1px solid var(--line2);background:var(--bg);color:var(--ink);font:inherit">
+<div style="position:absolute;left:-9999px" aria-hidden="true"><input id="gw" type="text" tabindex="-1" autocomplete="off"></div>
+<label style="display:flex;gap:10px;margin:14px 0;font-size:.9rem;color:var(--ink2);align-items:flex-start"><input id="gc" type="checkbox" required style="margin-top:4px;flex:none"><span>Acconsento al trattamento della mia email per ricevere la guida e, a novembre, l'invito all'accesso anticipato a UNNIVAI. Posso revocare il consenso quando voglio (<a href="/#privacy">informativa</a>).</span></label>
+<button id="gb" type="submit" style="background:var(--accent);color:var(--on-accent);border:0;border-radius:99px;padding:14px 26px;font:inherit;font-weight:700;cursor:pointer">Scarica la guida</button>
+<p id="gm" role="status" aria-live="polite" style="margin-top:12px;min-height:1.4em"></p></form>
+<div id="gd" hidden style="margin:28px 0;padding:22px;border:1px solid var(--accent);border-radius:18px"><h2 style="margin:0 0 8px">Ecco la guida.</h2><p><a class="pill hot" href="/guida/unnivai-italia-un-giorno-alla-volta.pdf" download>Scarica il PDF (2 MB)</a></p><p style="color:var(--ink2);font-size:.9rem">Ti scrivo una volta, quando l'accesso anticipato è pronto. Nessuna newsletter prima.</p></div>
+<p style="color:var(--ink2);font-size:.9rem">Orari e prezzi cambiano con le stagioni: controlla sempre la fonte ufficiale prima di partire. <a href="/metodo">Come lavoriamo</a>.</p></div></article></main>
+<script>(function(){{var U='{_env["SUPA_URL"]}',K='{_env["SUPA_KEY"]}',f=document.getElementById('gf'),m=document.getElementById('gm'),b=document.getElementById('gb');
+function done(){{f.hidden=true;document.getElementById('gd').hidden=false}}
+f.addEventListener('submit',function(e){{e.preventDefault();m.textContent='';if(document.getElementById('gw').value)return done();
+var v=document.getElementById('ge').value.trim().toLowerCase();if(!/^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$/.test(v)){{m.textContent="Controlla l'indirizzo email: sembra incompleto.";return}}
+if(!document.getElementById('gc').checked){{m.textContent='Per scaricare la guida serve il consenso qui sopra.';return}}
+b.disabled=true;b.textContent='Un attimo…';
+fetch(U.replace(/\\/$/,'')+'/rest/v1/waitlist',{{method:'POST',headers:{{'Content-Type':'application/json',apikey:K,Authorization:'Bearer '+K,Prefer:'return=minimal'}},body:JSON.stringify({{email:v,city:null,region:null,consent:true,source:'guida'}})}})
+.then(function(r){{if(r.ok||r.status===409)done();else throw 0}}).catch(function(){{b.disabled=false;b.textContent='Scarica la guida';m.textContent='Non sono riuscito a salvarti. Riprova tra un momento.'}})}})}})();</script></body></html>'''
+    W(SITE+'/guida/index.html',gh,None)
 
 # ---------- dump per build_seo.py ----------
 json.dump({'pages':PAGES,'posts':[{'slug':p['slug'],'title':p['title'],'desc':p['description'],'date':p['date'],'updated':p.get('updated',p['date']),'cat':p['category'],'img':p.get('og_img'),'text':re.sub(r'\n\s*\n+','\n\n',re.sub(r'<[^>]+>','',re.sub(r'</(p|h2|li|aside|dd|div)>','\n',p['body'])).replace('&amp;','&').replace('&#x27;',"'"))} for p in posts]},open(f'seo_{LG}.json','w'),ensure_ascii=False)

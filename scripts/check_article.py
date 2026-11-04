@@ -39,5 +39,7 @@ for lab,p,d in [('IT',it,a)]+[('EN',en[0],fm(en[0]))] if en else [('IT',it,a)]:
 import subprocess
 r=subprocess.run([sys.executable,os.path.join(os.path.dirname(os.path.abspath(__file__)),'check_covers.py'),slug],capture_output=True,text=True)
 if r.returncode:errs+=[l[2:] for l in r.stdout.strip().split('\n') if l.startswith('✗')]
+r=subprocess.run([sys.executable,os.path.join(os.path.dirname(os.path.abspath(__file__)),'check_links.py'),slug],capture_output=True,text=True)
+if r.returncode:errs+=[l[2:] for l in r.stdout.strip().split('\n') if l.startswith('✗')]
 if errs:print('\n'.join('✗ '+e for e in errs));sys.exit(1)
 print('✓ articolo ok:',slug)

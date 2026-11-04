@@ -3,6 +3,7 @@ id: bologna-in-un-giorno
 title: Bologna in a day: tortellini, porticoes and a walking plan
 description: One day in Bologna under the porticoes: San Petronio, the Clock Tower, Quadrilatero, Archiginnasio and San Luca, with tortellini and official hours.
 date: 2026-10-30
+updated: 2026-11-04
 category: Bologna
 cover: Bologna
 tags: On foot, Food, One day
@@ -107,5 +108,7 @@ After Bologna the logic changes but the yardstick stays: [Florence in 48 hours](
 ## If your day changes
 
 UNNIVAI is built to rewrite the route when an opening, the weather or tiredness changes: same walk, different order. If it sounds useful, [join the first people in](/?src=blog-bologna-in-a-day#iscriviti).
+
+**Read next:** Another northern city to explore even in bad weather: [Milan in a weekend in the rain](/blog/milan-in-a-weekend-in-the-rain).
 
 *Hours, prices and opening days were read and checked on the official sources listed on 30 October 2026 and change during the year: check before you go. Where two sources disagree, we said so. We did not verify San Petronio's nave hours or walking times to San Luca.*

@@ -2,7 +2,7 @@
 title: Cosa mangiare a Catania: 10 assaggi in ordine di giornata
 description: Arancino, granita con brioche, pasta alla Norma, carne di cavallo e dolci di Sant'Agata: cosa ordinare a Catania, quando, e quanto spendere circa.
 date: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-04
 category: Catania
 cover: Cibo
 tags: Cibo, A piedi, Mezza giornata
@@ -122,5 +122,7 @@ Se piove, le soste da bar e rosticceria funzionano comunque: guarda il piano in 
 ## Se cambia la giornata
 
 UNNIVAI riscrive il percorso quando cambiano tempo, orario o fame. Se ti serve, [entra tra i primi](/?src=blog-cosa-mangiare-catania#iscriviti).
+
+**Leggi anche:** Sempre in Sicilia, sempre a tavola: [Palermo street food](/blog/palermo-street-food-mercati-orari-cosa-ordinare).
 
 *Nota di verifica. Prezzi e orari sono medie indicative tratte dalle fonti indicate (Travel365, Consorzio del Pistacchio Verde di Bronte DOP, Qualigeo, Do Eat Better Experience, Siviaggia, sito dell'aeroporto e AMTS) e cambiano durante l'anno: controlla prima di partire. Verificato il 29 ottobre 2026. Non abbiamo verificato di persona i singoli locali citati.*

@@ -2,6 +2,7 @@
 title: Bologna: tortellini, portici e una giornata a piedi
 description: Una giornata a Bologna sotto i portici: San Petronio, Torre dell'Orologio, Quadrilatero, Archiginnasio e San Luca, con tortellini e orari verificati.
 date: 2026-10-30
+updated: 2026-11-04
 category: Bologna
 cover: Bologna
 tags: A piedi, Cibo, Una giornata
@@ -106,5 +107,7 @@ Dopo Bologna, la logica cambia ma il criterio resta: [Firenze in 48 ore](/blog/f
 ## Se la giornata cambia
 
 UNNIVAI riscrive il percorso quando cambia un orario, il tempo o la stanchezza: stesso giro, ordine diverso. Se ti serve, [entra tra i primi](/?src=blog-bologna-in-un-giorno#iscriviti).
+
+**Leggi anche:** Un'altra città del Nord da girare anche con il maltempo: [Milano in un weekend con la pioggia](/blog/milano-in-un-weekend-con-la-pioggia).
 
 *Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto. Non abbiamo verificato gli orari della navata di San Petronio né i tempi a piedi per San Luca.*

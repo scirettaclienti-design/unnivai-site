@@ -3,6 +3,7 @@ id: napoli-cosa-mangiare-in-ordine-di-giornata
 title: What to eat in Naples, in the order of the day
 description: Sfogliatella, fried pizza, pizza a portafoglio, cuoppo, babà and STG pizza: what to eat in Naples and when, with indicative prices and where sources disagree.
 date: 2026-10-30
+updated: 2026-11-04
 category: Naples
 cover: Cibo
 tags: Food, On foot, One day
@@ -95,5 +96,7 @@ Another breakfast sweet awaits in Lecce: read [one day in Lecce](/blog/one-day-i
 ## If your day changes
 
 UNNIVAI rewrites the route when hours, rain or appetite change: same tastings, different order. If it sounds useful, [join the first people in](/?src=blog-napoli-cosa-mangiare-in-ordine-di-giornata-en#iscriviti).
+
+**Read next:** If your Italy is made of tables and walks: [Bologna in a day on foot](/blog/bologna-in-a-day).
 
 *Information checked on 30 October 2026 on the sources listed. Prices and closing days are reported by guides that are not always precisely dated and change from place to place: check before you go. Where two sources disagree, we said so; venue names are quoted only as the sources report them.*

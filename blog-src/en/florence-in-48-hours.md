@@ -3,6 +3,7 @@ id: firenze-in-48-ore
 title: Florence in 48 hours without pointless queues
 description: Two days in Florence in a sensible order: Duomo and Dome, Accademia, Uffizi. Hours, closing days, prices and bookings read on the official sites.
 date: 2026-10-29
+updated: 2026-11-04
 category: Florence
 cover: Firenze
 tags: Weekend, Bookings, On foot
@@ -86,5 +87,7 @@ If Florence has convinced you to think by areas, read [Rome in two days](/blog/r
 ## If the plan changes
 
 Sudden closures, strikes, rain: a 48-hour plan breaks at the first surprise. UNNIVAI rewrites the route when something changes, keeping hours and bookings together. If it helps, [join the first people in](/?src=blog-florence-in-48-hours#iscriviti).
+
+**Read next:** If you want the sea on foot after Tuscany: [Cinque Terre on foot](/blog/cinque-terre-on-foot).
 
 *Hours, prices and notices were read and checked on the official sites listed on 29 October 2026 and change during the year: check before you go.*

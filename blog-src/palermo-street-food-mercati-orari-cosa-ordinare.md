@@ -2,6 +2,7 @@
 title: Palermo street food: mercati, orari e cosa ordinare
 description: Capo, Ballarò e Vucciria a Palermo: a che ora andare, cosa ordinare (panelle, arancina, sfincione, pani ca meusa) e quanto costa, con le fonti che discordano.
 date: 2026-10-30
+updated: 2026-11-04
 category: Palermo
 cover: Cibo
 tags: Cibo, Mercati, A piedi
@@ -111,5 +112,7 @@ Per capire come si legge un mercato del pesce, la guida alla [pescheria di Catan
 ## Se cambia la giornata
 
 UNNIVAI riscrive il giro quando cambiano orari, pioggia o stanchezza: stessi mercati, ordine diverso. Se ti serve, [entra tra i primi](/?src=blog-palermo-street-food-mercati-orari-cosa-ordinare#iscriviti).
+
+**Leggi anche:** Un altro street food del Sud, in ordine di giornata: [cosa mangiare a Napoli](/blog/napoli-cosa-mangiare-in-ordine-di-giornata).
 
 *Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Orari e prezzi sono letti su siti di operatori e guide e cambiano durante l'anno: controllali prima di partire. Dove due fonti discordano lo abbiamo scritto; i nomi dei locali sono citati solo come li riportano le fonti.*

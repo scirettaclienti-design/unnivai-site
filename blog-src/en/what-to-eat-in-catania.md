@@ -3,7 +3,7 @@ id: cosa-mangiare-a-catania
 title: What to eat in Catania: 10 tastes in order of the day
 description: Arancino, granita with brioche, pasta alla Norma, horse meat and Sant'Agata sweets: what to order in Catania, when, and roughly what it costs.
 date: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-04
 category: Catania
 cover: Cibo
 tags: Food, On foot, Half a day
@@ -123,5 +123,7 @@ If it rains, the bar and rosticceria stops work anyway: see the plan in [what to
 ## If the day changes
 
 UNNIVAI rewrites the route when weather, time or hunger change. If you need it, [be among the first](/?src=blog-what-to-eat-catania#iscriviti).
+
+**Read next:** Still in Sicily, still at the table: [Palermo street food](/blog/palermo-street-food-guide).
 
 *Verification note. Prices and hours are indicative averages from the sources listed (Travel365, the Bronte Green Pistachio PDO Consortium, Qualigeo, Do Eat Better Experience, Siviaggia, the airport website and AMTS) and change during the year: check before you go. Checked on 29 October 2026. We have not personally verified the individual venues mentioned.*

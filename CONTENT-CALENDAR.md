@@ -1,4 +1,4 @@
-# Calendario editoriale UNNIVAI (2 articoli a settimana, IT + EN)
+# Calendario editoriale UNNIVAI (2 articoli nuovi + 1 refresh a settimana, IT + EN)
 
 Regola: mai due articoli consecutivi sulla stessa regione. Alterna **città iconica** e **luogo meno battuto**, **cibo / itinerario / piano B / logistica**.
 Stato: `[ ]` da fare · `[x]` pubblicato. Il task settimanale prende la **prima riga `[ ]`** e la marca `[x]`.
@@ -36,3 +36,11 @@ Fonti consigliate = punto di partenza, non sostituiscono la verifica: ogni dato 
 - **Orario del giorno**: widget `time` quando le tappe dipendono dall'ora.
 - **Più giorni**: widget `days` con etichette "Giorno N · …" / "Day N · …".
 - **Verifica AI**: widget `test` solo per articoli su AI/pianificazione.
+| 25 | [ ] | Sicilia | Cosa fare a Catania in un giorno, senza auto | One day in Catania without a car | Itinerario a piedi | Comune di Catania, musei civici |
+| 26 | [ ] | Sicilia | Etna da Catania: crateri, rifugi e come salire | Etna from Catania: craters, huts and how to go up | Logistica | Parco dell'Etna, guide alpine ufficiali |
+| 27 | [ ] | Sicilia | Palermo in due giorni: Normanni, mercati, Monreale | Palermo in two days | Itinerario | Comune, Palazzo dei Normanni, UNESCO |
+| 28 | [ ] | Sicilia | Valle dei Templi di Agrigento: orari, biglietti, quando andare | Valley of the Temples: hours, tickets, when to go | Logistica | Parco Archeologico Valle dei Templi |
+| 29 | [ ] | Sicilia | Noto e il barocco del Val di Noto in un giorno | Noto and the Val di Noto baroque in a day | Itinerario | Comuni, UNESCO |
+| 30 | [ ] | Sicilia | Sicilia in 7 giorni senza stress: tappe e treni | Sicily in 7 days by train and bus | Logistica | Trenitalia, bus regionali |
+
+> Nota 2026-11-04: le righe 25-30 sono un cluster Sicilia (long-tail dove UNNIVAI ha già 4 articoli: Catania x3, Ortigia, Palermo). Sono in coda dopo la 24 per rispettare la regola "mai due consecutivi sulla stessa regione"; spostarle in testa è una decisione di Ivano.

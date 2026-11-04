@@ -2,6 +2,7 @@
 title: Polignano a Mare senza auto: treno, piedi e cosa vedere
 description: Come visitare Polignano a Mare senza macchina: treno da Bari, centro storico, Lama Monachile, museo Pascali e passeggiata a San Vito, con fonti ufficiali.
 date: 2026-11-02
+updated: 2026-11-04
 category: Polignano a Mare
 cover: Polignano
 tags: Senza auto, Mezza giornata, Costa
@@ -112,5 +113,7 @@ Per un altro giro a piedi del Sud, guarda [Matera e i Sassi](/blog/matera-come-v
 ## Se cambia la giornata
 
 UNNIVAI è pensata per riscrivere il percorso quando cambiano tempo, orario del treno o stanchezza: stesso giro, ordine diverso. Se ti serve, [entra tra i primi](/?src=blog-polignano-a-mare-senza-auto#iscriviti).
+
+**Leggi anche:** Un altro itinerario di costa a piedi, in Liguria: [Cinque Terre a piedi](/blog/cinque-terre-a-piedi).
 
 *Orari, prezzi e giorni di apertura sono letti sulle fonti indicate e verificati il 2 novembre 2026; cambiano durante l'anno: controlla prima di partire. Dove le fonti non erano ufficiali o discordavano lo abbiamo scritto; non siamo riusciti a verificare la distanza stazione-centro, la presenza di ZTL e navette, gli orari ufficiali dei treni e le modalità per vedere le grotte dal mare.*

@@ -2,6 +2,7 @@
 title: Cosa mangiare a Napoli: la giornata in ordine di assaggio
 description: Sfogliatella, pizza fritta, portafoglio, cuoppo, babà e pizza STG: cosa mangiare a Napoli e a che ora, con prezzi indicativi e fonti che discordano.
 date: 2026-10-30
+updated: 2026-11-04
 category: Napoli
 cover: Cibo
 tags: Cibo, A piedi, Una giornata
@@ -94,5 +95,7 @@ Un altro dolce da colazione lo trovi a Lecce: leggi [Lecce in un giorno](/blog/l
 ## Se cambia la giornata
 
 UNNIVAI riscrive il giro quando cambiano orari, pioggia o appetito: stessi assaggi, ordine diverso. Se ti serve, [entra tra i primi](/?src=blog-napoli-cosa-mangiare-in-ordine-di-giornata#iscriviti).
+
+**Leggi anche:** Se la tua Italia è fatta di tavole e passeggiate: [Bologna in una giornata a piedi](/blog/bologna-in-un-giorno).
 
 *Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Prezzi e giorni di chiusura sono riportati da guide non sempre datate con precisione e cambiano da locale a locale: controllali prima di partire. Dove due fonti discordano lo abbiamo scritto; i nomi dei locali sono citati solo come li riportano le fonti.*

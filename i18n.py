@@ -23,7 +23,7 @@ UI=[
 ("UNNIVAI costruisce l'itinerario con luoghi veri e lo riscrive quando cambia il tempo. Entra tra i primi.","UNNIVAI builds the itinerary with real places and rewrites it when the weather changes. Be among the first."),
 ('Per città','By city'),('Per situazione','By situation'),('Tutte le domande →','All questions →'),('Tutti gli articoli','All articles'),
 (' guide · ',' guides · '),
-('Continua a leggere','Keep reading'),('Prossimo articolo','Next article'),('Risposta in breve','Quick answer'),
+('Continua a leggere','Keep reading'),('Tutte le guide: ','All guides: '),('Domande frequenti sui viaggi','Travel questions, answered'),('Prossimo articolo','Next article'),('Risposta in breve','Quick answer'),
 ('In questo articolo','In this article'),('Domande frequenti','Frequently asked questions'),('Fonti ufficiali','Official sources'),
 ('<b>Consiglio</b>','<b>Tip</b>'),('Al coperto','Indoors'),("All'aperto",'Outdoors'),
 ("Dimmi dove vuoi andare: ti scrivo quando UNNIVAI arriva nella tua città. Nessuna newsletter prima.","Tell me where you want to go: I will write when UNNIVAI reaches your city. No newsletter before that."),

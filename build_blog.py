@@ -215,6 +215,7 @@ h1,h2,h3{font-family:var(--f-display);font-weight:800;letter-spacing:-.03em;line
 .faq summary{cursor:pointer;font-weight:600;padding:14px 0;list-style:none;display:flex;justify-content:space-between;gap:16px}
 .faq summary::after{content:"+";color:var(--accent);font:500 1.3rem var(--f-mono);transition:transform .2s}.faq details[open] summary::after{transform:rotate(45deg)}
 .faq p{margin:0 0 16px;color:var(--ink2)}
+.rel .more{margin-top:14px;font-size:.95rem}.rel .more a{text-decoration:underline;text-underline-offset:3px}
 .rel{max-width:1120px;margin:40px auto 0;padding-inline:var(--gut)}.rel h2{font-size:1.5rem;margin-bottom:6px}
 .prog{position:fixed;z-index:30;left:0;top:0;height:3px;width:100%;pointer-events:none}
 .prog b{display:block;height:100%;width:var(--p,0%);background:linear-gradient(90deg,#ff8a5b,#ff6b3d);box-shadow:0 0 14px var(--accent)}
@@ -382,7 +383,7 @@ def schema_img(p,og):
 for i,p in enumerate(posts):
     url=f"{BASE}/blog/{p['slug']}";img=f"{BASE}/blog/og/{p['slug']}."+('jpg' if p.get('cover_ph') else 'png');p['og_img']=img
     faq=''.join(f'<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q,a in p['faq'])
-    graph=[{"@context":"https://schema.org","@type":"BlogPosting","headline":p['title'],"description":p['description'],"image":schema_img(p,img),"datePublished":p['date'],"dateModified":p.get('updated',p['date']),"inLanguage":"it","keywords":", ".join(p['tags']),"author":{"@type":"Person","name":"Ivano Sciretta","url":BASE+"/autore"},"publisher":ORG,"mainEntityOfPage":url,"articleSection":p['category'],"about":{"@type":"Place","name":p['category']},"isPartOf":{"@type":"Blog","name":"Blog UNNIVAI","url":BASE+"/blog"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr","h1"]},"wordCount":len(plain(p['body']).split()),"timeRequired":"PT"+str(max(1,round(len(plain(p['body']).split())/200)))+"M","isAccessibleForFree":True},
+    graph=[{"@context":"https://schema.org","@type":"BlogPosting","headline":p['title'],"description":p['description'],"image":schema_img(p,img),"datePublished":p['date'],"dateModified":p.get('updated',p['date']),"inLanguage":"it","keywords":", ".join(p['tags']),"author":{"@type":"Person","name":"Ivano Sciretta","url":BASE+"/autore","sameAs":["https://www.linkedin.com/in/ivano-sciretta"]},"publisher":ORG,"mainEntityOfPage":url,"citation":[{"@type":"CreativeWork","name":n,"url":u} for n,u in p.get('sources',[])],"articleSection":p['category'],"about":{"@type":"Place","name":p['category']},"isPartOf":{"@type":"Blog","name":"Blog UNNIVAI","url":BASE+"/blog"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr","h1"]},"wordCount":len(plain(p['body']).split()),"timeRequired":"PT"+str(max(1,round(len(plain(p['body']).split())/200)))+"M","isAccessibleForFree":True},
       {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"UNNIVAI","item":BASE+"/"},{"@type":"ListItem","position":2,"name":"Blog","item":BASE+"/blog"},{"@type":"ListItem","position":3,"name":p['category'],"item":f"{BASE}/blog/categoria/{slugify(p['category'])}"},{"@type":"ListItem","position":4,"name":p['title'],"item":url}]}]
     if p['faq']:graph.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in p['faq']]})
     body=p['body'];m=re.search(r'<aside class="callout">(.*?)</aside>',body,re.S);tl=''
@@ -409,7 +410,7 @@ for i,p in enumerate(posts):
 <a class="next" href="/blog/{nxt['slug']}"><span>Prossimo articolo</span><b>{esc(nxt['title'])}</b></a></article></main>
 <aside class="side" aria-label="Indice e condivisione"><div class="sticky"><p class="k">In questo articolo</p><ol class="route" id="route">{toc_items}</ol>
 <div class="share"><button type="button" id="cp">Copia link</button><a href="https://wa.me/?text={html.escape(p['title'])}%20{url}" rel="noopener" target="_blank">WhatsApp</a><a href="https://www.linkedin.com/sharing/share-offsite/?url={url}" rel="noopener" target="_blank">LinkedIn</a></div></div></aside></div>
-<section class="rel"><h2>Continua a leggere</h2><div class="grid">{''.join(card(q) for q in related(p))}</div></section>"""
+<section class="rel"><h2>Continua a leggere</h2><div class="grid">{''.join(card(q) for q in related(p))}</div><p class="more"><a href="/blog/categoria/{slugify(p['category'])}">Tutte le guide: {esc(p['category'])}</a> · <a href="/blog/domande">Domande frequenti sui viaggi</a></p></section>"""
     h+=SCR_ART+WIDGET_JS+footer()
     pr=PAIR.get(p['id']);alt=(f"{BASE}/blog/{pr[0]}",f"{BASE}/en/blog/{pr[1]}") if pr else None
     W(f"{SITE}{P}/blog/{p['slug']}/index.html",h,alt)

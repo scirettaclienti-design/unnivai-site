@@ -50,7 +50,7 @@
 # Polignano a Mare senza auto: treno, piedi e cosa vedere
 URL: https://unnivai.com/blog/polignano-a-mare-senza-auto
 Language: it
-Updated: 2026-11-02
+Updated: 2026-11-04
 
 Polignano a Mare è uno di quei posti che sembrano fatti per chi arriva a piedi: un centro storico bianco affacciato sulla scogliera, una piccola baia incassata tra le rocce e un lungomare che porta fin quasi a Bari. Di auto, qui, non c'è bisogno. Questa guida mette in fila come arrivarci con i mezzi, cosa fare una volta scesi dal treno e quali informazioni, onestamente, non siamo riusciti a verificare.
 
@@ -132,13 +132,15 @@ Se cambia la giornata#
 
 UNNIVAI è pensata per riscrivere il percorso quando cambiano tempo, orario del treno o stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
 
+Leggi anche: Un altro itinerario di costa a piedi, in Liguria: Cinque Terre a piedi.
+
 Orari, prezzi e giorni di apertura sono letti sulle fonti indicate e verificati il 2 novembre 2026; cambiano durante l'anno: controlla prima di partire. Dove le fonti non erano ufficiali o discordavano lo abbiamo scritto; non siamo riusciti a verificare la distanza stazione-centro, la presenza di ZTL e navette, gli orari ufficiali dei treni e le modalità per vedere le grotte dal mare.
 
 
 # Palermo street food: mercati, orari e cosa ordinare
 URL: https://unnivai.com/blog/palermo-street-food-mercati-orari-cosa-ordinare
 Language: it
-Updated: 2026-10-30
+Updated: 2026-11-04
 
 I tre grandi mercati di Palermo sembrano tre varianti dello stesso posto, e invece hanno tre orari diversi. Il Capo e Ballarò sono mercati da mattina, la Vucciria è un posto da sera. Se sbagli ora trovi saracinesche chiuse o una piazza vuota, e Palermo diventa una città difficile da capire. Questa guida mette in fila i mercati, dice cosa ordinare e dove le fonti non concordano lo scrive.
 
@@ -223,13 +225,15 @@ Se cambia la giornata#
 
 UNNIVAI riscrive il giro quando cambiano orari, pioggia o stanchezza: stessi mercati, ordine diverso. Se ti serve, entra tra i primi.
 
+Leggi anche: Un altro street food del Sud, in ordine di giornata: cosa mangiare a Napoli.
+
 Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Orari e prezzi sono letti su siti di operatori e guide e cambiano durante l'anno: controllali prima di partire. Dove due fonti discordano lo abbiamo scritto; i nomi dei locali sono citati solo come li riportano le fonti.
 
 
 # Cosa mangiare a Napoli: la giornata in ordine di assaggio
 URL: https://unnivai.com/blog/napoli-cosa-mangiare-in-ordine-di-giornata
 Language: it
-Updated: 2026-10-30
+Updated: 2026-11-04
 
 A Napoli si mangia a tutte le ore, ma non tutto va bene a tutte le ore. La sfogliatella è una cosa da mattina, la pizza fritta vuole il fuoco appena spento, la pizza da forno si ordina la sera e il babà chiude bene qualunque giornata. Questa guida mette gli assaggi in ordine, dice quanto costano più o meno, e dove le fonti non vanno d'accordo lo scrive.
 
@@ -297,6 +301,8 @@ Un altro dolce da colazione lo trovi a Lecce: leggi Lecce in un giorno per il pa
 Se cambia la giornata#
 
 UNNIVAI riscrive il giro quando cambiano orari, pioggia o appetito: stessi assaggi, ordine diverso. Se ti serve, entra tra i primi.
+
+Leggi anche: Se la tua Italia è fatta di tavole e passeggiate: Bologna in una giornata a piedi.
 
 Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Prezzi e giorni di chiusura sono riportati da guide non sempre datate con precisione e cambiano da locale a locale: controllali prima di partire. Dove due fonti discordano lo abbiamo scritto; i nomi dei locali sono citati solo come li riportano le fonti.
 
@@ -501,7 +507,7 @@ Nota di verifica. Dati letti il 30 ottobre 2026 sulle pagine elencate nelle font
 # Cinque Terre a piedi: sentieri, treni e cosa è chiuso
 URL: https://unnivai.com/blog/cinque-terre-a-piedi
 Language: it
-Updated: 2026-10-30
+Updated: 2026-11-04
 
 cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
 
@@ -583,13 +589,15 @@ Se la giornata cambia#
 
 UNNIVAI riscrive il percorso quando cambia un'apertura, il meteo o la stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
 
+Leggi anche: Un altro itinerario di costa che si fa a piedi e in treno: Polignano a Mare senza auto.
+
 Stato dei sentieri, orari, prezzi e lavori sono verificati sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano spesso: controlla la pagina del Parco il giorno stesso. Dove due fonti discordano lo abbiamo scritto. Non abbiamo letto il calendario delle giornate di alta affluenza né la tariffa dei treni dopo il 1 novembre.
 
 
 # Bologna: tortellini, portici e una giornata a piedi
 URL: https://unnivai.com/blog/bologna-in-un-giorno
 Language: it
-Updated: 2026-10-30
+Updated: 2026-11-04
 
 Prenotazione-salita-alla-Torre-degli-Asinelli
 
@@ -675,6 +683,8 @@ Dopo Bologna, la logica cambia ma il criterio resta: Firenze in 48 ore per un al
 Se la giornata cambia#
 
 UNNIVAI riscrive il percorso quando cambia un orario, il tempo o la stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
+
+Leggi anche: Un'altra città del Nord da girare anche con il maltempo: Milano in un weekend con la pioggia.
 
 Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto. Non abbiamo verificato gli orari della navata di San Petronio né i tempi a piedi per San Luca.
 
@@ -837,7 +847,7 @@ Nota di verifica. Gli orari dei mercati cambiano durante l'anno e per festività
 # Lecce in un giorno: barocco, pasticciotto e vicoli a piedi
 URL: https://unnivai.com/blog/lecce-in-un-giorno
 Language: it
-Updated: 2026-10-31
+Updated: 2026-11-04
 
 Lecce è una città da camminare con il naso in su. Il barocco leccese non si capisce da una foto: serve il passo lento, la pietra chiara che cambia colore con la luce e qualche sosta dolce. Questo itinerario mette in ordine una giornata a piedi, con poche tappe e il perché di ciascuna, e dice chiaramente dove gli orari cambiano con la stagione.
 
@@ -944,13 +954,15 @@ Se cambia la giornata#
 
 UNNIVAI è pensata per riscrivere il percorso quando cambiano tempo, orario o stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
 
+Leggi anche: Sempre in Puglia e senza macchina: Polignano a Mare senza auto.
+
 Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate e riverificati il 31 ottobre 2026 e cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto.
 
 
 # Firenze in 48 ore senza code inutili
 URL: https://unnivai.com/blog/firenze-in-48-ore
 Language: it
-Updated: 2026-10-29
+Updated: 2026-11-04
 
 Firenze si fa male in due modi: con la fila sotto il sole davanti a un museo, o correndo da una parte all'altra perché non hai guardato il calendario. In 48 ore si evitano entrambi se si ragiona su tre cose: quali giorni sono chiusi, cosa va prenotato a orario fisso e cosa si può lasciare libero. Questo itinerario mette il Duomo e l'Accademia nel primo giorno, gli Uffizi nel secondo.
 
@@ -1010,13 +1022,15 @@ Se cambia il programma#
 
 Chiusure improvvise, scioperi, pioggia: il piano di 48 ore si rompe al primo imprevisto. UNNIVAI riscrive il percorso quando cambia qualcosa, tenendo insieme orari e prenotazioni. Se ti serve, entra tra i primi.
 
+Leggi anche: Se dopo la Toscana vuoi il mare a piedi: Cinque Terre a piedi.
+
 Orari, prezzi e avvisi sono letti e verificati sui siti ufficiali indicati il 29 ottobre 2026 e cambiano durante l'anno: controlla prima di partire.
 
 
 # Cosa mangiare a Catania: 10 assaggi in ordine di giornata
 URL: https://unnivai.com/blog/cosa-mangiare-a-catania
 Language: it
-Updated: 2026-10-29
+Updated: 2026-11-04
 
 Mangiare a Catania non si risolve con un ristorante: si risolve con una giornata fatta bene. Si comincia con una granita, si passa dal mercato, si pranza con qualcosa di fritto e si finisce con una pasta che qui ha un nome da opera lirica. Questa guida mette gli assaggi nell'ordine in cui ha senso farli, dice quando ordinarli, quanto costano in media e cosa è meglio lasciare perdere.
 
@@ -1111,6 +1125,8 @@ Se piove, le soste da bar e rosticceria funzionano comunque: guarda il piano in 
 Se cambia la giornata#
 
 UNNIVAI riscrive il percorso quando cambiano tempo, orario o fame. Se ti serve, entra tra i primi.
+
+Leggi anche: Sempre in Sicilia, sempre a tavola: Palermo street food.
 
 Nota di verifica. Prezzi e orari sono medie indicative tratte dalle fonti indicate (Travel365, Consorzio del Pistacchio Verde di Bronte DOP, Qualigeo, Do Eat Better Experience, Siviaggia, sito dell'aeroporto e AMTS) e cambiano durante l'anno: controlla prima di partire. Verificato il 29 ottobre 2026. Non abbiamo verificato di persona i singoli locali citati.
 
@@ -1408,7 +1424,7 @@ Nota di verifica: gli esempi su orari e regole sono stati letti sulle pagine uff
 # Cosa fare a Catania quando piove: 7 idee al coperto
 URL: https://unnivai.com/blog/cosa-fare-a-catania-quando-piove
 Language: it
-Updated: 2026-10-29
+Updated: 2026-11-04
 
 A Catania la pioggia non rovina la giornata: la sposta. Il centro storico è compatto, le distanze tra le tappe sono brevi e molti dei luoghi più interessanti sono al coperto. Serve solo un ordine sensato, così non attraversi mezza città sotto l'acqua.
 
@@ -1499,13 +1515,15 @@ Il piano B si costruisce prima#
 
 Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
 
+Leggi anche: Un altro piano B per la pioggia, in una grande città: Milano in un weekend con la pioggia.
+
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
 
 # Polignano a Mare without a car: train, on foot, what to see
 URL: https://unnivai.com/en/blog/polignano-a-mare-without-a-car
 Language: en
-Updated: 2026-11-02
+Updated: 2026-11-04
 
 Polignano a Mare is made for people who arrive on foot: a white old town on the cliff edge, a small cove squeezed between the rocks and a seafront path that reaches almost to Bari. You do not need a car here. This guide puts in order how to get there by public transport, what to do once you step off the train, and which facts we honestly could not verify.
 
@@ -1587,13 +1605,15 @@ If your day changes#
 
 UNNIVAI is built to rewrite the route when the weather, train time or tiredness change: same walk, different order. If it sounds useful, join the first people in.
 
+Read next: Another coastal walking itinerary, in Liguria: Cinque Terre on foot.
+
 Hours, prices and opening days were read on the sources listed and checked on 2 November 2026; they change during the year: check before you go. Where sources were not official or disagreed we said so; we could not verify the station-to-centre distance, whether there are traffic-restricted zones or shuttles, official train timetables, or how to see the caves from the sea.
 
 
 # What to eat in Naples, in the order of the day
 URL: https://unnivai.com/en/blog/what-to-eat-in-naples
 Language: en
-Updated: 2026-10-30
+Updated: 2026-11-04
 
 In Naples you can eat at any hour, but not everything suits every hour. The sfogliatella belongs to the morning, fried pizza wants to come straight from the oil, oven-baked pizza is an evening order, and a babà closes any day well. This guide puts the tastings in order, says roughly what they cost, and where the sources disagree it says so.
 
@@ -1661,6 +1681,8 @@ Another breakfast sweet awaits in Lecce: read one day in Lecce for the pasticcio
 If your day changes#
 
 UNNIVAI rewrites the route when hours, rain or appetite change: same tastings, different order. If it sounds useful, join the first people in.
+
+Read next: If your Italy is made of tables and walks: Bologna in a day on foot.
 
 Information checked on 30 October 2026 on the sources listed. Prices and closing days are reported by guides that are not always precisely dated and change from place to place: check before you go. Where two sources disagree, we said so; venue names are quoted only as the sources report them.
 
@@ -1766,7 +1788,7 @@ Verification note. Data read on 30 October 2026 on the pages listed in the sourc
 # Palermo street food guide: markets, hours and what to order
 URL: https://unnivai.com/en/blog/palermo-street-food-guide
 Language: en
-Updated: 2026-10-30
+Updated: 2026-11-04
 
 Palermo's three great markets look like three versions of the same place, but they keep three different clocks. The Capo and Ballarò are morning markets, the Vucciria is an evening place. Get the hour wrong and you find shutters down or an empty square, and Palermo becomes a hard city to read. This guide lines up the markets, says what to order, and where the sources disagree it says so.
 
@@ -1850,6 +1872,8 @@ To learn how to read a fish market, our guide to Catania's fish market has the s
 If your day changes#
 
 UNNIVAI rewrites the route when hours, rain or tiredness change: same markets, different order. If it sounds useful, join the first people in.
+
+Read next: Another southern street-food day, in order: what to eat in Naples.
 
 Information checked on 30 October 2026 on the sources listed. Hours and prices are read on operators' sites and guides and change during the year: check before you go. Where two sources disagree, we said so; venue names are quoted only as the sources report them.
 
@@ -1956,7 +1980,7 @@ Verification note. Data read on 30 October 2026 on the pages listed in the sourc
 # Cinque Terre on foot: trails, trains and what is closed
 URL: https://unnivai.com/en/blog/cinque-terre-on-foot
 Language: en
-Updated: 2026-10-30
+Updated: 2026-11-04
 
 cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
 
@@ -2038,13 +2062,15 @@ If your day changes#
 
 UNNIVAI is built to rewrite the route when an opening, the weather or tiredness changes: same walk, different order. If it sounds useful, join the first people in.
 
+Read next: Another coastal itinerary done on foot and by train: Polignano a Mare without a car.
+
 Trail status, hours, prices and works were checked on the official sources listed on 30 October 2026 and change often: check the park's page on the day. Where two sources disagree, we said so. We did not read the calendar of high-attendance days or the train fare after 1 November.
 
 
 # Bologna in a day: tortellini, porticoes and a walking plan
 URL: https://unnivai.com/en/blog/bologna-in-a-day
 Language: en
-Updated: 2026-10-30
+Updated: 2026-11-04
 
 Prenotazione-salita-alla-Torre-degli-Asinelli
 
@@ -2131,13 +2157,15 @@ If your day changes#
 
 UNNIVAI is built to rewrite the route when an opening, the weather or tiredness changes: same walk, different order. If it sounds useful, join the first people in.
 
+Read next: Another northern city to explore even in bad weather: Milan in a weekend in the rain.
+
 Hours, prices and opening days were read and checked on the official sources listed on 30 October 2026 and change during the year: check before you go. Where two sources disagree, we said so. We did not verify San Petronio's nave hours or walking times to San Luca.
 
 
 # What to eat in Catania: 10 tastes in order of the day
 URL: https://unnivai.com/en/blog/what-to-eat-in-catania
 Language: en
-Updated: 2026-10-29
+Updated: 2026-11-04
 
 Eating in Catania is not solved with a restaurant: it is solved with a well-built day. You start with a granita, pass through the market, have something fried for lunch and finish with a pasta that here has an opera-house name. This guide puts the tastings in the order that makes sense, tells you when to order them, what they cost on average and what is better left alone.
 
@@ -2233,6 +2261,8 @@ If the day changes#
 
 UNNIVAI rewrites the route when weather, time or hunger change. If you need it, be among the first.
 
+Read next: Still in Sicily, still at the table: Palermo street food.
+
 Verification note. Prices and hours are indicative averages from the sources listed (Travel365, the Bronte Green Pistachio PDO Consortium, Qualigeo, Do Eat Better Experience, Siviaggia, the airport website and AMTS) and change during the year: check before you go. Checked on 29 October 2026. We have not personally verified the individual venues mentioned.
 
 
@@ -2311,7 +2341,7 @@ Checked on 29 October 2026 on pages opened for this article. Hours, prices and a
 # One day in Lecce: baroque, pasticciotto and walking lanes
 URL: https://unnivai.com/en/blog/one-day-in-lecce
 Language: en
-Updated: 2026-10-31
+Updated: 2026-11-04
 
 Lecce is a city to walk with your chin up. Lecce baroque does not come across in a photo: it needs a slow pace, pale stone that changes colour with the light, and a sweet stop or two. This itinerary puts one walking day in order, with few stops and the reason for each, and says plainly where hours change with the season.
 
@@ -2418,13 +2448,15 @@ If your day changes#
 
 UNNIVAI is built to rewrite the route when weather, hours or tiredness change: same walk, different order. If it sounds useful, join the first people in.
 
+Read next: Still in Puglia and without a car: Polignano a Mare without a car.
+
 Hours, prices and opening days were read and rechecked on the official sources listed on 31 October 2026 and change during the year: check before you go. Where two sources disagree, we said so.
 
 
 # Florence in 48 hours without pointless queues
 URL: https://unnivai.com/en/blog/florence-in-48-hours
 Language: en
-Updated: 2026-10-29
+Updated: 2026-11-04
 
 Florence goes wrong in two ways: standing in line in the sun outside a museum, or running back and forth because you never looked at the calendar. In 48 hours you can avoid both if you think about three things: which days are closed, what has to be booked at a fixed time, and what you can leave open. This itinerary puts the Duomo and the Accademia on the first day and the Uffizi on the second.
 
@@ -2483,6 +2515,8 @@ If Florence has convinced you to think by areas, read Rome in two days, which us
 If the plan changes#
 
 Sudden closures, strikes, rain: a 48-hour plan breaks at the first surprise. UNNIVAI rewrites the route when something changes, keeping hours and bookings together. If it helps, join the first people in.
+
+Read next: If you want the sea on foot after Tuscany: Cinque Terre on foot.
 
 Hours, prices and notices were read and checked on the official sites listed on 29 October 2026 and change during the year: check before you go.
 
@@ -2573,7 +2607,7 @@ Verification note. Market hours change during the year and on holidays: check be
 # What to do in Catania when it rains: 7 indoor ideas
 URL: https://unnivai.com/en/blog/what-to-do-in-catania-when-it-rains
 Language: en
-Updated: 2026-10-29
+Updated: 2026-11-04
 
 In Catania rain does not ruin the day: it moves it. The historic centre is compact, distances between stops are short and many of the most interesting places are indoors. You only need a sensible order, so you do not cross half the city in the downpour.
 
@@ -2663,6 +2697,8 @@ Catania's centre fits in half a day: for a full day, see Ortigia on foot, withou
 Plan B is built beforehand#
 
 The problem with rain is not the rain: it is having to rebuild the programme from scratch, in the downpour, with your phone in your hand. It is the same problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, join the waitlist.
+
+Read next: Another rainy-day plan B, in a big city: Milan in a weekend in the rain.
 
 Verification note. Data read on 29 October 2026 on the pages listed in the sources: the Ministry of Culture page for Castello Ursino, Italia.it, Museionline, Wikipedia, a World Heritage listing page (unofficial site) and two climate pages. Where sources disagree (whether Castello Ursino is open, the Teatro Bellini address, the wettest month) we say so. We did not verify the hours and prices of the Monastery and the theatre, nor the accessibility of the Castello. Prices are indicative averages: opening hours, closing days and bookings change, so always check official information before you set off.
 

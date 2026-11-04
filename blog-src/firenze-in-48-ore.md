@@ -2,6 +2,7 @@
 title: Firenze in 48 ore senza code inutili
 description: Due giorni a Firenze con ordine sensato: Duomo e Cupola, Accademia, Uffizi. Orari, giorni di chiusura, prezzi e prenotazioni letti sui siti ufficiali.
 date: 2026-10-29
+updated: 2026-11-04
 category: Firenze
 cover: Firenze
 tags: Weekend, Prenotazioni, A piedi
@@ -85,5 +86,7 @@ Se Firenze ti ha convinto a ragionare per zone, leggi [Roma in due giorni](/blog
 ## Se cambia il programma
 
 Chiusure improvvise, scioperi, pioggia: il piano di 48 ore si rompe al primo imprevisto. UNNIVAI riscrive il percorso quando cambia qualcosa, tenendo insieme orari e prenotazioni. Se ti serve, [entra tra i primi](/?src=blog-firenze-in-48-ore#iscriviti).
+
+**Leggi anche:** Se dopo la Toscana vuoi il mare a piedi: [Cinque Terre a piedi](/blog/cinque-terre-a-piedi).
 
 *Orari, prezzi e avvisi sono letti e verificati sui siti ufficiali indicati il 29 ottobre 2026 e cambiano durante l'anno: controlla prima di partire.*

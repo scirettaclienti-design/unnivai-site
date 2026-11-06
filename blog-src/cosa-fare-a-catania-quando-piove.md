@@ -2,7 +2,7 @@
 title: Cosa fare a Catania quando piove: 7 idee al coperto
 description: Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 date: 2026-10-28
-updated: 2026-11-04
+updated: 2026-11-06
 category: Catania
 cover: Catania
 tags: Pioggia, A piedi, Mezza giornata
@@ -120,5 +120,7 @@ Il centro di Catania si chiude in mezza giornata: per una giornata intera, guard
 Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, [entra nella lista d'attesa](/?src=blog-catania#iscriviti).
 
 **Leggi anche:** Un altro piano B per la pioggia, in una grande città: [Milano in un weekend con la pioggia](/blog/milano-in-un-weekend-con-la-pioggia).
+
+**Leggi anche:** per un'altra giornata di pioggia tra musei e caffè storici, [Torino con la pioggia: musei, caffè storici e orari](/blog/torino-musei-e-caffe-storici-con-la-pioggia).
 
 *Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.*

@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Torino con la pioggia: musei, caffè storici e orari](https://unnivai.com/blog/torino-musei-e-caffe-storici-con-la-pioggia): Una giornata di pioggia a Torino: Museo Egizio, Musei Reali, Mole e caffè storici, con orari, giorni di chiusura e prezzi letti sui siti ufficiali.
 - [Polignano a Mare senza auto: treno, piedi e cosa vedere](https://unnivai.com/blog/polignano-a-mare-senza-auto): Come visitare Polignano a Mare senza macchina: treno da Bari, centro storico, Lama Monachile, museo Pascali e passeggiata a San Vito, con fonti ufficiali.
 - [Palermo street food: mercati, orari e cosa ordinare](https://unnivai.com/blog/palermo-street-food-mercati-orari-cosa-ordinare): Capo, Ballarò e Vucciria a Palermo: a che ora andare, cosa ordinare (panelle, arancina, sfincione, pani ca meusa) e quanto costa, con le fonti che discordano.
 - [Cosa mangiare a Napoli: la giornata in ordine di assaggio](https://unnivai.com/blog/napoli-cosa-mangiare-in-ordine-di-giornata): Sfogliatella, pizza fritta, portafoglio, cuoppo, babà e pizza STG: cosa mangiare a Napoli e a che ora, con prezzi indicativi e fonti che discordano.
@@ -21,6 +22,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [What to do in Turin when it rains: museums and cafés](https://unnivai.com/en/blog/turin-on-a-rainy-day): A rainy day in Turin: Egyptian Museum, Royal Museums, the Mole and historic cafés, with opening hours, closing days and prices from official sites.
 - [Polignano a Mare without a car: train, on foot, what to see](https://unnivai.com/en/blog/polignano-a-mare-without-a-car): How to visit Polignano a Mare without a car: train from Bari, old town, Lama Monachile, the Pascali museum and the coastal walk to San Vito, with sources.
 - [What to eat in Naples, in the order of the day](https://unnivai.com/en/blog/what-to-eat-in-naples): Sfogliatella, fried pizza, pizza a portafoglio, cuoppo, babà and STG pizza: what to eat in Naples and when, with indicative prices and where sources disagree.
 - [Visiting Matera's Sassi: how to see them and when to go](https://unnivai.com/en/blog/visiting-matera-sassi-and-when-to-go): The Sassi of Matera on foot in one day: a route through Sasso Barisano and Caveoso, the Casa Grotta, how to get there and when to go, with official sources.
@@ -46,6 +48,96 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Torino con la pioggia: musei, caffè storici e orari
+URL: https://unnivai.com/blog/torino-musei-e-caffe-storici-con-la-pioggia
+Language: it
+Updated: 2026-11-06
+
+Torino con la pioggia non è una città da rimandare: è una città costruita per i giorni di maltempo. Tre musei di livello internazionale, una piazza con un palazzo reale e una tradizione di caffè storici che ha un'identità precisa. Il problema vero non è il tempo, è il calendario: ogni museo ha un giorno di chiusura diverso, e se lo scopri una volta arrivato il programma si rompe.
+
+In breve. Con la pioggia, a Torino: Museo Egizio la mattina (prenotazione online obbligatoria), un caffè storico a metà giornata, Musei Reali o Mole Antonelliana nel pomeriggio. Attenzione ai giorni di chiusura: Musei Reali chiusi il mercoledì, Museo del Cinema chiuso il martedì, Egizio il lunedì aperto solo fino alle 14:00. Giovedì, venerdì, sabato e domenica sono i giorni in cui funziona tutto.
+
+Qual è il giorno giusto per una giornata di pioggia?#
+
+Prima di scegliere le tappe, scegli il giorno, perché è qui che il Piano B si salva o si rovina. Secondo le pagine ufficiali che ho consultato, i Musei Reali sono aperti dal giovedì al martedì, dalle 9:00 alle 19:00 con ultimo ingresso alle 18:00, e chiusi il mercoledì. Il Museo Nazionale del Cinema, che sta dentro la Mole Antonelliana, è aperto tutti i giorni dalle 9:00 alle 19:00 tranne il martedì, quando è chiuso. Il Museo Egizio, infine, il lunedì apre soltanto dalle 9:00 alle 14:00, dal martedì al venerdì e la domenica è aperto dalle 9:00 alle 18:30 e il sabato dalle 9:00 alle 20:00.
+
+Incrociando questi orari, il lunedì perdi mezza giornata di Egizio, il martedì perdi la Mole e il mercoledì perdi i Musei Reali. Il giovedì, il venerdì, il sabato e la domenica, invece, puoi mettere insieme qualunque combinazione. Se capiti di lunedì o di mercoledì il piano si regge comunque: basta cambiare la coppia di musei.
+
+Provalo
+☔ Piove☀ Non piove
+
+1. Museo Egizio: la mattina, con il biglietto già in tascaAl coperto#
+
+È la tappa che regge meglio la pioggia, perché è grande e richiede tempo: sul portale Musei di Torino si legge che una visita in autonomia dura in media due ore e mezza. Il museo è stato fondato nel 1824 e, sempre secondo quella pagina, nel 2025 ha accolto 1.273.354 visitatori, un buon motivo per non arrivare senza biglietto. Il sito ufficiale è chiaro: i biglietti si acquistano solo online.
+
+Sul prezzo le fonti non coincidono, e conviene saperlo. Il portale Musei di Torino, aggiornato il 30 settembre 2026, scrive 14 € il biglietto intero e 28 € il biglietto famiglia (due adulti e due minori). La pagina ufficiale delle tariffe mostra però la tabella come immagine, non leggibile come testo, e in una promozione per chi ha il biglietto della mostra "Tesori dei Faraoni" indica un ridotto a 15 € "invece che 18 €" e un biglietto famiglia a 30 € "invece che 36 €". Il portale non è il sito del museo: quindi per il prezzo fidati dell'acquisto online sul sito ufficiale. Non so quale dei due valori sia quello in vigore oggi, e non lo scelgo al posto tuo.
+
+Un'indicazione utile per novembre: la pagina degli orari segna aperture prolungate dalle 9:00 alle 22:00 il 23, 24, 25, 26, 28 e 29 novembre 2026. Se hai quei giorni, la serata piovosa diventa una buona occasione.
+
+Il dettaglio di una statua e lo stendardo giallo del Museo Egizio di Torino Foto: Gianni Careddu, CC BY-SA 4.0, Wikimedia Commons
+2. Un caffè storico a metà giornataAl coperto#
+
+Torino ha una tradizione di caffè storici che il sito di Turismo Torino racconta come parte della sua storia: la pagina dedicata elenca, tra gli altri, Caffè Al Bicerin, Baratti & Milano, Caffè Elena, Caffè Fiorio, Mulassano, Platti, Caffè San Carlo e Pepino. Lo stesso sito avvisa che compaiono solo i locali che si sono registrati e che le informazioni le hanno inserite i titolari: è un elenco, non una classifica. Orari e prezzi di questi caffè non li ho verificati, quindi non li scrivo.
+
+Due locali li ho letti con attenzione sulla scheda ufficiale. Il Caffè Al Bicerin, in piazza della Consolata 5, è nato nel 1763 e viene descritto come uno dei locali storici più noti d'Italia perché conserva i suoi arredi originali; è il posto dove è nato il bicerin, la bevanda torinese che secondo la scheda unisce cacao amaro, caffè e crema di panna. Il sito del locale parla di "una storia di 263 anni" e di una ricetta originale che resta segreta. Il Caffè Mulassano, in piazza Castello 15, nel 1907 si è spostato nella piazza in cui si trova ancora oggi; il locale è piccolo, circa trentuno metri quadri, con boiserie in legno, bronzo e ottone. All'interno c'è una targa che attribuisce l'invenzione del tramezzino alla signora Angela Demichelis Nebiolo, nel 1926.
+
+L'insegna e la vetrina del Caffè Mulassano in piazza Castello 15, a Torino Foto: Bettylella, CC BY-SA 4.0, Wikimedia Commons
+La scheda ricorda anche la proposta più nota del Mulassano: tra gli oltre trenta gusti, i più richiesti sono quello all'aragosta, quello al tartufo e quello con la bagna cauda. Prezzi non indicati: non li ho letti.
+
+3. Musei Reali, o Mole: la scelta del pomeriggioAl coperto#
+
+Se hai solo un pomeriggio, scegli uno dei due. I Musei Reali sono un complesso grande: la pagina ufficiale cita il Palazzo Reale, la Galleria Sabauda, il Museo di Antichità, la Biblioteca Reale e i Giardini Reali, con un biglietto valido per l'intera giornata. Aprono dalle 9:00 alle 19:00 con ultimo ingresso alle 18:00. Il biglietto intero costa 15 €, il ridotto 2 € (dai 18 ai 25 anni), mentre il biglietto Open, valido fino al 31 dicembre, 18 €. Gli under 18 entrano gratis, e la prima domenica del mese l'ingresso è gratuito ma, precisa il sito, non si può prenotare. Dalla stazione di Porta Nuova la pagina indica 1,4 km a piedi, circa 20 minuti; da Porta Susa 1,7 km, circa 25 minuti.
+
+La Mole Antonelliana ospita il Museo Nazionale del Cinema. Orari: 9:00-19:00 tutti i giorni tranne il martedì, con biglietteria aperta fino a un'ora prima della chiusura. Sulle tariffe c'è una novità da conoscere: dal 7 ottobre all'8 dicembre il biglietto del solo Museo è ridotto per tutti a 16 € (invece di 18 €) e il combinato con l'ascensore panoramico a 20 € (invece di 23 €), perché alcune aree espositive sono impegnate nell'allestimento di una nuova mostra. Le pagine consultate danno un'altra informazione utile: dal 9 al 14 dicembre 2026 il museo è chiuso. Sulla prenotazione online la pagina consiglia di farla, in particolare sabato, domenica e festivi.
+
+Per l'ascensore panoramico le pagine ufficiali discordano su un dettaglio: una tabella dice che i pochi biglietti aggiuntivi vengono messi online 19 ore prima, un'altra 24 ore prima. Controlla l'orario sul sito al momento della prenotazione. Su come funziona l'ascensore con la pioggia non ho trovato indicazioni nelle pagine ufficiali: chiedi in biglietteria.
+
+Piazza Castello e la Piazzetta Reale viste dall'alto, con il Palazzo Reale sullo sfondo Foto: Guglielmo di Rivoli, CC0, Wikimedia Commons
+4. Un tratto all'aperto, se smette di piovereAll'aperto#
+
+Quando la pioggia si ferma, i Giardini Reali sono la pausa più vicina ai musei. L'ingresso è gratuito dal giovedì al martedì, e con l'orario invernale in vigore da domenica 25 ottobre 2026 a sabato 27 marzo 2027 sono aperti dalle 8:30 alle 17:00, con ultimo ingresso alle 16:40. Il mercoledì sono chiusi, come il museo. La pagina ufficiale cita anche un Caffè Reale dentro il complesso, ma i suoi orari non li ho trovati: chiedi in biglietteria.
+
+Come mettere in ordine la giornata#
+
+Il vincolo vero è l'orario di chiusura dei musei. Un ordine che regge con la pioggia:
+
+9:00Museo EgizioApre alle 9:00 tutti i giorni; il lunedì chiude alle 14:00, quindi vai presto. Prevedi circa due ore e mezza.
+
+12:30Pausa in un caffè storicoMulassano è in piazza Castello; Al Bicerin è in piazza della Consolata. Orari non verificati: controlla prima.
+
+14:00Musei RealiEntra entro le 18:00, ultimo ingresso. Chiusi il mercoledì.
+
+AlternativaMole AntonellianaBiglietteria aperta fino a un'ora prima della chiusura delle 19:00. Chiuso il martedì.
+
+ConsiglioCompra online il biglietto dell'Egizio prima di uscire dall'albergo e tieni il pomeriggio flessibile: se la pioggia lascia un'ora di sereno, vai ai Giardini Reali o sali sull'ascensore della Mole; se continua, resti sotto i tetti dei Musei Reali.
+
+Quanto costa, in media#
+
+Sommando i prezzi letti sulle pagine, Egizio (14 € secondo il portale, o 18 € se vale il valore implicito nella promozione ufficiale) e Musei Reali (15 €) fanno 29-33 € a persona. Aggiungere il Museo del Cinema nella Mole costa 16 € fino all'8 dicembre (20 € con l'ascensore), 18 € (23 €) dopo. Sono medie indicative, senza trasporti e pasti.
+
+Errori comuni#
+
+Arrivare all'Egizio senza biglietto online: l'ingresso è consentito soltanto a chi lo ha comprato sul portale.
+Pianificare i Musei Reali di mercoledì o la Mole di martedì.
+Scegliere il lunedì per l'Egizio senza sapere che chiude alle 14:00.
+Contare di arrivare ai Musei Reali alle 18:30: l'ultimo ingresso è alle 18:00.
+Mettere tre musei in una sola giornata: due bastano.
+
+Cosa saltare#
+
+Se hai solo una giornata di pioggia, salta il museo che non hai prenotato e tieni l'Egizio più un secondo museo. Se sei in città nei giorni dal 9 al 14 dicembre, la Mole è chiusa: ripiega sui Musei Reali.
+
+Se hai un altro giorno#
+
+Per ragionare in modo simile in un'altra città, leggi Milano in un weekend con la pioggia oppure cosa fare a Catania quando piove. Per un'altra città di portici, tortellini e una giornata a piedi, c'è Bologna in un giorno, e per ripensare un itinerario quando cambia il tempo, come usare l'intelligenza artificiale per gli itinerari.
+
+Il piano B si costruisce prima#
+
+Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano e i giorni di chiusura da incrociare. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
+
+Nota di verifica. Dati letti il 6 novembre 2026 sulle pagine elencate nelle fonti: siti ufficiali del Museo Egizio, del Museo Nazionale del Cinema, dei Musei Reali e di Turismo Torino, la scheda del Caffè Al Bicerin e il portale Musei di Torino. Dove le fonti discordano (prezzo del biglietto dell'Egizio, ore di messa in vendita dei biglietti dell'ascensore della Mole) lo abbiamo scritto. Non abbiamo verificato orari e prezzi dei caffè storici, la distanza a piedi tra i musei, né le condizioni dell'ascensore panoramico con la pioggia. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, quindi controlla sempre le informazioni ufficiali prima di partire.
+
 
 # Polignano a Mare senza auto: treno, piedi e cosa vedere
 URL: https://unnivai.com/blog/polignano-a-mare-senza-auto
@@ -310,7 +402,7 @@ Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Prezzi e giorni
 # Milano in un weekend con la pioggia: itinerario Piano B
 URL: https://unnivai.com/blog/milano-in-un-weekend-con-la-pioggia
 Language: it
-Updated: 2026-10-30
+Updated: 2026-11-06
 
 Milano con la pioggia non è una città da annullare: è una città da riordinare. Il centro è fitto di musei, la metropolitana arriva quasi ovunque e le tappe più importanti stanno in due zone abbastanza raccolte. Serve soltanto un ordine sensato e qualche controllo su orari e giorni di chiusura, perché è lì che un weekend piovoso si rovina davvero.
 
@@ -402,6 +494,8 @@ Per ragionare in modo simile in un'altra città, leggi cosa fare a Catania quand
 Il piano B si costruisce prima#
 
 Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
+
+Leggi anche: un'altra città, un altro Piano B: Torino con la pioggia: musei, caffè storici e orari.
 
 Nota di verifica. Dati letti il 30 ottobre 2026 sulle pagine elencate nelle fonti: siti ufficiali del Duomo di Milano, di ATM, del Castello Sforzesco, del Museo del Novecento, della Pinacoteca di Brera e del Cenacolo Vinciano, più Lombardia.info, il catalogo Lombardia Beni Culturali e Wikipedia. Dove le fonti discordano (orari del Duomo, giorno di chiusura del Museo del Duomo, prezzo del Castello, linee di tram) lo abbiamo scritto. Non abbiamo verificato prezzi e accessibilità del Museo del Novecento, né le distanze a piedi tra Castello e Brera. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
@@ -1424,7 +1518,7 @@ Nota di verifica: gli esempi su orari e regole sono stati letti sulle pagine uff
 # Cosa fare a Catania quando piove: 7 idee al coperto
 URL: https://unnivai.com/blog/cosa-fare-a-catania-quando-piove
 Language: it
-Updated: 2026-11-04
+Updated: 2026-11-06
 
 A Catania la pioggia non rovina la giornata: la sposta. Il centro storico è compatto, le distanze tra le tappe sono brevi e molti dei luoghi più interessanti sono al coperto. Serve solo un ordine sensato, così non attraversi mezza città sotto l'acqua.
 
@@ -1517,7 +1611,99 @@ Il problema della pioggia non è la pioggia: è dover rifare il programma da zer
 
 Leggi anche: Un altro piano B per la pioggia, in una grande città: Milano in un weekend con la pioggia.
 
+Leggi anche: per un'altra giornata di pioggia tra musei e caffè storici, Torino con la pioggia: musei, caffè storici e orari.
+
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
+
+
+# What to do in Turin when it rains: museums and cafés
+URL: https://unnivai.com/en/blog/turin-on-a-rainy-day
+Language: en
+Updated: 2026-11-06
+
+Turin in the rain is not a city to put off: it is a city built for bad-weather days. Three museums of international standing, a square with a royal palace, and a historic-café tradition with a very particular identity. The real problem is not the weather, it is the calendar: each museum closes on a different day, and if you find out on arrival, the whole plan falls apart.
+
+In short. What to do in Turin when it rains: the Egyptian Museum in the morning (online ticket mandatory), a historic café around midday, the Royal Museums or the Mole Antonelliana in the afternoon. Watch the closing days: Royal Museums closed on Wednesday, Cinema Museum closed on Tuesday, Egyptian Museum open only until 2 pm on Monday. Thursday to Sunday is when everything works.
+
+Which day is the right one for a rainy day?#
+
+Before choosing the stops, choose the day, because this is where Plan B is saved or spoiled. According to the official pages we read, the Royal Museums are open Thursday to Tuesday, 9:00 to 19:00 with last entry at 18:00, and closed on Wednesday. The National Museum of Cinema, inside the Mole Antonelliana, is open every day from 9:00 to 19:00 except Tuesday, when it is closed. The Egyptian Museum, finally, opens only from 9:00 to 14:00 on Monday; from Tuesday to Friday and on Sunday it is open 9:00 to 18:30, and on Saturday 9:00 to 20:00.
+
+Put those together and on Monday you lose half a day of the Egyptian Museum, on Tuesday you lose the Mole, and on Wednesday you lose the Royal Museums. Thursday, Friday, Saturday and Sunday let you combine any of them. If you land on a Monday or Wednesday the plan still holds: just change the pair of museums.
+
+Provalo
+☔ Piove☀ Non piove
+
+1. Egyptian Museum: in the morning, with the ticket already in your pocketAl coperto#
+
+It is the stop that copes best with rain, because it is big and takes time: the Musei di Torino portal says a self-guided visit lasts two and a half hours on average. The museum was founded in 1824 and, according to the same page, welcomed 1,273,354 visitors in 2025, a good reason not to turn up without a ticket. The official site is clear: tickets are sold online only.
+
+On price the sources do not agree, and it helps to know. The Musei di Torino portal, updated on 30 September 2026, gives 14 € full price and 28 € for the family ticket (two adults and two minors). The official tariff page, however, shows the table as an image, which cannot be read as text, and in a promotion for holders of the "Tesori dei Faraoni" exhibition ticket it mentions a reduced ticket at 15 € "instead of 18 €" and a family ticket at 30 € "instead of 36 €". The portal is not the museum's own site, so for the price trust the online checkout on the official site. We do not know which of the two figures is in force today, and we will not pick one for you.
+
+A useful note for November: the opening-hours page lists extended openings from 9:00 to 22:00 on 23, 24, 25, 26, 28 and 29 November 2026. If you are there on those days, a rainy evening becomes a good opportunity.
+
+Detail of a statue and the yellow banner of the Egyptian Museum in Turin Photo: Gianni Careddu, CC BY-SA 4.0, Wikimedia Commons
+2. A historic café around middayAl coperto#
+
+The Turismo Torino site presents Turin's historic cafés as part of the city's history: its page lists, among others, Caffè Al Bicerin, Baratti & Milano, Caffè Elena, Caffè Fiorio, Mulassano, Platti, Caffè San Carlo and Pepino. The same site warns that only venues that registered appear and that the owners entered the information themselves: it is a list, not a ranking. We did not verify opening hours or prices for these cafés, so we do not write them.
+
+Two venues we read carefully on their official pages. Caffè Al Bicerin, at Piazza della Consolata 5, dates from 1763 and is described as one of Italy's best-known historic venues because it keeps its original furnishings; it is where the bicerin was born, the Turin drink that, according to the page, combines bitter cocoa, coffee and cream. The venue's own site speaks of "a story of 263 years" and of an original recipe that stays secret. Caffè Mulassano, at Piazza Castello 15, moved in 1907 to the square where it still stands; it is small, about thirty-one square metres, with wood, bronze and brass panelling. Inside there is a plaque crediting Angela Demichelis Nebiolo with inventing the tramezzino in 1926.
+
+The sign and window of Caffè Mulassano at Piazza Castello 15, Turin Photo: Bettylella, CC BY-SA 4.0, Wikimedia Commons
+The page also mentions the Mulassano's best-known offer: among more than thirty fillings, the most requested are lobster, truffle and bagna cauda. Prices were not shown: we did not read them.
+
+3. Royal Museums, or the Mole: the afternoon choiceAl coperto#
+
+If you have only one afternoon, choose one of the two. The Royal Museums are a big complex: the official page mentions the Royal Palace, the Savoy Gallery, the Museum of Antiquities, the Royal Library and the Royal Gardens, with a ticket valid for the whole day. They open 9:00 to 19:00, with last entry at 18:00. The full ticket is 15 €, the reduced ticket 2 € (ages 18 to 25), and the Open ticket, valid until 31 December, 18 €. Under-18s get in free, and on the first Sunday of the month entry is free but, the site notes, it cannot be booked. From Porta Nuova station the page gives 1.4 km on foot, about 20 minutes; from Porta Susa 1.7 km, about 25 minutes.
+
+The Mole Antonelliana houses the National Museum of Cinema. Hours: 9:00 to 19:00 every day except Tuesday, with the ticket office open until one hour before closing. There is a pricing detail to know: from 7 October to 8 December the museum-only ticket is reduced for everyone at 16 € (instead of 18 €) and the museum plus panoramic lift ticket at 20 € (instead of 23 €), because some exhibition areas are being set up for a new show. The pages we read add another useful note: from 9 to 14 December 2026 the museum is closed. On booking, the page recommends doing it online, especially on Saturdays, Sundays and holidays.
+
+For the panoramic lift the official pages disagree on a detail: one table says the few extra tickets go online 19 hours before, another says 24 hours before. Check the time on the site when you book. On how the lift works in the rain we found nothing on the official pages: ask at the ticket office.
+
+Piazza Castello and the Piazzetta Reale seen from above, with the Royal Palace in the background Photo: Guglielmo di Rivoli, CC0, Wikimedia Commons
+4. A stretch outdoors, if it stops rainingAll'aperto#
+
+When the rain stops, the Royal Gardens are the nearest break from the museums. Entry is free from Thursday to Tuesday, and on the winter timetable in force from Sunday 25 October 2026 to Saturday 27 March 2027 they are open 8:30 to 17:00, with last entry at 16:40. On Wednesday they are closed, like the museum. The official page also mentions a Caffè Reale inside the complex, but we did not find its hours: ask at the ticket office.
+
+How to order the day#
+
+The real constraint is museum closing time. An order that holds up in the rain:
+
+9:00 amEgyptian MuseumOpens at 9:00; on Monday it closes at 2 pm, so go early. Allow about two and a half hours.
+
+12:30 pmBreak in a historic caféMulassano is on Piazza Castello; Al Bicerin is on Piazza della Consolata. Hours not verified: check first.
+
+2:00 pmRoyal MuseumsEnter by 6 pm, last entry. Closed on Wednesday.
+
+AlternativeMole AntonellianaTicket office open until one hour before the 7 pm closing. Closed on Tuesday.
+
+ConsiglioBuy the Egyptian Museum ticket online before you leave the hotel and keep the afternoon flexible: if the rain gives you an hour of clear sky, go to the Royal Gardens or ride the Mole's lift; if it keeps going, stay under the roofs of the Royal Museums.
+
+How much does it cost, on average#
+
+Adding up the prices we read, the Egyptian Museum (14 € according to the portal, or 18 € if the figure implied by the official promotion applies) and the Royal Museums (15 €) come to 29-33 € per person. Adding the Cinema Museum in the Mole costs 16 € until 8 December (20 € with the lift), 18 € (23 €) afterwards. These are indicative averages, without transport or meals.
+
+Common mistakes#
+
+Turning up at the Egyptian Museum without an online ticket: entry is allowed only to those who bought it on the portal.
+Planning the Royal Museums on a Wednesday or the Mole on a Tuesday.
+Choosing Monday for the Egyptian Museum without knowing it closes at 2 pm.
+Counting on arriving at the Royal Museums at 6:30 pm: last entry is at 6 pm.
+Putting three museums in a single day: two are enough.
+
+What to skip#
+
+If you have only one rainy day, skip the museum you have not booked and keep the Egyptian Museum plus a second one. If you are in the city from 9 to 14 December, the Mole is closed: fall back on the Royal Museums.
+
+If you have another day#
+
+To think the same way in another city, read Milan in a weekend in the rain or what to do in Catania when it rains. For another city of arcades, tortellini and a day on foot there is Bologna in a day, and to rethink an itinerary when the weather changes, how to use AI for travel itineraries.
+
+Plan B is built beforehand#
+
+The problem with rain is not the rain: it is having to rebuild the programme from scratch, in the downpour, with your phone in your hand and closing days to cross-check. It is the same problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, join the waitlist.
+
+Verification note. Data read on 6 November 2026 on the pages listed in the sources: the official websites of the Egyptian Museum, the National Museum of Cinema, the Royal Museums and Turismo Torino, the Caffè Al Bicerin page and the Musei di Torino portal. Where sources disagree (the Egyptian Museum ticket price, the time at which Mole lift tickets are released) we say so. We did not verify opening hours or prices of the historic cafés, walking distances between museums, or how the panoramic lift works in the rain. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.
 
 
 # Polignano a Mare without a car: train, on foot, what to see
@@ -1881,7 +2067,7 @@ Information checked on 30 October 2026 on the sources listed. Hours and prices a
 # Milan in a weekend when it rains: a Plan B itinerary
 URL: https://unnivai.com/en/blog/milan-in-a-weekend-in-the-rain
 Language: en
-Updated: 2026-10-30
+Updated: 2026-11-06
 
 Rain does not cancel Milan; it just reshuffles it. The centre is packed with museums, the metro reaches almost everywhere, and the big sights sit in two fairly compact areas. All you need is a sensible order and a few checks on hours and closing days, because that is where a wet weekend really goes wrong.
 
@@ -1973,6 +2159,8 @@ For the same plan-B thinking in another city, read what to do in Catania when it
 Plan B is built beforehand#
 
 The problem with rain is not the rain: it is having to rebuild the programme from scratch, in the downpour, with your phone in your hand. It is the same problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, join the waitlist.
+
+Read next: another city, another Plan B: what to do in Turin when it rains: museums and cafés.
 
 Verification note. Data read on 30 October 2026 on the pages listed in the sources: the official websites of the Duomo di Milano, ATM, the Castello Sforzesco, the Museo del Novecento, the Pinacoteca di Brera and the Cenacolo Vinciano, plus Lombardia.info, the Lombardia Beni Culturali catalogue and Wikipedia. Where sources disagree (Duomo hours, the Duomo Museum closing day, the Castello price, tram lines) we say so. We did not verify prices or accessibility at the Museo del Novecento, nor the walking distances between the Castello and Brera. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.
 
@@ -2607,7 +2795,7 @@ Verification note. Market hours change during the year and on holidays: check be
 # What to do in Catania when it rains: 7 indoor ideas
 URL: https://unnivai.com/en/blog/what-to-do-in-catania-when-it-rains
 Language: en
-Updated: 2026-11-04
+Updated: 2026-11-06
 
 In Catania rain does not ruin the day: it moves it. The historic centre is compact, distances between stops are short and many of the most interesting places are indoors. You only need a sensible order, so you do not cross half the city in the downpour.
 
@@ -2699,6 +2887,8 @@ Plan B is built beforehand#
 The problem with rain is not the rain: it is having to rebuild the programme from scratch, in the downpour, with your phone in your hand. It is the same problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, join the waitlist.
 
 Read next: Another rainy-day plan B, in a big city: Milan in a weekend in the rain.
+
+Read next: for another rainy day between museums and historic cafés, what to do in Turin when it rains: museums and cafés.
 
 Verification note. Data read on 29 October 2026 on the pages listed in the sources: the Ministry of Culture page for Castello Ursino, Italia.it, Museionline, Wikipedia, a World Heritage listing page (unofficial site) and two climate pages. Where sources disagree (whether Castello Ursino is open, the Teatro Bellini address, the wettest month) we say so. We did not verify the hours and prices of the Monastery and the theatre, nor the accessibility of the Castello. Prices are indicative averages: opening hours, closing days and bookings change, so always check official information before you set off.
 

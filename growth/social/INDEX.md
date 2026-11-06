@@ -1,6 +1,6 @@
 # Indice pacchetti social UNNIVAI
 
-16 pacchetti, 2 a settimana (martedì e giovedì) per 8 settimane, da lunedì 9 novembre 2026. I 4 articoli di territorio (Cinque Terre, Polignano, Matera, Ortigia) sono distanziati di 3-4 slot tra le città; le aree geografiche si alternano Nord, Centro e Sud, con la Sicilia (5 articoli) mai due volte di fila tranne gli ultimi due slot, dove Palermo e Pescheria condividono la chiave editoriale cibo-mercati.
+17 pacchetti (il 17° dal 5 gennaio 2027), 2 a settimana (martedì e giovedì) per 8 settimane, da lunedì 9 novembre 2026. I 4 articoli di territorio (Cinque Terre, Polignano, Matera, Ortigia) sono distanziati di 3-4 slot tra le città; le aree geografiche si alternano Nord, Centro e Sud, con la Sicilia (5 articoli) mai due volte di fila tranne gli ultimi due slot, dove Palermo e Pescheria condividono la chiave editoriale cibo-mercati.
 
 | # | Settimana | Slug | Titolo | Tipo | Area | Pubblicazione consigliata | File |
 |---|---|---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | 14 | 7 | `itinerario-turistico-con-intelligenza-artificiale` | Itinerari con l'intelligenza artificiale: cosa funziona e cosa no | Tema | Metodo | 2026-12-24 (gio) | [itinerario-turistico-con-intelligenza-artificiale.md](itinerario-turistico-con-intelligenza-artificiale.md) |
 | 15 | 8 | `palermo-street-food-mercati-orari-cosa-ordinare` | Palermo street food: mercati, orari e cosa ordinare | Città | Sicilia | 2026-12-29 (mar) | [palermo-street-food-mercati-orari-cosa-ordinare.md](palermo-street-food-mercati-orari-cosa-ordinare.md) |
 | 16 | 8 | `pescheria-di-catania-orari-e-consigli` | Pescheria di Catania: orari, cosa vedere e come visitarla | Città | Sicilia | 2026-12-31 (gio) | [pescheria-di-catania-orari-e-consigli.md](pescheria-di-catania-orari-e-consigli.md) |
+| 17 | 9 | `torino-musei-e-caffe-storici-con-la-pioggia` | Torino con la pioggia: musei, caffè storici e orari | Città | Piemonte | 2027-01-05 (mar) | [torino-musei-e-caffe-storici-con-la-pioggia.md](torino-musei-e-caffe-storici-con-la-pioggia.md) |
 
 ## Regole d'uso
 

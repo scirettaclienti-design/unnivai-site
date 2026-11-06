@@ -3,6 +3,7 @@ id: milano-in-un-weekend-con-la-pioggia
 title: Milan in a weekend when it rains: a Plan B itinerary
 description: Two rainy days in Milan: the Duomo, Galleria, Museo del Novecento, Castello Sforzesco, Brera and the Last Supper, with hours, indicative prices and closures.
 date: 2026-10-30
+updated: 2026-11-06
 category: Milan
 cover: Milano
 tags: Rain, Weekend, Museums
@@ -122,5 +123,7 @@ For the same plan-B thinking in another city, read [what to do in Catania when i
 ## Plan B is built beforehand
 
 The problem with rain is not the rain: it is having to rebuild the programme from scratch, in the downpour, with your phone in your hand. It is the same problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, [join the waitlist](/?src=blog-milano-en#iscriviti).
+
+**Read next:** another city, another Plan B: [what to do in Turin when it rains: museums and cafés](/blog/turin-on-a-rainy-day).
 
 *Verification note. Data read on 30 October 2026 on the pages listed in the sources: the official websites of the Duomo di Milano, ATM, the Castello Sforzesco, the Museo del Novecento, the Pinacoteca di Brera and the Cenacolo Vinciano, plus Lombardia.info, the Lombardia Beni Culturali catalogue and Wikipedia. Where sources disagree (Duomo hours, the Duomo Museum closing day, the Castello price, tram lines) we say so. We did not verify prices or accessibility at the Museo del Novecento, nor the walking distances between the Castello and Brera. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.*

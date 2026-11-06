@@ -342,5 +342,37 @@
   "url": "https://commons.wikimedia.org/wiki/File:Lecce_-_Piazza_Sant%27Oronzo_-_2.jpg",
   "w": 1400,
   "h": 934
+ },
+ "torino-mole": {
+  "file": "File:Mole Antonelliana di sera.jpg",
+  "artist": "Abbrey82",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_di_sera.jpg",
+  "w": 1400,
+  "h": 951
+ },
+ "torino-egizio": {
+  "file": "File:Torino, Museo egizio (006).jpg",
+  "artist": "Gianni Careddu",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Torino,_Museo_egizio_(006).jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "torino-piazza-castello": {
+  "file": "File:Piazza Castello di Torino e scorcio della Piazzetta Reale.jpg",
+  "artist": "Guglielmo di Rivoli",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Piazza_Castello_di_Torino_e_scorcio_della_Piazzetta_Reale.jpg",
+  "w": 1400,
+  "h": 996
+ },
+ "torino-mulassano": {
+  "file": "File:Caffè Mulassano.jpg",
+  "artist": "Bettylella",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Mulassano.jpg",
+  "w": 1400,
+  "h": 788
  }
 }

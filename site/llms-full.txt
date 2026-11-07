@@ -34,7 +34,7 @@
 - [Venice without the crowds: when to go and where to eat](https://unnivai.com/en/blog/venice-without-the-crowds): How to visit Venice without the crowds: the access fee, vaporetto fares, Rialto market hours and bacari, with the sources' disagreements flagged.
 - [One day in Lecce: baroque, pasticciotto and walking lanes](https://unnivai.com/en/blog/one-day-in-lecce): A walking itinerary for one day in Lecce: Roman amphitheatre, Duomo, Santa Croce, the castle and a pasticciotto, with hours and prices from official sources.
 - [Florence in 48 hours without pointless queues](https://unnivai.com/en/blog/florence-in-48-hours): Two days in Florence in a sensible order: Duomo and Dome, Accademia, Uffizi. Hours, closing days, prices and bookings read on the official sites.
-- [Catania fish market: hours, what to see and how to visit](https://unnivai.com/en/blog/catania-fish-market-hours-and-tips): Indicative hours, when to go, what to look at and what to avoid at the Catania fish market, a few steps from Piazza Duomo.
+- [Catania fish market hours: when to go and how to visit](https://unnivai.com/en/blog/catania-fish-market-hours-and-tips): What time the Catania fish market opens, whether it is open on Sunday, how to get there and what to know before you go. Indicative hours from six sources.
 - [What to do in Catania when it rains: 7 indoor ideas](https://unnivai.com/en/blog/what-to-do-in-catania-when-it-rains): Rain in Catania? Seven places under a roof, a sensible order to see them and how to rewrite your day without wasting the afternoon.
 - [Rome in two days: an itinerary that does not wear you out](https://unnivai.com/en/blog/rome-in-two-days): Two days in Rome in a sensible order: stops grouped by area, hours to check and how not to spend the day in a queue.
 - [One day in Ortigia: a walking itinerary, without rushing](https://unnivai.com/en/blog/one-day-in-ortigia): How to see Ortigia in a day: order of the stops, where to slow down and what to leave out so it does not turn into a marathon.
@@ -858,11 +858,11 @@ Verificato il 29 ottobre 2026 su pagine aperte per questo articolo. Orari, prezz
 # Pescheria di Catania: orari, cosa vedere e come visitarla
 URL: https://unnivai.com/blog/pescheria-di-catania-orari-e-consigli
 Language: it
-Updated: 2026-10-29
+Updated: 2026-11-07
 
 La Pescheria di Catania non è un'attrazione allestita per i turisti: è un mercato che lavora ogni mattina, rumoroso, bagnato e bellissimo. Per visitarlo bene bastano poche regole: orario giusto, scarpe giuste e un'idea di cosa guardare. Qui trovi gli orari con le divergenze tra le fonti, come arrivare, cosa fare se piove e gli errori da non fare.
 
-In breve. Vai la mattina presto, dal lunedì al sabato, con scarpe chiuse e antiscivolo. Dedica 30-60 minuti al mercato e, se vuoi mangiare, un'altra ora nei dintorni. Domenica è chiuso. Orari: circa 7-14 per tre fonti su quattro, 8-14:30 per la quarta.
+In breve. Vai la mattina presto, dal lunedì al sabato, con scarpe chiuse e antiscivolo. Dedica 30-60 minuti al mercato e, se vuoi mangiare, un'altra ora nei dintorni. Domenica è chiuso. Orari: circa 7-14 per quattro fonti su sei, 8-14:30 e 8-13 per le altre due.
 
 Prima delle 10Ingresso dal lato di Piazza DuomoI banchi sono completi e la luce è migliore.
 
@@ -874,27 +874,38 @@ DopoAssaggi in piediStreet food nei dintorni.
 
 Orari: cosa sappiamo e cosa no#
 
-Le fonti che abbiamo consultato concordano su due punti: il mercato è aperto dal lunedì al sabato e la domenica è chiuso. Sugli orari esatti divergono: Nomado Travel, Loving Sicilia e Do Eat Better Experience indicano circa dalle 7 alle 14, Siviaggia dalle 8 alle 14:30. Non c'è una fonte ufficiale che chiuda la questione, perché non ne abbiamo trovata una comunale aperta e consultabile. Per questo la regola pratica è la più sicura: arriva entro metà mattina. Dopo mezzogiorno alcuni banchi cominciano già a smontare, e i prodotti migliori sono finiti.
+Le fonti che abbiamo consultato concordano su due punti: il mercato è aperto dal lunedì al sabato e la domenica è chiuso. Sugli orari esatti divergono: Nomado Travel, Loving Sicilia, Do Eat Better Experience e Catania Street Food Tour indicano circa dalle 7 alle 14, Siviaggia dalle 8 alle 14:30, VisitCatania dalle 8 alle 13. Quest'ultima precisa che non esiste un orario ufficiale unico per tutti i banchi, e le pagine del Comune di Catania che abbiamo letto descrivono la Pescheria come mercato giornaliero della frutta e del pesce ma non ne riportano gli orari: per questo nessuna fonte ufficiale chiude la questione. Per questo la regola pratica è la più sicura: arriva entro metà mattina e non contare sul fatto che tutti i banchi restino aperti fino alle 13 o alle 14. Dopo mezzogiorno alcuni banchi cominciano già a smontare, e i prodotti migliori sono finiti.
 
 Quando andare, davvero#
 
-La finestra migliore è prima delle 10: scelta completa e meno caldo, soprattutto in estate. Anche qui le fonti non coincidono sul picco: per Nomado Travel la densità massima è tra le 8:30 e le 10:30, per Loving Sicilia tra le 10 e le 12. Dopo le 11 cambia il carattere: Nomado Travel scrive che i venditori cercano di smaltire la merce, i prezzi possono scendere ma la scelta si riduce; Do Eat Better Experience dice che verso le 11:30 i migliori tranci di pesce spada sono già venduti. Verso le 12:30-13:00 vari banchi smontano (Nomado Travel e Loving Sicilia); è un momento tranquillo per un secondo giro senza folla. Se ti interessa fotografare, scegli un giorno feriale e cerca il contatto visivo con i venditori prima di scattare.
+La finestra migliore è prima delle 10: scelta completa e meno caldo, soprattutto in estate. Anche qui le fonti non coincidono sul picco: per Nomado Travel la densità massima è tra le 8:30 e le 10:30, per Loving Sicilia tra le 10 e le 12. Dopo le 11 cambia il carattere: Nomado Travel scrive che i venditori cercano di smaltire la merce, i prezzi possono scendere ma la scelta si riduce; Do Eat Better Experience dice che verso le 11:30 i migliori tranci di pesce spada sono già venduti. Verso le 12:30-13:00 vari banchi smontano (Nomado Travel e Loving Sicilia); è un momento tranquillo per un secondo giro senza folla. Se ti interessa fotografare, scegli un giorno feriale e cerca il contatto visivo con i venditori prima di scattare. Sul giorno ideale le fonti non concordano: Catania Street Food Tour indica il martedì, mercoledì o giovedì tra le 8 e le 11, mentre Nomado Travel scrive che il sabato mattina può essere un po' meno frenetico dei giorni lavorativi. Se puoi scegliere, un feriale di metà settimana prima delle 10 è la scommessa più sicura; il sabato resta una buona seconda opzione se sei di passaggio.
 
 Come arrivare#
 
 La Pescheria è nel centro storico, a pochi metri da Piazza Duomo e vicino alla fontana che Siviaggia chiama Fontana dei Sette Canali e Nomado Travel Fontana Amenano. Da nord si può entrare da Porta Uzeda, da sud da Piazza Duomo; Nomado Travel segnala anche un ingresso da Via Garibaldi, meno affollato nelle ore di punta. Dalla stazione centrale servono circa 10 minuti a piedi.
 
 Dall'aeroporto: l'Alibus AMTS collega lo scalo con il centro. Secondo il sito dell'aeroporto la prima corsa parte dal terminal alle 04:40 e l'ultima alle 00:30 del giorno dopo, circa ogni 25 minuti. Il biglietto costa 4 € e vale 90 minuti anche sulle altre linee urbane AMT, mentre i titoli delle altre linee non valgono sull'Alibus (AMTS).
+In taxi: VisitCatania scrive che dall'aeroporto a piazza Duomo c'è una tariffa fissa di 27 € in prova fino al 31 dicembre 2026 e consiglia di chiedere il prezzo prima di salire. Non abbiamo trovato una pagina ufficiale che lo confermi: verifica alla fermata.
 In auto: Siviaggia indica il Parcheggio Borsellino vicino al Giardino Pacini come sosta vicina.
 In metro: Loving Sicilia scrive che la fermata più vicina è a circa 10 minuti a piedi.
 
+La Fontana dell'Amenano in piazza Duomo, punto di riferimento per trovare l'ingresso del mercato Foto: Effems, CC0, Wikimedia Commons
 Un giro in tre aree#
 
 Loving Sicilia suggerisce di dividere la visita in tre punti: Piazza Alonzo di Benedetto, la Porta di Carlo V e Piazza Pardo. Poi si può proseguire lungo Via Pardo e Via Zappalà-Gemelli, dove l'odore del pesce lascia spazio a quello di carne, formaggi e frutta secca. Gli orari di quei banchi, per la stessa fonte, sono più o meno gli stessi del mercato del pesce.
 
+Cosa dice il Comune: Porta Carlo V e le mura#
+
+La pagina ufficiale del Comune di Catania dedicata a Palazzo dei Chierici racconta il luogo in poche righe: scendendo le scale a destra del palazzo si vede la Porta Carlo V, che sta proprio in mezzo alla Pescheria, definita «il pittoresco mercato giornaliero della frutta e del pesce». Un'epigrafe sopra la porta ricorda la data 1553: faceva parte delle mura erette per difendersi dalle incursioni dei pirati e dei nemici. Il palazzo oggi ospita uffici dell'amministrazione comunale. Sempre secondo il Comune, la zona è raggiungibile con gli autobus AMTS e ci sono parcheggi pubblici a pagamento nelle vicinanze. Una volta sotto l'arco, alza lo sguardo: l'epigrafe si legge sopra la porta.
+
+L'epigrafe sopra la Porta di Carlo V a Catania, con la data del 1553 Foto: Pequod76, Public domain, Wikimedia Commons
 Cosa vedere e stagionalità#
 
 Si vendono pesce spada, tonno, orata, spigola, triglie, ricci di mare e polpi, e a peso vongole, seppie e cozze. Secondo Loving Sicilia si trovano di frequente anche alici e gamberi. Ai margini ci sono banchi di frutta e verdura, tra cui le arance rosse di Sicilia IGP, broccoli e carciofi: sono più tranquilli e permettono di respirare tra un banco e l'altro. Le arance rosse sono un prodotto invernale: il disciplinare riportato da Qualigeo le dà in commercio da dicembre a maggio. I ricci di mare, secondo Do Eat Better Experience, si vedono nelle cassette a fine inverno. Nomado Travel avverte che i pezzi più pregiati, come gamberi rossi, ricci di mare e teste di pesce spada, spariscono presto, già prima delle 12:30. La qualità e la scelta cambiano con la pesca della notte precedente.
+
+Si può mangiare crudo sul posto?#
+
+È la domanda che si fanno in molti davanti a una cassetta di ricci. Secondo Catania Street Food Tour parte di ciò che si mangia qui non è mai stato cucinato: ricci di mare aperti e mangiati con il pane, alici condite con limone e olio, polpo bollito venduto a tentacoli, gambero rosso mangiato crudo. Qualche banco ha un tavolino e pochi sgabelli, ma la maggior parte si aspetta che si mangi in piedi. La stessa fonte mette un limite chiaro alla stagione calda: caldo e crostacei crudi sono un binomio complicato, quindi prima si mangia, più sicuro è il pasto. I suoi consigli pratici sono tre: chiedere da dove arrivano i ricci, guardare se il ghiaccio viene rifornito, comprare dal banco con più ricambio e non da quello con l'insegna più simpatica. Non siamo in grado di valutare la sicurezza alimentare di un singolo banco: se hai dubbi, scegli il cotto.
 
 Cosa portare e cosa evitare#
 
@@ -904,13 +915,17 @@ Pesce da cucinare più tardi: con il caldo è rischioso se non hai modo di tener
 Fotografie ai venditori senza chiedere: un cenno basta.
 Mani sul pesce esposto: Do Eat Better Experience consiglia di non toccarlo, ma di indicare quello che vuoi e lasciare che sia il venditore a prenderlo.
 
+Gli errori più comuni#
+
+Il primo è aspettarsi un mercato allestito per il visitatore. Nomado Travel è esplicita: non ci sono banchi artigianali curati, cartelli in inglese o assaggi offerti, perché La Pescheria è un mercato al dettaglio e all'ingrosso che lavora, e lo fa davanti a chi passa. Il secondo è fermarsi a fotografare proprio dove passano casse e carrelli: Catania Street Food Tour consiglia di farsi da parte in una soglia prima di scattare, di lasciar passare per primi i facchini e di non bloccare il fronte di un banco mentre si decide cosa comprare. Il terzo è l'abbigliamento: il pavimento è bagnato e gli odori restano sui vestiti, quindi niente sandali e niente capi che non vuoi profumino di mare per il resto della giornata. Il quarto è l'orario: chi arriva a mezzogiorno e mezza vede soprattutto banchi che si smontano. Per chi soffre gli odori forti, Nomado Travel è onesta: la zona centrale del pesce può essere davvero scomoda, e in quel caso conviene restare sui banchi di frutta e verdura ai margini.
+
 Galateo e piccoli trucchi#
 
-Porta monete e banconote piccole: Do Eat Better Experience segnala che molti venditori non cambiano biglietti da 20 o 50 € per acquisti di pochi euro. In fila, tieni il tuo posto: se lasci uno spazio, qualcuno ordina prima di te. Fai attenzione ai mezzi a motore che si fanno strada tra la gente. Se il pesce non ti interessa, il mercato resta un buon posto dove guardare come lavorano i banchi: non c'è nessun obbligo di comprare.
+Porta monete e banconote piccole: Do Eat Better Experience segnala che molti venditori non cambiano biglietti da 20 o 50 € per acquisti di pochi euro, e Catania Street Food Tour nota che il contante si muove più velocemente delle carte. Saluta con un buongiorno prima di chiedere del pescato. In fila, tieni il tuo posto: se lasci uno spazio, qualcuno ordina prima di te. Fai attenzione ai mezzi a motore che si fanno strada tra la gente. Se il pesce non ti interessa, il mercato resta un buon posto dove guardare come lavorano i banchi: non c'è nessun obbligo di comprare.
 
 Dove mangiare nei dintorni#
 
-Intorno al mercato ci sono chioschi, bar e piccole trattorie, e a metà mattina compaiono stand di street food come stigghiola e pane con la milza. Do Eat Better Experience consiglia i banchi di strada piuttosto che i ristoranti con i tavoli sulla piazza. Dalle fonti: lo Scirocco Sicilian Fish Lab, in Piazza Alonzo di Benedetto, serve cartocci di fritto di pesce (9 € e fila verso mezzogiorno per Do Eat Better Experience, circa 7 € a persona per Travel365: le due cifre non coincidono); la stessa Do Eat Better Experience cita per un pasto seduto l'Osteria Antica Marina (crudo intorno ai 28 €, prenotazione consigliata) e Mm! Trattoria (pasta alla Norma di mare 16 €). Non li abbiamo provati. La sera, sempre secondo questa fonte, nei vicoli attorno compaiono bancarelle di pesce alla brace, ma a quell'ora il mercato è chiuso. Per un percorso completo di assaggi leggi cosa mangiare a Catania.
+Intorno al mercato ci sono chioschi, bar e piccole trattorie, e a metà mattina compaiono stand di street food come stigghiola e pane con la milza. Do Eat Better Experience consiglia i banchi di strada piuttosto che i ristoranti con i tavoli sulla piazza. Dalle fonti: lo Scirocco Sicilian Fish Lab, in Piazza Alonzo di Benedetto, serve cartocci di fritto di pesce (9 € e fila verso mezzogiorno per Do Eat Better Experience, circa 7 € a persona per Travel365: le due cifre non coincidono); la stessa Do Eat Better Experience cita per un pasto seduto l'Osteria Antica Marina (crudo intorno ai 28 €, prenotazione consigliata) e Mm! Trattoria (pasta alla Norma di mare 16 €). Non li abbiamo provati. La sera, sempre secondo questa fonte, nei vicoli attorno compaiono bancarelle di pesce alla brace (la formula si chiama «arrusti e mangia», con esempi in via Gisira dalle 19 circa), ma a quell'ora il mercato è chiuso. Gli orari dei locali citati vengono dalle loro stesse fonti e non li abbiamo ricontrollati: per esempio Do Eat Better Experience scrive che Mm! Trattoria chiude il lunedì. Per un percorso completo di assaggi leggi cosa mangiare a Catania; se ami i mercati, confronta con lo street food di Palermo tra mercati e orari e con cosa mangiare a Napoli in ordine di giornata.
 
 Quanto spendere#
 
@@ -935,7 +950,7 @@ Se cambia la giornata#
 
 UNNIVAI costruisce il percorso intorno a orari reali e lo riscrive quando cambia il programma. Entra tra i primi.
 
-Nota di verifica. Gli orari dei mercati cambiano durante l'anno e per festività: controlla prima di partire. Informazioni verificate il 29 ottobre 2026 su fonti pubbliche (Nomado Travel, Siviaggia, Loving Sicilia, Do Eat Better Experience, Qualigeo, sito dell'aeroporto di Catania e AMTS). Gli orari del mercato sono riportati con le divergenze delle fonti; non abbiamo trovato una fonte comunale consultabile che li confermi. Non abbiamo verificato di persona i locali citati.
+Nota di verifica. Gli orari dei mercati cambiano durante l'anno e per festività: controlla prima di partire. Informazioni verificate il 29 ottobre 2026 e riviste il 7 novembre 2026 su fonti pubbliche (Comune di Catania, Nomado Travel, Siviaggia, Loving Sicilia, Do Eat Better Experience, VisitCatania, Catania Street Food Tour, Qualigeo, sito dell'aeroporto di Catania e AMTS). Gli orari del mercato sono riportati con le divergenze delle fonti; le pagine comunali lette non li indicano. La tariffa fissa del taxi (27 €) viene solo da VisitCatania, una guida indipendente, e non l'abbiamo confermata con una fonte ufficiale; alcune di queste pagine hanno una data di aggiornamento precedente a ottobre 2026. Non abbiamo verificato di persona i locali citati.
 
 
 # Lecce in un giorno: barocco, pasticciotto e vicoli a piedi
@@ -2709,14 +2724,14 @@ Read next: If you want the sea on foot after Tuscany: Cinque Terre on foot.
 Hours, prices and notices were read and checked on the official sites listed on 29 October 2026 and change during the year: check before you go.
 
 
-# Catania fish market: hours, what to see and how to visit
+# Catania fish market hours: when to go and how to visit
 URL: https://unnivai.com/en/blog/catania-fish-market-hours-and-tips
 Language: en
-Updated: 2026-10-29
+Updated: 2026-11-07
 
-The Catania fish market is not an attraction set up for tourists: it is a market that works every morning, loud, wet and beautiful. To visit it well you need a few rules: the right time, the right shoes and an idea of what to look at. Here you get the hours with the disagreements between sources, how to get there, what to do in the rain and the mistakes to skip.
+Is the Catania fish market worth a morning, and what time should you be there? Yes if you like real markets: La Pescheria (A Piscaria in Sicilian) is not an attraction set up for tourists, it is a market that works every morning, loud, wet and beautiful. Below you get the hours with the disagreements between sources, how to get there from the airport, what is safe to eat, what to do in the rain and the mistakes to skip.
 
-In short. Go early in the morning, Monday to Saturday, in closed non-slip shoes. Give the market 30-60 minutes and, if you want to eat, another hour nearby. Sunday is closed. Hours: about 7 am-2 pm for three sources out of four, 8 am-2:30 pm for the fourth.
+In short. The Catania fish market is open Monday to Saturday, about 7 am to 2 pm for four sources out of six (8 am-2:30 pm and 8 am-1 pm for the other two), and closed on Sunday. Entry is free. Go before 10 am in closed non-slip shoes, give it 30-60 minutes and, if you want to eat, another hour nearby.
 
 Before 10Entrance from the Piazza Duomo sideThe stalls are fully stocked and the light is better.
 
@@ -2728,27 +2743,38 @@ AfterwardsTastings standing upStreet food nearby.
 
 Hours: what we know and what we do not#
 
-The sources we consulted agree on two points: the market is open Monday to Saturday and closed on Sunday. On exact hours they differ: Nomado Travel, Loving Sicilia and Do Eat Better Experience say about 7 am to 2 pm, Siviaggia says 8 am to 2:30 pm. No official source settles it, because we did not find an open, consultable one from the city council. That is why the practical rule is the safest one: arrive by mid-morning. After noon some stalls are already packing up, and the best produce is gone.
+The sources we consulted agree on two points: the market is open Monday to Saturday and closed on Sunday. On exact hours they differ: Nomado Travel, Loving Sicilia, Do Eat Better Experience and Catania Street Food Tour say about 7 am to 2 pm, Siviaggia says 8 am to 2:30 pm, VisitCatania says 8 am to 1 pm. The last one adds that there is no single official schedule for all stalls, and the City of Catania pages we read describe the Pescheria as the daily fruit and fish market but give no hours: so no official source settles it. That is why the practical rule is the safest one: arrive by mid-morning and do not count on every stall staying open until 1 or 2 pm. After noon some stalls are already packing up, and the best produce is gone.
 
 When to go, really#
 
-The best window is before 10: full choice and less heat, especially in summer. Here too the sources do not agree on the peak: for Nomado Travel the crowd is at its densest between 8:30 and 10:30, for Loving Sicilia between 10 and 12. After 11 the character changes: Nomado Travel writes that vendors are trying to clear stock, so prices may drop but choice shrinks; Do Eat Better Experience says that by around 11:30 the best swordfish cuts are already sold. Around 12:30-1 pm several stalls are dismantled (Nomado Travel and Loving Sicilia); it is a quiet moment for a second pass without the crowd. If you want to take photos, choose a weekday and make eye contact with the vendors before shooting.
+The best window is before 10: full choice and less heat, especially in summer. Here too the sources do not agree on the peak: for Nomado Travel the crowd is at its densest between 8:30 and 10:30, for Loving Sicilia between 10 and 12. After 11 the character changes: Nomado Travel writes that vendors are trying to clear stock, so prices may drop but choice shrinks; Do Eat Better Experience says that by around 11:30 the best swordfish cuts are already sold. Around 12:30-1 pm several stalls are dismantled (Nomado Travel and Loving Sicilia); it is a quiet moment for a second pass without the crowd. If you want to take photos, choose a weekday and make eye contact with the vendors before shooting. On the best day the sources disagree: Catania Street Food Tour points to Tuesday, Wednesday or Thursday between 8 and 11 am, while Nomado Travel says Saturday morning can be slightly less frantic than weekdays. If you can choose, a mid-week weekday before 10 is the safest bet; Saturday is a good second option if you are just passing through.
 
 How to get there#
 
 The market is in the historic centre, a few metres from Piazza Duomo and near the fountain that Siviaggia calls the Fountain of the Seven Channels and Nomado Travel calls the Amenano fountain. From the north you can enter through Porta Uzeda, from the south through Piazza Duomo; Nomado Travel also mentions an entrance from Via Garibaldi, less crowded at peak hours. From the central station it takes about 10 minutes on foot.
 
 From the airport: the AMTS Alibus links the airport with the centre. According to the airport website the first bus leaves the terminal at 04:40 and the last at 00:30 the next day, roughly every 25 minutes. The ticket costs €4 and is valid for 90 minutes on the other AMT urban lines too, while tickets for other lines are not valid on the Alibus (AMTS).
+By taxi: VisitCatania says there is a fixed fare of €27 from the airport to Piazza Duomo on trial until 31 December 2026 and advises asking the price before getting in. We did not find an official page confirming it: check at the taxi rank.
 By car: Siviaggia points to the Borsellino car park near the Giardino Pacini as a nearby place to park.
 By metro: Loving Sicilia says the nearest stop is about 10 minutes on foot.
 
+The Amenano fountain in Piazza Duomo, a landmark for finding the market entrance Photo: Effems, CC0, Wikimedia Commons
 A walk in three areas#
 
 Loving Sicilia suggests splitting the visit into three points: Piazza Alonzo di Benedetto, the Porta di Carlo V and Piazza Pardo. You can then continue along Via Pardo and Via Zappalà-Gemelli, where the smell of fish gives way to meat, cheese and dried fruit. According to the same source those stalls keep roughly the same hours as the fish market.
 
+What the city council says: Porta Carlo V and the walls#
+
+The official City of Catania page on Palazzo dei Chierici describes the place in a few lines: going down the stairs to the right of the palace you see Porta Carlo V, right in the middle of the Pescheria, called "the picturesque daily fruit and fish market". An inscription above the gate records the date 1553: it was part of the walls built to defend against raids by pirates and enemies. The palace now houses offices of the city administration. According to the same page the area is served by AMTS buses and there is paid public parking nearby. Once under the arch, look up: the inscription is above the gate.
+
+The inscription above Porta di Carlo V in Catania, with the date 1553 Photo: Pequod76, Public domain, Wikimedia Commons
 What to see and what is in season#
 
 They sell swordfish, tuna, sea bream, sea bass, red mullet, sea urchins and octopus, and by weight clams, cuttlefish and mussels. Loving Sicilia adds that anchovies and prawns are common too. At the edges there are fruit and vegetable stalls, including Sicilian Red Orange PGI, broccoli and artichokes: they are calmer and let you breathe between one stall and the next. Red oranges are a winter product: the product specification reported by Qualigeo puts them on the market from December to May. Sea urchins, according to Do Eat Better Experience, show up in crates in late winter. Nomado Travel warns that the prized pieces, such as red prawns, sea urchins and swordfish heads, go early, often before 12:30. Quality and choice depend on the previous night's catch.
+
+Can you eat raw seafood on the spot?#
+
+It is the question many people ask in front of a crate of sea urchins. According to Catania Street Food Tour, part of what you eat here has never been cooked: sea urchins opened and eaten with bread, anchovies dressed with lemon and oil, boiled octopus sold by the tentacle, red prawns eaten raw. A few stalls have a small table and a couple of stools, but most expect you to eat standing. The same source sets a clear limit for the hot season: heat and raw shellfish are a tricky pairing, so the earlier you eat, the safer the meal. Its three practical tips are to ask where the urchins come from, to check whether the ice is being topped up, and to buy from the stall with the most turnover rather than the one with the friendliest sign. We cannot judge the food safety of an individual stall: if in doubt, choose something cooked.
 
 What to bring and what to avoid#
 
@@ -2758,13 +2784,17 @@ Fish to cook later: risky in the heat if you cannot keep it cold.
 Photos of vendors without asking: a nod is enough.
 Hands on the displayed fish: Do Eat Better Experience advises against touching it; point at what you want and let the vendor pick it up.
 
+The most common mistakes#
+
+The first is expecting a market set up for visitors. Nomado Travel is explicit: there are no curated artisan stalls, English signs or free tastings, because the Pescheria is a working retail and wholesale market that happens to be visited. The second is stopping to take photos exactly where crates and carts pass: Catania Street Food Tour advises stepping aside into a doorway before shooting, letting porters with crates go first, and not blocking the front of a stall while you decide what to buy. The third is clothing: the floor is wet and smells stay on clothes, so no sandals and nothing you do not want to smell of the sea for the rest of the day. The fourth is timing: if you arrive at 12:30 you mostly see stalls being dismantled. If you are sensitive to strong smells, Nomado Travel is frank: the central fish area can be really uncomfortable, and then it is better to stay at the fruit and vegetable stalls on the edges.
+
 Etiquette and small tricks#
 
-Carry coins and small notes: Do Eat Better Experience reports that many vendors will not change €20 or €50 notes for purchases of a few euros. In a queue, hold your place: if you leave a gap, someone orders before you. Watch out for motorised carts pushing through the crowd. If you are not buying fish, the market is still a good place to watch how the stalls work: there is no obligation to buy.
+Carry coins and small notes: Do Eat Better Experience reports that many vendors will not change €20 or €50 notes for purchases of a few euros, and Catania Street Food Tour notes that cash moves faster than cards. Say buongiorno before asking about the catch. In a queue, hold your place: if you leave a gap, someone orders before you. Watch out for motorised carts pushing through the crowd. If you are not buying fish, the market is still a good place to watch how the stalls work: there is no obligation to buy.
 
 Where to eat nearby#
 
-Around the market there are kiosks, bars and small trattorie, and by mid-morning street-food stands appear selling things like stigghiola (grilled lamb intestines) and pane con la milza (spleen sandwich). Do Eat Better Experience recommends street stalls over restaurants with tables on the square. From the sources: Scirocco Sicilian Fish Lab, in Piazza Alonzo di Benedetto, serves paper cones of fried fish (€9 and a queue towards noon according to Do Eat Better Experience, about €7 per person according to Travel365: the two figures do not match); the same Do Eat Better Experience names Osteria Antica Marina for a sit-down meal (raw seafood platter around €28, booking advised) and Mm! Trattoria (seafood pasta alla Norma €16). We have not tried them. In the evening, per that source, grilled-fish stalls appear in the alleys nearby, but the market itself is closed by then. For a full tasting route read what to eat in Catania.
+Around the market there are kiosks, bars and small trattorie, and by mid-morning street-food stands appear selling things like stigghiola (grilled lamb intestines) and pane con la milza (spleen sandwich). Do Eat Better Experience recommends street stalls over restaurants with tables on the square. From the sources: Scirocco Sicilian Fish Lab, in Piazza Alonzo di Benedetto, serves paper cones of fried fish (€9 and a queue towards noon according to Do Eat Better Experience, about €7 per person according to Travel365: the two figures do not match); the same Do Eat Better Experience names Osteria Antica Marina for a sit-down meal (raw seafood platter around €28, booking advised) and Mm! Trattoria (seafood pasta alla Norma €16). We have not tried them. In the evening, per that source, grilled-fish stalls appear in the alleys nearby (the format is called "arrusti e mangia", with examples on Via Gisira from about 7 pm), but the market itself is closed by then. The venues' hours come from their own sources and we have not rechecked them: for instance Do Eat Better Experience says Mm! Trattoria is closed on Mondays. For a full tasting route read what to eat in Catania; if you love markets, compare with Palermo's street food, markets and hours and what to eat in Naples through the day.
 
 How much to spend#
 
@@ -2787,9 +2817,9 @@ After the fish market, Piazza Duomo and the Cathedral are two minutes away: if y
 
 If the day changes#
 
-UNNIVAI builds the route around real opening hours and rewrites it when the programme changes. Be among the first.
+You now have the hours, the route and the mistakes to skip. UNNIVAI turns them into a plan around your own day, built on real opening hours, and rewrites it when your programme changes. Be among the first.
 
-Verification note. Market hours change during the year and on holidays: check before you go. Information checked on 29 October 2026 from public sources (Nomado Travel, Siviaggia, Loving Sicilia, Do Eat Better Experience, Qualigeo, the Catania airport website and AMTS). Market hours are reported with the disagreements between sources; we did not find a consultable city council source confirming them. We have not personally verified the venues mentioned.
+Verification note. Market hours change during the year and on holidays: check before you go. Information checked on 29 October 2026 and reviewed on 7 November 2026 from public sources (City of Catania, Nomado Travel, Siviaggia, Loving Sicilia, Do Eat Better Experience, VisitCatania, Catania Street Food Tour, Qualigeo, the Catania airport website and AMTS). Market hours are reported with the disagreements between sources; the city council pages we read do not give them. The fixed taxi fare (€27) comes only from VisitCatania, an independent guide, and we did not confirm it with an official source; some of these pages carry an update date earlier than October 2026. We have not personally verified the venues mentioned.
 
 
 # What to do in Catania when it rains: 7 indoor ideas

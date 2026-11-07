@@ -374,5 +374,29 @@
   "url": "https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Mulassano.jpg",
   "w": 1400,
   "h": 788
+ },
+ "catania-fontana-amenano": {
+  "file": "File:Fontana dell'Amenano (Catania) 13 10 2024 01.jpg",
+  "artist": "Effems",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Fontana_dell%27Amenano_(Catania)_13_10_2024_01.jpg",
+  "w": 1400,
+  "h": 1050
+ },
+ "pescheria-catania-bancarelle": {
+  "file": "File:Pescheria (Catania) 08 11 2025 15.jpg",
+  "artist": "Effems",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Pescheria_(Catania)_08_11_2025_15.jpg",
+  "w": 1400,
+  "h": 691
+ },
+ "catania-porta-carlo-v-iscrizione": {
+  "file": "File:Porta di Carlo V - Catania (iscrizione).JPG",
+  "artist": "Pequod76",
+  "license": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Porta_di_Carlo_V_-_Catania_(iscrizione).JPG",
+  "w": 1280,
+  "h": 816
  }
 }

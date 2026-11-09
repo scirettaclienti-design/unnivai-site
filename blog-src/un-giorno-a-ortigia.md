@@ -2,7 +2,7 @@
 title: Un giorno a Ortigia: itinerario a piedi, senza correre
 description: Come vedere Ortigia in una giornata: ordine delle tappe, dove rallentare e cosa lasciare fuori per non trasformarla in una maratona.
 date: 2026-10-28
-updated: 2026-10-29
+updated: 2026-11-09
 category: Siracusa
 cover: Ortigia
 tags: A piedi, Una giornata, Cibo
@@ -109,5 +109,7 @@ Se sei in zona, guarda anche [cosa fare a Catania quando piove](/blog/cosa-fare-
 ## Se cambia il tempo
 
 Con la pioggia, l'itinerario si riscrive: il Duomo e un museo prendono il posto del lungomare, e il mercato slitta al giorno dopo. È il tipo di decisione che UNNIVAI vuole rendere automatica. Se ti interessa, [iscriviti alla lista d'attesa](/?src=blog-ortigia#iscriviti).
+
+**Leggi anche:** un'altra giornata in Sicilia, sulla costa ionica: [Taormina e l'Etna in un giorno](/blog/taormina-e-etna-in-un-giorno).
 
 *Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti (Italia.it, UNESCO Italia, Museionline, Finestre sull'Arte, Balarm, pagina ZTL del 2020, due pagine di orari dei treni). Dove le fonti discordano (orari e dimensioni del Castello Maniace, data del miqveh, orari e durata dei treni) lo abbiamo scritto. Non abbiamo verificato orari del mercato, della Giudecca, di Palazzo Bellomo, né locali per il pranzo; le regole ZTL provengono da una pagina del 2020. Prezzi come medie indicative: orari e giorni di apertura cambiano, controlla le fonti ufficiali prima di partire.*

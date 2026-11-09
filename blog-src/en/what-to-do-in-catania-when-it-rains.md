@@ -3,7 +3,7 @@ id: cosa-fare-a-catania-quando-piove
 title: What to do in Catania when it rains: 7 indoor ideas
 description: Rain in Catania? Seven places under a roof, a sensible order to see them and how to rewrite your day without wasting the afternoon.
 date: 2026-10-28
-updated: 2026-11-06
+updated: 2026-11-09
 category: Catania
 cover: Catania
 tags: Rain, On foot, Half a day
@@ -123,5 +123,7 @@ The problem with rain is not the rain: it is having to rebuild the programme fro
 **Read next:** Another rainy-day plan B, in a big city: [Milan in a weekend in the rain](/blog/milan-in-a-weekend-in-the-rain).
 
 **Read next:** for another rainy day between museums and historic cafés, [what to do in Turin when it rains: museums and cafés](/blog/turin-on-a-rainy-day).
+
+**Read next:** to go up Etna and see the ancient theatre in a single day, [Taormina and Mount Etna in one day](/blog/taormina-and-etna-in-a-day).
 
 *Verification note. Data read on 29 October 2026 on the pages listed in the sources: the Ministry of Culture page for Castello Ursino, Italia.it, Museionline, Wikipedia, a World Heritage listing page (unofficial site) and two climate pages. Where sources disagree (whether Castello Ursino is open, the Teatro Bellini address, the wettest month) we say so. We did not verify the hours and prices of the Monastery and the theatre, nor the accessibility of the Castello. Prices are indicative averages: opening hours, closing days and bookings change, so always check official information before you set off.*

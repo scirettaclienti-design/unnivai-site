@@ -3,7 +3,7 @@ id: un-giorno-a-ortigia
 title: One day in Ortigia: a walking itinerary, without rushing
 description: How to see Ortigia in a day: order of the stops, where to slow down and what to leave out so it does not turn into a marathon.
 date: 2026-10-28
-updated: 2026-10-29
+updated: 2026-11-09
 category: Syracuse
 cover: Ortigia
 tags: On foot, One day, Food
@@ -110,5 +110,7 @@ If you are in the area, also see [what to do in Catania when it rains](/blog/wha
 ## If the weather changes
 
 In the rain, the itinerary is rewritten: the Duomo and a museum take the place of the seafront, and the market slides to the next day. It is the kind of decision UNNIVAI wants to make automatic. If you are interested, [join the waitlist](/?src=blog-ortigia-en#iscriviti).
+
+**Read next:** another day in Sicily, on the Ionian coast: [Taormina and Mount Etna in one day](/blog/taormina-and-etna-in-a-day).
 
 *Verification note. Data read on 29 October 2026 on the pages listed in the sources (Italia.it, UNESCO Italy, Museionline, Finestre sull'Arte, Balarm, a 2020 ZTL page, two train timetable pages). Where sources disagree (Castello Maniace hours and size, the mikveh date, train times and duration) we say so. We did not verify the hours of the market, the Giudecca or Palazzo Bellomo, nor any lunch spots; the ZTL rules come from a 2020 page. Prices are indicative averages: opening hours and days change, so check the official sources before you go.*

@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Taormina e l'Etna in un giorno: come organizzarla](https://unnivai.com/blog/taormina-e-etna-in-un-giorno): Taormina e l'Etna in un giorno: teatro antico, funivia chiusa fino all'8 dicembre, Isola Bella chiusa, tour sul vulcano e orari da verificare.
 - [Torino con la pioggia: musei, caffè storici e orari](https://unnivai.com/blog/torino-musei-e-caffe-storici-con-la-pioggia): Una giornata di pioggia a Torino: Museo Egizio, Musei Reali, Mole e caffè storici, con orari, giorni di chiusura e prezzi letti sui siti ufficiali.
 - [Polignano a Mare senza auto: treno, piedi e cosa vedere](https://unnivai.com/blog/polignano-a-mare-senza-auto): Come visitare Polignano a Mare senza macchina: treno da Bari, centro storico, Lama Monachile, museo Pascali e passeggiata a San Vito, con fonti ufficiali.
 - [Palermo street food: mercati, orari e cosa ordinare](https://unnivai.com/blog/palermo-street-food-mercati-orari-cosa-ordinare): Capo, Ballarò e Vucciria a Palermo: a che ora andare, cosa ordinare (panelle, arancina, sfincione, pani ca meusa) e quanto costa, con le fonti che discordano.
@@ -22,6 +23,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [Taormina and Mount Etna in one day: is it doable?](https://unnivai.com/en/blog/taormina-and-etna-in-a-day): Taormina and Etna in one day: ancient theatre, cable car closed until 8 December, Isola Bella closed, the volcano tour and hours to check.
 - [What to do in Turin when it rains: museums and cafés](https://unnivai.com/en/blog/turin-on-a-rainy-day): A rainy day in Turin: Egyptian Museum, Royal Museums, the Mole and historic cafés, with opening hours, closing days and prices from official sites.
 - [Polignano a Mare without a car: train, on foot, what to see](https://unnivai.com/en/blog/polignano-a-mare-without-a-car): How to visit Polignano a Mare without a car: train from Bari, old town, Lama Monachile, the Pascali museum and the coastal walk to San Vito, with sources.
 - [What to eat in Naples, in the order of the day](https://unnivai.com/en/blog/what-to-eat-in-naples): Sfogliatella, fried pizza, pizza a portafoglio, cuoppo, babà and STG pizza: what to eat in Naples and when, with indicative prices and where sources disagree.
@@ -48,6 +50,98 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Taormina e l'Etna in un giorno: come organizzarla
+URL: https://unnivai.com/blog/taormina-e-etna-in-un-giorno
+Language: it
+Updated: 2026-11-09
+
+Taormina e l'Etna stanno a un'ora d'auto l'una dall'altro, e la tentazione è metterli nella stessa giornata. Si può fare, a patto di accettare alcune scelte: l'Etna va fatto al mattino, il teatro antico nel pomeriggio, e a novembre 2026 due cose che di solito si danno per scontate non ci sono. Questa guida mette in fila cosa abbiamo letto sulle pagine ufficiali, dove le fonti non coincidono e cosa non siamo riusciti a verificare.
+
+In breve. Si può vedere Taormina e salire sull'Etna in una giornata, ma è tirata: Etna al mattino da Rifugio Sapienza (il Tour 3000 dura circa 2,5 ore e costa 82 €), teatro antico nel pomeriggio (14 € intero). Attenzione a novembre 2026: la funivia Taormina-Mazzarò è chiusa dal 9 novembre all'8 dicembre e Isola Bella è chiusa fino al 15 dicembre. L'orario invernale del teatro non è chiaro sulle pagine ufficiali: controllalo prima.
+
+Quanto tempo serve davvero?#
+
+Il conto va fatto all'indietro. Il Tour 3000 della Funivia dell'Etna, secondo il sito dell'operatore, dura circa 2,5 ore e il servizio è attivo tutti i giorni dalle 8:30 alle 15:15, con l'ultima discesa in funivia alle 17:15, compatibilmente con meteo ed esigenze tecniche. Si parte da Piazzale Rifugio Sapienza, a Nicolosi. Una società di guide scrive che da Taormina in auto servono circa 1 ora e 15 minuti.
+
+Mettendo insieme questi numeri, la stima nostra (non una fonte) è questa: partire da Taormina intorno alle 7:15, essere al Rifugio verso le 8:30, finire il tour a metà mattina o poco dopo e rientrare a Taormina nel primo pomeriggio. Resta poco tempo per il teatro, ed è per questo che il controllo degli orari è la parte più importante della giornata.
+
+Come si arriva sull'Etna da Taormina?#
+
+Qui il limite è netto: non abbiamo trovato su una pagina ufficiale un collegamento di linea diretto da Taormina al Rifugio Sapienza, quindi non lo scriviamo. Quello che abbiamo letto, sul sito di una società di guide, riguarda partenze da Catania: un autobus AST alle 8:15 da Piazza Papa Giovanni XXIII, arrivo verso le 10:00 al Rifugio Sapienza, ritorno intorno alle 16:30, circa 6 € a tratta. Gli orari sono di una fonte privata e non li abbiamo confrontati con quelli dell'azienda di trasporto: se pensi di usarli, verificali.
+
+Senza auto, quindi, le strade sono due: una combinazione con Catania (secondo Wikipedia Taormina è servita dalla stazione di Taormina-Giardini, sulla linea ferroviaria Messina-Catania, poi bus) oppure un transfer organizzato. Su prezzi e orari del transfer non diamo numeri, perché non li abbiamo letti su fonti ufficiali.
+
+Il Rifugio Sapienza, a circa 1.900 metri sul versante sud dell'Etna, punto di partenza delle escursioni Foto: Richard Allaway, CC BY 2.0, Wikimedia Commons
+Salire sull'Etna: funivia, 4x4 e guida#
+
+Il sito della Funivia dell'Etna descrive così il Tour 3000: la telecabina porta dalla stazione di partenza (circa 1.920-1.923 metri; le pagine dell'operatore riportano due cifre molto vicine) fino a 2.500 metri, poi si prosegue con bus 4x4 o, in inverno, con gatti delle nevi fino alla quota massima consentita dalle autorità. Da lì si cammina con le guide alpine e vulcanologiche tra crateri e colate recenti. Il biglietto è 82 € a persona e comprende andata e ritorno in telecabina con Fast Track, andata e ritorno in 4x4 o gatto delle nevi, la guida e un biglietto open valido tutto il giorno. Sono prezzi dell'operatore: considerali medie indicative.
+
+Una cosa che l'operatore dice con chiarezza: la quota massima è decisa dalle autorità, non dal biglietto. Non sappiamo quindi se il giorno in cui vai arriverai davvero vicino ai 3.000 metri. Il sito indica anche che l'esperienza è sconsigliata a chi ha patologie cardiache o respiratorie, a chi ha la pressione alta e alle donne in gravidanza, che non si possono portare droni né grandi bagagli e che alla stazione a 2.500 metri si può noleggiare giacca a vento e scarpe.
+
+Sulle regole d'accesso fai attenzione a un punto dove le cifre cambiano. Una società di guide scrive che oltre 2.900 metri è obbligatoria una guida alpina o vulcanologica, che si può salire autonomamente fino a circa 2.750 metri e in un altro passaggio dà come soglia 2.750-2.900 metri: le cifre non sono uniformi. Non abbiamo trovato un'ordinanza ufficiale letta per intero: prima di partire senza guida, chiedi al Parco dell'Etna o a un professionista quale sia il limite in vigore e se l'area è aperta.
+
+Che cos'è l'Etna, in due righe#
+
+L'UNESCO descrive il sito come 19.237 ettari disabitati sulla parte più alta del vulcano, sulla costa orientale della Sicilia, con almeno 2.700 anni di attività documentata. Fa parte del Parco regionale dell'Etna, che il sito dell'Ente Parco dice istituito con decreto del 17 marzo 1987. Il sito dell'operatore della funivia indica un'altezza di 3.403 metri.
+
+E se a Taormina non c'è la funivia?#
+
+È la notizia pratica di novembre. ASM Taormina scrive che la funivia Taormina-Mazzarò è chiusa dal 9 novembre 2026 per la manutenzione ordinaria e straordinaria dell'impianto, in particolare la sostituzione della fune portante-traente. La riapertura è prevista martedì 8 dicembre 2026, con orario invernale dalle 8:00 alle 20:00 e corse ogni 15 minuti. Durante la chiusura c'è un bus sostitutivo con partenze da Taormina (piazza San Pancrazio e via Pirandello, davanti alla stazione a monte) e da Mazzarò (piazzale della funivia). Non abbiamo letto la frequenza di questo bus nella pagina di novembre.
+
+Sul prezzo, quando la funivia funziona, le fonti non coincidono: ASM Taormina indica 8 € solo andata e 15 € andata e ritorno, mentre la pagina del Comune di Taormina riporta 6 € e 10 €, e per l'orario scrive fino all'1:30 (quello estivo, secondo ASM). Non scegliamo un valore: la pagina del gestore è quella aggiornata al 9 novembre, ma conviene confermare sul posto.
+
+Isola Bella: perché a novembre non si entra#
+
+Isola Bella è l'isolotto della baia sotto Taormina: secondo la biglietteria ufficiale, la riserva naturale è stata istituita nel 1998 e dal 2010 fa parte del Parco archeologico di Naxos e Taormina. La stessa pagina riporta un avviso di chiusura per lavori di manutenzione straordinaria dal 2 novembre al 15 dicembre 2026 compresi. Il biglietto, quando è aperta, è 6 € intero e 3 € ridotto. La tabella degli orari sul sito del Parco, invece, riporta ancora le fasce di ottobre e non cita la chiusura: tra le due, ci fidiamo dell'avviso più recente, ma non sappiamo chi sia in ritardo con l'aggiornamento. Se la baia ti interessa, aspetta dicembre.
+
+Il teatro antico: orari e prezzi#
+
+Il teatro antico è in Via del Teatro Greco 40. La pagina del Parco archeologico indica 14 € intero e 7 € ridotto, e un orario "tutti i giorni dalle 9:00 alle 19:45 (ultimo ingresso alle 19:00)". Sulla pagina degli orari dello stesso sito, però, le fasce sono quelle d'autunno: dal 16 al 31 ottobre dalle 9:00 alle 17:45, con ultimo ingresso alle 17:00. Le due pagine non coincidono e nessuna dice cosa vale a novembre. Il nostro consiglio è prudente: conta di arrivare entro le 16:00 e telefona al +39 0942 51001, il numero riportato dal Parco.
+
+Un dato utile dalla biglietteria: la prima domenica del mese l'ingresso ai siti della Sicilia orientale è gratuito, con biglietto da ritirare solo in loco. Il prossimo caso è domenica 6 dicembre.
+
+Piazza Duomo a Taormina con la fontana barocca, in una giornata nuvolosa Foto: Cayambe, CC BY 4.0, Wikimedia Commons
+Cosa fare nel centro, senza fretta#
+
+Il centro è piccolo e si gira a piedi. Wikipedia colloca Taormina su una collina a 206 metri di altezza, con circa 10.400 abitanti, e ricorda tra i siti archeologici anche l'Odeon, la Domus di San Pancrazio e le Naumachie. L'Odeon, secondo il Parco, è aperto dalle 9:00 a un'ora prima del tramonto: il sito del Comune indica il tramonto di oggi, 9 novembre, alle 16:52: per un calcolo nostro l'Odeon chiude intorno alle 15:50. Per il resto, Piazza Duomo con la fontana e il Corso Umberto sono la parte da non programmare: si cammina, ci si siede, si guarda. Non indichiamo locali, perché non li abbiamo verificati.
+
+Se sei qui a metà novembre, il Comune segnala nella sua pagina il Taormina Food Expo dal 12 al 15 novembre e la cerimonia di accensione delle luminarie il 14 novembre alle 18:30: sono eventi letti sul sito del Comune, senza altri dettagli.
+
+7:15Partenza da TaorminaPer essere a Rifugio Sapienza verso le 8:30 (circa 1 ora e 15 in auto secondo una guida privata).
+
+8:30Funivia dell'Etna, Tour 3000Dura circa 2,5 ore, 82 € a persona; la quota finale decide l'autorità.
+
+12:30Rientro a TaorminaStima nostra, non un orario ufficiale: dipende da file e meteo.
+
+14:00Piazza Duomo e centroA piedi, senza tappe fisse.
+
+15:00Teatro anticoEntra presto: l'orario invernale non è chiaro sulle fonti.
+
+ConsiglioTelefona o scrivi al Parco prima di fissare tutto: a novembre il teatro, Isola Bella e la funivia di Taormina hanno orari o chiusure diversi dal solito, e le pagine ufficiali non sempre sono allineate tra loro.
+
+Errori comuni#
+
+Contare sulla funivia di Taormina a novembre 2026: è chiusa fino all'8 dicembre.
+Dare per scontato l'orario estivo del teatro (fino alle 19:45): la pagina degli orari mostra fasce d'autunno più corte.
+Presentarsi all'Etna senza abiti a strati: alla stazione a 2.500 metri si noleggiano giacca e scarpe, ma il tempo cambia in fretta.
+Fidarsi di una quota fissa: la quota massima del tour è decisa dalle autorità.
+Voler vedere Isola Bella: chiusa fino al 15 dicembre.
+
+Quanto spendere (medie indicative)#
+
+Per una persona adulta, ingressi e tour fanno circa 96 €: 82 € per il Tour 3000 e 14 € per il teatro. Non abbiamo letto prezzi ufficiali per il transfer o per il bus Catania-Rifugio oltre a quanto riportato da una società di guide (circa 6 € a tratta), quindi non sommiamo il trasporto.
+
+Se hai più giorni#
+
+Per un'altra Sicilia a piedi, leggi Cosa fare a Catania quando piove, che è la base più comoda per l'Etna sud con i mezzi, oppure Un giorno a Ortigia. Per mangiare in giro, Palermo street food. Se vuoi un altro itinerario di costa senza auto in Puglia, c'è Polignano a Mare senza auto.
+
+Se cambia la giornata#
+
+UNNIVAI è pensata per riscrivere il percorso quando cambiano meteo, orari o chiusure: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
+
+Orari, prezzi e chiusure sono letti sulle fonti indicate e verificati il 9 novembre 2026; cambiano durante l'anno: controlla prima di partire. Dove le fonti non erano ufficiali o discordavano lo abbiamo scritto. Non siamo riusciti a verificare: l'orario invernale del teatro antico, un collegamento di linea diretto da Taormina al Rifugio Sapienza, la frequenza del bus sostitutivo della funivia, il limite di quota in vigore sul vulcano e lo stato di attività del cratere sommitale. Non abbiamo una foto di Isola Bella: la baia è chiusa e non abbiamo trovato su Wikimedia Commons una foto adatta e verificata.
+
 
 # Torino con la pioggia: musei, caffè storici e orari
 URL: https://unnivai.com/blog/torino-musei-e-caffe-storici-con-la-pioggia
@@ -1243,7 +1337,7 @@ Nota di verifica. Prezzi e orari sono medie indicative tratte dalle fonti indica
 # Un giorno a Ortigia: itinerario a piedi, senza correre
 URL: https://unnivai.com/blog/un-giorno-a-ortigia
 Language: it
-Updated: 2026-10-29
+Updated: 2026-11-09
 
 Ortigia è piccola, e proprio per questo è facile sbagliarla: la si attraversa di corsa cercando di vedere tutto e si torna con la sensazione di non averla guardata. Questo itinerario fa il contrario. Poche tappe, un ordine che ha senso e spazio per fermarsi.
 
@@ -1321,6 +1415,8 @@ Se sei in zona, guarda anche cosa fare a Catania quando piove: è la città da c
 Se cambia il tempo#
 
 Con la pioggia, l'itinerario si riscrive: il Duomo e un museo prendono il posto del lungomare, e il mercato slitta al giorno dopo. È il tipo di decisione che UNNIVAI vuole rendere automatica. Se ti interessa, iscriviti alla lista d'attesa.
+
+Leggi anche: un'altra giornata in Sicilia, sulla costa ionica: Taormina e l'Etna in un giorno.
 
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti (Italia.it, UNESCO Italia, Museionline, Finestre sull'Arte, Balarm, pagina ZTL del 2020, due pagine di orari dei treni). Dove le fonti discordano (orari e dimensioni del Castello Maniace, data del miqveh, orari e durata dei treni) lo abbiamo scritto. Non abbiamo verificato orari del mercato, della Giudecca, di Palazzo Bellomo, né locali per il pranzo; le regole ZTL provengono da una pagina del 2020. Prezzi come medie indicative: orari e giorni di apertura cambiano, controlla le fonti ufficiali prima di partire.
 
@@ -1533,7 +1629,7 @@ Nota di verifica: gli esempi su orari e regole sono stati letti sulle pagine uff
 # Cosa fare a Catania quando piove: 7 idee al coperto
 URL: https://unnivai.com/blog/cosa-fare-a-catania-quando-piove
 Language: it
-Updated: 2026-11-06
+Updated: 2026-11-09
 
 A Catania la pioggia non rovina la giornata: la sposta. Il centro storico è compatto, le distanze tra le tappe sono brevi e molti dei luoghi più interessanti sono al coperto. Serve solo un ordine sensato, così non attraversi mezza città sotto l'acqua.
 
@@ -1628,7 +1724,101 @@ Leggi anche: Un altro piano B per la pioggia, in una grande città: Milano in un
 
 Leggi anche: per un'altra giornata di pioggia tra musei e caffè storici, Torino con la pioggia: musei, caffè storici e orari.
 
+Leggi anche: per salire sull'Etna e vedere il teatro antico in una sola giornata, Taormina e l'Etna in un giorno.
+
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
+
+
+# Taormina and Mount Etna in one day: is it doable?
+URL: https://unnivai.com/en/blog/taormina-and-etna-in-a-day
+Language: en
+Updated: 2026-11-09
+
+If you search for "Taormina and Etna in one day", the real question is whether the two fit together. They can: the volcano sits about an hour's drive from Taormina. But you have to accept some choices, Etna in the morning and the ancient theatre in the afternoon, and in November 2026 two things that visitors normally rely on are not available. Below is what we read on official pages, where sources disagree, and what we could not verify.
+
+In short. Can you see Taormina and go up Mount Etna in one day? Yes, but it is a tight one: Etna in the morning from Rifugio Sapienza (the Tour 3000 takes about 2.5 hours and costs 82 €), the ancient theatre in the afternoon (14 € full ticket). Watch out in November 2026: the Taormina-Mazzarò cable car is closed from 9 November to 8 December and Isola Bella is closed until 15 December. The theatre's winter hours are unclear on the official pages: check them first.
+
+How long does it really take?#
+
+Do the sum backwards. According to the operator's site, the Etna cable car's Tour 3000 takes about 2.5 hours, and the service runs every day from 8:30 to 15:15, with the last cable-car descent at 17:15, weather and technical needs permitting. It starts from Piazzale Rifugio Sapienza, in Nicolosi. A guide company writes that the drive from Taormina is about 1 hour 15 minutes.
+
+Putting these numbers together, our own estimate (not a source) is: leave Taormina around 7:15, be at the Rifugio around 8:30, finish the tour mid-morning or a little later and be back in Taormina in the early afternoon. That leaves little time for the theatre, which is why checking its hours is the most important part of the day.
+
+How do you get to Etna from Taormina?#
+
+Here the limit is clear: we did not find on any official page a scheduled direct service from Taormina to Rifugio Sapienza, so we do not state one. What we read, on a guide company's site, concerns departures from Catania: an AST bus at 8:15 from Piazza Papa Giovanni XXIII, arriving around 10:00 at Rifugio Sapienza, returning around 16:30, about 6 € each way. Those times come from a private source and we did not compare them with the transport operator's own: if you plan to use them, check them.
+
+Without a car, that leaves two routes: a combination via Catania (according to Wikipedia, Taormina is served by Taormina-Giardini station on the Messina-Catania railway line, then a bus) or an organised transfer. We give no numbers for the transfer because we did not read them on official sources.
+
+Rifugio Sapienza, at about 1,900 metres on Etna's south side, the starting point of the excursions Photo: Richard Allaway, CC BY 2.0, Wikimedia Commons
+Going up Etna: cable car, 4x4 and a guide#
+
+The Etna cable car's site describes the Tour 3000 like this: the cabin takes you from the base station (about 1,920-1,923 metres; the operator's pages give two very close figures) to 2,500 metres, then you continue by 4x4 bus or, in winter, by snow cat, up to the highest altitude the authorities allow. From there you walk with alpine and volcanological guides among craters and recent lava flows. The ticket is 82 € per person and includes the return cable car with Fast Track, the return 4x4 or snow cat, the guide and an open ticket valid all day. These are the operator's prices: treat them as indicative averages.
+
+One thing the operator states plainly: the top altitude is set by the authorities, not by the ticket. So we cannot know whether on your day you will really get close to 3,000 metres. The site also says the experience is not recommended for people with heart or respiratory conditions, high blood pressure or pregnant women, that drones and large luggage are not allowed, and that at the 2,500-metre station you can rent a windbreaker and boots.
+
+On access rules, note one point where the figures vary. A guide company writes that above 2,900 metres an alpine or volcanological guide is compulsory and that you can walk unguided up to about 2,750 metres, and in another passage gives the threshold as 2,750-2,900 metres: the figures are not consistent. We did not find an official ordinance that we read in full: before going without a guide, ask the Etna Park or a professional which limit is in force and whether the area is open.
+
+What is Etna, in two lines#
+
+UNESCO describes the site as 19,237 uninhabited hectares on the highest part of the volcano, on Sicily's east coast, with at least 2,700 years of documented activity. It lies within the Etna Regional Park, which the Park Authority's site says was established by decree on 17 March 1987. The cable car operator's site gives a height of 3,403 metres.
+
+What if Taormina's cable car is not running?#
+
+This is November's practical news. ASM Taormina writes that the Taormina-Mazzarò cable car is closed from 9 November 2026 for ordinary and extraordinary maintenance, in particular replacing the carrying-hauling rope. Reopening is planned for Tuesday 8 December 2026, with winter hours from 8:00 to 20:00 and departures every 15 minutes. During the closure a replacement bus runs from Taormina (piazza San Pancrazio and via Pirandello, opposite the upper station) and from Mazzarò (the cable car square). We did not read the frequency of this bus on the November page.
+
+On the fare, when the cable car runs, sources disagree: ASM Taormina lists 8 € one way and 15 € return, while the Municipality of Taormina's page gives 6 € and 10 €, and for hours it says up to 1:30 (the summer timetable, according to ASM). We do not pick a value: the operator's page is the one updated on 9 November, but confirm on the spot.
+
+Isola Bella: why you cannot go in this month#
+
+Isola Bella is the small island in the bay below Taormina: according to the official ticketing site, the nature reserve was established in 1998 and since 2010 has been part of the Naxos and Taormina Archaeological Park. The same page carries a closure notice for extraordinary maintenance from 2 November to 15 December 2026 inclusive. The ticket, when it is open, is 6 € full and 3 € reduced. The hours table on the Park's own site, on the other hand, still shows the October slots and does not mention the closure: between the two we trust the newer notice, but we do not know which is behind on updates. If the bay matters to you, wait for December.
+
+The ancient theatre: hours and prices#
+
+The ancient theatre is at Via del Teatro Greco 40. The Archaeological Park's page lists 14 € full and 7 € reduced, and hours "every day from 9:00 to 19:45 (last entry at 19:00)". On the same site's hours page, however, the slots are the autumn ones: from 16 to 31 October from 9:00 to 17:45, with last entry at 17:00. The two pages do not agree and neither says what applies in November. Our advice is cautious: plan to arrive by 16:00 and call +39 0942 51001, the number the Park lists.
+
+A useful detail from the ticketing site: on the first Sunday of the month entry to the sites in eastern Sicily is free, with tickets collected on site only. The next one is Sunday 6 December.
+
+Piazza Duomo in Taormina with the baroque fountain, on a cloudy day Photo: Cayambe, CC BY 4.0, Wikimedia Commons
+What to do in the centre, unhurried#
+
+The centre is small and walkable. Wikipedia places Taormina on a hill at 206 metres, with about 10,400 inhabitants, and lists among its archaeological sites the Odeon, the Domus of San Pancrazio and the Naumachie. The Odeon, according to the Park, is open from 9:00 until one hour before sunset: the Municipality's site gives today's sunset, 9 November, as 16:52, so by our own calculation the Odeon closes around 15:50. For the rest, Piazza Duomo with its fountain and Corso Umberto are the part you should not schedule: you walk, sit, look. We name no restaurants because we have not verified any.
+
+If you are here in mid-November, the Municipality's page lists the Taormina Food Expo from 12 to 15 November and the Christmas-lights switch-on ceremony on 14 November at 18:30: events read on the Municipality's site, with no further details.
+
+7:15Leave TaorminaTo be at Rifugio Sapienza around 8:30 (about 1 hour 15 by car according to a private guide).
+
+8:30Etna cable car, Tour 3000About 2.5 hours, 82 € per person; the final altitude is set by the authorities.
+
+12:30Back in TaorminaOur estimate, not an official time: it depends on queues and weather.
+
+14:00Piazza Duomo and the centreOn foot, no fixed stops.
+
+15:00Ancient theatreGo early: the winter hours are unclear on the sources.
+
+ConsiglioPhone or write to the Park before fixing everything: in November the theatre, Isola Bella and Taormina's cable car have hours or closures that differ from the usual, and the official pages are not always aligned with each other.
+
+Common mistakes#
+
+Counting on Taormina's cable car in November 2026: it is closed until 8 December.
+Assuming the summer theatre hours (until 19:45): the hours page shows shorter autumn slots.
+Turning up on Etna without layers: you can rent a windbreaker and boots at the 2,500-metre station, but the weather changes fast.
+Trusting a fixed altitude: the tour's top altitude is set by the authorities.
+Planning on Isola Bella: closed until 15 December.
+
+How much to spend (indicative averages)#
+
+For one adult, entries and the tour come to about 96 €: 82 € for the Tour 3000 and 14 € for the theatre. We did not read official prices for the transfer or the Catania-Rifugio bus beyond what a guide company reports (about 6 € each way), so we do not add transport.
+
+If you have more days#
+
+For another side of Sicily on foot, read What to do in Catania when it rains, a handy base for the south side of Etna by public transport, or One day in Ortigia. For eating around, Palermo street food. If you want another coastal itinerary without a car, in Puglia, there is Polignano a Mare without a car.
+
+When the day changes#
+
+If the weather, an opening time or a closure changes your plan, the route needs rewriting: same walk, different order. That is what UNNIVAI is built for, and you can join the first people in.
+
+Hours, prices and closures were read on the sources listed and checked on 9 November 2026; they change during the year: check before you go. Where sources were not official or disagreed we said so. We could not verify: the ancient theatre's winter hours, a scheduled direct service from Taormina to Rifugio Sapienza, the frequency of the cable car's replacement bus, the altitude limit currently in force on the volcano and the activity status of the summit crater. We have no photo of Isola Bella: the bay is closed and we did not find a suitable, verified photo on Wikimedia Commons.
 
 
 # What to do in Turin when it rains: museums and cafés
@@ -2825,7 +3015,7 @@ Verification note. Market hours change during the year and on holidays: check be
 # What to do in Catania when it rains: 7 indoor ideas
 URL: https://unnivai.com/en/blog/what-to-do-in-catania-when-it-rains
 Language: en
-Updated: 2026-11-06
+Updated: 2026-11-09
 
 In Catania rain does not ruin the day: it moves it. The historic centre is compact, distances between stops are short and many of the most interesting places are indoors. You only need a sensible order, so you do not cross half the city in the downpour.
 
@@ -2919,6 +3109,8 @@ The problem with rain is not the rain: it is having to rebuild the programme fro
 Read next: Another rainy-day plan B, in a big city: Milan in a weekend in the rain.
 
 Read next: for another rainy day between museums and historic cafés, what to do in Turin when it rains: museums and cafés.
+
+Read next: to go up Etna and see the ancient theatre in a single day, Taormina and Mount Etna in one day.
 
 Verification note. Data read on 29 October 2026 on the pages listed in the sources: the Ministry of Culture page for Castello Ursino, Italia.it, Museionline, Wikipedia, a World Heritage listing page (unofficial site) and two climate pages. Where sources disagree (whether Castello Ursino is open, the Teatro Bellini address, the wettest month) we say so. We did not verify the hours and prices of the Monastery and the theatre, nor the accessibility of the Castello. Prices are indicative averages: opening hours, closing days and bookings change, so always check official information before you set off.
 
@@ -3028,7 +3220,7 @@ Verification note: hours, prices and access rules were read on the official site
 # One day in Ortigia: a walking itinerary, without rushing
 URL: https://unnivai.com/en/blog/one-day-in-ortigia
 Language: en
-Updated: 2026-10-29
+Updated: 2026-11-09
 
 Ortigia is small, and that is exactly why it is easy to get wrong: you cross it in a rush trying to see everything and leave feeling you have not really looked at it. This itinerary does the opposite. Few stops, an order that makes sense and room to pause.
 
@@ -3106,6 +3298,8 @@ If you are in the area, also see what to do in Catania when it rains: it is the 
 If the weather changes#
 
 In the rain, the itinerary is rewritten: the Duomo and a museum take the place of the seafront, and the market slides to the next day. It is the kind of decision UNNIVAI wants to make automatic. If you are interested, join the waitlist.
+
+Read next: another day in Sicily, on the Ionian coast: Taormina and Mount Etna in one day.
 
 Verification note. Data read on 29 October 2026 on the pages listed in the sources (Italia.it, UNESCO Italy, Museionline, Finestre sull'Arte, Balarm, a 2020 ZTL page, two train timetable pages). Where sources disagree (Castello Maniace hours and size, the mikveh date, train times and duration) we say so. We did not verify the hours of the market, the Giudecca or Palazzo Bellomo, nor any lunch spots; the ZTL rules come from a 2020 page. Prices are indicative averages: opening hours and days change, so check the official sources before you go.
 

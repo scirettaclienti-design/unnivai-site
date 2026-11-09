@@ -398,5 +398,29 @@
   "url": "https://commons.wikimedia.org/wiki/File:Porta_di_Carlo_V_-_Catania_(iscrizione).JPG",
   "w": 1280,
   "h": 816
+ },
+ "teatro-taormina": {
+  "file": "File:Antico Teatro greco-romano di Taormina.jpg",
+  "artist": "Pierowriter",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Antico_Teatro_greco-romano_di_Taormina.jpg",
+  "w": 1400,
+  "h": 789
+ },
+ "etna-rifugio-sapienza": {
+  "file": "File:Mount Etna - Rifugio Sapienza.jpg",
+  "artist": "Richard Allaway",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Mount_Etna_-_Rifugio_Sapienza.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "duomo-taormina": {
+  "file": "File:Taormina, piazza Duomo.jpg",
+  "artist": "Cayambe",
+  "license": "CC BY 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Taormina,_piazza_Duomo.jpg",
+  "w": 1400,
+  "h": 740
  }
 }

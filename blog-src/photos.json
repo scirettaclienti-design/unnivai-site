@@ -422,5 +422,37 @@
   "url": "https://commons.wikimedia.org/wiki/File:Taormina,_piazza_Duomo.jpg",
   "w": 1400,
   "h": 740
+ },
+ "gazometro-ostiense": {
+  "file": "File:Roma Gazometro Ostiense.jpg",
+  "artist": "Blackcat",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Roma_Gazometro_Ostiense.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "centrale-montemartini-sala-macchine": {
+  "file": "File:Montemartini - sala macchine 1030430.JPG",
+  "artist": "Lalupa",
+  "license": "CC BY 2.5",
+  "url": "https://commons.wikimedia.org/wiki/File:Montemartini_-_sala_macchine_1030430.JPG",
+  "w": 1400,
+  "h": 1042
+ },
+ "garbatella-piazza-sant-eurosia": {
+  "file": "File:Garbatella - piazza sant Eurosia 01648.JPG",
+  "artist": "Lalupa",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Garbatella_-_piazza_sant_Eurosia_01648.JPG",
+  "w": 1400,
+  "h": 1050
+ },
+ "mattatoio-testaccio": {
+  "file": "File:Mattatoio Testaccio (Rome) 01.jpg",
+  "artist": "Nicholas Gemini",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Mattatoio_Testaccio_(Rome)_01.jpg",
+  "w": 1400,
+  "h": 1050
  }
 }

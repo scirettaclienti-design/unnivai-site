@@ -1,6 +1,6 @@
 # Indice pacchetti social UNNIVAI
 
-18 pacchetti (il 17° dal 5 gennaio 2027, il 18° dal 7 gennaio 2027), 2 a settimana (martedì e giovedì) per 8 settimane, da lunedì 9 novembre 2026. I 4 articoli di territorio (Cinque Terre, Polignano, Matera, Ortigia) sono distanziati di 3-4 slot tra le città; le aree geografiche si alternano Nord, Centro e Sud, con la Sicilia (5 articoli) mai due volte di fila tranne gli ultimi due slot, dove Palermo e Pescheria condividono la chiave editoriale cibo-mercati.
+19 pacchetti (il 17° dal 5 gennaio 2027, il 18° dal 7 gennaio 2027, il 19° dal 12 gennaio 2027), 2 a settimana (martedì e giovedì) per 8 settimane, da lunedì 9 novembre 2026. I 4 articoli di territorio (Cinque Terre, Polignano, Matera, Ortigia) sono distanziati di 3-4 slot tra le città; le aree geografiche si alternano Nord, Centro e Sud, con la Sicilia (5 articoli) mai due volte di fila tranne gli ultimi due slot, dove Palermo e Pescheria condividono la chiave editoriale cibo-mercati.
 
 | # | Settimana | Slug | Titolo | Tipo | Area | Pubblicazione consigliata | File |
 |---|---|---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | 16 | 8 | `pescheria-di-catania-orari-e-consigli` | Pescheria di Catania: orari, cosa vedere e come visitarla | Città | Sicilia | 2026-12-31 (gio) | [pescheria-di-catania-orari-e-consigli.md](pescheria-di-catania-orari-e-consigli.md) |
 | 17 | 9 | `torino-musei-e-caffe-storici-con-la-pioggia` | Torino con la pioggia: musei, caffè storici e orari | Città | Piemonte | 2027-01-05 (mar) | [torino-musei-e-caffe-storici-con-la-pioggia.md](torino-musei-e-caffe-storici-con-la-pioggia.md) |
 | 18 | 9 | `taormina-e-etna-in-un-giorno` | Taormina e l'Etna in un giorno: come organizzarla | Città | Sicilia | 2027-01-07 (gio) | [taormina-e-etna-in-un-giorno.md](taormina-e-etna-in-un-giorno.md) |
+| 19 | 10 | `roma-oltre-il-colosseo` | Roma oltre il Colosseo: 5 zone a sud del centro | Città | Lazio | 2027-01-12 (mar) | [roma-oltre-il-colosseo.md](roma-oltre-il-colosseo.md) |
 
 ## Regole d'uso
 

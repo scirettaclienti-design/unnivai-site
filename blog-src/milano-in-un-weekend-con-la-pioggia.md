@@ -2,7 +2,7 @@
 title: Milano in un weekend con la pioggia: itinerario Piano B
 description: Due giorni a Milano quando piove: Duomo, Galleria, Novecento, Castello, Brera e Cenacolo, con orari, prezzi indicativi e giorni di chiusura da fonti ufficiali.
 date: 2026-10-30
-updated: 2026-11-06
+updated: 2026-11-10
 category: Milano
 cover: Milano
 tags: Pioggia, Weekend, Musei
@@ -124,5 +124,7 @@ Per ragionare in modo simile in un'altra città, leggi [cosa fare a Catania quan
 Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, [entra nella lista d'attesa](/?src=blog-milano#iscriviti).
 
 **Leggi anche:** un'altra città, un altro Piano B: [Torino con la pioggia: musei, caffè storici e orari](/blog/torino-musei-e-caffe-storici-con-la-pioggia).
+
+**Leggi anche:** un'altra grande città da scoprire fuori dai circuiti più noti, con orari da incastrare: [Roma oltre il Colosseo, 5 zone a sud del centro](/blog/roma-oltre-il-colosseo).
 
 *Nota di verifica. Dati letti il 30 ottobre 2026 sulle pagine elencate nelle fonti: siti ufficiali del Duomo di Milano, di ATM, del Castello Sforzesco, del Museo del Novecento, della Pinacoteca di Brera e del Cenacolo Vinciano, più Lombardia.info, il catalogo Lombardia Beni Culturali e Wikipedia. Dove le fonti discordano (orari del Duomo, giorno di chiusura del Museo del Duomo, prezzo del Castello, linee di tram) lo abbiamo scritto. Non abbiamo verificato prezzi e accessibilità del Museo del Novecento, né le distanze a piedi tra Castello e Brera. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.*

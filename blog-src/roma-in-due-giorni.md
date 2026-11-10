@@ -2,7 +2,7 @@
 title: Roma in due giorni: un itinerario che non ti sfinisce
 description: Due giorni a Roma con un ordine sensato: tappe raggruppate per zona, orari da controllare e come non passare la giornata in coda.
 date: 2026-10-28
-updated: 2026-10-29
+updated: 2026-11-10
 category: Roma
 cover: Roma
 tags: Weekend, A piedi, Pianificazione
@@ -123,5 +123,7 @@ La stessa logica vale in ogni città: leggi [come usare l'intelligenza artificia
 ## Quando salta il programma
 
 Pioggia, stanchezza, una coda che non finisce: succede sempre. Un buon itinerario ha un piano B già pronto. UNNIVAI è pensato per questo: costruire il percorso con luoghi veri e riscriverlo quando la giornata cambia. [Entra tra i primi](/?src=blog-roma#iscriviti).
+
+**Leggi anche:** se hai già visto i grandi classici, c'è la Roma a sud del centro: [Roma oltre il Colosseo, 5 zone da Testaccio all'Appia Antica](/blog/roma-oltre-il-colosseo).
 
 *Nota di verifica: orari, prezzi e regole di accesso sono stati letti sui siti ufficiali del Parco archeologico del Colosseo, dei Musei Vaticani, della Basilica di San Pietro, del Ministero della Cultura (Pantheon) e dell'ATAC il 29 ottobre 2026. Cambiano per stagione e per eventi: verifica sempre le informazioni ufficiali prima di partire. Non verificati: prezzi dei biglietti del Colosseo, linee e fermate dei trasporti, accessibilità di Colosseo e Foro, tariffe d'ingresso della Basilica.*

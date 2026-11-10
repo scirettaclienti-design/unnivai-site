@@ -422,5 +422,29 @@
   "url": "https://commons.wikimedia.org/wiki/File:Taormina,_piazza_Duomo.jpg",
   "w": 1400,
   "h": 740
+ },
+ "montemartini-sala": {
+  "file": "File:Centrale Montemartini 13.jpg",
+  "artist": "Briner2306",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Centrale_Montemartini_13.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "piramide-cestia": {
+  "file": "File:2024-10-12 Rome, Pyramid of Caius Cestius and Porta San Paolo.jpg",
+  "artist": "Alexkom000",
+  "license": "CC BY 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:2024-10-12_Rome,_Pyramid_of_Caius_Cestius_and_Porta_San_Paolo.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "trastevere-fontana": {
+  "file": "File:Fontana di piazza Santa Maria in Trastevere (2).jpg",
+  "artist": "Krzysztof Golik",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Fontana_di_piazza_Santa_Maria_in_Trastevere_(2).jpg",
+  "w": 1400,
+  "h": 904
  }
 }

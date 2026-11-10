@@ -3,6 +3,7 @@ id: torino-musei-e-caffe-storici-con-la-pioggia
 title: What to do in Turin when it rains: museums and cafés
 description: A rainy day in Turin: Egyptian Museum, Royal Museums, the Mole and historic cafés, with opening hours, closing days and prices from official sites.
 date: 2026-11-06
+updated: 2026-11-10
 category: Turin
 cover: Torino
 tags: Rain, Museums, Historic cafés
@@ -115,5 +116,7 @@ To think the same way in another city, read [Milan in a weekend in the rain](/bl
 ## Plan B is built beforehand
 
 The problem with rain is not the rain: it is having to rebuild the programme from scratch, in the downpour, with your phone in your hand and closing days to cross-check. It is the same problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, [join the waitlist](/?src=blog-torino-en#iscriviti).
+
+**Read next:** Another day built around museum opening hours, in Rome: [what to see in Rome besides the Colosseum](/blog/rome-beyond-the-colosseum).
 
 *Verification note. Data read on 6 November 2026 on the pages listed in the sources: the official websites of the Egyptian Museum, the National Museum of Cinema, the Royal Museums and Turismo Torino, the Caffè Al Bicerin page and the Musei di Torino portal. Where sources disagree (the Egyptian Museum ticket price, the time at which Mole lift tickets are released) we say so. We did not verify opening hours or prices of the historic cafés, walking distances between museums, or how the panoramic lift works in the rain. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.*

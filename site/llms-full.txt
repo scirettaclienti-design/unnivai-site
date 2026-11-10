@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Roma oltre il Colosseo: 5 zone da vedere, con orari](https://unnivai.com/blog/roma-oltre-il-colosseo): Trastevere, Isola Tiberina, Testaccio, Ostiense e Aventino: cosa vedere a Roma lontano dal Colosseo, con orari letti sui siti ufficiali e cosa chiude quando.
 - [Taormina e l'Etna in un giorno: come organizzarla](https://unnivai.com/blog/taormina-e-etna-in-un-giorno): Taormina e l'Etna in un giorno: teatro antico, funivia chiusa fino all'8 dicembre, Isola Bella chiusa, tour sul vulcano e orari da verificare.
 - [Torino con la pioggia: musei, caffè storici e orari](https://unnivai.com/blog/torino-musei-e-caffe-storici-con-la-pioggia): Una giornata di pioggia a Torino: Museo Egizio, Musei Reali, Mole e caffè storici, con orari, giorni di chiusura e prezzi letti sui siti ufficiali.
 - [Polignano a Mare senza auto: treno, piedi e cosa vedere](https://unnivai.com/blog/polignano-a-mare-senza-auto): Come visitare Polignano a Mare senza macchina: treno da Bari, centro storico, Lama Monachile, museo Pascali e passeggiata a San Vito, con fonti ufficiali.
@@ -23,6 +24,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [What to see in Rome besides the Colosseum: 5 areas](https://unnivai.com/en/blog/rome-beyond-the-colosseum): Trastevere, Tiber Island, Testaccio, Ostiense and the Aventine: what to see in Rome away from the Colosseum, with hours from official sites and closures.
 - [Taormina and Mount Etna in one day: is it doable?](https://unnivai.com/en/blog/taormina-and-etna-in-a-day): Taormina and Etna in one day: ancient theatre, cable car closed until 8 December, Isola Bella closed, the volcano tour and hours to check.
 - [What to do in Turin when it rains: museums and cafés](https://unnivai.com/en/blog/turin-on-a-rainy-day): A rainy day in Turin: Egyptian Museum, Royal Museums, the Mole and historic cafés, with opening hours, closing days and prices from official sites.
 - [Polignano a Mare without a car: train, on foot, what to see](https://unnivai.com/en/blog/polignano-a-mare-without-a-car): How to visit Polignano a Mare without a car: train from Bari, old town, Lama Monachile, the Pascali museum and the coastal walk to San Vito, with sources.
@@ -50,6 +52,90 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Roma oltre il Colosseo: 5 zone da vedere, con orari
+URL: https://unnivai.com/blog/roma-oltre-il-colosseo
+Language: it
+Updated: 2026-11-10
+
+Chi cerca cosa vedere a Roma oltre il Colosseo di solito trova un elenco di monumenti. Qui ragioniamo per zone, che è come si cammina davvero: cinque pezzi di città, ciascuno con un motivo preciso per andarci e un orario che può rovinarti il programma se lo ignori. Non sono quartieri nascosti, ma sono posti dove si passa meno tempo in coda e più tempo a guardarsi intorno.
+
+In breve. Cinque zone fuori dal circuito classico: Trastevere e l'Isola Tiberina sulla riva destra del Tevere, Testaccio, Ostiense e l'Aventino sulla sinistra. Gli orari decidono l'ordine: la Centrale Montemartini chiude il lunedì, il Mercato di Testaccio la domenica, il Giardino degli Aranci alle 18:00 fino a febbraio.
+
+MattinaAventinoGiardino degli Aranci e vista sul Tevere, aperto fino alle 18:00 in inverno.
+
+Tarda mattinaMercato di TestaccioAperto dal lunedì al sabato, 7:00-15:30.
+
+Primo pomeriggioCimitero AcattolicoUltimo ingresso alle 16:30 (domenica alle 12:30).
+
+PomeriggioCentrale MontemartiniDa martedì a domenica, ultimo ingresso un'ora prima delle 19:00.
+
+SeraTrastevere e Isola TiberinaIl momento giusto per piazza e lungotevere.
+
+ConsiglioIl lunedì Montemartini è chiuso e la domenica il mercato non c'è: pianifica Testaccio e Aventino nei giorni in cui gli altri pezzi saltano, e tieni Montemartini per un martedì-sabato.
+
+Trastevere: cosa vedere oltre alla movida?#
+
+Turismo Roma lo descrive come uno dei quartieri più amati, sulla riva destra del Tevere, tra vicoli, piazze e trattorie di cucina tradizionale romana, ed è famoso anche per la vita notturna. Ma è soprattutto una zona di chiese e di arte: la stessa scheda cita Palazzo Corsini con la Galleria Nazionale di Arte Antica e l'Orto Botanico nel suo giardino, Villa Farnesina con gli affreschi di Raffaello e della sua scuola, e le basiliche di Santa Cecilia e San Crisogono.
+
+Il cuore è la basilica di Santa Maria in Trastevere. Secondo la scheda ufficiale fu probabilmente il primo luogo ufficiale di culto cristiano a Roma; la tradizione la attribuisce a papa Callisto I nel III secolo e la dice terminata nel 340, ma è una leggenda e va presa come tale. Quello che si vede è più concreto: i mosaici dell'abside, con le storie della Vergine di Pietro Cavallini (1291) e quelli di circa il 1140 in cui papa Innocenzo II regge il modellino della chiesa; ventidue antiche colonne di granito, probabilmente dalle Terme di Caracalla; il soffitto dorato disegnato dal Domenichino nel 1617.
+
+Attenzione agli orari: la pagina ufficiale non li riporta e rimanda ai contatti della basilica per messe e modalità di visita. Quindi non possiamo dirti fino a che ora entri. Il consiglio è telefonare (06 5814802, numero indicato dalla scheda) o passare in mattinata, e tenere la piazza per la sera.
+
+La fontana al centro di piazza Santa Maria in Trastevere Foto: Krzysztof Golik, CC BY-SA 4.0, Wikimedia Commons
+Isola Tiberina: quanto è grande e cosa c'è da vedere?#
+
+Non abbiamo letto tempi di cammino, ma le misure spiegano perché sia più una sosta che una tappa: l'Isola Tiberina, unica isola urbana del Tevere, è lunga circa 300 metri e larga circa 90, collegata a Trastevere da ponte Cestio e all'antico Ghetto ebraico da ponte Fabricio.
+
+La leggenda raccontata da Turismo Roma la lega a una pestilenza del 291 a.C.: la delegazione mandata a Epidauro, luogo di culto del dio della medicina Esculapio, tornò in nave con un serpente, che all'altezza dell'isola saltò in acqua; dove si rifugiò fu eretto un tempio, oggi sostituito dalla chiesa di San Bartolomeo all'Isola. Come tutte le leggende, non è documentata, ma spiega bene la forma a nave. Il modo migliore di farla è unirla a Trastevere: attraversi un ponte all'andata e l'altro al ritorno.
+
+Testaccio: perché ci si va a mangiare, e non solo?#
+
+Testaccio è sulla riva sinistra del Tevere e per Turismo Roma è «la vera anima popolare» di Roma. Il simbolo sono le anfore: il Monte dei Cocci (Mons Testaceus) è una collina artificiale formata dai cocci di milioni di anfore usate nell'antichità per portare cibo e bevande in città. Alla base del monte, grotte un tempo cantine e stalle oggi ospitano ristoranti e locali. Noi non indichiamo nomi: non li abbiamo verificati.
+
+Per chi vuole mangiare in modo semplice c'è il Mercato di Testaccio, aperto dal lunedì al sabato dalle 7:00 alle 15:30, con ingressi da via Beniamino Franklin, via Alessandro Volta, via Aldo Manuzio e via Lorenzo Ghiberti. La domenica è chiuso. In pratica è una tappa per la mattina o l'ora di pranzo: dopo le 15:30 non c'è più nulla da cercare.
+
+A Testaccio ci sono anche il Mattatoio, citato come edificio di archeologia industriale oggi dedicato all'arte contemporanea, e l'area archeologica dell'Emporium, l'antico porto fluviale del I secolo d.C. Per questi due luoghi non abbiamo letto orari: controlla prima.
+
+Cimitero Acattolico e Piramide Cestia: cosa si può visitare?#
+
+Il cimitero sì, la piramide di norma no. Il Cimitero Acattolico (via Caio Cestio 6) accoglie tombe di artisti e poeti, tra cui John Keats e Percy Bysshe Shelley. Secondo il sito ufficiale è aperto dal lunedì al sabato dalle 9:00 alle 17:00, con ultimo ingresso alle 16:30; la domenica e nei festivi dalle 9:00 alle 13:00, ultimo ingresso alle 12:30. Il sito elenca anche le chiusure: 1° e 6 gennaio, quindici giorni intorno a Ferragosto, e l'8, 24, 25, 26 e 31 dicembre; a Pasqua, Pasquetta, 25 aprile, 1° maggio, 2 e 29 giugno chiude alle 13:00. Può chiudere per cause di forza maggiore senza preavviso.
+
+È un luogo di sepoltura ancora attivo: il sito chiede rispetto, ricorda che il terreno è irregolare in alcuni punti e consiglia scarpe comode. Il prezzo d'ingresso non compare nelle pagine che abbiamo letto, quindi non lo scriviamo.
+
+La Piramide Cestia sta lì accanto. Secondo Turismo Roma è alta 36,40 metri, con base di circa 30 metri per lato, ed è la tomba di Caio Cestio, costruita tra il 18 e il 12 a.C.; un'iscrizione dice che i lavori dovevano durare al massimo 330 giorni, pena la perdita dell'eredità. Quattro secoli dopo fu inglobata nelle Mura Aureliane. Si vede dalla strada e dal cimitero, ma il sito è visitabile solo con aperture straordinarie e in occasione di eventi: non contare di entrare. Per arrivare c'è la Metro B, fermata Piramide, indicata dal sito del cimitero, insieme a diverse linee bus.
+
+Ostiense: la Centrale Montemartini vale il viaggio?#
+
+È la tappa più diversa da quello che ti aspetti da Roma. La Centrale Montemartini (via Ostiense 106) è una sede dei Musei Capitolini: nella foto si vedono statue antiche accanto ai grandi macchinari industriali della sala. Il contrasto è il motivo per cui conviene andarci.
+
+Gli orari sul sito del museo: dal martedì alla domenica, 9:00-19:00, ultimo ingresso un'ora prima della chiusura. Chiusa il lunedì, il 1° maggio e il 25 dicembre; il 24 e il 31 dicembre 9:00-14:00. Il biglietto intero costa 11 €, il ridotto 6,50 €, con un diritto di prevendita di 1 € se acquisti online o dal call center (medie indicative). Dal febbraio 2026 l'ingresso è gratuito per i residenti a Roma e nella Città Metropolitana, esibendo la carta d'identità. Sul sito la voce di capodanno è ancora quella del 2026: per il 1° gennaio 2027 non abbiamo un dato.
+
+Statue antiche accanto ai macchinari della Centrale Montemartini Foto: Briner2306, CC BY-SA 4.0, Wikimedia Commons
+Aventino: il Giardino degli Aranci e la serratura famosa#
+
+Il Parco Savello, o Giardino degli Aranci, sorge sull'Aventino nell'area di una fortezza costruita dalla famiglia Savelli verso la fine del XIII secolo, a sua volta su un castello del X secolo dei Crescenzi. Dal belvedere sul fiume la vista va dall'ansa del Tevere alla basilica di San Pietro. Gli aranci sono stati piantati a ricordo di san Domenico, che qui fondò il convento nel XIII secolo; il parco attuale è del 1932, su progetto di Raffaele De Vico.
+
+Gli orari di Turismo Roma sono utili ma poco chiari: tutti i giorni, da ottobre a febbraio 7:00-18:00; da marzo a settembre 7:00-20:00; da aprile ad agosto 7:00-21:00. Le ultime due fasce si sovrappongono, quindi per l'estate rimanda alla pagina del Comune di Roma citata nella scheda. Per ora, a novembre, conta che alle 18:00 il parco chiude: se vuoi il tramonto dal belvedere, qui non lo avrai.
+
+Uscendo dal giardino e girando a destra si arriva alla piazza dei Cavalieri di Malta, disegnata da Giovan Battista Piranesi nel 1765. Dalla serratura del portone della Villa del Priorato si vede la cupola di San Pietro incorniciata dalle siepi. Non abbiamo letto se sia possibile entrare nella villa: il gioco è sbirciare dal buco.
+
+Come mettere insieme le cinque zone senza correre?#
+
+L'ordine proposto sopra è fatto per gli orari, non per le distanze: non abbiamo letto tempi di spostamento tra una zona e l'altra, quindi controlla la mappa e valuta se spezzare in due mezze giornate. Con due giorni, un'idea semplice è dedicare uno ai quartieri della riva sinistra (Aventino, Testaccio, Ostiense) e uno alla riva destra (Trastevere e Isola Tiberina).
+
+L'errore comune è lasciare Montemartini all'ultimo, il lunedì, o il Giardino degli Aranci dopo le 18:00: sono due orari che si scordano. Un altro è presentarsi al mercato di Testaccio nel pomeriggio inoltrato.
+
+E se hai già visto i classici?#
+
+Se il Colosseo e il Vaticano sono già alle spalle, Roma in due giorni copre il percorso classico con i biglietti da prenotare. Per un altro modo di usare una città con la pioggia, Torino: musei e caffè storici con la pioggia ragiona sugli orari come facciamo qui. Per mangiare in una città italiana ragionando per ordine di assaggio, c'è cosa mangiare a Napoli, e per un altro itinerario a piedi con i portici, Bologna in un giorno.
+
+Quando salta un orario#
+
+Succede: un'apertura che cambia, una chiusura che non avevi letto, la pioggia. UNNIVAI è pensata per riscrivere il giro quando la giornata cambia, mantenendo le stesse tappe con un ordine diverso. Se ti serve, entra tra i primi.
+
+Orari, prezzi e regole sono letti sulle pagine indicate in fonti e verificati il 10 novembre 2026; cambiano durante l'anno: controlla prima di partire. Dove le fonti non erano chiare lo abbiamo scritto (orari estivi del Giardino degli Aranci, capodanno 2027 alla Centrale Montemartini). Non siamo riusciti a verificare: orari e modalità di visita di Santa Maria in Trastevere, il prezzo d'ingresso del Cimitero Acattolico, orari del Mattatoio e dell'Emporium, tempi di spostamento tra le zone, nomi e orari di locali. Non abbiamo una foto del Giardino degli Aranci né dell'Isola Tiberina: non ne abbiamo trovata una adatta e verificata su Wikimedia Commons.
+
 
 # Taormina e l'Etna in un giorno: come organizzarla
 URL: https://unnivai.com/blog/taormina-e-etna-in-un-giorno
@@ -146,7 +232,7 @@ Orari, prezzi e chiusure sono letti sulle fonti indicate e verificati il 9 novem
 # Torino con la pioggia: musei, caffè storici e orari
 URL: https://unnivai.com/blog/torino-musei-e-caffe-storici-con-la-pioggia
 Language: it
-Updated: 2026-11-06
+Updated: 2026-11-10
 
 Torino con la pioggia non è una città da rimandare: è una città costruita per i giorni di maltempo. Tre musei di livello internazionale, una piazza con un palazzo reale e una tradizione di caffè storici che ha un'identità precisa. Il problema vero non è il tempo, è il calendario: ogni museo ha un giorno di chiusura diverso, e se lo scopri una volta arrivato il programma si rompe.
 
@@ -229,6 +315,8 @@ Per ragionare in modo simile in un'altra città, leggi Milano in un weekend con 
 Il piano B si costruisce prima#
 
 Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano e i giorni di chiusura da incrociare. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
+
+Leggi anche: Un altro modo di costruire una giornata sugli orari dei musei, a Roma: Roma oltre il Colosseo: 5 zone da vedere.
 
 Nota di verifica. Dati letti il 6 novembre 2026 sulle pagine elencate nelle fonti: siti ufficiali del Museo Egizio, del Museo Nazionale del Cinema, dei Musei Reali e di Turismo Torino, la scheda del Caffè Al Bicerin e il portale Musei di Torino. Dove le fonti discordano (prezzo del biglietto dell'Egizio, ore di messa in vendita dei biglietti dell'ascensore della Mole) lo abbiamo scritto. Non abbiamo verificato orari e prezzi dei caffè storici, la distanza a piedi tra i musei, né le condizioni dell'ascensore panoramico con la pioggia. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, quindi controlla sempre le informazioni ufficiali prima di partire.
 
@@ -1424,7 +1512,7 @@ Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle font
 # Roma in due giorni: un itinerario che non ti sfinisce
 URL: https://unnivai.com/blog/roma-in-due-giorni
 Language: it
-Updated: 2026-10-29
+Updated: 2026-11-10
 
 Roma si può vedere in due giorni se accetti una regola: non cercare di vedere tutto. La città è fatta di strati, e più provi a coprirla, più passi il tempo tra una fermata e l'altra. Il segreto è raggrupparla per zone e decidere prima quali due o tre cose hanno un biglietto, un orario o una coda.
 
@@ -1519,6 +1607,8 @@ La stessa logica vale in ogni città: leggi come usare l'intelligenza artificial
 Quando salta il programma#
 
 Pioggia, stanchezza, una coda che non finisce: succede sempre. Un buon itinerario ha un piano B già pronto. UNNIVAI è pensato per questo: costruire il percorso con luoghi veri e riscriverlo quando la giornata cambia. Entra tra i primi.
+
+Leggi anche: Quando hai già visto i classici, altre cinque zone di Roma ragionate per orari: Roma oltre il Colosseo: 5 zone da vedere.
 
 Nota di verifica: orari, prezzi e regole di accesso sono stati letti sui siti ufficiali del Parco archeologico del Colosseo, dei Musei Vaticani, della Basilica di San Pietro, del Ministero della Cultura (Pantheon) e dell'ATAC il 29 ottobre 2026. Cambiano per stagione e per eventi: verifica sempre le informazioni ufficiali prima di partire. Non verificati: prezzi dei biglietti del Colosseo, linee e fermate dei trasporti, accessibilità di Colosseo e Foro, tariffe d'ingresso della Basilica.
 
@@ -1729,6 +1819,90 @@ Leggi anche: per salire sull'Etna e vedere il teatro antico in una sola giornata
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
 
+# What to see in Rome besides the Colosseum: 5 areas
+URL: https://unnivai.com/en/blog/rome-beyond-the-colosseum
+Language: en
+Updated: 2026-11-10
+
+If you search for what to see in Rome besides the Colosseum, you usually get a list of monuments. Here we think in areas, which is how you really walk: five pieces of the city, each with one clear reason to go and an opening time that can wreck your plan if you ignore it. These are not hidden neighbourhoods, but they are places where you spend less time in queues and more time looking around.
+
+In short. Five areas outside the classic circuit: Trastevere and Tiber Island on the right bank of the Tiber, Testaccio, Ostiense and the Aventine on the left. Opening hours set the order: Centrale Montemartini is closed on Mondays, Testaccio Market on Sundays, and the Orange Garden closes at 18:00 (6 pm) until February.
+
+MorningAventineOrange Garden and the view over the Tiber, open until 18:00 in winter.
+
+Late morningTestaccio MarketOpen Monday to Saturday, 7:00-15:30.
+
+Early afternoonNon-Catholic CemeteryLast entry at 16:30 (Sundays at 12:30).
+
+AfternoonCentrale MontemartiniTuesday to Sunday, last entry one hour before the 19:00 closing.
+
+EveningTrastevere and Tiber IslandThe right time for the square and the riverbank.
+
+ConsiglioOn Mondays Montemartini is closed and on Sundays the market is not there: plan Testaccio and the Aventine for the days when the other pieces fall out, and keep Montemartini for a Tuesday-to-Saturday.
+
+Trastevere: what is there to see beyond the nightlife?#
+
+Turismo Roma describes it as one of the best-loved neighbourhoods, on the right bank of the Tiber, with lanes, squares and trattorias serving traditional Roman cooking, and it is also known for its nightlife. But it is above all an area of churches and art: the same page lists Palazzo Corsini with the National Gallery of Ancient Art and the Botanical Garden in its grounds, Villa Farnesina with frescoes by Raphael and his school, and the basilicas of Santa Cecilia and San Crisogono.
+
+The heart is the basilica of Santa Maria in Trastevere. According to the official page it was probably the first official place of Christian worship in Rome; tradition credits Pope Callixtus I in the 3rd century and says it was finished in 340, but that is a legend and should be taken as one. What you see is more concrete: the apse mosaics, with the stories of the Virgin by Pietro Cavallini (1291) and those from around 1140 in which Pope Innocent II holds a model of the church; twenty-two ancient granite columns, probably from the Baths of Caracalla; the gilded ceiling designed by Domenichino in 1617.
+
+Watch the hours: the official page does not give them and refers to the basilica's contacts for Masses and how to visit. So we cannot tell you how late you can go in. The advice is to phone (06 5814802, the number on the page) or to go in the morning, and keep the square for the evening.
+
+The fountain in the middle of Piazza Santa Maria in Trastevere Photo: Krzysztof Golik, CC BY-SA 4.0, Wikimedia Commons
+Tiber Island: how big is it and what is there?#
+
+We did not read walking times, but the measurements explain why it is more a pause than a stop: Tiber Island, the only urban island in the river, is about 300 metres long and about 90 wide, linked to Trastevere by Ponte Cestio and to the old Jewish Ghetto by Ponte Fabricio.
+
+The legend told by Turismo Roma ties it to a plague in 291 BC: the delegation sent to Epidaurus, a cult site of Aesculapius, the god of medicine, came back by ship with a snake, which jumped into the water near the island; where it took shelter a temple was built, today replaced by the church of San Bartolomeo all'Isola. Like every legend it is undocumented, but it explains the ship-like shape well. The best way to do it is to pair it with Trastevere: you cross one bridge on the way there and the other on the way back.
+
+Testaccio: is it only for eating?#
+
+Testaccio is on the left bank of the Tiber and for Turismo Roma it is the "true popular soul" of Rome. Its symbol is the amphora: Monte dei Cocci (Mons Testaceus) is an artificial hill made from the shards of millions of amphorae once used to bring food and drink into the city. At the foot of the hill, caves that used to be cellars and stables now hold restaurants and bars. We name none: we have not verified them.
+
+For simple eating there is Testaccio Market, open Monday to Saturday from 7:00 to 15:30, with entrances from via Beniamino Franklin, via Alessandro Volta, via Aldo Manuzio and via Lorenzo Ghiberti. It is closed on Sundays. In practice it is a stop for the morning or lunchtime: after 15:30 there is nothing left to look for.
+
+Testaccio also has the Mattatoio (the former slaughterhouse), described as an industrial-archaeology building now given over to contemporary art, and the archaeological area of the Emporium, the ancient river port of the 1st century AD. We did not read hours for these two: check first.
+
+Non-Catholic Cemetery and Pyramid of Cestius: what can you visit?#
+
+The cemetery yes, the pyramid normally no. The Non-Catholic Cemetery (via Caio Cestio 6) holds the graves of artists and poets, including John Keats and Percy Bysshe Shelley. According to the official site it is open Monday to Saturday from 9:00 to 17:00, with last entry at 16:30; on Sundays and public holidays from 9:00 to 13:00, last entry at 12:30. The site also lists closures: 1 and 6 January, fifteen days around mid-August, and 8, 24, 25, 26 and 31 December; at Easter, Easter Monday, 25 April, 1 May, 2 and 29 June it closes at 13:00. It may close for reasons of force majeure without notice.
+
+It is still an active burial ground: the site asks for respect, notes that the ground is uneven in places and recommends comfortable shoes. The entrance fee does not appear on the pages we read, so we do not write it.
+
+The Pyramid of Cestius stands right next to it. According to Turismo Roma it is 36.40 metres tall, with a base of about 30 metres a side, and it is the tomb of Gaius Cestius, built between 18 and 12 BC; an inscription says the work had to take no more than 330 days, on pain of the heirs losing the inheritance. Four centuries later it was built into the Aurelian Walls. You can see it from the street and from the cemetery, but the site can only be visited on special openings and during events: do not count on going in. To get there, the cemetery site lists Metro line B, Piramide stop, along with several bus lines.
+
+Ostiense: is Centrale Montemartini worth the trip?#
+
+It is the stop least like what you expect from Rome. Centrale Montemartini (via Ostiense 106) is a branch of the Capitoline Museums: the photo shows ancient statues next to the big industrial machines of the hall. The contrast is the reason to go.
+
+Hours on the museum site: Tuesday to Sunday, 9:00-19:00, last entry one hour before closing. Closed on Mondays, 1 May and 25 December; on 24 and 31 December 9:00-14:00. The full ticket is 11 EUR and the reduced one 6.50 EUR, with a 1 EUR pre-sale fee if you buy online or through the call centre (indicative averages). Since February 2026 entry has been free for residents of Rome and the Metropolitan City, showing an ID card. The site's New Year entry is still the 2026 one: for 1 January 2027 we have no data.
+
+Ancient statues next to the machines of Centrale Montemartini Photo: Briner2306, CC BY-SA 4.0, Wikimedia Commons
+Aventine: the Orange Garden and the famous keyhole#
+
+Parco Savello, or the Orange Garden, stands on the Aventine on the site of a fortress built by the Savelli family towards the end of the 13th century, itself on a 10th-century castle of the Crescenzi. From the viewpoint over the river the view runs from the bend of the Tiber to St Peter's Basilica. The orange trees were planted in memory of St Dominic, who founded the convent here in the 13th century; the current park dates from 1932, designed by Raffaele De Vico.
+
+Turismo Roma's hours are useful but unclear: daily, October to February 7:00-18:00; March to September 7:00-20:00; April to August 7:00-21:00. The last two bands overlap, so for summer the page points to the City of Rome page it cites. For now, in November, what counts is that the park closes at 18:00: if you want sunset from the viewpoint, you will not get it here.
+
+Leaving the garden and turning right you reach Piazza dei Cavalieri di Malta, designed by Giovan Battista Piranesi in 1765. Through the keyhole of the gate of the Villa del Priorato you can see the dome of St Peter's framed by the hedges. We did not read whether you can go into the villa: the game is to peek through the hole.
+
+How do you combine the five areas without rushing?#
+
+The order proposed above is built around opening hours, not distances: we did not read travel times between one area and the next, so check the map and decide whether to split it into two half days. With two days, a simple idea is one for the left-bank areas (Aventine, Testaccio, Ostiense) and one for the right bank (Trastevere and Tiber Island).
+
+The common mistake is to leave Montemartini for last, on a Monday, or the Orange Garden for after 18:00: those are two times people forget. Another is to turn up at Testaccio Market late in the afternoon.
+
+What if you have already seen the classics?#
+
+If the Colosseum and the Vatican are behind you, Rome in two days covers the classic route with the tickets to book. For another way to use a city in the rain, Turin on a rainy day works on opening hours the way we do here. To eat in an Italian city in order of tasting, there is what to eat in Naples, and for another walking itinerary with arcades, Bologna in a day.
+
+When an opening time changes#
+
+It happens: an opening that changes, a closure you had not read, the rain. UNNIVAI is built to rewrite the route when the day changes, keeping the same stops in a different order. If that sounds useful, you can join the first people in.
+
+Hours, prices and rules were read on the pages listed in the sources and checked on 10 November 2026; they change during the year: check before you go. Where sources were unclear we said so (summer hours of the Orange Garden, New Year 2027 at Centrale Montemartini). We could not verify: hours and visiting rules at Santa Maria in Trastevere, the entrance fee of the Non-Catholic Cemetery, hours of the Mattatoio and the Emporium, travel times between the areas, names and hours of restaurants. We have no photo of the Orange Garden or of Tiber Island: we did not find a suitable, verified one on Wikimedia Commons.
+
+
 # Taormina and Mount Etna in one day: is it doable?
 URL: https://unnivai.com/en/blog/taormina-and-etna-in-a-day
 Language: en
@@ -1824,7 +1998,7 @@ Hours, prices and closures were read on the sources listed and checked on 9 Nove
 # What to do in Turin when it rains: museums and cafés
 URL: https://unnivai.com/en/blog/turin-on-a-rainy-day
 Language: en
-Updated: 2026-11-06
+Updated: 2026-11-10
 
 Turin in the rain is not a city to put off: it is a city built for bad-weather days. Three museums of international standing, a square with a royal palace, and a historic-café tradition with a very particular identity. The real problem is not the weather, it is the calendar: each museum closes on a different day, and if you find out on arrival, the whole plan falls apart.
 
@@ -1907,6 +2081,8 @@ To think the same way in another city, read Milan in a weekend in the rain or wh
 Plan B is built beforehand#
 
 The problem with rain is not the rain: it is having to rebuild the programme from scratch, in the downpour, with your phone in your hand and closing days to cross-check. It is the same problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, join the waitlist.
+
+Read next: Another day built around museum opening hours, in Rome: what to see in Rome besides the Colosseum.
 
 Verification note. Data read on 6 November 2026 on the pages listed in the sources: the official websites of the Egyptian Museum, the National Museum of Cinema, the Royal Museums and Turismo Torino, the Caffè Al Bicerin page and the Musei di Torino portal. Where sources disagree (the Egyptian Museum ticket price, the time at which Mole lift tickets are released) we say so. We did not verify opening hours or prices of the historic cafés, walking distances between museums, or how the panoramic lift works in the rain. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.
 
@@ -3118,7 +3294,7 @@ Verification note. Data read on 29 October 2026 on the pages listed in the sourc
 # Rome in two days: an itinerary that does not wear you out
 URL: https://unnivai.com/en/blog/rome-in-two-days
 Language: en
-Updated: 2026-10-29
+Updated: 2026-11-10
 
 You can see Rome in two days if you accept one rule: do not try to see everything. The city is made of layers, and the more you try to cover it, the more time you spend between stops. The secret is to group it by area and to decide in advance which two or three things need a ticket, a time slot or a queue.
 
@@ -3213,6 +3389,8 @@ The same logic applies in every city: read how to use artificial intelligence fo
 When the plan falls apart#
 
 Rain, tiredness, a queue that never ends: it always happens. A good itinerary has a plan B ready. UNNIVAI is built for this: building the route with real places and rewriting it when the day changes. Be among the first.
+
+Read next: Once you have seen the classics, five more areas of Rome built around opening hours: what to see in Rome besides the Colosseum.
 
 Verification note: hours, prices and access rules were read on the official sites of the Colosseum Archaeological Park, the Vatican Museums, St Peter's Basilica, the Ministry of Culture (Pantheon) and ATAC on 29 October 2026. They change by season and for events: always check the official information before you travel. Not verified: Colosseum ticket prices, transport lines and stops, accessibility at the Colosseum and Forum, Basilica entry fees.
 

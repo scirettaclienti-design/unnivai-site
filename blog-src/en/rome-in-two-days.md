@@ -3,7 +3,7 @@ id: roma-in-due-giorni
 title: Rome in two days: an itinerary that does not wear you out
 description: Two days in Rome in a sensible order: stops grouped by area, hours to check and how not to spend the day in a queue.
 date: 2026-10-28
-updated: 2026-10-29
+updated: 2026-11-10
 category: Rome
 cover: Roma
 tags: Weekend, On foot, Planning
@@ -124,5 +124,7 @@ The same logic applies in every city: read [how to use artificial intelligence f
 ## When the plan falls apart
 
 Rain, tiredness, a queue that never ends: it always happens. A good itinerary has a plan B ready. UNNIVAI is built for this: building the route with real places and rewriting it when the day changes. [Be among the first](/?src=blog-rome-en#iscriviti).
+
+**Read next:** Once you have seen the classics, five more areas of Rome built around opening hours: [what to see in Rome besides the Colosseum](/blog/rome-beyond-the-colosseum).
 
 *Verification note: hours, prices and access rules were read on the official sites of the Colosseum Archaeological Park, the Vatican Museums, St Peter's Basilica, the Ministry of Culture (Pantheon) and ATAC on 29 October 2026. They change by season and for events: always check the official information before you travel. Not verified: Colosseum ticket prices, transport lines and stops, accessibility at the Colosseum and Forum, Basilica entry fees.*

@@ -2,6 +2,7 @@
 title: Torino con la pioggia: musei, caffè storici e orari
 description: Una giornata di pioggia a Torino: Museo Egizio, Musei Reali, Mole e caffè storici, con orari, giorni di chiusura e prezzi letti sui siti ufficiali.
 date: 2026-11-06
+updated: 2026-11-10
 category: Torino
 cover: Torino
 tags: Pioggia, Musei, Caffè storici
@@ -114,5 +115,7 @@ Per ragionare in modo simile in un'altra città, leggi [Milano in un weekend con
 ## Il piano B si costruisce prima
 
 Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano e i giorni di chiusura da incrociare. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, [entra nella lista d'attesa](/?src=blog-torino#iscriviti).
+
+**Leggi anche:** Un altro modo di costruire una giornata sugli orari dei musei, a Roma: [Roma oltre il Colosseo: 5 zone da vedere](/blog/roma-oltre-il-colosseo).
 
 *Nota di verifica. Dati letti il 6 novembre 2026 sulle pagine elencate nelle fonti: siti ufficiali del Museo Egizio, del Museo Nazionale del Cinema, dei Musei Reali e di Turismo Torino, la scheda del Caffè Al Bicerin e il portale Musei di Torino. Dove le fonti discordano (prezzo del biglietto dell'Egizio, ore di messa in vendita dei biglietti dell'ascensore della Mole) lo abbiamo scritto. Non abbiamo verificato orari e prezzi dei caffè storici, la distanza a piedi tra i musei, né le condizioni dell'ascensore panoramico con la pioggia. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, quindi controlla sempre le informazioni ufficiali prima di partire.*

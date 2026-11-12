@@ -2,7 +2,7 @@
 title: Lecce in un giorno: barocco, pasticciotto e vicoli a piedi
 description: Itinerario a piedi per vedere Lecce in una giornata: anfiteatro, Duomo, Santa Croce, castello e pasticciotto, con orari e prezzi dalle fonti ufficiali.
 date: 2026-10-29
-updated: 2026-11-04
+updated: 2026-11-12
 category: Lecce
 cover: Lecce
 tags: A piedi, Una giornata, Barocco
@@ -137,5 +137,7 @@ Dopo Lecce, la Sicilia barocca è un altro respiro: guarda [un giorno a Ortigia]
 UNNIVAI è pensata per riscrivere il percorso quando cambiano tempo, orario o stanchezza: stesso giro, ordine diverso. Se ti serve, [entra tra i primi](/?src=blog-lecce-in-un-giorno#iscriviti).
 
 **Leggi anche:** Sempre in Puglia e senza macchina: [Polignano a Mare senza auto](/blog/polignano-a-mare-senza-auto).
+
+**Leggi anche:** un'altra città da girare a piedi con un anfiteatro romano al centro: [Cagliari in un giorno: Castello, bastioni e anfiteatro](/blog/cagliari-in-un-giorno).
 
 *Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate e riverificati il 31 ottobre 2026 e cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto.*

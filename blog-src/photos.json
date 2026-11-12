@@ -446,5 +446,29 @@
   "url": "https://commons.wikimedia.org/wiki/File:Fontana_di_piazza_Santa_Maria_in_Trastevere_(2).jpg",
   "w": 1400,
   "h": 904
+ },
+ "cagliari-bastione-saint-remy": {
+  "file": "File:Bastione di Saint Remy - Cagliari, Italy 2024-03-28.jpg",
+  "artist": "Ryan Hodnett",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Bastione_di_Saint_Remy_-_Cagliari,_Italy_2024-03-28.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "cagliari-anfiteatro-romano": {
+  "file": "File:Anfiteatro di Cagliari.jpg",
+  "artist": "Ariosa1959",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Anfiteatro_di_Cagliari.jpg",
+  "w": 1090,
+  "h": 629
+ },
+ "cagliari-cattedrale": {
+  "file": "File:Cagliari Kathedrale.jpg",
+  "artist": "Martin Kraft",
+  "license": "CC BY-SA 3.0 de",
+  "url": "https://commons.wikimedia.org/wiki/File:Cagliari_Kathedrale.jpg",
+  "w": 1400,
+  "h": 831
  }
 }

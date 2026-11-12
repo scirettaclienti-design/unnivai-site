@@ -3,7 +3,7 @@ id: lecce-in-un-giorno
 title: One day in Lecce: baroque, pasticciotto and walking lanes
 description: A walking itinerary for one day in Lecce: Roman amphitheatre, Duomo, Santa Croce, the castle and a pasticciotto, with hours and prices from official sources.
 date: 2026-10-29
-updated: 2026-11-04
+updated: 2026-11-12
 category: Lecce
 cover: Lecce
 tags: On foot, One day, Baroque
@@ -138,5 +138,7 @@ After Lecce, baroque Sicily is a different breath: see [one day in Ortigia](/blo
 UNNIVAI is built to rewrite the route when weather, hours or tiredness change: same walk, different order. If it sounds useful, [join the first people in](/?src=blog-lecce-in-un-giorno-en#iscriviti).
 
 **Read next:** Still in Puglia and without a car: [Polignano a Mare without a car](/blog/polignano-a-mare-without-a-car).
+
+**Read next:** another city on foot with a Roman amphitheatre at its heart: [One day in Cagliari: what to see on foot, and what is closed](/blog/one-day-in-cagliari).
 
 *Hours, prices and opening days were read and rechecked on the official sources listed on 31 October 2026 and change during the year: check before you go. Where two sources disagree, we said so.*

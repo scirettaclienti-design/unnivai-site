@@ -19,7 +19,7 @@ Fonti consigliate = punto di partenza, non sostituiscono la verifica: ogni dato 
 | 11 | [x] | Piemonte | Torino: musei, caffè storici e giornata di pioggia | Turin on a rainy day | Piano B | Musei Torino, Comune |
 | 12 | [x] | Sicilia | Taormina e l'Etna: una giornata, come organizzarla | Taormina and Etna in a day | Itinerario | Parco dell'Etna, Parco archeologico |
 | 13 | [x] | Lazio | Roma: 5 quartieri oltre il Colosseo | Rome beyond the Colosseum | Itinerario | Roma Capitale, musei civici |
-| 14 | [ ] | Sardegna | Cagliari in un giorno: mare, mercato e quartieri | One day in Cagliari | Itinerario | Comune, Mercato di San Benedetto |
+| 14 | [x] | Sardegna | Cagliari in un giorno: mare, mercato e quartieri | One day in Cagliari | Itinerario | Comune, Mercato di San Benedetto |
 | 15 | [ ] | Umbria | Perugia e Assisi: due giorni senza auto | Perugia and Assisi by train | Logistica | Comuni, Trenitalia |
 | 16 | [ ] | Campania | Costiera Amalfitana con i mezzi pubblici | Amalfi Coast by public transport | Logistica | SITA/consorzi, Comuni |
 | 17 | [ ] | Friuli Venezia Giulia | Trieste: caffè, Carso e una giornata di bora | One day in Trieste | Itinerario | Comune, Parco del Carso |

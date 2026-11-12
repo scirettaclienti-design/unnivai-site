@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Cagliari in un giorno: Castello, bastioni e anfiteatro](https://unnivai.com/blog/cagliari-in-un-giorno): Cagliari in una giornata a piedi: bastione di Saint Remy, torri, cattedrale e anfiteatro, con orari, biglietti e lo stato del mercato di San Benedetto.
 - [Roma oltre il Colosseo: 5 zone da vedere, con orari](https://unnivai.com/blog/roma-oltre-il-colosseo): Trastevere, Isola Tiberina, Testaccio, Ostiense e Aventino: cosa vedere a Roma lontano dal Colosseo, con orari letti sui siti ufficiali e cosa chiude quando.
 - [Taormina e l'Etna in un giorno: come organizzarla](https://unnivai.com/blog/taormina-e-etna-in-un-giorno): Taormina e l'Etna in un giorno: teatro antico, funivia chiusa fino all'8 dicembre, Isola Bella chiusa, tour sul vulcano e orari da verificare.
 - [Torino con la pioggia: musei, caffè storici e orari](https://unnivai.com/blog/torino-musei-e-caffe-storici-con-la-pioggia): Una giornata di pioggia a Torino: Museo Egizio, Musei Reali, Mole e caffè storici, con orari, giorni di chiusura e prezzi letti sui siti ufficiali.
@@ -24,6 +25,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [One day in Cagliari: what to see on foot, and what is closed](https://unnivai.com/en/blog/one-day-in-cagliari): One day in Cagliari on foot: Saint Remy bastion, towers, cathedral and Roman amphitheatre, with hours, tickets and the San Benedetto market closure.
 - [What to see in Rome besides the Colosseum: 5 areas](https://unnivai.com/en/blog/rome-beyond-the-colosseum): Trastevere, Tiber Island, Testaccio, Ostiense and the Aventine: what to see in Rome away from the Colosseum, with hours from official sites and closures.
 - [Taormina and Mount Etna in one day: is it doable?](https://unnivai.com/en/blog/taormina-and-etna-in-a-day): Taormina and Etna in one day: ancient theatre, cable car closed until 8 December, Isola Bella closed, the volcano tour and hours to check.
 - [What to do in Turin when it rains: museums and cafés](https://unnivai.com/en/blog/turin-on-a-rainy-day): A rainy day in Turin: Egyptian Museum, Royal Museums, the Mole and historic cafés, with opening hours, closing days and prices from official sites.
@@ -52,6 +54,86 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Cagliari in un giorno: Castello, bastioni e anfiteatro
+URL: https://unnivai.com/blog/cagliari-in-un-giorno
+Language: it
+Updated: 2026-11-12
+
+Cagliari si capisce salendo. La città sta su un colle di calcare affacciato sul porto, e il vecchio quartiere Castello, cinto da mura e torri, è la parte che conviene fare con calma. L'itinerario qui sotto tiene tutto nel centro storico, a piedi, e dice chiaramente cosa oggi non si può fare: il mercato di San Benedetto, che molti cercano, è chiuso per lavori.
+
+In breve. Una giornata a piedi tra il bastione di Saint Remy (terrazza gratuita), il quartiere Castello con torri e cattedrale e l'anfiteatro romano (3 €, arena non visitabile). Il mercato di San Benedetto è chiuso per lavori dal marzo 2025: gli operatori sono nel mercato provvisorio di piazza Nazzari.
+
+MattinaBastione di Saint RemyTerrazza Umberto I, a ingresso libero, con la vista su città e mare.
+
+MattinaQuartiere Castello: torri e cattedraleLa Torre di San Pancrazio, la Torre dell'Elefante e la cattedrale di Santa Maria.
+
+PausaBastione di Santa CroceUna terrazza sul quartiere Stampace e sul porto.
+
+PomeriggioAnfiteatro romanoEntra entro le 16:30 se vai in inverno: la biglietteria chiude mezz'ora prima.
+
+SeraVia Roma e il portoPasseggiata senza tappe fisse.
+
+ConsiglioSali a Castello la mattina e tieni l'anfiteatro per il pomeriggio: d'inverno chiude alle 17, e la biglietteria mezz'ora prima. Se vuoi pranzare in un mercato, ricorda che quello storico di San Benedetto è chiuso: l'alternativa è il mercato provvisorio di piazza Nazzari.
+
+Da dove si parte?#
+
+Il punto di partenza più semplice è piazza Costituzione, dove si trova il bastione di Saint Remy. SardegnaTurismo indica che si raggiunge da via Roma attraverso viale Regina Margherita. Da lì il bastione funziona da porta d'ingresso al Castello, il quartiere alto della città, e ai piedi delle sue scalinate si incontrano le due vie che i cagliaritani usano per passeggiare e fare acquisti, via Garibaldi e via Manno.
+
+Non abbiamo letto un orario ufficiale dei mezzi pubblici cittadini, quindi non scriviamo linee o frequenze. Per questa giornata non servono: il centro storico si fa a piedi, con salite e scalinate (se hai mobilità ridotta, controlla prima i percorsi).
+
+Il bastione di Saint Remy#
+
+Il bastione è uno dei monumenti simbolo di Cagliari. Fu costruito tra il 1896 e il 1902 in stile classico sui vecchi bastioni dello Sperone e della Zecca, di epoca spagnola, e prende il nome dal barone di Saint Remy, primo viceré piemontese. Sotto l'arco principale una scala con due rampe circolari porta alla terrazza Umberto I, da cui si vede tutta la città e il mare. SardegnaTurismo indica ingresso libero, sempre.
+
+Sotto la terrazza c'è la Passeggiata Coperta, collegata alla Galleria dello Sperone: qui si paga. Il sito turistico del Comune indica un biglietto intero da 3 €, ridotto da 2 € e gratuito per i bambini sotto i 6 anni. Sugli orari c'è un limite che vogliamo dirti: la pagina ufficiale riporta 10-13 e 15-19, ma con una validità scritta fino al 27 aprile 2025, quindi riferita a una stagione passata, mentre un avviso del Comune del 2022 indica martedì-domenica 10-18. Non possiamo dirti con certezza quale orario valga oggi: controlla prima di salire.
+
+Castello: torri, mura e cattedrale#
+
+Il quartiere Castello sta in cima alla città, tra il largo Carlo Felice, piazza Yenne, via Manno e via Garibaldi. Le mura corrono lungo il perimetro dell'antico quartiere e comprendono la Torre dell'Elefante e quella di San Pancrazio. Secondo SardegnaTurismo, le fortificazioni sono ad accesso libero.
+
+Torre di San Pancrazio. Fu costruita nel 1305 dall'architetto Giovanni Capula, in calcare bianco estratto dal colle di Bonaria. Alla sua base si apre la porta di San Pancrazio, uno degli ingressi al Castello.
+
+Torre dell'Elefante. Fu completata nel 1306-1307. Il nome viene dalla statua dell'elefante, simbolo della città, posta su una mensola sul lato esterno, verso il porto. Il sito turistico del Comune la descrive come una struttura su quattro livelli, alta più di trenta metri, ottimo punto di avvistamento contro attacchi dal mare. Il passaggio sotto la saracinesca è oggi uno dei percorsi sempre aperti verso il Castello. Per salire sulla torre serve un biglietto: noi non abbiamo letto l'orario invernale aggiornato (un avviso del 2022 indica martedì-domenica 10-17), quindi controlla prima.
+
+Cattedrale di Santa Maria. È il monumento più famoso del quartiere. Fu costruita nel XIII secolo e rimaneggiata più volte; la prima menzione è del 1255. SardegnaTurismo la descrive lunga 35 metri, larga 34 e alta 32, con facciata neoromanica in marmo del 1931 (quella barocca del 1704 fu smontata). All'interno è conservato il pulpito di Guglielmo, scolpito per il duomo di Pisa e trasferito a Cagliari nel 1312. Sotto l'altare si trova il Santuario dei Martiri, una cripta scavata nella roccia nel 1618 che conserva 192 reliquie. Orari e ingresso non li abbiamo verificati.
+
+Il quartiere Castello visto da lontano, con la cupola della cattedrale di Santa Maria Foto: Martin Kraft, CC BY-SA 3.0 de, Wikimedia Commons
+Bastione di Santa Croce. Dopo la cattedrale ti conviene fermarti qui. SardegnaTurismo lo descrive come un'elegante terrazza e luogo della vita notturna, che si affaccia sul quartiere Stampace e sul mare del porto. La chiesa di Santa Croce, che gli dà il nome, era una sinagoga trasformata in luogo di culto cattolico nel 1492.
+
+L'anfiteatro romano#
+
+L'anfiteatro è l'edificio pubblico più importante del periodo romano a Cagliari, secondo il sito turistico del Comune. Si trova in viale Sant'Ignazio da Laconi. C'è un'informazione che cambia l'esperienza: fino alla fine dei lavori di restauro non si può visitare l'intero edificio e non si accede ad arena e sotterranei. Quello che vedi, quindi, è soprattutto la cavea scavata nella roccia.
+
+L'orario indicato dal Comune è lunedì-domenica 10-17 dal 1° ottobre al 27 aprile (biglietteria mezz'ora prima della chiusura), e 10-13 e 15-19 dal 28 aprile al 30 settembre. Un avviso del Comune del 2022 parlava invece di apertura il mercoledì, venerdì e domenica: è un documento più vecchio, e lo citiamo solo perché le fonti non coincidono. Prezzi: 3 € intero, 2 € ridotto, 1 € scuole (medie indicative). Se vuoi vedere più di un sito, il biglietto cumulativo da 8 €, valido una settimana, comprende anfiteatro, Cripta di Santa Restituta, Grotta della Vipera, Torre dell'Elefante, Passeggiata Coperta e Galleria dello Sperone.
+
+I gradoni scavati nella roccia dell'anfiteatro romano di Cagliari Foto: Ariosa1959, CC BY-SA 4.0, Wikimedia Commons
+E il mercato di San Benedetto?#
+
+È la domanda che molti si pongono, perché per i cagliaritani San Benedetto è «il Mercato». Oggi, però, nella sede storica non lo trovi. Il sito del Comune scrive che il mercato, inaugurato il 1° giugno 1957 (due livelli, circa 4.000 metri quadrati), è chiuso per lavori di ristrutturazione dal marzo 2025 e che gli operatori sono nel mercato provvisorio di piazza Nazzari. Secondo Cagliari News (23 ottobre 2026) la riapertura della nuova struttura è ora fissata non prima del 2028, con un quadro economico di oltre 31 milioni di euro più oltre 8 milioni per il mercato provvisorio. Il Comune riportava come indirizzo del mercato storico via Francesco Cocco Ortu 46. Non abbiamo letto gli orari del mercato provvisorio: se vuoi andarci, verifica prima.
+
+Come si gira nell'arco della giornata#
+
+Un ordine che tiene conto solo degli orari che abbiamo letto: mattina al bastione di Saint Remy e poi a piedi a Castello, con le torri e la cattedrale; pausa pranzo, per esempio al mercato provvisorio di piazza Nazzari; pomeriggio all'anfiteatro, entrando entro le 16:30 se vai da ottobre ad aprile. La sera la terrazza del bastione di Santa Croce è il posto giusto per vedere la città dall'alto. Gli orari di questo schema sono una nostra proposta, non orari ufficiali.
+
+E se piove?#
+
+Un itinerario di Cagliari quasi tutto all'aperto soffre la pioggia. I luoghi al coperto che abbiamo letto sono la cattedrale, la Passeggiata Coperta (sotto la terrazza del bastione) e la Torre dell'Elefante, ma gli orari vanno controllati prima. L'anfiteatro, scavato nella roccia, si visita all'aperto: se piove, rimandalo.
+
+Cosa saltare#
+
+Tre scelte per alleggerire la giornata. Primo: non cercare il mercato di San Benedetto nella sede storica. Secondo: non pianificare l'ingresso nell'arena dell'anfiteatro, perché non è visitabile. Terzo: non comprare in automatico il biglietto cumulativo da 8 €. Anfiteatro e Passeggiata Coperta costano ciascuno da 3 €: il cumulativo ha senso solo se entri in più siti tra i sei inclusi, cosa non facile in una giornata sola.
+
+Se vuoi altri itinerari#
+
+Per un altro itinerario a piedi con un sito archeologico al centro, leggi Lecce in un giorno. Se ti interessano i mercati e il cibo di strada, c'è Palermo street food: mercati, orari e cosa ordinare. Per una giornata nell'altra grande isola, la Sicilia, con le chiusure di stagione da controllare, Taormina e l'Etna in un giorno, e per un altro itinerario di centro storico, Bologna in un giorno.
+
+Quando salta il programma#
+
+Un mercato chiuso, un sito con un orario di un'altra stagione, una pioggia improvvisa: succede. UNNIVAI è pensata per riscrivere il percorso quando cambia la giornata, tenendo orari e tappe. Entra tra i primi.
+
+Nota di verifica: orari, prezzi e regole sono stati letti il 12 novembre 2026 sulle pagine del Comune di Cagliari, di Cagliari Turismo, di SardegnaTurismo e di Cagliari News. Dove le fonti non coincidono, o riguardano una stagione passata, lo abbiamo scritto. Non verificati: orari invernali di Passeggiata Coperta e Torre dell'Elefante, orari e ingresso della cattedrale, orari del mercato provvisorio di piazza Nazzari, collegamenti con il Poetto e trasporti pubblici. Non abbiamo una foto della Torre dell'Elefante: le immagini trovate su Wikimedia Commons erano incisioni d'epoca o dettagli, non foto adatte.
+
 
 # Roma oltre il Colosseo: 5 zone da vedere, con orari
 URL: https://unnivai.com/blog/roma-oltre-il-colosseo
@@ -414,7 +496,7 @@ Orari, prezzi e giorni di apertura sono letti sulle fonti indicate e verificati 
 # Palermo street food: mercati, orari e cosa ordinare
 URL: https://unnivai.com/blog/palermo-street-food-mercati-orari-cosa-ordinare
 Language: it
-Updated: 2026-11-04
+Updated: 2026-11-12
 
 I tre grandi mercati di Palermo sembrano tre varianti dello stesso posto, e invece hanno tre orari diversi. Il Capo e Ballarò sono mercati da mattina, la Vucciria è un posto da sera. Se sbagli ora trovi saracinesche chiuse o una piazza vuota, e Palermo diventa una città difficile da capire. Questa guida mette in fila i mercati, dice cosa ordinare e dove le fonti non concordano lo scrive.
 
@@ -500,6 +582,8 @@ Se cambia la giornata#
 UNNIVAI riscrive il giro quando cambiano orari, pioggia o stanchezza: stessi mercati, ordine diverso. Se ti serve, entra tra i primi.
 
 Leggi anche: Un altro street food del Sud, in ordine di giornata: cosa mangiare a Napoli.
+
+Leggi anche: un'altra grande città di mare con un mercato storico, ma chiuso per lavori: Cagliari in un giorno: Castello, bastioni e anfiteatro.
 
 Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Orari e prezzi sono letti su siti di operatori e guide e cambiano durante l'anno: controllali prima di partire. Dove due fonti discordano lo abbiamo scritto; i nomi dei locali sono citati solo come li riportano le fonti.
 
@@ -1138,7 +1222,7 @@ Nota di verifica. Gli orari dei mercati cambiano durante l'anno e per festività
 # Lecce in un giorno: barocco, pasticciotto e vicoli a piedi
 URL: https://unnivai.com/blog/lecce-in-un-giorno
 Language: it
-Updated: 2026-11-04
+Updated: 2026-11-12
 
 Lecce è una città da camminare con il naso in su. Il barocco leccese non si capisce da una foto: serve il passo lento, la pietra chiara che cambia colore con la luce e qualche sosta dolce. Questo itinerario mette in ordine una giornata a piedi, con poche tappe e il perché di ciascuna, e dice chiaramente dove gli orari cambiano con la stagione.
 
@@ -1246,6 +1330,8 @@ Se cambia la giornata#
 UNNIVAI è pensata per riscrivere il percorso quando cambiano tempo, orario o stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
 
 Leggi anche: Sempre in Puglia e senza macchina: Polignano a Mare senza auto.
+
+Leggi anche: un'altra città da girare a piedi con un anfiteatro romano al centro: Cagliari in un giorno: Castello, bastioni e anfiteatro.
 
 Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate e riverificati il 31 ottobre 2026 e cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto.
 
@@ -1819,6 +1905,86 @@ Leggi anche: per salire sull'Etna e vedere il teatro antico in una sola giornata
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
 
+# One day in Cagliari: what to see on foot, and what is closed
+URL: https://unnivai.com/en/blog/one-day-in-cagliari
+Language: en
+Updated: 2026-11-12
+
+Cagliari makes sense when you climb it. The city sits on a limestone hill above the harbour, and the old Castello district, ringed by walls and towers, is the part to take slowly. The itinerary below keeps everything in the historic centre, on foot, and says plainly what you cannot do right now: the San Benedetto market, which many visitors look for, is closed for works.
+
+In short. One day on foot between the Saint Remy bastion (free terrace), the Castello district with towers and cathedral, and the Roman amphitheatre (3 EUR, arena not visitable). The San Benedetto market has been closed for works since March 2025: vendors are in the temporary market in Piazza Nazzari.
+
+MorningSaint Remy bastionThe Umberto I terrace, free to enter, with views over the city and the sea.
+
+MorningCastello district: towers and cathedralThe San Pancrazio Tower, the Elephant Tower and Santa Maria cathedral.
+
+BreakSanta Croce bastionA terrace over the Stampace district and the harbour.
+
+AfternoonRoman amphitheatreBe in by 4:30 pm in winter: the ticket office closes half an hour early.
+
+EveningVia Roma and the harbourA stroll with no fixed stops.
+
+ConsiglioGo up to Castello in the morning and keep the amphitheatre for the afternoon: in winter it closes at 5 pm, and the ticket office half an hour earlier. If you want lunch in a market, remember the historic San Benedetto market is closed: the alternative is the temporary market in Piazza Nazzari.
+
+Where do you start?#
+
+The simplest starting point is Piazza Costituzione, where the Saint Remy bastion stands. SardegnaTurismo says you reach it from via Roma through viale Regina Margherita. From there the bastion acts as the gateway to Castello, the upper district of the city, and at the foot of its staircases you meet the two streets locals use for strolling and shopping, via Garibaldi and via Manno.
+
+We did not read an official timetable for the city's public transport, so we do not give lines or frequencies. You do not need them for this day: the historic centre is done on foot, with slopes and staircases (if you have reduced mobility, check the routes first).
+
+The Saint Remy bastion#
+
+The bastion is one of Cagliari's landmark monuments. It was built between 1896 and 1902 in a classical style on the old Sperone and Zecca bastions of Spanish times, and takes its name from the Baron of Saint Remy, the first Piedmontese viceroy. Under the main arch a staircase with two circular ramps leads to the Umberto I terrace, from which you see the whole city and the sea. SardegnaTurismo lists free admission, always.
+
+Below the terrace is the Covered Walkway, linked to the Sperone Gallery: here you pay. The city's tourism site lists a full ticket from 3 EUR, reduced from 2 EUR and free for children under 6. On hours there is a limit we want to flag: the official page gives 10 am-1 pm and 3-7 pm, but with a validity written as ending on 27 April 2025, so it refers to a past season, while a 2022 city notice gives Tuesday to Sunday 10 am-6 pm. We cannot tell you for sure which schedule applies today: check before you go up.
+
+Castello: towers, walls and cathedral#
+
+The Castello district sits at the top of the city, between largo Carlo Felice, piazza Yenne, via Manno and via Garibaldi. The walls run around the perimeter of the old district and include the Elephant Tower and the San Pancrazio Tower. According to SardegnaTurismo, the fortifications can be visited freely.
+
+San Pancrazio Tower. It was built in 1305 by the architect Giovanni Capula, in white limestone quarried from the Bonaria hill. At its base opens the San Pancrazio gate, one of the entrances to Castello.
+
+Elephant Tower. It was completed in 1306-1307. The name comes from the statue of the elephant, the city's symbol, set on a corbel on the outer side, facing the harbour. The city's tourism site describes it as a four-level structure more than thirty metres high, an excellent lookout against attacks from the sea. Walking through under the portcullis is today one of the always-open routes into Castello. Climbing the tower needs a ticket: we did not read an updated winter schedule (a 2022 notice gives Tuesday to Sunday 10 am-5 pm), so check first.
+
+Santa Maria cathedral. It is the district's most famous monument. It was built in the 13th century and altered several times; it is first mentioned in 1255. SardegnaTurismo describes it as 35 metres long, 34 wide and 32 high, with a neo-Romanesque marble façade of 1931 (the baroque one of 1704 was dismantled). Inside is Guglielmo's pulpit, carved for Pisa cathedral and moved to Cagliari in 1312. Under the altar is the Shrine of the Martyrs, a crypt cut into the rock in 1618 that holds 192 relics. We did not verify hours or admission.
+
+The Castello district seen from a distance, with the dome of Santa Maria cathedral Photo: Martin Kraft, CC BY-SA 3.0 de, Wikimedia Commons
+Santa Croce bastion. After the cathedral it is worth stopping here. SardegnaTurismo describes it as an elegant terrace and a nightlife spot, overlooking the Stampace district and the sea of the harbour. The church of Santa Croce, which gives it its name, was a synagogue converted into a Catholic church in 1492.
+
+The Roman amphitheatre#
+
+The amphitheatre is the most important public building of the Roman period in Cagliari, according to the city's tourism site. It stands on viale Sant'Ignazio da Laconi. One piece of information changes the experience: until restoration is finished the whole building cannot be visited and the arena and underground areas are closed. What you see, therefore, is mostly the seating cut into the rock.
+
+The hours given by the city are Monday to Sunday 10 am-5 pm from 1 October to 27 April (ticket office half an hour before closing), and 10 am-1 pm and 3-7 pm from 28 April to 30 September. A 2022 city notice talked instead about opening on Wednesday, Friday and Sunday: it is an older document, and we cite it only because sources do not match. Prices: 3 EUR full, 2 EUR reduced, 1 EUR schools (indicative averages). If you want to see more than one site, the combined 8 EUR ticket, valid one week, covers the amphitheatre, Crypt of Santa Restituta, Viper's Cave, Elephant Tower, Covered Walkway and Sperone Gallery.
+
+The tiers cut into the rock of Cagliari's Roman amphitheatre Photo: Ariosa1959, CC BY-SA 4.0, Wikimedia Commons
+What about the San Benedetto market?#
+
+It is the question many visitors ask, because for locals San Benedetto is "the Market". Today, however, you will not find it at its historic site. The city's website says the market, opened on 1 June 1957 (two levels, about 4,000 square metres), has been closed for renovation since March 2025 and that vendors moved to the temporary market in Piazza Nazzari. According to Cagliari News (23 October 2026), reopening of the new building is now set for no earlier than 2028, with an overall budget of more than 31 million euros plus more than 8 million for the temporary market. The city listed the historic market's address as via Francesco Cocco Ortu 46. We did not read the temporary market's hours: if you want to go, check first.
+
+How does the day fit together?#
+
+An order that uses only the hours we read: morning at the Saint Remy bastion and then on foot to Castello, with the towers and the cathedral; lunch break, for example at the temporary market in Piazza Nazzari; afternoon at the amphitheatre, going in by 4:30 pm if you visit between October and April. In the evening the Santa Croce bastion terrace is the right place to see the city from above. The times in this outline are our suggestion, not official hours.
+
+What if it rains?#
+
+A Cagliari itinerary that is almost all outdoors suffers in the rain. The indoor places we read about are the cathedral, the Covered Walkway (under the bastion terrace) and the Elephant Tower, but hours must be checked first. The amphitheatre, cut into the rock, is visited in the open: if it rains, postpone it.
+
+What to skip#
+
+Three choices to lighten the day. First: do not look for the San Benedetto market at its historic site. Second: do not plan on entering the amphitheatre arena, because it is not visitable. Third: do not automatically buy the 8 EUR combined ticket. The amphitheatre and the Covered Walkway cost from 3 EUR each: the combined ticket only makes sense if you enter several of the six included sites, which is hard in a single day.
+
+If you want more itineraries#
+
+For another on-foot itinerary with an archaeological site at its centre, read One day in Lecce. If markets and street food interest you, there is Palermo street food guide. For a day on the other big island, Sicily, with seasonal closures to check, Taormina and Etna in a day, and for another historic-centre itinerary, Bologna in a day.
+
+When the plan falls apart#
+
+A closed market, a site with hours from another season, a sudden shower: it happens. UNNIVAI is built to rewrite your route when the day changes, keeping hours and stops in view. Join the waiting list.
+
+Verification note: hours, prices and rules were read on 12 November 2026 on the pages of the City of Cagliari, Cagliari Turismo, SardegnaTurismo and Cagliari News. Where sources do not agree, or refer to a past season, we said so. Not verified: winter hours of the Covered Walkway and the Elephant Tower, hours and admission of the cathedral, hours of the temporary market in Piazza Nazzari, connections to Poetto and public transport. We have no photo of the Elephant Tower: the images we found on Wikimedia Commons were period engravings or details, not suitable photos.
+
+
 # What to see in Rome besides the Colosseum: 5 areas
 URL: https://unnivai.com/en/blog/rome-beyond-the-colosseum
 Language: en
@@ -2355,7 +2521,7 @@ Verification note. Data read on 30 October 2026 on the pages listed in the sourc
 # Palermo street food guide: markets, hours and what to order
 URL: https://unnivai.com/en/blog/palermo-street-food-guide
 Language: en
-Updated: 2026-11-04
+Updated: 2026-11-12
 
 Palermo's three great markets look like three versions of the same place, but they keep three different clocks. The Capo and Ballarò are morning markets, the Vucciria is an evening place. Get the hour wrong and you find shutters down or an empty square, and Palermo becomes a hard city to read. This guide lines up the markets, says what to order, and where the sources disagree it says so.
 
@@ -2441,6 +2607,8 @@ If your day changes#
 UNNIVAI rewrites the route when hours, rain or tiredness change: same markets, different order. If it sounds useful, join the first people in.
 
 Read next: Another southern street-food day, in order: what to eat in Naples.
+
+Read next: another big port city with a historic market, closed for works: One day in Cagliari: what to see on foot, and what is closed.
 
 Information checked on 30 October 2026 on the sources listed. Hours and prices are read on operators' sites and guides and change during the year: check before you go. Where two sources disagree, we said so; venue names are quoted only as the sources report them.
 
@@ -2910,7 +3078,7 @@ Checked on 29 October 2026 on pages opened for this article. Hours, prices and a
 # One day in Lecce: baroque, pasticciotto and walking lanes
 URL: https://unnivai.com/en/blog/one-day-in-lecce
 Language: en
-Updated: 2026-11-04
+Updated: 2026-11-12
 
 Lecce is a city to walk with your chin up. Lecce baroque does not come across in a photo: it needs a slow pace, pale stone that changes colour with the light, and a sweet stop or two. This itinerary puts one walking day in order, with few stops and the reason for each, and says plainly where hours change with the season.
 
@@ -3018,6 +3186,8 @@ If your day changes#
 UNNIVAI is built to rewrite the route when weather, hours or tiredness change: same walk, different order. If it sounds useful, join the first people in.
 
 Read next: Still in Puglia and without a car: Polignano a Mare without a car.
+
+Read next: another city on foot with a Roman amphitheatre at its heart: One day in Cagliari: what to see on foot, and what is closed.
 
 Hours, prices and opening days were read and rechecked on the official sources listed on 31 October 2026 and change during the year: check before you go. Where two sources disagree, we said so.
 

@@ -3,7 +3,7 @@ id: palermo-street-food-mercati-orari-cosa-ordinare
 title: Palermo street food guide: markets, hours and what to order
 description: Capo, Ballarò and Vucciria in Palermo: when to go, what to order (panelle, arancina, sfincione, pani ca meusa) and what it costs, with sources that disagree.
 date: 2026-10-30
-updated: 2026-11-04
+updated: 2026-11-12
 category: Palermo
 cover: Cibo
 tags: Food, Markets, On foot
@@ -115,5 +115,7 @@ To learn how to read a fish market, our guide to [Catania's fish market](/blog/c
 UNNIVAI rewrites the route when hours, rain or tiredness change: same markets, different order. If it sounds useful, [join the first people in](/?src=blog-palermo-street-food-mercati-orari-cosa-ordinare-en#iscriviti).
 
 **Read next:** Another southern street-food day, in order: [what to eat in Naples](/blog/what-to-eat-in-naples).
+
+**Read next:** another big port city with a historic market, closed for works: [One day in Cagliari: what to see on foot, and what is closed](/blog/one-day-in-cagliari).
 
 *Information checked on 30 October 2026 on the sources listed. Hours and prices are read on operators' sites and guides and change during the year: check before you go. Where two sources disagree, we said so; venue names are quoted only as the sources report them.*

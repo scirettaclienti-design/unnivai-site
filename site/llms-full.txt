@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Perugia e Assisi senza auto: due giorni con treno e Minimetrò](https://unnivai.com/blog/perugia-e-assisi-in-treno): Due giorni tra Perugia e Assisi senza macchina: Minimetrò, Galleria Nazionale, treno e bus per la Basilica di San Francesco, con orari verificati.
 - [Cagliari in un giorno: Castello, bastioni e anfiteatro](https://unnivai.com/blog/cagliari-in-un-giorno): Cagliari in una giornata a piedi: bastione di Saint Remy, torri, cattedrale e anfiteatro, con orari, biglietti e lo stato del mercato di San Benedetto.
 - [Roma oltre il Colosseo: 5 zone da vedere, con orari](https://unnivai.com/blog/roma-oltre-il-colosseo): Trastevere, Isola Tiberina, Testaccio, Ostiense e Aventino: cosa vedere a Roma lontano dal Colosseo, con orari letti sui siti ufficiali e cosa chiude quando.
 - [Taormina e l'Etna in un giorno: come organizzarla](https://unnivai.com/blog/taormina-e-etna-in-un-giorno): Taormina e l'Etna in un giorno: teatro antico, funivia chiusa fino all'8 dicembre, Isola Bella chiusa, tour sul vulcano e orari da verificare.
@@ -25,6 +26,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [Perugia and Assisi without a car: 2 days by train and Minimetrò](https://unnivai.com/en/blog/perugia-and-assisi-by-train): See Perugia and Assisi in two days without a car: Minimetrò, the National Gallery of Umbria, then train and bus to St Francis Basilica, with checked hours.
 - [One day in Cagliari: what to see on foot, and what is closed](https://unnivai.com/en/blog/one-day-in-cagliari): One day in Cagliari on foot: Saint Remy bastion, towers, cathedral and Roman amphitheatre, with hours, tickets and the San Benedetto market closure.
 - [What to see in Rome besides the Colosseum: 5 areas](https://unnivai.com/en/blog/rome-beyond-the-colosseum): Trastevere, Tiber Island, Testaccio, Ostiense and the Aventine: what to see in Rome away from the Colosseum, with hours from official sites and closures.
 - [Taormina and Mount Etna in one day: is it doable?](https://unnivai.com/en/blog/taormina-and-etna-in-a-day): Taormina and Etna in one day: ancient theatre, cable car closed until 8 December, Isola Bella closed, the volcano tour and hours to check.
@@ -54,6 +56,103 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Perugia e Assisi senza auto: due giorni con treno e Minimetrò
+URL: https://unnivai.com/blog/perugia-e-assisi-in-treno
+Language: it
+Updated: 2026-11-12
+
+Perugia sta in alto e Assisi sta su un fianco di collina: per due città così l'auto sembra comoda, finché non cerchi parcheggio. In realtà si fa tutto con un treno regionale, un bus e una metropolitana a fune, il Minimetrò. Questo itinerario mette in fila due giorni senza macchina, con i trasferimenti spiegati per bene e gli orari che in novembre cambiano il giro.
+
+In breve. Primo giorno a Perugia: Minimetrò dalla stazione al centro, Piazza IV Novembre e Galleria Nazionale dell'Umbria (chiusa il lunedì). Secondo giorno ad Assisi: treno regionale di circa 20 minuti, poi bus Assisi Link (1,30 € a tratta) fino al centro, Basilica di San Francesco e Piazza del Comune. Controlla gli orari: la Basilica ha chiusure parziali a metà novembre.
+
+Giorno 1 · mattinaMinimetrò e Piazza IV NovembreDalla stazione di Perugia al centro storico, senza macchina e senza salite lunghe.
+
+Giorno 1 · pomeriggioGalleria Nazionale dell'UmbriaNel Palazzo dei Priori: chiusa il lunedì, biglietteria alle 18:30.
+
+Giorno 2 · mattinaTreno per Assisi e Basilica di San FrancescoRegionale, poi bus Assisi Link dal piazzale della stazione.
+
+Giorno 2 · pomeriggioPiazza del Comune e Tempio di MinervaIngresso libero, a piedi nel centro di Assisi.
+
+ConsiglioScegli il giorno di Perugia in base al calendario dei musei, non a quello di Assisi: la Galleria Nazionale chiude il lunedì, mentre la Basilica e il Tempio di Minerva sono aperti tutta la settimana. Se hai solo il lunedì, inverti: Assisi prima, Perugia in un altro giorno.
+
+Quale giorno ti serve?
+EntrambiGiorno 1Giorno 2
+
+Giorno 1: Perugia, dal treno al centro in Minimetrò#
+
+Arrivare a Perugia senza auto è la parte facile. La stazione ferroviaria è collegata alla fermata Fontivegge del Minimetrò: lo schema ufficiale della linea segna lì l'icona del treno, e la pagina della Galleria Nazionale lo conferma, indicando il Minimetrò dalla stazione Fontivegge fino al terminal Pincetto, già nel centro storico. La linea è lunga 3.020 metri, supera un dislivello di circa 160 metri con una pendenza massima dell'11,5%, e la frequenza media è di circa 2,5 minuti. Fai in modo che la salita la faccia lui.
+
+Per i biglietti c'è una comodità: la tariffa integrata Unico Perugia vale su Minimetrò (da Pian di Massiano a Pincetto), autobus urbani e treni regionali entro il territorio comunale di Perugia, con corsa semplice, biglietto turistico 24 ore e multiviaggi da 10 corse. Il biglietto va sempre convalidato. Il prezzo non l'abbiamo letto su una pagina ufficiale, quindi non lo scriviamo: guardalo alla biglietteria della stazione o alle casse del Minimetrò.
+
+Gli orari sono il primo punto in cui le fonti non coincidono. Sul sito ufficiale del Minimetrò l'ultima corsa è alle 21:05 nei feriali e alle 20:45 la domenica e nei festivi, con partenza dalle 7:00 (9:00 la domenica); la pagina di Visita Perugia, aggiornata nel 2024, riporta invece 7:00-21:20 dal lunedì al sabato e 8:30-20:30 la domenica. Ci fidiamo del sito dell'azienda, che ha una data più recente. Lo stesso sito dice che ogni sabato fino al 26 dicembre 2026 il servizio è prolungato fino all'1:05.
+
+Una nota per chi viene in questi giorni: Eurochocolate 2026 si svolge dal 13 al 22 novembre e il Minimetrò ha orari speciali. Il sabato 14 e 21 novembre va dalle 7:00 all'1:05; la domenica 15 e 22 dalle 7:30 alle 20:45; nei weekend della manifestazione ci sono bus integrativi con lo stesso biglietto, e da venerdì a domenica le biciclette non salgono sulle vetture. È un buon motivo per andare a Perugia nei giorni feriali, quando la linea resta con l'orario normale.
+
+Mattina: Pincetto, Corso Vannucci e Piazza IV Novembre#
+
+Scendi al Pincetto e sali in centro. Lo schema ufficiale mostra scale mobili e un ascensore inclinato al terminal; la pagina di Visita Perugia ricorda anche che dalla fermata Cupa le scale mobili Pellini portano verso la Torre degli Sciri e Porta Santa Susanna, da dove la salita a piedi verso Corso Vannucci è, parole loro, in salita ma bella. In pratica: non serve nessun mezzo oltre al Minimetrò, e puoi decidere tra la via più comoda e quella più lenta.
+
+Il punto d'arrivo è Piazza IV Novembre, con la Fontana Maggiore e il Palazzo dei Priori. Il Palazzo dei Priori è la tappa del pomeriggio: ospita la Galleria Nazionale dell'Umbria ed è, secondo il Ministero della Cultura, il solo palazzo pubblico italiano a contenere un grande museo nazionale, ed è stato sede del Comune fin dall'epoca medievale. Prima di entrare fermati in piazza: la Galleria è lì sopra, e da qui il resto del centro si fa a piedi.
+
+Pomeriggio: Galleria Nazionale dell'Umbria#
+
+La Galleria è al piano alto del Palazzo dei Priori, in Corso Vannucci 19. Dal 9 novembre 2026 al 1° marzo 2027 è chiusa il lunedì e aperta dal martedì alla domenica dalle 8:30 alle 19:30, con la biglietteria che chiude alle 18:30: se arrivi dopo le 18:30 non entri, anche se mancano ancora ore alla chiusura. Sono previste tre aperture straordinarie di lunedì: 7 dicembre 2026, 28 dicembre 2026 e 4 gennaio 2027.
+
+Il biglietto intero costa 10 €, che diventano 12 € durante le mostre. Il ridotto è di 2 € per i cittadini UE tra 18 e 25 anni, 6 € per i soci del Touring Club Italiano, gratuito sotto i 18 anni. La prima domenica del mese l'ingresso è gratuito presentandosi direttamente in biglietteria (la prevendita di 2 € è facoltativa per i singoli): il prossimo caso è domenica 6 dicembre 2026. L'audioguida con il biglietto della sola collezione permanente costa 15 € in tutto, e il guardaroba è gratuito.
+
+Cosa c'è dentro, secondo il Ministero: 40 sale su circa 3.500 metri quadrati, otto secoli di arte, più di 3.000 opere in raccolta di cui più di 500 esposte. Il capolavoro simbolo, nella sala 13, è il polittico di Sant'Antonio di Piero della Francesca; il museo ha poi la raccolta più ricca e completa al mondo del Perugino e una sala dedicata al Pinturicchio. Non è un museo da fare di corsa: scegli due o tre sale e fermati lì.
+
+Per la sera non indichiamo locali: non abbiamo verificato nessun indirizzo, e Corso Vannucci e le vie intorno bastano per una passeggiata prima di cena.
+
+Giorno 2: Assisi, treno più bus#
+
+Il treno regionale da Perugia ad Assisi fa circa 19 km. Il sito di prenotazione Omio, che è una fonte terza e non il gestore, indica tra 17 e 25 minuti, con prezzi che partono da circa 4 € a tratta. Il numero di corse giornaliere cambia da una pagina all'altra dello stesso sito, quindi non scriviamo una frequenza: apri l'orario del giorno su Trenitalia e scegli.
+
+La stazione ferroviaria di Assisi non è in centro, e per questo esiste l'Assisi Link. Secondo Trenitalia, il bus parte dal piazzale davanti alla stazione e porta nel centro storico; si può comprare con il treno scegliendo Assisi Centro come destinazione, a 1,30 € per un solo viaggio (da aggiungere alla tratta ferroviaria), senza sconti sulla quota del bus. Il biglietto del solo bus non è venduto sui canali Trenitalia, ma Omio indica che a bordo si compra il biglietto urbano a 1,30 € con carta contactless: convalidalo a ogni salita.
+
+Mattina: Basilica di San Francesco#
+
+La facciata della Basilica di San Francesco ad Assisi, con una statua equestre in primo piano Foto: Jessyangeli90, CC BY-SA 4.0, Wikimedia Commons
+Si va alla Basilica per prima perché è la tappa con più regole. Il sito ufficiale indica chiesa inferiore dalle 6:00 alle 18:30 (il mercoledì chiude alle 17:30), chiesa superiore dalle 8:30 alle 18:00, cripta con la tomba del Santo dalle 6:00 alle 18:15. La scheda del Ministero della Cultura riporta 8:30-18:45 tutti i giorni, ma risulta aggiornata nel 2022: tra i due vale quello del sito della Basilica. Sullo stesso sito, per novembre, ci sono due avvisi: il 14 novembre la chiesa inferiore non è visitabile dalle 10:30 alle 12:30 circa, e il 17 novembre la chiesa superiore apre intorno alle 13:00.
+
+La Basilica è fatta di due chiese sovrapposte: la costruzione fu iniziata nel 1228 e la chiesa fu consacrata nel 1253, secondo il Ministero. Nella chiesa superiore, nel registro più basso della navata, trovi le ventotto Storie di San Francesco attribuite a Giotto e ad altri maestri; nella inferiore, tra le altre opere, le cappelle affrescate da Simone Martini e Pietro Lorenzetti.
+
+Pomeriggio: Piazza del Comune e il Tempio di Minerva#
+
+Dalla Basilica si va a piedi verso Piazza del Comune. Il Tempio di Minerva, secondo il portale turistico Visit Assisi, fu costruito nella seconda metà del I secolo a.C., fu trasformato in chiesa nel Medioevo e ha ancora la facciata con sei colonne scanalate in stile corinzio. È aperto con orario solare dalle 8:00 alle 20:00, con ingresso gratuito, e non è accessibile alle persone con disabilità motoria. Goethe, nel suo viaggio del 1786, lo definì il primo monumento antico integro che aveva visto.
+
+Piazza del Comune ad Assisi, con le colonne del Tempio di Minerva a sinistra Foto: Chris Light, CC BY-SA 4.0, Wikimedia Commons
+Se ti rimane tempo, Trenitalia ricorda sulla sua pagina Assisi Link anche la Basilica di Santa Chiara, con le reliquie della santa, e l'Eremo delle Carceri immerso nella natura: due tappe che abbiamo scelto di lasciare fuori perché non abbiamo letto orari ufficiali aggiornati. Se le aggiungi, falle la mattina presto o il giorno dopo.
+
+Quanto spendere (medie indicative)#
+
+Mettendo insieme le cifre lette: Galleria Nazionale 10 € (12 € con mostre), treno da circa 4 € a tratta secondo Omio, bus Assisi Link 1,30 € a tratta secondo Trenitalia. Per una persona adulta sono circa 10 € di museo più 10-11 € tra treno e bus, andata e ritorno, senza contare il biglietto del Minimetrò, che non abbiamo trovato su una pagina ufficiale. Le chiese e il Tempio di Minerva sono a ingresso libero. Sono medie indicative, non una promessa.
+
+Errori comuni a Perugia e Assisi#
+
+Pianificare Perugia di lunedì: la Galleria Nazionale è chiusa, salvo le tre aperture straordinarie di dicembre e gennaio.
+Arrivare alla Galleria dopo le 18:30: la biglietteria chiude un'ora prima del museo.
+Prendere il treno per Assisi e poi cercare il centro a piedi dalla stazione: serve il bus Assisi Link, che parte dal piazzale davanti alla stazione.
+Contare sulla Basilica il 14 e il 17 novembre senza guardare gli avvisi: ci sono chiusure parziali.
+Fidarsi di un solo orario: per Minimetrò e Basilica le fonti non coincidono, come detto sopra.
+
+Piano B: se cambia la giornata#
+
+Con la pioggia il giro regge: Minimetrò, Galleria e Basilica sono quasi tutti al coperto, e il Tempio di Minerva si vede in pochi minuti. Se sei stanco, taglia Piazza del Comune e fermati alla Basilica. Se Eurochocolate rende Perugia troppo piena, sposta il giorno di Perugia a un feriale e tieni Assisi nel weekend.
+
+Cosa lasciare fuori#
+
+Troppe tappe nello stesso giorno: due città in un giorno è possibile solo se rinunci a una delle due.
+L'auto: ad Assisi, secondo Visit Assisi, nel centro storico entrano solo i veicoli autorizzati; a Perugia puoi lasciarla a Pian di Massiano (parcheggio gratuito, secondo il Minimetrò), ma per questo giro non serve.
+I locali che non conosci: non ne indichiamo nessuno, perché non li abbiamo verificati.
+
+Se hai un altro giorno#
+
+Per un altro itinerario senza macchina guarda Polignano a Mare senza auto, costruito attorno al treno e ai piedi, o le Cinque Terre a piedi per capire cosa è chiuso prima di partire. Se preferisci un altro itinerario d'arte a tappe, Firenze in 48 ore ragiona sulle prenotazioni e sugli orari. UNNIVAI è pensata per riscrivere un giro così quando cambiano tempo, orario o stanchezza: se ti serve, entra tra i primi.
+
+Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate e verificati il 12 novembre 2026: cambiano durante l'anno e con gli eventi, quindi controlla prima di partire. Dove due fonti discordano lo abbiamo scritto. Non abbiamo verificato orari di Santa Chiara e dell'Eremo delle Carceri, il prezzo del biglietto del Minimetrò e la frequenza esatta dei treni.
+
 
 # Cagliari in un giorno: Castello, bastioni e anfiteatro
 URL: https://unnivai.com/blog/cagliari-in-un-giorno
@@ -406,7 +505,7 @@ Nota di verifica. Dati letti il 6 novembre 2026 sulle pagine elencate nelle font
 # Polignano a Mare senza auto: treno, piedi e cosa vedere
 URL: https://unnivai.com/blog/polignano-a-mare-senza-auto
 Language: it
-Updated: 2026-11-04
+Updated: 2026-11-12
 
 Polignano a Mare è uno di quei posti che sembrano fatti per chi arriva a piedi: un centro storico bianco affacciato sulla scogliera, una piccola baia incassata tra le rocce e un lungomare che porta fin quasi a Bari. Di auto, qui, non c'è bisogno. Questa guida mette in fila come arrivarci con i mezzi, cosa fare una volta scesi dal treno e quali informazioni, onestamente, non siamo riusciti a verificare.
 
@@ -489,6 +588,8 @@ Se cambia la giornata#
 UNNIVAI è pensata per riscrivere il percorso quando cambiano tempo, orario del treno o stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
 
 Leggi anche: Un altro itinerario di costa a piedi, in Liguria: Cinque Terre a piedi.
+
+Leggi anche: Un altro itinerario senza macchina, in Umbria, con treno e Minimetrò: Perugia e Assisi senza auto in due giorni.
 
 Orari, prezzi e giorni di apertura sono letti sulle fonti indicate e verificati il 2 novembre 2026; cambiano durante l'anno: controlla prima di partire. Dove le fonti non erano ufficiali o discordavano lo abbiamo scritto; non siamo riusciti a verificare la distanza stazione-centro, la presenza di ZTL e navette, gli orari ufficiali dei treni e le modalità per vedere le grotte dal mare.
 
@@ -867,7 +968,7 @@ Nota di verifica. Dati letti il 30 ottobre 2026 sulle pagine elencate nelle font
 # Cinque Terre a piedi: sentieri, treni e cosa è chiuso
 URL: https://unnivai.com/blog/cinque-terre-a-piedi
 Language: it
-Updated: 2026-11-04
+Updated: 2026-11-12
 
 cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
 
@@ -950,6 +1051,8 @@ Se la giornata cambia#
 UNNIVAI riscrive il percorso quando cambia un'apertura, il meteo o la stanchezza: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
 
 Leggi anche: Un altro itinerario di costa che si fa a piedi e in treno: Polignano a Mare senza auto.
+
+Leggi anche: Un altro itinerario che si regge su treni e orari, in Umbria: Perugia e Assisi senza auto in due giorni.
 
 Stato dei sentieri, orari, prezzi e lavori sono verificati sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano spesso: controlla la pagina del Parco il giorno stesso. Dove due fonti discordano lo abbiamo scritto. Non abbiamo letto il calendario delle giornate di alta affluenza né la tariffa dei treni dopo il 1 novembre.
 
@@ -1905,6 +2008,103 @@ Leggi anche: per salire sull'Etna e vedere il teatro antico in una sola giornata
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
 
+# Perugia and Assisi without a car: 2 days by train and Minimetrò
+URL: https://unnivai.com/en/blog/perugia-and-assisi-by-train
+Language: en
+Updated: 2026-11-12
+
+Perugia sits on a hilltop and Assisi on the side of a hill, so a car looks handy until you start looking for parking. In fact the whole trip works with a regional train, a bus and a small automated metro, the Minimetrò. This itinerary lays out two days without a car, with the transfers explained and the hours that change the plan in November.
+
+In brief. Day one in Perugia: Minimetrò from the station to the old town, Piazza IV Novembre and the National Gallery of Umbria (closed on Mondays). Day two in Assisi: regional train of about 20 minutes, then the Assisi Link bus (1.30 € each way) to the centre, the Basilica of St Francis and Piazza del Comune. Check the hours: the Basilica has partial closures in mid-November.
+
+Day 1 · morningMinimetrò and Piazza IV NovembreFrom Perugia station to the old town, with no car and no long climb.
+
+Day 1 · afternoonNational Gallery of UmbriaInside the Palazzo dei Priori: closed on Mondays, ticket office closes at 18:30.
+
+Day 2 · morningTrain to Assisi and the Basilica of St FrancisRegional train, then the Assisi Link bus from the station forecourt.
+
+Day 2 · afternoonPiazza del Comune and the Temple of MinervaFree entry, on foot in the centre of Assisi.
+
+ConsiglioPick your Perugia day from the museum calendar, not from Assisi's: the National Gallery closes on Mondays, while the Basilica and the Temple of Minerva are open all week. If Monday is all you have, flip the order: Assisi first, Perugia on another day.
+
+Quale giorno ti serve?
+EntrambiGiorno 1Giorno 2
+
+Day 1: Perugia, from the train to the centre by Minimetrò#
+
+Getting to Perugia without a car is the easy part. The railway station is linked to the Minimetrò's Fontivegge stop: the official line diagram marks a train icon there, and the National Gallery's page confirms it, pointing to the Minimetrò from Fontivegge station to the Pincetto terminal, already in the historic centre. The line is 3,020 metres long, climbs about 160 metres with a maximum gradient of 11.5%, and runs on average every 2.5 minutes. Let it do the climbing.
+
+Tickets are simple: the integrated Unico Perugia fare is valid on the Minimetrò (Pian di Massiano to Pincetto), on city buses and on regional trains within the municipality of Perugia, with a single ride, a 24-hour tourist ticket and 10-ride multi tickets. Always validate your ticket. We did not read the price on an official page, so we do not write one: check at the station ticket office or the Minimetrò counters.
+
+Hours are the first place where sources disagree. On the Minimetrò's official site the last ride is at 21:05 on weekdays and 20:45 on Sundays and holidays, with service starting at 7:00 (9:00 on Sundays); the Visit Perugia page, updated in 2024, says 7:00-21:20 Monday to Saturday and 8:30-20:30 on Sunday. We trust the operator's own site, which is more recent. The same site says that every Saturday until 26 December 2026 service runs until 1:05.
+
+A note for anyone coming right now: Eurochocolate 2026 runs from 13 to 22 November and the Minimetrò has special hours. On Saturdays 14 and 21 November it runs from 7:00 to 1:05; on Sundays 15 and 22 from 7:30 to 20:45; on the festival weekends there are extra buses on the same ticket, and from Friday to Sunday bicycles are not allowed on the cars. It is a good reason to visit Perugia on a weekday, when the line keeps its normal hours.
+
+Morning: Pincetto, Corso Vannucci and Piazza IV Novembre#
+
+Get off at Pincetto and go up into the centre. The official diagram shows escalators and an inclined lift at the terminal; the Visit Perugia page adds that from the Cupa stop the Pellini escalators lead towards the Torre degli Sciri and Porta Santa Susanna, and from there the walk to Corso Vannucci is, in their words, uphill but beautiful. In practice you need nothing beyond the Minimetrò, and you can choose between the easy way and the slow way.
+
+The destination is Piazza IV Novembre, with the Fontana Maggiore and the Palazzo dei Priori. The Palazzo is your afternoon stop: it houses the National Gallery of Umbria and, according to the Ministry of Culture, is the only Italian public palace that hosts a major national museum, and it has been the seat of the city government since medieval times. Before going in, stop in the square: the Gallery is right above you, and from here the rest of the centre is on foot.
+
+Afternoon: National Gallery of Umbria#
+
+The Gallery is on the upper floors of the Palazzo dei Priori, Corso Vannucci 19. From 9 November 2026 to 1 March 2027 it is closed on Monday and open Tuesday to Sunday from 8:30 to 19:30, with the ticket office closing at 18:30: if you arrive after 18:30 you do not get in, even with hours left before closing. Three special Monday openings are planned: 7 December 2026, 28 December 2026 and 4 January 2027.
+
+The full ticket is 10 €, rising to 12 € during exhibitions. The reduced ticket is 2 € for EU citizens aged 18 to 25, 6 € for Touring Club Italiano members, and free under 18. On the first Sunday of the month entry is free if you go straight to the ticket office (the 2 € pre-booking is optional for individuals): the next one is Sunday 6 December 2026. The audio guide with a permanent-collection ticket is 15 € in total, and the cloakroom is free.
+
+What is inside, according to the Ministry: 40 rooms over about 3,500 square metres, eight centuries of art, more than 3,000 works in the collection of which more than 500 are on display. The signature masterpiece, in room 13, is Piero della Francesca's Sant'Antonio polyptych; the museum also holds the richest and most complete collection of Perugino in the world and a room dedicated to Pinturicchio. It is not a museum to rush: choose two or three rooms and stay there.
+
+For the evening we do not name places: we have not verified any address, and Corso Vannucci and the streets around it are enough for a stroll before dinner.
+
+Day 2: Assisi, train plus bus#
+
+The regional train from Perugia to Assisi covers about 19 km. The booking site Omio, a third-party source and not the operator, shows between 17 and 25 minutes, with prices starting from about 4 € each way. The number of daily trains differs from page to page on the same site, so we do not print a frequency: open the timetable for your day on Trenitalia and pick one.
+
+Assisi railway station is not in the centre, which is why the Assisi Link exists. According to Trenitalia, the bus leaves from the forecourt in front of the station and takes you to the historic centre; you can buy it with the train by choosing Assisi Centro as your destination, at 1.30 € for a single trip (added to the rail fare), with no discounts on the bus part. The bus-only ticket is not sold on Trenitalia channels, but Omio says you can buy the standard urban ticket on board with a contactless card for 1.30 €: validate it every time you board.
+
+The façade of the Basilica of St Francis in Assisi, with an equestrian statue in the foreground Photo: Jessyangeli90, CC BY-SA 4.0, Wikimedia Commons
+Morning: Basilica of St Francis#
+
+Go to the Basilica first because it is the stop with the most rules. The official site lists the lower church from 6:00 to 18:30 (closing at 17:30 on Wednesdays), the upper church from 8:30 to 18:00 and the crypt with the Saint's tomb from 6:00 to 18:15. The Ministry of Culture page gives 8:30-18:45 every day, but it was last updated in 2022: of the two, the Basilica's website wins. That site also carries two November notices: on 14 November the lower church cannot be visited from about 10:30 to 12:30, and on 17 November the upper church opens at about 13:00.
+
+The Basilica is made of two churches built one on the other: construction began in 1228 and the church was consecrated in 1253, according to the Ministry. In the upper church, on the lowest band of the nave, you find the twenty-eight Stories of St Francis attributed to Giotto and other masters; in the lower church, among other works, the chapels frescoed by Simone Martini and Pietro Lorenzetti.
+
+Afternoon: Piazza del Comune and the Temple of Minerva#
+
+From the Basilica walk to Piazza del Comune. The Temple of Minerva, according to the Visit Assisi tourist portal, was built in the second half of the 1st century BC, was turned into a church in the Middle Ages, and still has its six fluted Corinthian columns. It is open in winter time from 8:00 to 20:00, with free entry, and is not accessible to visitors with reduced mobility. Goethe, on his 1786 journey, called it the first intact ancient monument he had seen.
+
+Piazza del Comune in Assisi, with the columns of the Temple of Minerva on the left Photo: Chris Light, CC BY-SA 4.0, Wikimedia Commons
+If you have time left, Trenitalia's Assisi Link page also mentions the Basilica of Santa Chiara, with the saint's relics, and the Eremo delle Carceri set in nature: two stops we chose to leave out because we did not read up-to-date official hours. If you add them, do them early in the morning or the next day.
+
+How much to spend (indicative averages)#
+
+Putting together the figures we read: National Gallery 10 € (12 € with exhibitions), train from about 4 € each way according to Omio, Assisi Link bus 1.30 € each way according to Trenitalia. For an adult that is about 10 € for the museum plus 10-11 € for train and bus, return, not counting the Minimetrò ticket, which we did not find on an official page. The churches and the Temple of Minerva are free to enter. These are indicative averages, not a promise.
+
+Common mistakes in Perugia and Assisi#
+
+Planning Perugia on a Monday: the National Gallery is closed, apart from the three special openings in December and January.
+Arriving at the Gallery after 18:30: the ticket office closes an hour before the museum.
+Taking the train to Assisi and then looking for the centre on foot from the station: you need the Assisi Link bus, which leaves from the forecourt in front of the station.
+Counting on the Basilica on 14 and 17 November without checking the notices: there are partial closures.
+Trusting a single timetable: for the Minimetrò and the Basilica the sources disagree, as said above.
+
+Plan B: if your day changes#
+
+If it rains the plan holds: the Minimetrò, the Gallery and the Basilica are mostly indoors, and the Temple of Minerva takes a few minutes. If you are tired, cut Piazza del Comune and stop at the Basilica. If Eurochocolate makes Perugia too crowded, move the Perugia day to a weekday and keep Assisi for the weekend.
+
+What to leave out#
+
+Too many stops in one day: two cities in a day only works if you give up one of them.
+The car: in Assisi, according to Visit Assisi, only authorised vehicles enter the historic centre; in Perugia you can leave it at Pian di Massiano (free parking, according to the Minimetrò), but you do not need it for this plan.
+Places we do not know: we name none, because we have not verified them.
+
+If you have another day#
+
+For another car-free itinerary see Polignano a Mare without a car, built around the train and walking, or Cinque Terre on foot to find out what is closed before you leave. If you prefer another art itinerary in stages, Florence in 48 hours works around bookings and opening hours. UNNIVAI is built to rewrite a plan like this when weather, hours or tiredness change: if it sounds useful, join the first people in.
+
+Hours, prices and opening days were read on the official sources listed and checked on 12 November 2026: they change during the year and with events, so check before you go. Where two sources disagree, we said so. We did not verify the hours of Santa Chiara and the Eremo delle Carceri, the Minimetrò ticket price or the exact train frequency.
+
+
 # One day in Cagliari: what to see on foot, and what is closed
 URL: https://unnivai.com/en/blog/one-day-in-cagliari
 Language: en
@@ -2256,7 +2456,7 @@ Verification note. Data read on 6 November 2026 on the pages listed in the sourc
 # Polignano a Mare without a car: train, on foot, what to see
 URL: https://unnivai.com/en/blog/polignano-a-mare-without-a-car
 Language: en
-Updated: 2026-11-04
+Updated: 2026-11-12
 
 Polignano a Mare is made for people who arrive on foot: a white old town on the cliff edge, a small cove squeezed between the rocks and a seafront path that reaches almost to Bari. You do not need a car here. This guide puts in order how to get there by public transport, what to do once you step off the train, and which facts we honestly could not verify.
 
@@ -2339,6 +2539,8 @@ If your day changes#
 UNNIVAI is built to rewrite the route when the weather, train time or tiredness change: same walk, different order. If it sounds useful, join the first people in.
 
 Read next: Another coastal walking itinerary, in Liguria: Cinque Terre on foot.
+
+Read next: Another car-free itinerary, in Umbria, with train and Minimetrò: Perugia and Assisi without a car in two days.
 
 Hours, prices and opening days were read on the sources listed and checked on 2 November 2026; they change during the year: check before you go. Where sources were not official or disagreed we said so; we could not verify the station-to-centre distance, whether there are traffic-restricted zones or shuttles, official train timetables, or how to see the caves from the sea.
 
@@ -2717,7 +2919,7 @@ Verification note. Data read on 30 October 2026 on the pages listed in the sourc
 # Cinque Terre on foot: trails, trains and what is closed
 URL: https://unnivai.com/en/blog/cinque-terre-on-foot
 Language: en
-Updated: 2026-11-04
+Updated: 2026-11-12
 
 cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
 
@@ -2800,6 +3002,8 @@ If your day changes#
 UNNIVAI is built to rewrite the route when an opening, the weather or tiredness changes: same walk, different order. If it sounds useful, join the first people in.
 
 Read next: Another coastal itinerary done on foot and by train: Polignano a Mare without a car.
+
+Read next: Another itinerary built on trains and timetables, in Umbria: Perugia and Assisi without a car in two days.
 
 Trail status, hours, prices and works were checked on the official sources listed on 30 October 2026 and change often: check the park's page on the day. Where two sources disagree, we said so. We did not read the calendar of high-attendance days or the train fare after 1 November.
 

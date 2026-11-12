@@ -3,7 +3,7 @@ id: polignano-a-mare-senza-auto
 title: Polignano a Mare without a car: train, on foot, what to see
 description: How to visit Polignano a Mare without a car: train from Bari, old town, Lama Monachile, the Pascali museum and the coastal walk to San Vito, with sources.
 date: 2026-11-02
-updated: 2026-11-04
+updated: 2026-11-12
 category: Polignano a Mare
 cover: Polignano
 tags: No car, Half day, Coast
@@ -116,5 +116,7 @@ For another walkable southern town, see [Matera and the Sassi](/blog/visiting-ma
 UNNIVAI is built to rewrite the route when the weather, train time or tiredness change: same walk, different order. If it sounds useful, [join the first people in](/?src=blog-polignano-a-mare-senza-auto-en#iscriviti).
 
 **Read next:** Another coastal walking itinerary, in Liguria: [Cinque Terre on foot](/blog/cinque-terre-on-foot).
+
+**Read next:** Another car-free itinerary, in Umbria, with train and Minimetrò: [Perugia and Assisi without a car in two days](/blog/perugia-and-assisi-by-train).
 
 *Hours, prices and opening days were read on the sources listed and checked on 2 November 2026; they change during the year: check before you go. Where sources were not official or disagreed we said so; we could not verify the station-to-centre distance, whether there are traffic-restricted zones or shuttles, official train timetables, or how to see the caves from the sea.*

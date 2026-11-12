@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Perugia e Assisi senza auto: due giorni con treno e Minimetrò](https://unnivai.com/blog/perugia-e-assisi-in-treno): Due giorni tra Perugia e Assisi senza macchina: Minimetrò, Galleria Nazionale, treno e bus per la Basilica di San Francesco, con orari verificati.
 - [Cagliari in un giorno: Castello, bastioni e anfiteatro](https://unnivai.com/blog/cagliari-in-un-giorno): Cagliari in una giornata a piedi: bastione di Saint Remy, torri, cattedrale e anfiteatro, con orari, biglietti e lo stato del mercato di San Benedetto.
 - [Roma oltre il Colosseo: 5 zone da vedere, con orari](https://unnivai.com/blog/roma-oltre-il-colosseo): Trastevere, Isola Tiberina, Testaccio, Ostiense e Aventino: cosa vedere a Roma lontano dal Colosseo, con orari letti sui siti ufficiali e cosa chiude quando.
 - [Taormina e l'Etna in un giorno: come organizzarla](https://unnivai.com/blog/taormina-e-etna-in-un-giorno): Taormina e l'Etna in un giorno: teatro antico, funivia chiusa fino all'8 dicembre, Isola Bella chiusa, tour sul vulcano e orari da verificare.
@@ -25,6 +26,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [Perugia and Assisi without a car: 2 days by train and Minimetrò](https://unnivai.com/en/blog/perugia-and-assisi-by-train): See Perugia and Assisi in two days without a car: Minimetrò, the National Gallery of Umbria, then train and bus to St Francis Basilica, with checked hours.
 - [One day in Cagliari: what to see on foot, and what is closed](https://unnivai.com/en/blog/one-day-in-cagliari): One day in Cagliari on foot: Saint Remy bastion, towers, cathedral and Roman amphitheatre, with hours, tickets and the San Benedetto market closure.
 - [What to see in Rome besides the Colosseum: 5 areas](https://unnivai.com/en/blog/rome-beyond-the-colosseum): Trastevere, Tiber Island, Testaccio, Ostiense and the Aventine: what to see in Rome away from the Colosseum, with hours from official sites and closures.
 - [Taormina and Mount Etna in one day: is it doable?](https://unnivai.com/en/blog/taormina-and-etna-in-a-day): Taormina and Etna in one day: ancient theatre, cable car closed until 8 December, Isola Bella closed, the volcano tour and hours to check.

@@ -470,5 +470,29 @@
   "url": "https://commons.wikimedia.org/wiki/File:Cagliari_Kathedrale.jpg",
   "w": 1400,
   "h": 831
+ },
+ "assisi-basilica-san-francesco": {
+  "file": "File:Assisi - Basilica di San Francesco con statua.jpg",
+  "artist": "Jessyangeli90",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Assisi_-_Basilica_di_San_Francesco_con_statua.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "assisi-piazza-del-comune": {
+  "file": "File:Piazza Comune (looking east) 10-8 071.jpg",
+  "artist": "Chris Light",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Piazza_Comune_(looking_east)_10-8_071.jpg",
+  "w": 1400,
+  "h": 1050
+ },
+ "perugia-fontana-maggiore": {
+  "file": "File:Piazza IV Novembre - Palazzo dei Priori e Fontana Maggiore 01.jpg",
+  "artist": "Claudioas",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Piazza_IV_Novembre_-_Palazzo_dei_Priori_e_Fontana_Maggiore_01.jpg",
+  "w": 1400,
+  "h": 1046
  }
 }

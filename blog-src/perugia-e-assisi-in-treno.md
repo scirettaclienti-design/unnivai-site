@@ -1,5 +1,5 @@
 ---
-title: Perugia e Assisi senza auto: due giorni con treno e Minimetrò
+title: Perugia e Assisi senza auto: 2 giorni con treno e Minimetrò
 description: Due giorni tra Perugia e Assisi senza macchina: Minimetrò, Galleria Nazionale, treno e bus per la Basilica di San Francesco, con orari verificati.
 date: 2026-11-12
 updated: 2026-11-12

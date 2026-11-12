@@ -1,6 +1,6 @@
 ---
 id: perugia-e-assisi-in-treno
-title: Perugia and Assisi without a car: 2 days by train and Minimetrò
+title: Perugia and Assisi by train: 2 days without a car
 description: See Perugia and Assisi in two days without a car: Minimetrò, the National Gallery of Umbria, then train and bus to St Francis Basilica, with checked hours.
 date: 2026-11-12
 updated: 2026-11-12

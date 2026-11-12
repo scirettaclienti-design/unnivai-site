@@ -3,7 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
-- [Perugia e Assisi senza auto: due giorni con treno e Minimetrò](https://unnivai.com/blog/perugia-e-assisi-in-treno): Due giorni tra Perugia e Assisi senza macchina: Minimetrò, Galleria Nazionale, treno e bus per la Basilica di San Francesco, con orari verificati.
+- [Perugia e Assisi senza auto: 2 giorni con treno e Minimetrò](https://unnivai.com/blog/perugia-e-assisi-in-treno): Due giorni tra Perugia e Assisi senza macchina: Minimetrò, Galleria Nazionale, treno e bus per la Basilica di San Francesco, con orari verificati.
 - [Cagliari in un giorno: Castello, bastioni e anfiteatro](https://unnivai.com/blog/cagliari-in-un-giorno): Cagliari in una giornata a piedi: bastione di Saint Remy, torri, cattedrale e anfiteatro, con orari, biglietti e lo stato del mercato di San Benedetto.
 - [Roma oltre il Colosseo: 5 zone da vedere, con orari](https://unnivai.com/blog/roma-oltre-il-colosseo): Trastevere, Isola Tiberina, Testaccio, Ostiense e Aventino: cosa vedere a Roma lontano dal Colosseo, con orari letti sui siti ufficiali e cosa chiude quando.
 - [Taormina e l'Etna in un giorno: come organizzarla](https://unnivai.com/blog/taormina-e-etna-in-un-giorno): Taormina e l'Etna in un giorno: teatro antico, funivia chiusa fino all'8 dicembre, Isola Bella chiusa, tour sul vulcano e orari da verificare.
@@ -22,11 +22,11 @@
 - [Cosa mangiare a Catania: 10 assaggi in ordine di giornata](https://unnivai.com/blog/cosa-mangiare-a-catania): Arancino, granita con brioche, pasta alla Norma, carne di cavallo e dolci di Sant'Agata: cosa ordinare a Catania, quando, e quanto spendere circa.
 - [Un giorno a Ortigia: itinerario a piedi, senza correre](https://unnivai.com/blog/un-giorno-a-ortigia): Come vedere Ortigia in una giornata: ordine delle tappe, dove rallentare e cosa lasciare fuori per non trasformarla in una maratona.
 - [Roma in due giorni: un itinerario che non ti sfinisce](https://unnivai.com/blog/roma-in-due-giorni): Due giorni a Roma con un ordine sensato: tappe raggruppate per zona, orari da controllare e come non passare la giornata in coda.
-- [Itinerari con l'intelligenza artificiale: cosa funziona e cosa no](https://unnivai.com/blog/itinerario-turistico-con-intelligenza-artificiale): Come usare l'AI per pianificare un viaggio senza farsi inventare posti che non esistono: cosa chiederle, cosa verificare e perché contano i luoghi veri.
+- [Itinerari con l'intelligenza artificiale: cosa funziona](https://unnivai.com/blog/itinerario-turistico-con-intelligenza-artificiale): Come usare l'AI per pianificare un viaggio senza farsi inventare posti che non esistono: cosa chiederle, cosa verificare e perché contano i luoghi veri.
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
-- [Perugia and Assisi without a car: 2 days by train and Minimetrò](https://unnivai.com/en/blog/perugia-and-assisi-by-train): See Perugia and Assisi in two days without a car: Minimetrò, the National Gallery of Umbria, then train and bus to St Francis Basilica, with checked hours.
+- [Perugia and Assisi by train: 2 days without a car](https://unnivai.com/en/blog/perugia-and-assisi-by-train): See Perugia and Assisi in two days without a car: Minimetrò, the National Gallery of Umbria, then train and bus to St Francis Basilica, with checked hours.
 - [One day in Cagliari: what to see on foot, and what is closed](https://unnivai.com/en/blog/one-day-in-cagliari): One day in Cagliari on foot: Saint Remy bastion, towers, cathedral and Roman amphitheatre, with hours, tickets and the San Benedetto market closure.
 - [What to see in Rome besides the Colosseum: 5 areas](https://unnivai.com/en/blog/rome-beyond-the-colosseum): Trastevere, Tiber Island, Testaccio, Ostiense and the Aventine: what to see in Rome away from the Colosseum, with hours from official sites and closures.
 - [Taormina and Mount Etna in one day: is it doable?](https://unnivai.com/en/blog/taormina-and-etna-in-a-day): Taormina and Etna in one day: ancient theatre, cable car closed until 8 December, Isola Bella closed, the volcano tour and hours to check.
@@ -57,7 +57,7 @@
 
 ---
 
-# Perugia e Assisi senza auto: due giorni con treno e Minimetrò
+# Perugia e Assisi senza auto: 2 giorni con treno e Minimetrò
 URL: https://unnivai.com/blog/perugia-e-assisi-in-treno
 Language: it
 Updated: 2026-11-12
@@ -1802,10 +1802,10 @@ Leggi anche: Quando hai già visto i classici, altre cinque zone di Roma ragiona
 Nota di verifica: orari, prezzi e regole di accesso sono stati letti sui siti ufficiali del Parco archeologico del Colosseo, dei Musei Vaticani, della Basilica di San Pietro, del Ministero della Cultura (Pantheon) e dell'ATAC il 29 ottobre 2026. Cambiano per stagione e per eventi: verifica sempre le informazioni ufficiali prima di partire. Non verificati: prezzi dei biglietti del Colosseo, linee e fermate dei trasporti, accessibilità di Colosseo e Foro, tariffe d'ingresso della Basilica.
 
 
-# Itinerari con l'intelligenza artificiale: cosa funziona e cosa no
+# Itinerari con l'intelligenza artificiale: cosa funziona
 URL: https://unnivai.com/blog/itinerario-turistico-con-intelligenza-artificiale
 Language: it
-Updated: 2026-10-29
+Updated: 2026-11-12
 
 Chiedere a un'AI "organizzami tre giorni a Palermo" funziona sempre, nel senso che la risposta arriva. Il punto è un altro: è giusta? Un buon itinerario non è un elenco ben scritto, è una sequenza di luoghi reali, aperti, raggiungibili nell'ordine che ti propone. Ed è lì che le cose si complicano.
 
@@ -2008,7 +2008,7 @@ Leggi anche: per salire sull'Etna e vedere il teatro antico in una sola giornata
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
 
-# Perugia and Assisi without a car: 2 days by train and Minimetrò
+# Perugia and Assisi by train: 2 days without a car
 URL: https://unnivai.com/en/blog/perugia-and-assisi-by-train
 Language: en
 Updated: 2026-11-12

@@ -11,7 +11,7 @@
 6. **IT e EN insieme.** Stesso `id`, slug EN in inglese, contenuto adattato (non traduzione meccanica: unità, abitudini, link alle fonti in inglese se esistono).
 
 ## Struttura
-- Titolo 30-65 caratteri con la parola chiave principale; description 70-160.
+- Titolo 30-60 caratteri con la parola chiave principale; description 70-160.
 - Riquadro `> **In breve.** …` (la risposta in 2-3 frasi: è ciò che le AI citano).
 - `scheda:` con 3-5 voci (zona, durata, budget/orari indicativi, come si gira).
 - Tappe `:::tappe` quando c'è un percorso; widget interattivo se ha senso (rain / time / days).

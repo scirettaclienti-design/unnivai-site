@@ -416,7 +416,7 @@ for i,p in enumerate(posts):
     W(f"{SITE}{P}/blog/{p['slug']}/index.html",h,alt)
 # ---------- sitemap + rss ----------
 urls=[(BASE+'/','2026-10-28','1.0'),(BASE+'/blog',posts[0]['date'],'0.9')]+[(f"{BASE}/blog/{p['slug']}",p['date'],'0.8') for p in posts]
-open(SITE+P+'/rss.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Blog UNNIVAI</title><link>'+BASE+'/blog</link><description>'+html.escape(idx_desc)+'</description><language>'+LG+'</language>'+''.join(f"<item><title>{html.escape(p['title'])}</title><link>{BASE}/blog/{p['slug']}</link><guid>{BASE}/blog/{p['slug']}</guid><pubDate>{p['date']}</pubDate><description>{html.escape(p['description'])}</description></item>" for p in posts)+'</channel></rss>')
+open(SITE+P+'/rss.xml','w').write('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Blog UNNIVAI</title><link>'+BASE+P+'/blog</link><description>'+html.escape(idx_desc)+'</description><language>'+LG+'</language>'+''.join(f"<item><title>{html.escape(p['title'])}</title><link>{BASE}{P}/blog/{p['slug']}</link><guid>{BASE}{P}/blog/{p['slug']}</guid><pubDate>{p['date']}</pubDate><description>{html.escape(p['description'])}</description></item>" for p in posts)+'</channel></rss>')
 # ---------- OG ----------
 def og_bg(pp):
     if pp.get('cover_ph'):return '<img src="file://'+os.path.abspath(SITE)+'/blog/img/'+pp['cover_ph'][0]+'.webp" alt="">'

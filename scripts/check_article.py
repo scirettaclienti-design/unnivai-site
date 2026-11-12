@@ -25,7 +25,7 @@ if not en:errs.append('manca la versione EN (stesso id)')
 for lab,p,d in [('IT',it,a)]+[('EN',en[0],fm(en[0]))] if en else [('IT',it,a)]:
     w=words(d['body'])
     if w<1100:errs.append(f'{lab}: {w} parole (minimo 1100)')
-    if not 30<=len(d['title'])<=65:errs.append(f"{lab}: titolo {len(d['title'])} caratteri (30-65)")
+    if not 30<=len(d["title"])<=60:errs.append(f"{lab}: titolo {len(d['title'])} caratteri (30-60)")
     if not 70<=len(d['description'])<=160:errs.append(f"{lab}: description {len(d['description'])} caratteri (70-160)")
     if d['faq']<4:errs.append(f"{lab}: FAQ {d['faq']} (minimo 4)")
     if d['scheda']<3:errs.append(f"{lab}: scheda con meno di 3 voci")

@@ -1,8 +1,8 @@
 ---
-title: Itinerari con l'intelligenza artificiale: cosa funziona e cosa no
+title: Itinerari con l'intelligenza artificiale: cosa funziona
 description: Come usare l'AI per pianificare un viaggio senza farsi inventare posti che non esistono: cosa chiederle, cosa verificare e perché contano i luoghi veri.
 date: 2026-10-28
-updated: 2026-10-29
+updated: 2026-11-12
 category: Turismo e AI
 cover: AI
 tags: AI, Pianificazione

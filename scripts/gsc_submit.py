@@ -7,7 +7,7 @@ raw=os.environ.get('GSC_SA_JSON','').strip()
 if not raw:print('GSC_SA_JSON non impostata: salto Search Console (IndexNow gira comunque).');sys.exit(0)
 from google.oauth2 import service_account
 from google.auth.transport.requests import AuthorizedSession
-prop=os.environ.get('GSC_PROPERTY','sc-domain:unnivai.com')
+prop=os.environ.get('GSC_PROPERTY') or 'sc-domain:unnivai.com'
 creds=service_account.Credentials.from_service_account_info(json.loads(raw),scopes=['https://www.googleapis.com/auth/webmasters'])
 s=AuthorizedSession(creds)
 site=urllib.parse.quote(prop,safe='');feed=urllib.parse.quote('https://unnivai.com/sitemap.xml',safe='')

@@ -11,13 +11,20 @@ for p in pages:
     t=re.search(r'<title>(.*?)</title>',h);d=re.search(r'<meta name="description" content="(.*?)"',h)
     if not t:issues.append((name,'no title'))
     else:
-        if len(t.group(1))>65:issues.append((name,f'title {len(t.group(1))} chars'))
+        if len(t.group(1))>60:issues.append((name,f'title {len(t.group(1))} chars'))
     if d and not 70<=len(d.group(1))<=160:issues.append((name,f'desc {len(d.group(1))} chars'))
     if not d:issues.append((name,'no desc'))
     n1=len(re.findall(r'<h1[ >]',h))
     if n1!=1 and 'index.html' and not name=='/index.html':issues.append((name,f'h1 count {n1}'))
     for m in re.findall(r'<script type="application/ld\+json">(.*?)</script>',h,re.S):
-        try:json.loads(m)
+        try:
+            jd=json.loads(m)
+            def _w(x):
+                if isinstance(x,dict):
+                    if x.get('@type')=='ImageObject' and 'creditText' in x and 'license' not in x:issues.append((name,'ImageObject senza license'))
+                    [_w(v) for v in x.values()]
+                elif isinstance(x,list):[_w(v) for v in x]
+            _w(jd)
         except Exception as e:issues.append((name,'bad jsonld '+str(e)[:40]))
     for u in set(re.findall(r'href="(/[^"#]*)',h))|set(re.findall(r'src="(/[^"]+)"',h)):
         if not exists(u):issues.append((name,'broken '+u))
@@ -26,4 +33,7 @@ for p in pages:
         if a not in ids and a not in('privacy','iscriviti','top','come','perche','main'):issues.append((name,'dead anchor #'+a))
     sz=len(h.encode())
     print(f'{name:60s} {sz//1024:4d}KB  h1={n1}')
+for _f in ('rss.xml','en/rss.xml'):
+    for _u in re.findall(r'<link>https://unnivai\.com([^<]*)</link>',open(f'{S}/{_f}',encoding='utf-8').read()):
+        if not exists(_u):issues.append(('/'+_f,'link RSS inesistente '+_u))
 print('ISSUES');[print(' ',i) for i in issues]

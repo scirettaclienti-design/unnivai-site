@@ -376,10 +376,17 @@ W(SITE+P+'/blog/index.html',idx,(BASE+'/blog',BASE+'/en/blog'))
 def related(p):
     sc=lambda q:(q['category']==p['category'])*3+len(set(q['tags'])&set(p['tags']))
     return sorted([q for q in posts if q is not p],key=lambda q:-sc(q))[:3]
+def lic_url(l):
+    l=l.strip();m=re.match(r'CC BY(-SA)?\s+(\d\.\d)(?:\s+([a-z]{2}))?',l)
+    if m:return 'https://creativecommons.org/licenses/'+('by-sa' if m.group(1) else 'by')+'/'+m.group(2)+'/'+((m.group(3)+'/') if m.group(3) else '')
+    if l.upper().startswith('CC0'):return 'https://creativecommons.org/publicdomain/zero/1.0/'
+    if l.lower().startswith('public domain'):return 'https://creativecommons.org/publicdomain/mark/1.0/'
+    raise SystemExit('licenza senza URL: '+l)
 def schema_img(p,og):
     if not p.get('cover_ph'):return og
     k,cap=p['cover_ph'];ph=PHOTOS[k]
-    return [{"@type":"ImageObject","url":og,"width":1200,"height":630},{"@type":"ImageObject","url":f"{BASE}/blog/img/{k}.webp","width":ph['w'],"height":ph['h'],"caption":cap,"creditText":ph['artist'],"creator":{"@type":"Person","name":ph['artist']},"acquireLicensePage":ph['url'],"copyrightNotice":ph['artist']+', '+ph['license']}]
+    meta={"creditText":ph['artist'],"creator":{"@type":"Person","name":ph['artist']},"license":lic_url(ph['license']),"acquireLicensePage":ph['url'],"copyrightNotice":ph['artist']+', '+ph['license']}
+    return [{"@type":"ImageObject","url":og,"width":1200,"height":630,**meta},{"@type":"ImageObject","url":f"{BASE}/blog/img/{k}.webp","width":ph['w'],"height":ph['h'],"caption":cap,**meta}]
 for i,p in enumerate(posts):
     url=f"{BASE}/blog/{p['slug']}";img=f"{BASE}/blog/og/{p['slug']}."+('jpg' if p.get('cover_ph') else 'png');p['og_img']=img
     faq=''.join(f'<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q,a in p['faq'])

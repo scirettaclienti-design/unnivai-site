@@ -2,10 +2,11 @@
 title: Venezia senza folla: come evitarla e dove mangiare davvero
 description: Come visitare Venezia senza la folla: contributo di accesso, vaporetto, orari del mercato di Rialto e bacari, con le discordanze tra le fonti segnalate.
 date: 2026-10-29
+updated: 2026-11-14
 category: Venezia
 cover: Venezia
 tags: Logistica, Cibo, Una giornata
-read: 9
+read: 11
 scheda:
 - Zona::Venezia centro storico (sestieri Cannaregio, Castello, San Polo) e isole della laguna
 - Durata::Una giornata piena, meglio due
@@ -16,7 +17,8 @@ faq:
 - Quanto costa il vaporetto a Venezia?::Sul sito ufficiale AVM il biglietto ordinario da 75 minuti costa 9,50 €; i biglietti a tempo costano 25 € (24 ore), 35 € (48 ore), 45 € (72 ore) e 65 € (7 giorni). Sono prezzi indicativi, controlla la pagina ufficiale prima di partire.
 - Quando è meno affollata Venezia?::Le guide indicano il mattino presto, la sera dopo il tramonto e, fuori dai periodi festivi, i mesi da novembre a febbraio. La città stessa invita a scegliere giorni di minor afflusso e a fermarsi più giorni.
 - Cosa sono cicchetti e bacari?::I bacari sono le piccole osterie veneziane; i cicchetti sono gli stuzzichini esposti al banco, che si mangiano con un'ombra, cioè un bicchiere di vino. Di solito si va di bacaro in bacaro, a pranzo o all'ora dell'aperitivo.
-- Il mercato di Rialto è aperto ogni giorno?::No, e le fonti non concordano sul sabato: un sito indica il pesce dal martedì al sabato, un altro dal martedì al venerdì. Frutta e verdura risultano aperte dal lunedì al sabato fino alle 13.30. Vai in mattinata e verifica il giorno.
+- Il mercato di Rialto è aperto ogni giorno?::No. Frutta e verdura (Erbaria) risultano aperte dal lunedì al sabato fino alle 13.30; la pescheria dal martedì al sabato secondo tre siti su quattro, mentre uno la dà aperta solo fino al venerdì: sul sabato le fonti non concordano. Domenica è chiuso. Vai in mattinata e verifica il giorno.
+- Cos'è l'acqua alta e cosa fare da novembre ad aprile?::È la marea alta che allaga le zone basse della città. Dal 15 settembre al 30 aprile il Comune, in base alle previsioni del Centro Maree, attiva le passerelle: i percorsi assicurano di camminare a piedi asciutti fino a +120 cm di marea; oltre quel livello alcuni possono essere inagibili. Controlla la previsione del Centro Maree il giorno prima e la mattina stessa.
 sources:
 - Comune di Venezia, Contributo di Accesso (pagina informativa)::https://www.comune.venezia.it/it/cda-info
 - Comune di Venezia, Contributo di Accesso (sito ufficiale)::https://cda.ve.it/
@@ -26,11 +28,15 @@ sources:
 - Visit Venezia, Il Bacaro Tour::https://www.visitvenezia.eu/venezianita/percorri-venezia/il-bacaro-tour-una-tradizione-veneziana
 - Visit Venezia, visitare Venezia senza la folla::https://www.visitvenezia.eu/venezianita/scopri-venezia/come-visitare-venezia-senza-la-folla-guida-locale-alla-magia-tranquilla-della-serenissima
 - Hotel All'Angelo, Mercato di Rialto::https://www.allangelo.it/mercato-di-rialto.html
+- Comune di Venezia, Percorsi su passerelle (Piano di Viabilità Pedonale)::https://www.comune.venezia.it/it/content/percorsi-su-passerelle
+- Comune di Venezia, Centro Previsioni e Segnalazioni Maree::https://www.comune.venezia.it/it/content/centro-previsioni-e-segnalazioni-maree-beta
+- Venezia Unica, trasporto pubblico: biglietti ACTV e Alilaguna::https://www.veneziaunica.it/en/buy-tickets/public-trasport-in-venice
+- Treffpunkt Venedig, mercati di Venezia 2026::https://www.treffpunkt-venedig.de/en/venice-markets/
 - Ca' Pozzo Venice, il mercato del pesce di Rialto::https://capozzoinn.com/it/mercato-pesce-rialto-venezia/
 ---
 Venezia non è una città da "fare": è una città da attraversare in un certo ordine, a certe ore. Il problema non è la città, è il momento in cui ci arrivi. Questa guida mette insieme quello che dicono le pagine ufficiali del Comune e di AVM (contributo di accesso, vaporetto, regole di comportamento) con quello che dicono i siti turistici su orari, quartieri più tranquilli e bacari, indicando ogni volta dove le fonti non concordano.
 
-> **In breve.** Oggi a Venezia non si paga alcun contributo di accesso (la sperimentazione 2026 è finita il 26 luglio; nel 2027 tornerà in giornate fissate tra marzo e agosto, dalle 8.30 alle 16.30). Per evitare la folla vai al mattino presto o dopo il tramonto, sposta il centro della giornata a Cannaregio e Castello, mangia a bancone nei bacari invece che ai tavoli intorno a San Marco. Per vaporetto e mercati controlla sempre le pagine ufficiali: prezzi e giorni cambiano.
+> **In breve.** Oggi a Venezia non si paga alcun contributo di accesso (la sperimentazione 2026 è finita il 26 luglio; nel 2027 tornerà in giornate fissate tra marzo e agosto, dalle 8.30 alle 16.30). Per evitare la folla vai al mattino presto o dopo il tramonto, sposta il centro della giornata a Cannaregio e Castello, mangia a bancone nei bacari invece che ai tavoli intorno a San Marco. Da novembre ad aprile guarda anche la previsione di marea del Comune: con l'acqua alta si cammina sulle passerelle. Per vaporetto e mercati controlla sempre le pagine ufficiali: prezzi e giorni cambiano.
 
 :::foto venezia-ponte-rialto | Il Canal Grande con il Ponte di Rialto sullo sfondo, gondole e barche in transito
 
@@ -59,7 +65,7 @@ La seconda leva è il quartiere. I siti locali indicano Cannaregio e Castello co
 
 ## Vaporetto: quale biglietto serve davvero?
 
-Sul sito ufficiale di AVM i prezzi principali sono questi: biglietto ordinario da 75 minuti sulla rete unica 9,50 €, 24 ore 25 €, 48 ore 35 €, 72 ore 45 €, 7 giorni 65 €. Il biglietto a tempo è valido su tutti i mezzi di terra e di navigazione e permette viaggi illimitati nella fascia oraria che parte alla prima validazione; i collegamenti con l'aeroporto Marco Polo non sono compresi. Il biglietto va convalidato appena saliti, avvicinandolo alla validatrice, e a ogni cambio di mezzo serve una nuova convalida. La pagina indica anche un'offerta "Rolling Venice - Giovani" con biglietto 72 ore a 27 €: non ho letto le condizioni, quindi verifica prima di contarci.
+Sul sito ufficiale di AVM i prezzi principali sono questi: biglietto ordinario da 75 minuti sulla rete unica 9,50 €, 24 ore 25 €, 48 ore 35 €, 72 ore 45 €, 7 giorni 65 €. Il biglietto a tempo è valido su tutti i mezzi di terra e di navigazione e permette viaggi illimitati nella fascia oraria che parte alla prima validazione; i collegamenti con l'aeroporto Marco Polo non sono compresi. Il biglietto va convalidato appena saliti, avvicinandolo alla validatrice, e a ogni cambio di mezzo serve una nuova convalida. La pagina indica anche un'offerta "Rolling Venice - Giovani" con biglietto 72 ore a 27 €; sul sito di Venezia Unica lo stesso abbinamento (ACTV 72 ore + Rolling Venice) compare invece "da 33 €". Due pagine ufficiali, due cifre: non ho letto le condizioni, quindi verifica il prezzo al momento dell'acquisto.
 
 Un conto che aiuta: due biglietti da 75 minuti costano 19 €, meno del biglietto da 24 ore (25 €); tre biglietti costano 28,50 €, più del 24 ore. Quindi il 24 ore conviene solo se prevedi almeno tre viaggi in momenti diversi della giornata. Sono conti sui prezzi indicativi di oggi e dipendono da come usi le linee; a Venezia molte tratte si fanno comunque a piedi.
 
@@ -75,9 +81,28 @@ Quanto costa? Il sito riporta da 0,60 a 2 € per un bicchiere di vino e da 1 a 
 
 ## Il mercato di Rialto: quando andare
 
-A Rialto si trova il mercato storico, con la pescheria e la zona dell'Erbaria. Due strutture ricettive veneziane che descrivono il mercato nel loro sito riportano orari quasi identici ma non uguali: il pesce dal martedì al sabato (7.30-12) per uno, dal martedì al venerdì (7.30-12) per l'altro; frutta e verdura dal lunedì al sabato fino alle 13.30 per entrambi. Il sabato è dunque il giorno incerto: non ho trovato una pagina del Comune che risolva la discordanza. Uno dei due siti ricorda anche che la Loggia della pescheria è del 1907, opera di Domenico Rupolo, con capitelli diversi ispirati alla pesca, e che l'isola di Sant'Erasmo è tradizionalmente legata ai prodotti che si vendono qui. Se vuoi vedere il mercato nel suo momento migliore, vai nella prima parte della mattina: è il momento in cui la vita quotidiana è più visibile. Dopo, le bancarelle si svuotano.
+A Rialto si trova il mercato storico, con la pescheria e la zona dell'Erbaria. Due strutture ricettive veneziane che descrivono il mercato nel loro sito riportano orari quasi identici ma non uguali: il pesce dal martedì al sabato (7.30-12) per uno, dal martedì al venerdì (7.30-12) per l'altro; frutta e verdura dal lunedì al sabato fino alle 13.30 per entrambi. Una terza fonte letta nella revisione di novembre, un sito di guide su Venezia che segnala di avere partner commerciali, dà la pescheria aperta dal martedì al sabato (nella scheda 7-14; nel testo "di mattina") e frutta e verdura dal lunedì al sabato, 7-13.30: con questa sono tre siti su quattro a indicare il sabato, ma gli orari della pescheria variano da 7.30-12 a 7-14. Il sabato resta dunque il giorno da verificare: non ho trovato una pagina del Comune che risolva la discordanza. Uno dei due siti ricorda anche che la Loggia della pescheria è del 1907, opera di Domenico Rupolo, con capitelli diversi ispirati alla pesca, e che l'isola di Sant'Erasmo è tradizionalmente legata ai prodotti che si vendono qui. Se vuoi vedere il mercato nel suo momento migliore, vai nella prima parte della mattina: è il momento in cui la vita quotidiana è più visibile. Dopo, le bancarelle si svuotano.
 
 :::foto venezia-pescheria-rialto | La Pescheria di Rialto, l'edificio del mercato del pesce affacciato sul Canal Grande
+
+## E se c'è l'acqua alta?
+
+Se vai tra novembre e aprile, la marea conta quanto il meteo. Dalla pagina del Comune risulta che dal 15 settembre al 30 aprile viene attivato il "Piano di Viabilità Pedonale", cioè le passerelle, in base alle previsioni del Centro Maree; i percorsi indicati garantiscono di camminare a piedi asciutti fino a +120 cm di marea, oltre quel livello alcuni possono risultare inagibili. Il Centro Maree pubblica una scala dei livelli: marea normale tra -50 e +80 cm, sostenuta tra +80 e +110, molto sostenuta tra +110 e +140, eccezionale tra +140 e +200. Sulla stessa pagina trovi la previsione dei prossimi giorni con le ore dei massimi e dei minimi, e tra i servizi le webcam, le sirene di allertamento e le FAQ.
+
+Cosa significa in pratica: guarda la previsione la sera prima e di nuovo la mattina, e se è annunciato un massimo alto sposta il giro nelle ore di bassa marea, che nella stessa previsione sono indicate con l'orario. Gli atlanti dei percorsi sono PDF separati per sestiere (San Marco, Castello, Cannaregio, San Polo, Santa Croce, Dorsoduro, Giudecca, Murano, Burano); la mappa d'insieme nella pagina è però quella del 2019-20, quindi usala come orientamento, non come garanzia che una certa passerella sia montata quel giorno. Un dettaglio che non ho trovato scritto da nessuna fonte è dove noleggiare o comprare gli stivali: non lo dico. Per un'altra giornata di maltempo in città d'arte c'è il Piano B di [Milano in un weekend con la pioggia](/blog/milano-in-un-weekend-con-la-pioggia) e quello di [Torino con la pioggia: musei e caffè storici](/blog/torino-musei-e-caffe-storici-con-la-pioggia).
+
+## Come arrivo dall'aeroporto e cosa non copre il biglietto?
+
+È l'errore più comune di chi arriva: dare per scontato che il biglietto del vaporetto valga anche per l'aeroporto. Sul sito AVM i collegamenti con l'aeroporto Marco Polo non sono compresi né nel biglietto singolo né in quelli a tempo. Il sito di Venezia Unica tiene i biglietti ACTV (da 9,50 € il 75 minuti, da 25 € il giornaliero) separati da quelli di Alilaguna, il servizio di battelli dell'aeroporto: i biglietti a tempo Alilaguna, con le linee blu, arancio e rossa e il trasferimento dal Marco Polo incluso, partono da 40 €. Il People Mover, il collegamento automatico tra Piazzale Roma e Tronchetto, costa da 1,50 € per una corsa di 75 minuti. Per orari e linee precise usa le pagine dei gestori: non le ho riportate perché cambiano.
+
+## Gli errori che si fanno più spesso
+
+- **Pensare che il contributo di accesso sia ancora dovuto.** La pagina informativa del Comune descrive ancora il calendario 2026; il sito ufficiale dice che dal 27 luglio 2026 non si applica. Per il 2027 le giornate sono già elencate, ma importi e modalità no.
+- **Non convalidare a ogni cambio di mezzo.** AVM scrive che la convalida è obbligatoria appena saliti e va ripetuta a ogni cambio.
+- **Comprare il 24 ore per due corse.** Due biglietti da 75 minuti costano 19 €; il giornaliero ne costa 25.
+- **Arrivare a Rialto di lunedì per il pesce.** Secondo le fonti la pescheria è chiusa lunedì e domenica; il lunedì è aperta solo la parte di frutta e verdura.
+- **Arrivare tardi al mercato.** Una fonte consiglia di andare prima delle 9, quando i banchi sono ancora un luogo di lavoro; molte bancarelle piccole preferiscono i contanti e il pesce lo sceglie il banconiere, non il cliente.
+- **Cercare il mercato solo a Rialto.** Per la spesa dei veneziani gli elenchi indicano il mercato di via Garibaldi a Castello (dal lunedì al sabato, circa dalle 7 alle 14) e quello di Rio Terà San Leonardo a Cannaregio (dal lunedì al sabato, 7.30-13): sono orari "guida" di un sito turistico, quindi controllali in loco.
 
 ## Cosa lasciare fuori
 
@@ -87,10 +112,10 @@ A Rialto si trova il mercato storico, con la pescheria e la zona dell'Erbaria. D
 
 ## Se hai altri giorni
 
-Per un'altra città d'arte organizzata per giorni leggi [Firenze in 48 ore senza code inutili](/blog/firenze-in-48-ore); per un itinerario a piedi in una città del Sud c'è [Lecce in un giorno](/blog/lecce-in-un-giorno); per un'altra città iconica ordinata per area, [Roma in due giorni](/blog/roma-in-due-giorni), e per il cibo in ordine di giornata [Cosa mangiare a Catania](/blog/cosa-mangiare-a-catania).
+Per lo stesso criterio (ora giusta, meno folla) applicato a Roma c'è [Roma oltre il Colosseo](/blog/roma-oltre-il-colosseo); per un'altra città d'arte organizzata per giorni leggi [Firenze in 48 ore senza code inutili](/blog/firenze-in-48-ore); per un itinerario a piedi in una città del Sud c'è [Lecce in un giorno](/blog/lecce-in-un-giorno); per un'altra città iconica ordinata per area, [Roma in due giorni](/blog/roma-in-due-giorni), e per il cibo in ordine di giornata [Cosa mangiare a Catania](/blog/cosa-mangiare-a-catania).
 
 ## Il piano per la tua giornata
 
-Scegliere l'ora, il quartiere e il biglietto giusti dipende dal giorno in cui arrivi, dal meteo e dalle regole in vigore quel momento: è esattamente il tipo di decisione che UNNIVAI vuole rendere automatica. [Iscriviti alla lista d'attesa](/?src=blog-venezia-come-evitare-la-folla#iscriviti).
+Ora hai i pezzi: l'ora, il sestiere, il biglietto, il mercato e la previsione di marea. Metterli in fila dipende dal giorno in cui arrivi, dal meteo e dalle regole in vigore quel momento, ed è la parte che UNNIVAI vuole costruire per te con un itinerario che si adatta a quel giorno. [Iscriviti alla lista d'attesa](/?src=blog-venezia-come-evitare-la-folla#iscriviti).
 
-*Verificato il 29 ottobre 2026 su pagine aperte per questo articolo. Orari, prezzi e regole di accesso cambiano durante l'anno: controlla le fonti ufficiali prima di partire.*
+*Verificato il 14 novembre 2026 su pagine aperte per questo articolo (prima stesura del 29 ottobre; aggiornamento: contributo di accesso, tariffe AVM, passerelle e Centro Maree, biglietti Venezia Unica, mercati). Non verificabili da qui: orari e linee Alilaguna, disponibilità reale delle passerelle in un dato giorno, orari di ogni singolo bacaro. Orari, prezzi e regole di accesso cambiano durante l'anno: controlla le fonti ufficiali prima di partire.*

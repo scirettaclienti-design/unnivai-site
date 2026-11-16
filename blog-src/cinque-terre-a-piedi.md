@@ -2,7 +2,7 @@
 title: Cinque Terre a piedi: sentieri, treni e cosa è chiuso
 description: Come camminare alle Cinque Terre a fine ottobre 2026: quali sentieri risultano chiusi, quanto costano Trekking Card e treni, Via dell'Amore e lavori.
 date: 2026-10-30
-updated: 2026-11-12
+updated: 2026-11-16
 category: Cinque Terre
 cover: Cinque Terre
 tags: Logistica, A piedi, Sentieri
@@ -113,5 +113,7 @@ UNNIVAI riscrive il percorso quando cambia un'apertura, il meteo o la stanchezza
 **Leggi anche:** Un altro itinerario di costa che si fa a piedi e in treno: [Polignano a Mare senza auto](/blog/polignano-a-mare-senza-auto).
 
 **Leggi anche:** Un altro itinerario che si regge su treni e orari, in Umbria: [Perugia e Assisi senza auto in due giorni](/blog/perugia-e-assisi-in-treno).
+
+**Leggi anche:** Un'altra costa italiana che si gira senza auto, con bus, traghetti e un sentiero: [Costiera Amalfitana senza auto: bus SITA e traghetti](/blog/costiera-amalfitana-con-i-mezzi-pubblici).
 
 *Stato dei sentieri, orari, prezzi e lavori sono verificati sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano spesso: controlla la pagina del Parco il giorno stesso. Dove due fonti discordano lo abbiamo scritto. Non abbiamo letto il calendario delle giornate di alta affluenza né la tariffa dei treni dopo il 1 novembre.*

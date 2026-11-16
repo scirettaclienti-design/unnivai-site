@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Costiera Amalfitana senza auto: bus SITA e traghetti](https://unnivai.com/blog/costiera-amalfitana-con-i-mezzi-pubblici): Come girare la Costiera Amalfitana con i mezzi pubblici: orari invernali SITA dal 2 novembre, biglietto da 10 €, traghetti Travelmar e Sentiero degli Dei.
 - [Perugia e Assisi senza auto: 2 giorni con treno e Minimetrò](https://unnivai.com/blog/perugia-e-assisi-in-treno): Due giorni tra Perugia e Assisi senza macchina: Minimetrò, Galleria Nazionale, treno e bus per la Basilica di San Francesco, con orari verificati.
 - [Cagliari in un giorno: Castello, bastioni e anfiteatro](https://unnivai.com/blog/cagliari-in-un-giorno): Cagliari in una giornata a piedi: bastione di Saint Remy, torri, cattedrale e anfiteatro, con orari, biglietti e lo stato del mercato di San Benedetto.
 - [Roma oltre il Colosseo: 5 zone da vedere, con orari](https://unnivai.com/blog/roma-oltre-il-colosseo): Trastevere, Isola Tiberina, Testaccio, Ostiense e Aventino: cosa vedere a Roma lontano dal Colosseo, con orari letti sui siti ufficiali e cosa chiude quando.
@@ -26,6 +27,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [How to get around the Amalfi Coast without a car](https://unnivai.com/en/blog/amalfi-coast-by-public-transport): Amalfi Coast by bus and ferry: winter SITA timetable from 2 November, the 10 € day ticket, Travelmar boats, and how to reach the Path of the Gods.
 - [Perugia and Assisi by train: 2 days without a car](https://unnivai.com/en/blog/perugia-and-assisi-by-train): See Perugia and Assisi in two days without a car: Minimetrò, the National Gallery of Umbria, then train and bus to St Francis Basilica, with checked hours.
 - [One day in Cagliari: what to see on foot, and what is closed](https://unnivai.com/en/blog/one-day-in-cagliari): One day in Cagliari on foot: Saint Remy bastion, towers, cathedral and Roman amphitheatre, with hours, tickets and the San Benedetto market closure.
 - [What to see in Rome besides the Colosseum: 5 areas](https://unnivai.com/en/blog/rome-beyond-the-colosseum): Trastevere, Tiber Island, Testaccio, Ostiense and the Aventine: what to see in Rome away from the Colosseum, with hours from official sites and closures.
@@ -56,6 +58,104 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Costiera Amalfitana senza auto: bus SITA e traghetti
+URL: https://unnivai.com/blog/costiera-amalfitana-con-i-mezzi-pubblici
+Language: it
+Updated: 2026-11-16
+
+La Costiera Amalfitana si gira bene anche senza macchina: i bus SITA e i traghetti coprono i paesi principali, a patto di conoscere gli orari invernali, che dal 2 novembre sono cambiati. Qui trovi due giorni con i trasferimenti spiegati, i costi letti sui siti ufficiali e le cose che nessuno ti dice sul mare in inverno.
+
+In breve. Per girare la Costiera Amalfitana senza auto servono i bus SITA (biglietto COSTIERASITA a 10 € per 24 ore) e, quando il mare lo permette, i traghetti Travelmar: Salerno-Amalfi 12 €, Amalfi-Positano 10 €. Gli orari invernali SITA valgono dal 2 novembre 2026 al 21 marzo 2027; il mare può sospendere i traghetti, quindi tieni sempre il bus come piano B.
+
+Giorno 1 · mattinaSalerno-AmalfiTraghetto Travelmar (35 minuti secondo la pagina orari) o bus SITA lungo la costa.
+
+Giorno 1 · pomeriggioAmalfi e AtraniA piedi nel centro di Amalfi, con il bus SITA per Atrani.
+
+Giorno 2 · mattinaPositano o Sentiero degli DeiBus SITA o traghetto per Positano; oppure bus da Amalfi a Bomerano per il sentiero.
+
+Giorno 2 · pomeriggioRitornoTraghetto o bus da Positano ad Amalfi, poi verso Salerno.
+
+ConsiglioIl mare decide più dell'orario. Il giorno in cui abbiamo letto il sito Travelmar (16 novembre 2026) un avviso segnalava i collegamenti sospesi per il meteo: se il tuo piano dipende da un traghetto, tieni pronto il bus SITA e guarda l'avviso la mattina stessa, non la sera prima.
+
+Quale giorno ti serve?
+EntrambiGiorno 1Giorno 2
+
+Come funziona il trasporto pubblico sulla Costiera#
+
+Due gestori coprono quasi tutto. SITA Sud, azienda di autolinee, collega con più linee la costa e le valli: Amalfi-Positano-Sorrento, Amalfi-Maiori-Salerno, Amalfi-Agerola, Scala-Ravello-Amalfi e Maiori-Tramonti. Travelmar fa i traghetti veloci tra Salerno, Amalfi, Positano e, secondo il suo sito, anche Cetara e Maiori. Tra i due non abbiamo trovato un titolo integrato: sono biglietti separati.
+
+L'UNESCO, che nel 1997 ha iscritto la costa nella lista del patrimonio mondiale, tra le minacce per l'area indica anche la pressione del turismo intenso in alcune zone urbane, dovuta soprattutto al traffico di veicoli. È una buona ragione per lasciare l'auto a casa.
+
+Orari dei bus SITA in inverno#
+
+La SITA ha pubblicato un avviso il 29 ottobre 2026: dal 2 novembre gli orari di Amalfi-Positano-Sorrento, Amalfi-Maiori-Salerno, Amalfi-Agerola, Scala-Ravello-Amalfi e Maiori-Tramonti hanno avuto modifiche. Il PDF dell'orario invernale riporta come validità dal 2 novembre 2026 al 21 marzo 2027. Fa fede quello, non le vecchie tabelle d'autunno (dal 14 settembre al 1° novembre) che girano ancora su alcuni siti di terzi.
+
+Nel PDF le corse sono marcate con una lettera: F per i feriali dal lunedì al sabato, H per i festivi, G per i giorni feriali e festivi, L per il lunedì-venerdì. Per i primi orari: la prima corsa giornaliera Amalfi-Positano parte da Amalfi alle 6:20 e tocca Positano (fermata Sponda) alle 7:00, quindi circa 40 minuti. La prima corsa feriale Amalfi-Maiori-Salerno parte da Amalfi alle 5:15 e passa per Atrani, Minori, Maiori e Cetara. Sono singole corse prese come esempio, non la frequenza: la frequenza non l'abbiamo calcolata, quindi apri il PDF o le app Moovit, Google Maps o UnicoCampania, che la SITA segnala come strumenti per consultare gli orari.
+
+Il biglietto COSTIERASITA: 10 € per 24 ore#
+
+Secondo il sito SITA Sud, il biglietto COSTIERASITA costa 10 € e vale 24 ore dalla prima convalida, con spostamenti illimitati sui mezzi SITA Sud in questi comuni: Agerola, Amalfi, Atrani, Cetara, Conca dei Marini, Furore, Maiori, Massa Lubrense, Meta, Minori, Positano, Piano di Sorrento, Praiano, Ravello, Salerno, Sant'Agnello, Scala, Sorrento, Tramonti e Vietri sul Mare. Si convalida al primo utilizzo, a mano se la macchinetta manca o è guasta, ed è personale: vanno scritti a penna nome e data di nascita.
+
+Si compra, tra l'altro, alla biglietteria di via Vinciprova a Salerno (aperta nei feriali dalle 6:45 alle 18:45) e nelle biglietterie abilitate che trovi sul sito Unico Campania. Il prezzo della corsa semplice non lo abbiamo letto, quindi non diciamo da quante corse conviene: fai il conto prima di comprarlo.
+
+Giorno 1: Salerno, Amalfi e Atrani#
+
+Da Salerno ad Amalfi hai due scelte. Il traghetto Travelmar, secondo la pagina orari, impiega 35 minuti e costa 12 €; le corse invernali che abbiamo letto partono da Piazza Concordia alle 9:00 e 9:40 (via Cetara e Maiori, 60 minuti), alle 11:10 e alle 14:10. Il bus SITA Amalfi-Maiori-Salerno ha corse dalle prime ore del mattino (la prima feriale parte da Amalfi alle 5:15) e non dipende dal mare.
+
+La facciata del Duomo di Amalfi, con il portico a archi bicolori e il mosaico nel timpano Foto: Bernard Gagnon, CC BY 4.0, Wikimedia Commons
+Ad Amalfi la tappa naturale è il Duomo, nel centro del paese. Non abbiamo letto orari né prezzi di ingresso su una pagina ufficiale, quindi non li scriviamo: controllali prima di salire sulla scalinata.
+
+Atrani è la fermata successiva ad Amalfi sulla linea SITA per Salerno: nella corsa invernale delle 5:15 da Amalfi, il bus è ad Atrani alle 5:20, cinque minuti dopo. Dalla foto sotto vedi la strada sugli archi che passa sopra la spiaggia.
+
+Atrani vista dall'alto: la chiesa, la strada sugli archi e la spiaggia sotto la roccia Foto: Luca Aless, CC BY-SA 4.0, Wikimedia Commons
+Giorno 2: Positano o Sentiero degli Dei#
+
+Da Amalfi a Positano ci sono due modi. Il bus SITA della linea Amalfi-Positano-Sorrento impiega circa 40 minuti nella corsa delle 6:20 che abbiamo letto sull'orario (arriva a Positano, fermata Sponda, alle 7:00). Il traghetto Travelmar, secondo la pagina orari, dura 25 minuti e costa 10 €, con partenze da Amalfi alle 10:40, 12:00 e 15:00 e da Positano alle 12:10, 13:30 e 15:30. A Positano non indichiamo orari di visita né locali, perché non li abbiamo verificati.
+
+Se invece vuoi camminare: il Sentiero degli Dei. Il Parco Regionale dei Monti Lattari lo classifica come facile (E), con tratti esposti, 638 metri di dislivello complessivi e circa 4 ore di cammino. Parte da Piazza Capasso a Bomerano, frazione di Agerola, e arriva a Nocelle dopo circa 4,5 km; da lì si può scendere i circa 1700 gradini fino ad Arienzo sulla statale in circa un'ora, e poi andare a Positano a piedi (10 minuti) o prendere un bus SITA. Il Parco ricorda la sorgente a Grotta Biscotto, a inizio percorso, e la fontana di Nocelle: porta comunque una borraccia capiente.
+
+Dal Sentiero degli Dei: case rurali sul versante e il mare sullo sfondo Foto: This Photo was taken by Wolfgang Moroder.  
+
+Feel free to use my photos, but ple, CC BY-SA 3.0, Wikimedia Commons
+Per arrivare a Bomerano senza auto ci sono i bus SITA della linea Amalfi-Agerola (il sito del Parco parla di corse frequenti da Amalfi), o la navetta abbinata ai traghetti Travelmar: dalla pagina dedicata, da Salerno il traghetto delle 8:40 arriva ad Amalfi alle 9:15 e la navetta delle 9:30 arriva a Bomerano alle 10:10, per 18 € in tutto; da Positano le partenze sono alle 10:00, 15:30, 17:00 e 18:30 e costano 16 €. La pagina non dice per quale periodo valgono questi orari, quindi verificali alla biglietteria di Travelmar prima di contarci.
+
+Traghetti Travelmar in inverno: cosa abbiamo letto#
+
+La pagina orari di Travelmar, letta il 16 novembre 2026, mostra l'orario in corso con meno corse dell'estate. Da Salerno ad Amalfi 9:00, 9:40, 11:10, 14:10 (12 €, 35 minuti, o 60 via Cetara e Maiori); da Salerno a Positano 9:40, 11:10, 14:10 (17 €, 70 minuti, o 80 via Cetara e Maiori). Da Amalfi a Salerno 10:35, 13:00, 14:15 e 16:30. La stessa pagina segna che i collegamenti con Minori e Vietri sul Mare sono disponibili da aprile 2027, quindi per ora in quei due paesi il bus resta l'unica scelta. Se vuoi tornare a Salerno in serata, il traghetto ti lascia a piedi presto: l'ultima corsa che abbiamo letto da Amalfi parte alle 16:30.
+
+Arrivare dalla Penisola Sorrentina#
+
+Se arrivi da Napoli, il modo più comune è il treno Circumvesuviana fino a Sorrento e da lì il bus SITA per Positano e Amalfi. Su questa tratta abbiamo solo una fonte terza, Sorrento Insider, che dà 1 ora e 15 minuti di viaggio e due prezzi diversi per il biglietto (3,60 € in un punto, 4,60 € in un altro della stessa pagina): non scriviamo un prezzo, e per l'orario e la tariffa ufficiali conviene aprire il sito del gestore EAV.
+
+Quanto spendere (medie indicative)#
+
+Per due giorni: bus COSTIERASITA 10 € al giorno (20 € in due giorni), un traghetto Salerno-Amalfi a 12 € e uno Amalfi-Positano a 10 €. Con il Sentiero degli Dei in combinata (navetta e traghetto da Salerno) arrivi a 18 €. Per una persona sono circa 42 € di trasporti (20 + 12 + 10), senza ingressi né pasti. Sono medie indicative e non una promessa: i prezzi cambiano con la stagione.
+
+Errori comuni sulla Costiera senza auto#
+
+Contare su un solo traghetto: se il mare è mosso, i collegamenti si fermano. Tieni il bus come piano B.
+Usare una tabella SITA d'autunno: valgono quelle dal 2 novembre.
+Dimenticare di convalidare il COSTIERASITA al primo utilizzo e di scrivere il nome sul biglietto.
+Programmare Minori o Vietri sul Mare in barca: il collegamento torna da aprile 2027.
+Partire tardi per il Sentiero degli Dei: il Parco indica circa 4 ore di cammino, a cui si aggiunge il rientro, quindi conviene iniziare la mattina.
+
+Piano B: se cambia il tempo#
+
+Con il mare mosso i traghetti si fermano ma i bus SITA restano l'alternativa: Amalfi-Positano si fa anche in autobus. Con la pioggia rimanda il Sentiero degli Dei, che il Parco descrive con tratti esposti e privi di protezione.
+
+Cosa lasciare fuori#
+
+Positano, Amalfi, Ravello e Atrani in un solo giorno: sono quattro posti, ma con l'orario invernale non ci stai senza correre.
+L'auto: lungo la statale non conviene, e per questo itinerario non serve.
+I locali che non conosciamo: non ne indichiamo nessuno, perché non li abbiamo verificati.
+
+Se hai un altro giorno#
+
+Per mangiare bene a Napoli prima di partire per la costa, guarda Napoli: cosa mangiare, in ordine di giornata. Per un'altra costa italiana che si fa quasi senza auto, con treni e sentieri, leggi Cinque Terre a piedi e Polignano a Mare senza auto. UNNIVAI è pensata per riscrivere un giro così quando cambiano mare, orario o stanchezza: se ti serve, entra tra i primi.
+
+Orari, prezzi e avvisi sono letti sulle fonti ufficiali indicate e verificati il 16 novembre 2026: cambiano durante l'anno, con il meteo e con gli eventi, quindi controlla prima di partire. Dove abbiamo trovato dati discordanti lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Duomo di Amalfi, il prezzo della corsa semplice SITA, orario e tariffa ufficiali della Circumvesuviana, le frequenze complete dei bus e il periodo di validità delle navette per il Sentiero degli Dei.
+
 
 # Perugia e Assisi senza auto: 2 giorni con treno e Minimetrò
 URL: https://unnivai.com/blog/perugia-e-assisi-in-treno
@@ -694,7 +794,7 @@ Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Orari e prezzi 
 # Cosa mangiare a Napoli: la giornata in ordine di assaggio
 URL: https://unnivai.com/blog/napoli-cosa-mangiare-in-ordine-di-giornata
 Language: it
-Updated: 2026-11-04
+Updated: 2026-11-16
 
 A Napoli si mangia a tutte le ore, ma non tutto va bene a tutte le ore. La sfogliatella è una cosa da mattina, la pizza fritta vuole il fuoco appena spento, la pizza da forno si ordina la sera e il babà chiude bene qualunque giornata. Questa guida mette gli assaggi in ordine, dice quanto costano più o meno, e dove le fonti non vanno d'accordo lo scrive.
 
@@ -764,6 +864,8 @@ Se cambia la giornata#
 UNNIVAI riscrive il giro quando cambiano orari, pioggia o appetito: stessi assaggi, ordine diverso. Se ti serve, entra tra i primi.
 
 Leggi anche: Se la tua Italia è fatta di tavole e passeggiate: Bologna in una giornata a piedi.
+
+Leggi anche: Se da Napoli prosegui verso la costa, qui trovi come muoverti con bus e traghetti: Costiera Amalfitana senza auto: bus SITA e traghetti.
 
 Informazioni verificate il 30 ottobre 2026 sulle fonti indicate. Prezzi e giorni di chiusura sono riportati da guide non sempre datate con precisione e cambiano da locale a locale: controllali prima di partire. Dove due fonti discordano lo abbiamo scritto; i nomi dei locali sono citati solo come li riportano le fonti.
 
@@ -993,7 +1095,7 @@ Nota di verifica. Guida rinfrescata il 16 novembre 2026: ho riaperto le pagine u
 # Cinque Terre a piedi: sentieri, treni e cosa è chiuso
 URL: https://unnivai.com/blog/cinque-terre-a-piedi
 Language: it
-Updated: 2026-11-12
+Updated: 2026-11-16
 
 cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
 
@@ -1078,6 +1180,8 @@ UNNIVAI riscrive il percorso quando cambia un'apertura, il meteo o la stanchezza
 Leggi anche: Un altro itinerario di costa che si fa a piedi e in treno: Polignano a Mare senza auto.
 
 Leggi anche: Un altro itinerario che si regge su treni e orari, in Umbria: Perugia e Assisi senza auto in due giorni.
+
+Leggi anche: Un'altra costa italiana che si gira senza auto, con bus, traghetti e un sentiero: Costiera Amalfitana senza auto: bus SITA e traghetti.
 
 Stato dei sentieri, orari, prezzi e lavori sono verificati sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano spesso: controlla la pagina del Parco il giorno stesso. Dove due fonti discordano lo abbiamo scritto. Non abbiamo letto il calendario delle giornate di alta affluenza né la tariffa dei treni dopo il 1 novembre.
 
@@ -2052,6 +2156,104 @@ Leggi anche: per salire sull'Etna e vedere il teatro antico in una sola giornata
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
 
+# How to get around the Amalfi Coast without a car
+URL: https://unnivai.com/en/blog/amalfi-coast-by-public-transport
+Language: en
+Updated: 2026-11-16
+
+The Amalfi Coast works well without a car: SITA buses and ferries cover the main towns, as long as you know the winter timetables, which changed on 2 November. Here are two days with the transfers explained, the costs read on official websites, and the things that decide whether a ferry day actually happens.
+
+In brief. To get around the Amalfi Coast without a car you need SITA buses (COSTIERASITA ticket, 10 € for 24 hours) and, when the sea allows, Travelmar ferries: Salerno-Amalfi 12 €, Amalfi-Positano 10 €. The SITA winter timetable is valid from 2 November 2026 to 21 March 2027; rough seas can suspend the ferries, so always keep the bus as plan B.
+
+Day 1 · morningSalerno to AmalfiTravelmar ferry (35 minutes according to the timetable page) or a SITA bus along the coast.
+
+Day 1 · afternoonAmalfi and AtraniOn foot in Amalfi, with the SITA bus to Atrani.
+
+Day 2 · morningPositano or the Path of the GodsSITA bus or ferry to Positano; or a bus from Amalfi to Bomerano for the trail.
+
+Day 2 · afternoonBackFerry or bus from Positano to Amalfi, then on towards Salerno.
+
+ConsiglioThe sea decides more than the timetable does. On the day we read the Travelmar website (16 November 2026) a notice showed services suspended because of the weather: if your plan depends on a ferry, keep the SITA bus ready and check the notice the same morning, not the evening before.
+
+Quale giorno ti serve?
+EntrambiGiorno 1Giorno 2
+
+How public transport works on the coast#
+
+Two operators cover almost everything. SITA Sud, a bus company, links the coast and the valleys with several lines: Amalfi-Positano-Sorrento, Amalfi-Maiori-Salerno, Amalfi-Agerola, Scala-Ravello-Amalfi and Maiori-Tramonti. Travelmar runs fast ferries between Salerno, Amalfi, Positano and, according to its website, also Cetara and Maiori. We did not find a joint ticket between the two: they are separate tickets.
+
+UNESCO, which inscribed the coast on the World Heritage List in 1997, lists among the threats to the area the pressure of heavy tourism in some urban zones, mainly due to vehicle traffic. It is a good reason to leave the car at home.
+
+SITA bus timetable in winter#
+
+SITA published a notice on 29 October 2026: from 2 November the timetables of Amalfi-Positano-Sorrento, Amalfi-Maiori-Salerno, Amalfi-Agerola, Scala-Ravello-Amalfi and Maiori-Tramonti changed. The winter timetable PDF states it is valid from 2 November 2026 to 21 March 2027. That is the one to trust, not the old autumn tables (14 September to 1 November) that still circulate on some third-party sites.
+
+In the PDF each run carries a letter: F for working days Monday to Saturday, H for Sundays and holidays, G for daily runs, L for Monday to Friday. A few first runs: the first daily Amalfi-Positano bus leaves Amalfi at 6:20 and reaches Positano (Sponda stop) at 7:00, about 40 minutes. The first working-day Amalfi-Maiori-Salerno run leaves Amalfi at 5:15 and calls at Atrani, Minori, Maiori and Cetara. These are single runs used as examples, not the frequency, which we did not compute: open the PDF or the Moovit, Google Maps or UnicoCampania apps, which SITA lists as ways to check the timetable.
+
+The COSTIERASITA ticket: 10 € for 24 hours#
+
+According to the SITA Sud website, the COSTIERASITA ticket costs 10 € and is valid for 24 hours from first validation, with unlimited trips on SITA Sud vehicles in these municipalities: Agerola, Amalfi, Atrani, Cetara, Conca dei Marini, Furore, Maiori, Massa Lubrense, Meta, Minori, Positano, Piano di Sorrento, Praiano, Ravello, Salerno, Sant'Agnello, Scala, Sorrento, Tramonti and Vietri sul Mare. You validate it on first use, by hand if the machine is missing or broken, and it is personal: write your name and date of birth in pen.
+
+It is sold, among other places, at the via Vinciprova ticket office in Salerno (open on working days from 6:45 to 18:45) and at authorised points of sale listed on the Unico Campania website. We did not read the single-ride price on an official page, so we cannot say how many rides make the day ticket worth it: do the maths before you buy.
+
+Day 1: Salerno, Amalfi and Atrani#
+
+From Salerno to Amalfi you have two choices. The Travelmar ferry, according to its timetable page, takes 35 minutes and costs 12 €; the winter departures we read leave from Piazza Concordia at 9:00 and 9:40 (via Cetara and Maiori, 60 minutes), 11:10 and 14:10. The SITA Amalfi-Maiori-Salerno bus runs from the early morning (the first working-day run leaves Amalfi at 5:15) and does not depend on the sea.
+
+The façade of Amalfi Cathedral, with its two-tone arched portico and the mosaic in the pediment Photo: Bernard Gagnon, CC BY 4.0, Wikimedia Commons
+In Amalfi the natural stop is the Cathedral, in the middle of town. We did not read opening hours or entry prices on an official page, so we do not give them: check before you climb the steps.
+
+Atrani is the next stop after Amalfi on the SITA line to Salerno: on the winter 5:15 run from Amalfi, the bus is at Atrani at 5:20, five minutes later. In the photo below you can see the road on its arches above the beach.
+
+Atrani seen from above: the church, the road on arches and the beach under the rock Photo: Luca Aless, CC BY-SA 4.0, Wikimedia Commons
+Day 2: Positano or the Path of the Gods#
+
+From Amalfi to Positano there are two ways. The SITA Amalfi-Positano-Sorrento bus takes about 40 minutes on the 6:20 run we read in the timetable (it reaches Positano, Sponda stop, at 7:00). The Travelmar ferry, according to its timetable page, takes 25 minutes and costs 10 €, with departures from Amalfi at 10:40, 12:00 and 15:00 and from Positano at 12:10, 13:30 and 15:30. In Positano we give no visiting hours or restaurants, because we have not verified them.
+
+If you would rather walk: the Path of the Gods. The Monti Lattari Regional Park rates it easy (E), with some exposed stretches, 638 metres of total ascent and descent and about 4 hours of walking. It starts from Piazza Capasso in Bomerano, a hamlet of Agerola, and reaches Nocelle after about 4.5 km; from there you can go down the roughly 1,700 steps to Arienzo on the main road in about an hour, then walk to Positano (10 minutes) or take a SITA bus. The Park mentions a spring at Grotta Biscotto, near the start, and a fountain at Nocelle: bring a large bottle anyway.
+
+On the Path of the Gods: farm buildings on the slope and the sea in the background Photo: This Photo was taken by Wolfgang Moroder.  
+
+Feel free to use my photos, but ple, CC BY-SA 3.0, Wikimedia Commons
+To reach Bomerano without a car there are the SITA buses of the Amalfi-Agerola line (the Park's website mentions frequent runs from Amalfi), or the shuttle combined with the Travelmar ferries: according to the dedicated page, from Salerno the 8:40 ferry reaches Amalfi at 9:15 and the 9:30 shuttle reaches Bomerano at 10:10, for 18 € in all; from Positano the departures are at 10:00, 15:30, 17:00 and 18:30 and cost 16 €. The page does not say which period these times apply to, so check at the Travelmar ticket office before relying on them.
+
+Travelmar ferries in winter: what we read#
+
+The Travelmar timetable page, read on 16 November 2026, shows the current timetable with fewer runs than in summer. From Salerno to Amalfi 9:00, 9:40, 11:10, 14:10 (12 €, 35 minutes, or 60 via Cetara and Maiori); from Salerno to Positano 9:40, 11:10, 14:10 (17 €, 70 minutes, or 80 via Cetara and Maiori). From Amalfi to Salerno 10:35, 13:00, 14:15 and 16:30. The same page says links with Minori and Vietri sul Mare are available from April 2027, so for now the bus is the only option to those two towns. If you want to return to Salerno in the evening, the ferry leaves you stranded early: the last departure from Amalfi that we read is at 16:30.
+
+Arriving from the Sorrento peninsula#
+
+If you come from Naples, the common route is the Circumvesuviana train to Sorrento and then a SITA bus to Positano and Amalfi. For this stretch we only have a third-party source, Sorrento Insider, which gives 1 hour 15 minutes of travel and two different ticket prices (3.60 € in one place, 4.60 € in another on the same page): we do not state a price, and for the official timetable and fare it is best to open the operator's website, EAV.
+
+How much to spend (indicative averages)#
+
+For two days: COSTIERASITA bus ticket 10 € a day (20 € over two days), one Salerno-Amalfi ferry at 12 € and one Amalfi-Positano ferry at 10 €. With the Path of the Gods combined ticket (shuttle plus ferry from Salerno) you pay 18 €. For one person that is about 42 € of transport (20 + 12 + 10), not counting entry fees or meals. These are indicative averages, not a promise: prices change with the season.
+
+Common mistakes on the coast without a car#
+
+Relying on one ferry: if the sea is rough, services stop. Keep the bus as plan B.
+Using an autumn SITA table: the ones from 2 November apply.
+Forgetting to validate the COSTIERASITA ticket on first use and to write your name on it.
+Planning Minori or Vietri sul Mare by boat: the link returns in April 2027.
+Starting the Path of the Gods late: the Park indicates about 4 hours of walking, plus the return, so start in the morning.
+
+Plan B: if the weather changes#
+
+When the sea is rough the ferries stop but the SITA buses are the alternative: Amalfi-Positano can also be done by bus. If it rains, postpone the Path of the Gods, which the Park describes as having exposed stretches without protection.
+
+What to leave out#
+
+Positano, Amalfi, Ravello and Atrani in a single day: that is four places, and with winter timetables you cannot fit them without rushing.
+The car: along the coast road it does not pay off, and this plan does not need it.
+Places we do not know: we name none, because we have not verified them.
+
+If you have another day#
+
+To eat well in Naples before heading to the coast, see What to eat in Naples. For another Italian coast you can do almost without a car, with trains and trails, read Cinque Terre on foot and Polignano a Mare without a car. UNNIVAI is built to rewrite a day like this when the sea, the timetable or your energy changes: if you need it, join the first users.
+
+Hours, prices and notices were read on the official sources listed and checked on 16 November 2026: they change during the year, with the weather and with events, so check before you go. Where we found conflicting data we said so. We did not verify hours and prices of Amalfi Cathedral, the SITA single-ride fare, the official timetable and fare of the Circumvesuviana, the full bus frequencies and the validity period of the Path of the Gods shuttles.
+
+
 # Perugia and Assisi by train: 2 days without a car
 URL: https://unnivai.com/en/blog/perugia-and-assisi-by-train
 Language: en
@@ -2594,7 +2796,7 @@ Hours, prices and opening days were read on the sources listed and checked on 2 
 # What to eat in Naples, in the order of the day
 URL: https://unnivai.com/en/blog/what-to-eat-in-naples
 Language: en
-Updated: 2026-11-04
+Updated: 2026-11-16
 
 In Naples you can eat at any hour, but not everything suits every hour. The sfogliatella belongs to the morning, fried pizza wants to come straight from the oil, oven-baked pizza is an evening order, and a babà closes any day well. This guide puts the tastings in order, says roughly what they cost, and where the sources disagree it says so.
 
@@ -2664,6 +2866,8 @@ If your day changes#
 UNNIVAI rewrites the route when hours, rain or appetite change: same tastings, different order. If it sounds useful, join the first people in.
 
 Read next: If your Italy is made of tables and walks: Bologna in a day on foot.
+
+Read next: If you continue from Naples towards the coast, here is how to get around by bus and ferry: How to get around the Amalfi Coast without a car.
 
 Information checked on 30 October 2026 on the sources listed. Prices and closing days are reported by guides that are not always precisely dated and change from place to place: check before you go. Where two sources disagree, we said so; venue names are quoted only as the sources report them.
 
@@ -2988,7 +3192,7 @@ Verification note. Data read on 30 October 2026 on the pages listed in the sourc
 # Cinque Terre on foot: trails, trains and what is closed
 URL: https://unnivai.com/en/blog/cinque-terre-on-foot
 Language: en
-Updated: 2026-11-12
+Updated: 2026-11-16
 
 cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
 
@@ -3073,6 +3277,8 @@ UNNIVAI is built to rewrite the route when an opening, the weather or tiredness 
 Read next: Another coastal itinerary done on foot and by train: Polignano a Mare without a car.
 
 Read next: Another itinerary built on trains and timetables, in Umbria: Perugia and Assisi without a car in two days.
+
+Read next: Another Italian coast you can explore without a car, with buses, ferries and a trail: How to get around the Amalfi Coast without a car.
 
 Trail status, hours, prices and works were checked on the official sources listed on 30 October 2026 and change often: check the park's page on the day. Where two sources disagree, we said so. We did not read the calendar of high-attendance days or the train fare after 1 November.
 

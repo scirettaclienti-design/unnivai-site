@@ -494,5 +494,37 @@
   "url": "https://commons.wikimedia.org/wiki/File:Piazza_IV_Novembre_-_Palazzo_dei_Priori_e_Fontana_Maggiore_01.jpg",
   "w": 1400,
   "h": 1046
+ },
+ "positano-baia": {
+  "file": "File:Positano (Italy) 02.jpg",
+  "artist": "Bernard Gagnon",
+  "license": "CC BY 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Positano_(Italy)_02.jpg",
+  "w": 1185,
+  "h": 672
+ },
+ "sentiero-degli-dei": {
+  "file": "File:Sentiero degli Dei 8 Campania.jpg",
+  "artist": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but ple",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Sentiero_degli_Dei_8_Campania.jpg",
+  "w": 1400,
+  "h": 1049
+ },
+ "amalfi-duomo": {
+  "file": "File:Duomo (Amalfi) 01.jpg",
+  "artist": "Bernard Gagnon",
+  "license": "CC BY 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Duomo_(Amalfi)_01.jpg",
+  "w": 1400,
+  "h": 933
+ },
+ "atrani-panorama": {
+  "file": "File:Atrani panorama.jpg",
+  "artist": "Luca Aless",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Atrani_panorama.jpg",
+  "w": 1400,
+  "h": 1050
  }
 }

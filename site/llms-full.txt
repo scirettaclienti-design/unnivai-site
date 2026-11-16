@@ -33,7 +33,7 @@
 - [What to do in Turin when it rains: museums and cafés](https://unnivai.com/en/blog/turin-on-a-rainy-day): A rainy day in Turin: Egyptian Museum, Royal Museums, the Mole and historic cafés, with opening hours, closing days and prices from official sites.
 - [Polignano a Mare without a car: train, on foot, what to see](https://unnivai.com/en/blog/polignano-a-mare-without-a-car): How to visit Polignano a Mare without a car: train from Bari, old town, Lama Monachile, the Pascali museum and the coastal walk to San Vito, with sources.
 - [What to eat in Naples, in the order of the day](https://unnivai.com/en/blog/what-to-eat-in-naples): Sfogliatella, fried pizza, pizza a portafoglio, cuoppo, babà and STG pizza: what to eat in Naples and when, with indicative prices and where sources disagree.
-- [Visiting Matera's Sassi: how to see them and when to go](https://unnivai.com/en/blog/visiting-matera-sassi-and-when-to-go): The Sassi of Matera on foot in one day: a route through Sasso Barisano and Caveoso, the Casa Grotta, how to get there and when to go, with official sources.
+- [Matera Sassi: how to visit, tickets and best time](https://unnivai.com/en/blog/visiting-matera-sassi-and-when-to-go): The Sassi of Matera on foot in one day: a route through Sasso Barisano and Caveoso, the Casa Grotta, how to get there and when to go, with official sources.
 - [Palermo street food guide: markets, hours and what to order](https://unnivai.com/en/blog/palermo-street-food-guide): Capo, Ballarò and Vucciria in Palermo: when to go, what to order (panelle, arancina, sfincione, pani ca meusa) and what it costs, with sources that disagree.
 - [Milan in a weekend when it rains: a Plan B itinerary](https://unnivai.com/en/blog/milan-in-a-weekend-in-the-rain): Two rainy days in Milan: the Duomo, Galleria, Museo del Novecento, Castello Sforzesco, Brera and the Last Supper, with hours, indicative prices and closures.
 - [Cinque Terre on foot: trails, trains and what is closed](https://unnivai.com/en/blog/cinque-terre-on-foot): Walking the Cinque Terre in late October 2026: which trails show as closed, what the Trekking Card and trains cost, the Via dell'Amore and rail works.
@@ -321,7 +321,7 @@ Orari, prezzi e regole sono letti sulle pagine indicate in fonti e verificati il
 # Taormina e l'Etna in un giorno: come organizzarla
 URL: https://unnivai.com/blog/taormina-e-etna-in-un-giorno
 Language: it
-Updated: 2026-11-09
+Updated: 2026-11-16
 
 Taormina e l'Etna stanno a un'ora d'auto l'una dall'altro, e la tentazione è metterli nella stessa giornata. Si può fare, a patto di accettare alcune scelte: l'Etna va fatto al mattino, il teatro antico nel pomeriggio, e a novembre 2026 due cose che di solito si danno per scontate non ci sono. Questa guida mette in fila cosa abbiamo letto sulle pagine ufficiali, dove le fonti non coincidono e cosa non siamo riusciti a verificare.
 
@@ -406,6 +406,8 @@ Per un'altra Sicilia a piedi, leggi Cosa fare a Catania quando piove, che è la 
 Se cambia la giornata#
 
 UNNIVAI è pensata per riscrivere il percorso quando cambiano meteo, orari o chiusure: stesso giro, ordine diverso. Se ti serve, entra tra i primi.
+
+Leggi anche: per un altro itinerario a piedi tra scale e orari da rispettare, Matera: come visitare i Sassi e quando andare.
 
 Orari, prezzi e chiusure sono letti sulle fonti indicate e verificati il 9 novembre 2026; cambiano durante l'anno: controlla prima di partire. Dove le fonti non erano ufficiali o discordavano lo abbiamo scritto. Non siamo riusciti a verificare: l'orario invernale del teatro antico, un collegamento di linea diretto da Taormina al Rifugio Sapienza, la frequenza del bus sostitutivo della funivia, il limite di quota in vigore sul vulcano e lo stato di attività del cratere sommitale. Non abbiamo una foto di Isola Bella: la baia è chiusa e non abbiamo trovato su Wikimedia Commons una foto adatta e verificata.
 
@@ -870,11 +872,11 @@ Nota di verifica. Dati letti il 30 ottobre 2026 sulle pagine elencate nelle font
 # Matera: come visitare i Sassi e quando andare
 URL: https://unnivai.com/blog/matera-come-visitare-i-sassi
 Language: it
-Updated: 2026-10-30
+Updated: 2026-11-16
 
 Matera non si visita con la mappa in mano, si visita con i piedi. I Sassi sono una città scavata e costruita sul bordo di un canyon, e il modo migliore per capirli è camminarci, salire, scendere e fermarsi nei pochi posti dove si può entrare davvero. Questa guida mette in ordine una giornata, spiega quando conviene andare e dice chiaramente dove le fonti non coincidono.
 
-In breve. I Sassi di Matera si visitano a piedi in una giornata: parti dal Sasso Barisano, sali alla Civita e alla Cattedrale, poi scendi nel Sasso Caveoso con la Casa Grotta di Vico Solitario. Primavera e autunno sono le stagioni indicate come migliori. Per la Cripta del Peccato Originale la prenotazione è obbligatoria.
+In breve. I Sassi di Matera si visitano a piedi in una giornata: parti dal Sasso Barisano, sali alla Civita e alla Cattedrale, poi scendi nel Sasso Caveoso con la Casa Grotta di Vico Solitario. Primavera e autunno sono le stagioni indicate come migliori. Per la Cripta del Peccato Originale la prenotazione è obbligatoria, e dal 2026 anche il belvedere di Murgia Timone ha un biglietto: porta scarpe adatte e non contare sul tramonto in inverno.
 
 Che cosa sono i Sassi, in poche righe#
 
@@ -896,13 +898,13 @@ Qui le fonti discordano. Lonely Planet scrive che in inverno le precipitazioni s
 
 Prima di partire: scarpe, salite e orari#
 
-I vicoli della Civita, scrive il Comune, si percorrono solo a piedi. Il basolato e le scale sono parte del percorso: scarpe con suola che tiene, non sandali. Gli orari cambiano con la stagione e ora siamo in autunno: la Casa Grotta, per esempio, da ottobre a dicembre apre dal lunedì al venerdì dalle 9:30 alle 18:00, con ultimo accesso alle 17:40, e il sabato e la domenica fino alle 19:00, con ultimo accesso alle 18:40.
+I vicoli della Civita, scrive il Comune, si percorrono solo a piedi. Il basolato e le scale sono parte del percorso: scarpe con suola che tiene, non sandali. Gli orari cambiano con la stagione e ora siamo in autunno: la Casa Grotta, per esempio, da ottobre a dicembre apre dal lunedì al venerdì dalle 9:30 alle 18:00, con ultimo accesso alle 17:40, e il sabato e la domenica fino alle 19:00, con ultimo accesso alle 18:40. Il sito precisa che si entra fino a 20 minuti prima della chiusura e che, con almeno un giorno lavorativo di preavviso, si può chiedere di visitarla fuori dagli orari programmati.
 
 Mattina: Sasso Barisano e Civita#
 
 Il Comune di Matera propone un percorso a piedi che parte dalla Villa Comunale e scende per via Pentasuglia fino a via D'Addozio, già dentro il Sasso Barisano. Qui si incontra il Monastero di Sant'Agostino, costruito nel 1591 e rimaneggiato nel 1747, la cui chiesa sorge sulle rovine di un cenobio rupestre; dal sagrato la vista si apre sulla Murgia Timone e sul canyon della Gravina. Poco dopo, la chiesa di San Pietro Barisano mostra una facciata settecentesca su una chiesa ipogea; secondo la pagina del Comune, aggiornata a gennaio 2024, l'interno non è visitabile.
 
-Da via Fiorentini si risale la Civita, il cuore antico dominato dalla Cattedrale. Non ho verificato orari e ingresso della Cattedrale: controlla sul posto.
+Da via Fiorentini si risale la Civita, il cuore antico dominato dalla Cattedrale. Secondo Italia.it la Cattedrale, romanica pugliese del XIII secolo, ha un rosone a sedici raggi, un presepe in pietra calcarea del Cinquecento e un affresco bizantino del 1270, e la piazza davanti offre una vista sui Sassi. Non ho trovato orari e condizioni d'ingresso su una pagina ufficiale: controlla sul posto.
 
 Le case in pietra chiara del Sasso Barisano e della Civita viste dall'alto, con finestre e porte verdi tra i tetti Foto: Benjamin Smith, CC BY-SA 4.0, Wikimedia Commons
 Pausa pranzo: cosa assaggiare#
@@ -917,12 +919,20 @@ La Storica Casa Grotta di Vico Solitario è il posto più chiaro per capire come
 
 Fine giornata: i belvedere#
 
-Per la vista classica sul presepe di pietra, Italia.it consiglia il Belvedere di Murgia Timone nel Parco della Murgia Materana, soprattutto verso sera. Il Comune indica anche un piazzale Belvedere raggiungibile in auto dalla SS 7 Appia in direzione Laterza. La piazzetta Pascoli, in centro, è un balcone sui Sassi senza bisogno di allontanarsi.
+Per la vista classica sul presepe di pietra, Italia.it consiglia il Belvedere di Murgia Timone, sul versante opposto della gravina, al mattino presto o al tramonto. Il Comune indica anche un piazzale Belvedere raggiungibile in auto dalla SS 7 Appia in direzione Laterza (non ho verificato se l'accesso sia regolamentato). La piazzetta Pascoli, in centro, è un balcone sui Sassi senza bisogno di allontanarsi (il Comune non indica alcun biglietto).
+
+Il belvedere di Murgia Timone è a pagamento? Cosa è cambiato nel 2026#
+
+Qui la guida di ottobre andava aggiornata. Il sito di visita del Parco della Murgia Materana (gestito da Parco Sassi, d'intesa con l'Ente Parco) vende un ticket di accesso per l'area di Murgia Timone: 10 € dal 1° aprile al 31 ottobre e 7 € dal 1° novembre al 31 marzo, con riduzione del 50% sotto i 25 anni e gratuità per i residenti di Matera e Montescaglioso e per i bambini sotto i 6 anni accompagnati. Include la rete di sentieri dell'area, la chiesa rupestre di San Falcione, il centro visite Jazzo Gattini, i servizi igienici e la navetta da e per il belvedere. Una discordanza da segnalare: nello stesso sito il modulo di prenotazione mostra anche una voce di 5 € per la visita libera inverno/autunno e un prezzo di base diverso, quindi la cifra finale va controllata al momento dell'acquisto.
+
+Gli orari del Parco, secondo la stessa pagina, sono dalle 9:00 alle 18:00 dal 16 settembre al 30 novembre e dalle 10:00 alle 16:30 dal 1° dicembre a fine febbraio. Vuol dire che il tramonto al belvedere, che Italia.it consiglia, va incastrato con la chiusura: controlla l'ora del tramonto del giorno e quella di chiusura prima di salire. L'idea più sicura in questa stagione è fare il belvedere di Murgia Timone in mattinata e tenere per il tardo pomeriggio la piazzetta Pascoli, per cui le fonti consultate non indicano né biglietto né orari.
+
+Chi preferisce arrivarci a piedi può imboccare il Sentiero 406 da Porta Pistola, in via Madonna delle Virtù. Scende alla gravina, attraversa un ponte sospeso lungo circa 70 metri e risale sull'altopiano. Il sito del Parco lo classifica come difficoltà media, indica 2 ore di tempo medio di visita e un biglietto di 10 € da novembre a marzo (15 € da aprile a ottobre), che comprende anche i servizi di Murgia Timone. Le scarpe da trekking sono obbligatorie: con infradito, sandali o ciabatte non si entra. Il percorso richiede più tempo e fiato di quanto sembri da sotto: non metterlo a fine giornata con le gambe già stanche.
 
 Il Sasso Barisano all'ora blu, con le case in pietra illuminate e il campanile in alto Foto: Benjamin Smith, CC BY-SA 4.0, Wikimedia Commons
 Se hai un secondo giorno#
 
-Tre idee con un dato certo. La Cripta del Peccato Originale, che Italia.it segnala tra le chiese rupestri da non perdere, risale all'epoca longobarda con un ciclo di affreschi che vale l'appellativo di "Cappella Sistina delle chiese rupestri" (Italia.it): si visita solo su prenotazione online, e a ottobre i turni partono alle 9:30, 11:00, 12:30, 15:30 e 17:00, ridotti a quattro (senza le 17:00) da novembre a febbraio. La biglietteria è presso l'Azienda Agricola Dragone e devi presentarti mezz'ora prima. Il Palombaro Lungo, sotto piazza Vittorio Veneto, è una cisterna scavata in più fasi dal XVI secolo, profonda 16 metri, lunga 50 e con una capacità di 5 milioni di litri secondo il sito ufficiale; non ho verificato orari e prezzi. Casa Noha, a due passi dalla Cattedrale, è un progetto curato dal FAI secondo Italia.it; non ho verificato orari e prezzi.
+Tre idee con un dato certo. La Cripta del Peccato Originale, che Italia.it segnala tra le chiese rupestri da non perdere, risale all'epoca longobarda con un ciclo di affreschi che vale l'appellativo di "Cappella Sistina delle chiese rupestri" (Italia.it): si visita solo su prenotazione online, e a ottobre i turni partono alle 9:30, 11:00, 12:30, 15:30 e 17:00, ridotti a quattro (senza le 17:00) da novembre a febbraio. La biglietteria è presso l'Azienda Agricola Dragone e devi presentarti mezz'ora prima. Il Palombaro Lungo, sotto piazza Vittorio Veneto, è una cisterna scavata in più fasi dal XVI secolo, profonda 16 metri, lunga 50 e con una capacità di 5 milioni di litri secondo il sito ufficiale. Si visita tutti i giorni dalle 10:00 alle 13:00 e dalle 15:00 alle 18:00, senza prenotazione, in modo autonomo e in circa 15 minuti, con un volantino in più lingue; se c'è troppa gente può servire qualche minuto di attesa. L'adulto paga 3 € e i minori entrano gratis. Casa Noha, a due passi dalla Cattedrale, è un progetto curato dal FAI secondo Italia.it; non ho verificato orari e prezzi.
 
 Come ordinare la giornata#
 
@@ -934,19 +944,34 @@ PranzoPiatto materanoCialledda, peperoni cruschi o pignata, secondo Italia.it.
 
 Primo pomeriggioSasso CaveosoMadonna delle Virtù, piazza San Pietro Caveoso e Casa Grotta, entrando prima delle 17:40.
 
-Tardo pomeriggioBelvedereMurgia Timone o piazzetta Pascoli, con la luce di fine giornata.
+Tardo pomeriggioBelvederePiazzetta Pascoli, per cui non risultano biglietti; Murgia Timone solo se rientri negli orari del Parco.
 
-ConsiglioIn autunno la Casa Grotta chiude alle 18:00 nei giorni feriali: mettila prima del tramonto e tieni i belvedere per dopo, quando non ti servono più né biglietti né orari.
+ConsiglioIn autunno la Casa Grotta chiude alle 18:00 nei giorni feriali e il Parco di Murgia Timone alle 18:00 (alle 16:30 da dicembre): metti le due visite con orario al mattino e nel primo pomeriggio, e lascia per il tramonto la piazzetta Pascoli, che non ha né biglietto né orari.
 
 Quanto costa, in media#
 
-L'unica spesa che ho verificato è l'ingresso alla Casa Grotta (8 €, media indicativa dal sito ufficiale). Per camminare nei Sassi seguendo il percorso del Comune non ho trovato un biglietto d'ingresso sulle pagine consultate. Non ho letto prezzi per Cripta, Palombaro Lungo o musei, quindi non li quantifico. Pasti e trasporti non sono stati verificati.
+Le cifre che ho verificato sui siti ufficiali, tutte da leggere come medie indicative: Casa Grotta 8 € intero e 5 € ridotto; Palombaro Lungo 3 € per gli adulti; area di Murgia Timone 7 € da novembre a marzo (10 € da aprile a ottobre); Sentiero 406 10 € da novembre a marzo (15 € da aprile a ottobre). Per camminare nei Sassi seguendo il percorso del Comune non ho trovato un biglietto d'ingresso sulle pagine consultate. Non ho letto il prezzo della Cripta del Peccato Originale né dei musei, quindi non li quantifico. Pasti e trasporti non sono stati verificati.
+
+Un esempio di conto, solo a titolo indicativo e con le tariffe sopra: Casa Grotta più Palombaro Lungo fanno 11 € a persona intera; se aggiungi Murgia Timone in bassa stagione arrivi a 18 €, senza contare la Cripta.
+
+Le domande che si fanno davvero#
+
+Serve prenotare? Solo per la Cripta del Peccato Originale, che si visita esclusivamente online. Casa Grotta e Palombaro Lungo si pagano alla cassa (il Palombaro dichiara espressamente che non esiste prenotazione); per Murgia Timone e il Sentiero 406 il sito del Parco ha una pagina di acquisto con calendario.
+
+Cosa si può fare se piove? Tre visite al coperto con dati verificati: la Casa Grotta, il Palombaro Lungo e la Cripta (quest'ultima su prenotazione). Il Comune precisa che i vicoli della Civita si fanno solo a piedi, quindi scarpe con suola che tiene e un impermeabile; per Murgia Timone il Parco raccomanda di consultare le previsioni prima della visita.
+
+Con bambini? Dati verificati: alla Casa Grotta l'ingresso è gratuito fino a dieci anni compresi e ridotto a 3 € dagli 11 ai 18; il Palombaro Lungo è gratuito per i minori; a Murgia Timone sono gratuiti i bambini sotto i 6 anni accompagnati dai genitori. Non ho verificato l'accessibilità dei percorsi con il passeggino: i vicoli sono scale e salite.
+
+Si fa tutto in un giorno? Come stima editoriale, una giornata piena basta per i due Sassi con una o due visite al coperto. Con Murgia Timone e la Cripta servono due giorni, anche perché gli orari del Parco e quelli della Casa Grotta si accavallano nel pomeriggio.
 
 Errori comuni#
 
 Arrivare alla Cripta senza prenotazione: si visita solo online.
 Presentarsi all'ultimo minuto: serve mezz'ora prima del turno.
 Fidarsi di una sola scheda per i prezzi della Casa Grotta: tre fonti, tre cifre.
+Dare per scontato che il belvedere di Murgia Timone sia libero: oggi c'è un biglietto e un orario di chiusura.
+Presentarsi al Sentiero 406 con scarpe leggere: senza calzature adatte non si entra.
+Contare sul tramonto a Murgia Timone dopo il 1° dicembre, quando il Parco chiude alle 16:30.
 Salire e scendere senza scarpe adatte.
 Programmare tutto con orari estivi in autunno.
 
@@ -956,13 +981,13 @@ Se hai solo mezza giornata, salta le tappe che richiedono prenotazione e tieni l
 
 Altri itinerari#
 
-Per provare lo stesso approccio in altre città a piedi, leggi Lecce in un giorno o Un giorno a Ortigia. Se hai poco tempo e vuoi organizzare un piano B per la pioggia, c'è cosa fare a Catania quando piove, e per ragionare su come costruire un itinerario con l'aiuto dell'AI, itinerari con l'intelligenza artificiale.
+Se arrivi dalla Puglia, leggi anche Polignano a Mare senza auto e Lecce in un giorno, due guide dove gli orari contano come qui. Per un altro paese arroccato da vedere a piedi, c'è Taormina e l'Etna in un giorno, e per muoversi senza auto in un'altra città di salite, Perugia e Assisi in treno. Per un'altra città da fare a piedi, Un giorno a Ortigia. Se hai poco tempo e vuoi organizzare un piano B per la pioggia, c'è cosa fare a Catania quando piove, e per ragionare su come costruire un itinerario con l'aiuto dell'AI, itinerari con l'intelligenza artificiale.
 
 Il percorso che si adatta#
 
 Matera è il tipo di posto dove un orario sbagliato o una prenotazione mancata rovina il pomeriggio. È il problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
 
-Nota di verifica. Dati letti il 30 ottobre 2026 sulle pagine elencate nelle fonti: UNESCO, Comune di Matera e il suo portale turistico MateraWelcome, Italia.it, il sito della Casa Grotta e la scheda del Ministero della Cultura, il sito della Cripta del Peccato Originale, il sito del Palombaro Lungo, Lonely Planet Italia e una scheda climatica. Dove le fonti discordano (prezzo della Casa Grotta, data dell'abbandono dei Sassi, piovosità invernale) lo abbiamo scritto. Non abbiamo verificato orari e ingresso della Cattedrale, prezzi della Cripta, orari e prezzi del Palombaro Lungo, durata e frequenza del treno FAL, dove mangiare. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
+Nota di verifica. Guida rinfrescata il 16 novembre 2026: ho riaperto le pagine ufficiali della Casa Grotta (tariffe in vigore dal 4 aprile 2026, orari da ottobre a dicembre), della Cripta del Peccato Originale (turni di novembre-febbraio), del Palombaro Lungo, del portale MateraWelcome (treno, pagina modificata nel novembre 2025) e del Comune di Matera (percorso, ultimo aggiornamento gennaio 2024). Novità rispetto alla versione del 30 ottobre: biglietto e orari per Murgia Timone e Sentiero 406 (sito di visita del Parco, pagine modificate il 22 ottobre 2026), orari e prezzo del Palombaro Lungo, riduzioni della Casa Grotta. Dove le fonti discordano (prezzo della Casa Grotta, data dell'abbandono dei Sassi, piovosità invernale, cifra del biglietto di Murgia Timone tra testo e modulo di prenotazione) lo abbiamo scritto. Non abbiamo verificato orari e ingresso della Cattedrale, prezzi della Cripta, durata e frequenza del treno FAL, se l'accesso al piazzale Belvedere sulla SS 7 sia regolamentato, l'accessibilità con il passeggino, dove mangiare. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
 
 # Cinque Terre a piedi: sentieri, treni e cosa è chiuso
@@ -2291,7 +2316,7 @@ Hours, prices and rules were read on the pages listed in the sources and checked
 # Taormina and Mount Etna in one day: is it doable?
 URL: https://unnivai.com/en/blog/taormina-and-etna-in-a-day
 Language: en
-Updated: 2026-11-09
+Updated: 2026-11-16
 
 If you search for "Taormina and Etna in one day", the real question is whether the two fit together. They can: the volcano sits about an hour's drive from Taormina. But you have to accept some choices, Etna in the morning and the ancient theatre in the afternoon, and in November 2026 two things that visitors normally rely on are not available. Below is what we read on official pages, where sources disagree, and what we could not verify.
 
@@ -2376,6 +2401,8 @@ For another side of Sicily on foot, read What to do in Catania when it rains, a 
 When the day changes#
 
 If the weather, an opening time or a closure changes your plan, the route needs rewriting: same walk, different order. That is what UNNIVAI is built for, and you can join the first people in.
+
+Read next: for another on-foot itinerary of steps and opening hours to respect, how to visit the Sassi of Matera and when to go.
 
 Hours, prices and closures were read on the sources listed and checked on 9 November 2026; they change during the year: check before you go. Where sources were not official or disagreed we said so. We could not verify: the ancient theatre's winter hours, a scheduled direct service from Taormina to Rifugio Sapienza, the frequency of the cable car's replacement bus, the altitude limit currently in force on the volcano and the activity status of the summit crater. We have no photo of Isola Bella: the bay is closed and we did not find a suitable, verified photo on Wikimedia Commons.
 
@@ -2641,14 +2668,14 @@ Read next: If your Italy is made of tables and walks: Bologna in a day on foot.
 Information checked on 30 October 2026 on the sources listed. Prices and closing days are reported by guides that are not always precisely dated and change from place to place: check before you go. Where two sources disagree, we said so; venue names are quoted only as the sources report them.
 
 
-# Visiting Matera's Sassi: how to see them and when to go
+# Matera Sassi: how to visit, tickets and best time
 URL: https://unnivai.com/en/blog/visiting-matera-sassi-and-when-to-go
 Language: en
-Updated: 2026-10-30
+Updated: 2026-11-16
 
 You do not visit Matera with a map in your hand; you visit it with your feet. The Sassi are a city carved and built on the edge of a canyon, and the best way to understand them is to walk, climb, descend and pause in the few places you can really go inside. This guide puts one day in order, explains when to go and says plainly where the sources disagree.
 
-In short. The Sassi of Matera are best seen on foot in a day: start in Sasso Barisano, climb to the Civita and the Cathedral, then descend into Sasso Caveoso and the Casa Grotta di Vico Solitario. Spring and autumn are named as the best seasons. For the Crypt of Original Sin, booking is compulsory.
+In short. The Sassi of Matera are best seen on foot in a day: start in Sasso Barisano, climb to the Civita and the Cathedral, then descend into Sasso Caveoso and the Casa Grotta di Vico Solitario. Spring and autumn are named as the best seasons. Tickets: the Casa Grotta costs 8 €, the Palombaro Lungo 3 €, the Crypt of Original Sin needs an online booking, and since 2026 the Murgia Timone viewpoint is ticketed too (7 € from November to March). Bring proper shoes and do not count on a winter sunset up there.
 
 What the Sassi are, in a few lines#
 
@@ -2670,13 +2697,13 @@ Here the sources disagree. Lonely Planet writes that winter rain is "practically
 
 Before you go: shoes, slopes and hours#
 
-The lanes of the Civita, the Comune writes, can only be walked. Paving and steps are part of the route: shoes with a grippy sole, not sandals. Hours change with the season and we are now in autumn: the Casa Grotta, for example, from October to December opens Monday to Friday from 9:30 to 18:00, with last access at 17:40, and Saturday and Sunday until 19:00, with last access at 18:40.
+The lanes of the Civita, the Comune writes, can only be walked. Paving and steps are part of the route: shoes with a grippy sole, not sandals. Hours change with the season and we are now in autumn: the Casa Grotta, for example, from October to December opens Monday to Friday from 9:30 to 18:00, with last access at 17:40, and Saturday and Sunday until 19:00, with last access at 18:40. The site adds that you can enter up to 20 minutes before closing and that, with at least one working day's notice, you can ask to visit outside the scheduled hours.
 
 Morning: Sasso Barisano and the Civita#
 
 The Comune di Matera suggests a walking route that starts at the Villa Comunale and goes down via Pentasuglia to via D'Addozio, already inside Sasso Barisano. Here you meet the Monastery of Sant'Agostino, built in 1591 and partly rebuilt in 1747, whose church stands on the ruins of a rock-cut monastery; from the churchyard the view opens onto Murgia Timone and the Gravina canyon. A little further on, the church of San Pietro Barisano has an 18th-century facade over an underground church; according to the Comune's page, last updated in January 2024, the interior is not open to visitors.
 
-From via Fiorentini you climb the Civita, the old heart dominated by the Cathedral. We did not verify the Cathedral's hours or admission: check on the spot.
+From via Fiorentini you climb the Civita, the old heart dominated by the Cathedral. According to Italia.it the Cathedral, a 13th-century Apulian Romanesque church, has a sixteen-ray rose window, a 16th-century limestone nativity scene and a Byzantine fresco of 1270, and the square in front gives a view over the Sassi. We found no hours or admission terms on an official page: check on the spot.
 
 Pale stone houses of the Sasso Barisano and the Civita seen from above, with green doors and shutters among the rooftops Photo: Benjamin Smith, CC BY-SA 4.0, Wikimedia Commons
 Lunch break: what to taste#
@@ -2691,12 +2718,20 @@ The Storica Casa Grotta di Vico Solitario is the clearest place to understand ho
 
 End of the day: the viewpoints#
 
-For the classic view of the stone nativity scene, Italia.it recommends the Belvedere of Murgia Timone in the Murgia Materana Park, especially towards evening. The Comune also mentions a Belvedere square reachable by car from the SS 7 Appia towards Laterza. Piazzetta Pascoli, in the centre, is a balcony over the Sassi without going far.
+For the classic view of the stone nativity scene, Italia.it recommends the Belvedere of Murgia Timone, on the opposite side of the ravine, early in the morning or at sunset. The Comune also mentions a Belvedere square reachable by car from the SS 7 Appia towards Laterza (we did not verify whether access is regulated). Piazzetta Pascoli, in the centre, is a balcony over the Sassi without going far (the Comune mentions no ticket).
+
+Is the Murgia Timone viewpoint paid? What changed in 2026#
+
+This is where our October guide needed updating. The visitor site of the Parco della Murgia Materana (run by Parco Sassi, in agreement with the Park Authority) sells an access ticket for the Murgia Timone area: 10 € from 1 April to 31 October and 7 € from 1 November to 31 March, with a 50% reduction under 25 and free entry for residents of Matera and Montescaglioso and for accompanied children under 6. It includes the area's trail network, the rock church of San Falcione, the Jazzo Gattini visitor centre, toilets and the shuttle to and from the viewpoint. One discrepancy to flag: on the same site the booking form also shows a 5 € item for a free winter/autumn visit and a different base price, so the final figure should be checked when you buy.
+
+The Park's hours, per the same page, are 9:00 to 18:00 from 16 September to 30 November and 10:00 to 16:30 from 1 December to the end of February. That means the sunset at the viewpoint that Italia.it suggests has to be fitted around the closing time: check the day's sunset and the closing hour before you go up. The safest idea in this season is to do Murgia Timone in the morning and keep Piazzetta Pascoli, for which we found no ticket or hours, for the late afternoon.
+
+If you prefer to walk there, take the Sentiero 406 from Porta Pistola, on via Madonna delle Virtù. It drops to the ravine, crosses a suspension bridge of about 70 metres and climbs onto the plateau. The Park's site rates it medium difficulty, lists 2 hours as the average visit time and a ticket of 10 € from November to March (15 € from April to October), which also covers the Murgia Timone services. Trekking shoes are compulsory: with flip-flops, sandals or slippers you are not let in. The route takes more time and breath than it looks from below: do not leave it for the end of the day with tired legs.
 
 The Sasso Barisano at dusk, with lit stone houses and a bell tower above Photo: Benjamin Smith, CC BY-SA 4.0, Wikimedia Commons
 If you have a second day#
 
-Three ideas with one certain fact each. The Crypt of Original Sin, which Italia.it lists among the rock churches not to be missed, dates from the Lombard period; it can only be visited by online booking, and in October the slots start at 9:30, 11:00, 12:30, 15:30 and 17:00, reduced to four (without the 17:00) from November to February. The ticket office is at the Azienda Agricola Dragone and you must arrive half an hour before. The Palombaro Lungo, under Piazza Vittorio Veneto, is a cistern dug in phases from the 16th century, 16 metres deep, 50 long and holding 5 million litres according to the official site; we did not verify hours and prices. Casa Noha, a short step from the Cathedral, is a project curated by FAI per Italia.it; we did not verify hours or prices.
+Three ideas with one certain fact each. The Crypt of Original Sin, which Italia.it lists among the rock churches not to be missed, dates from the Lombard period; it can only be visited by online booking, and in October the slots start at 9:30, 11:00, 12:30, 15:30 and 17:00, reduced to four (without the 17:00) from November to February. The ticket office is at the Azienda Agricola Dragone and you must arrive half an hour before. The Palombaro Lungo, under Piazza Vittorio Veneto, is a cistern dug in phases from the 16th century, 16 metres deep, 50 long and holding 5 million litres according to the official site. It is open every day from 10:00 to 13:00 and from 15:00 to 18:00, with no booking, as a self-guided visit of about 15 minutes with a leaflet in several languages; if it is crowded you may wait a few minutes. Adults pay 3 € and minors go in free. Casa Noha, a short step from the Cathedral, is a project curated by FAI per Italia.it; we did not verify hours or prices.
 
 How to order the day#
 
@@ -2708,19 +2743,34 @@ LunchA Matera dishCialledda, crusco peppers or pignata, per Italia.it.
 
 Early afternoonSasso CaveosoMadonna delle Virtù, Piazza San Pietro Caveoso and the Casa Grotta, going in before 17:40.
 
-Late afternoonViewpointMurgia Timone or Piazzetta Pascoli, in end-of-day light.
+Late afternoonViewpointPiazzetta Pascoli, for which no ticket is listed; Murgia Timone only if you fit within the Park's hours.
 
-ConsiglioIn autumn the Casa Grotta closes at 18:00 on weekdays: put it before sunset and keep the viewpoints for later, when you no longer need tickets or hours.
+ConsiglioIn autumn the Casa Grotta closes at 18:00 on weekdays and the Murgia Timone Park at 18:00 (16:30 from December): put the two timed visits in the morning and early afternoon, and keep Piazzetta Pascoli, for which the sources we read list no ticket or hours, for sunset.
 
 How much it costs, on average#
 
-The only cost we verified is admission to the Casa Grotta (8 €, an indicative average from the official site). For walking through the Sassi along the Comune's route we found no entry ticket on the pages we read. We read no prices for the Crypt, the Palombaro Lungo or the museums, so we do not quantify them. Meals and transport were not verified.
+The figures we verified on official sites, all to be read as indicative averages: Casa Grotta 8 € full and 5 € reduced; Palombaro Lungo 3 € for adults; Murgia Timone area 7 € from November to March (10 € from April to October); Sentiero 406 10 € from November to March (15 € from April to October). For walking through the Sassi along the Comune's route we found no entry ticket on the pages we read. We did not read the price of the Crypt of Original Sin or of the museums, so we do not quantify them. Meals and transport were not verified.
+
+A sample sum, purely indicative and with the fares above: the Casa Grotta plus the Palombaro Lungo come to 11 € per full-price person; add Murgia Timone in low season and you reach 18 €, not counting the Crypt.
+
+The questions people really ask#
+
+Do I need to book? Only for the Crypt of Original Sin, which can only be visited online. The Casa Grotta and the Palombaro Lungo are paid at the desk (the Palombaro states outright that there is no booking); for Murgia Timone and the Sentiero 406 the Park's site has a purchase page with a calendar.
+
+What can I do if it rains? Three indoor visits with verified details: the Casa Grotta, the Palombaro Lungo and the Crypt (the latter by booking). The Comune notes that the lanes of the Civita can only be walked, so wear shoes with a grippy sole and a waterproof; for Murgia Timone the Park recommends checking the forecast before your visit.
+
+With children? Verified details: at the Casa Grotta entry is free up to and including age ten and reduced to 3 € from 11 to 18; the Palombaro Lungo is free for minors; at Murgia Timone children under 6 are free when accompanied by a parent. We did not verify how accessible the routes are with a pushchair: the lanes are steps and slopes.
+
+Can I do it all in one day? As an editorial estimate, one full day is enough for the two Sassi with one or two indoor visits. With Murgia Timone and the Crypt you need two days, also because the Park's hours and the Casa Grotta's overlap in the afternoon.
 
 Common mistakes#
 
 Turning up at the Crypt without a booking: it is online only.
 Arriving at the last minute: you need to be there half an hour before the slot.
 Trusting a single listing for Casa Grotta prices: three sources, three figures.
+Assuming the Murgia Timone viewpoint is free: there is now a ticket and a closing time.
+Turning up at the Sentiero 406 in light shoes: without suitable footwear you are not let in.
+Counting on sunset at Murgia Timone after 1 December, when the Park closes at 16:30.
 Climbing up and down without proper shoes.
 Planning everything on summer hours in autumn.
 
@@ -2730,13 +2780,13 @@ With only half a day, skip the stops that require booking and keep the Comune's 
 
 More itineraries#
 
-To try the same approach in other walking cities, read one day in Lecce or one day in Ortigia. If you are short of time and want a rain plan, there is what to do in Catania when it rains, and for thinking about how to build an itinerary with AI help, itineraries with artificial intelligence.
+If you are coming from Puglia, also read Polignano a Mare without a car and one day in Lecce, two guides where opening hours matter as much as here. For another hilltop town on foot there is Taormina and Etna in a day, and for getting around a city of climbs without a car, Perugia and Assisi by train. For another walking city, one day in Ortigia. If you are short of time and want a rain plan, there is what to do in Catania when it rains, and for thinking about how to build an itinerary with AI help, itineraries with artificial intelligence.
 
 A route that adapts#
 
-Matera is the kind of place where a wrong opening time or a missed booking wrecks the afternoon. It is the problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, join the waitlist.
+Now you know the hard parts: the Crypt needs a booking, the Casa Grotta closes at 18:00 on weekdays this season, and Murgia Timone has a ticket and shorter winter hours. Matera is the kind of place where a wrong opening time or a missed booking wrecks the afternoon. UNNIVAI is being built to lay out a day like this from real places and redo it when your day changes. If you want to try it early, join the waitlist.
 
-Verification note. Data read on 30 October 2026 on the pages listed in the sources: UNESCO, the Comune di Matera and its tourist portal MateraWelcome, Italia.it, the Casa Grotta website and the Ministry of Culture listing, the Crypt of Original Sin website, the Palombaro Lungo website, Lonely Planet Italia and a climate page. Where sources disagree (the Casa Grotta price, the date of the Sassi evacuation, winter rainfall) we say so. We did not verify the Cathedral's hours and admission, Crypt prices, Palombaro Lungo hours and prices, FAL train journey time and frequency, or where to eat. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.
+Verification note. Guide refreshed on 16 November 2026: we reopened the official pages of the Casa Grotta (fares in force from 4 April 2026, October-December hours), the Crypt of Original Sin (November-February slots), the Palombaro Lungo, the MateraWelcome portal (train page, modified November 2025) and the Comune di Matera (route, last updated January 2024). What is new since the 30 October version: ticket and hours for Murgia Timone and the Sentiero 406 (the Park's visitor site, pages modified on 22 October 2026), the Palombaro Lungo's hours and price, and the Casa Grotta's reductions. Where sources disagree (the Casa Grotta price, the date of the Sassi evacuation, winter rainfall, the Murgia Timone ticket price between text and booking form) we say so. We did not verify the Cathedral's hours and admission, Crypt prices, FAL train journey time and frequency, whether access to the SS 7 Belvedere square is regulated, pushchair accessibility, or where to eat. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.
 
 
 # Palermo street food guide: markets, hours and what to order

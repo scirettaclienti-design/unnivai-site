@@ -3,6 +3,7 @@ id: taormina-e-etna-in-un-giorno
 title: Taormina and Mount Etna in one day: is it doable?
 description: Taormina and Etna in one day: ancient theatre, cable car closed until 8 December, Isola Bella closed, the volcano tour and hours to check.
 date: 2026-11-09
+updated: 2026-11-16
 category: Taormina
 cover: Taormina
 tags: Itinerary, Etna, One day
@@ -116,5 +117,7 @@ For another side of Sicily on foot, read [What to do in Catania when it rains](/
 ## When the day changes
 
 If the weather, an opening time or a closure changes your plan, the route needs rewriting: same walk, different order. That is what UNNIVAI is built for, and you can [join the first people in](/?src=blog-taormina-e-etna-in-un-giorno-en#iscriviti).
+
+**Read next:** for another on-foot itinerary of steps and opening hours to respect, [how to visit the Sassi of Matera and when to go](/blog/visiting-matera-sassi-and-when-to-go).
 
 *Hours, prices and closures were read on the sources listed and checked on 9 November 2026; they change during the year: check before you go. Where sources were not official or disagreed we said so. We could not verify: the ancient theatre's winter hours, a scheduled direct service from Taormina to Rifugio Sapienza, the frequency of the cable car's replacement bus, the altitude limit currently in force on the volcano and the activity status of the summit crater. We have no photo of Isola Bella: the bay is closed and we did not find a suitable, verified photo on Wikimedia Commons.*

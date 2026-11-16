@@ -2,6 +2,7 @@
 title: Taormina e l'Etna in un giorno: come organizzarla
 description: Taormina e l'Etna in un giorno: teatro antico, funivia chiusa fino all'8 dicembre, Isola Bella chiusa, tour sul vulcano e orari da verificare.
 date: 2026-11-09
+updated: 2026-11-16
 category: Taormina
 cover: Taormina
 tags: Itinerario, Etna, Una giornata
@@ -115,5 +116,7 @@ Per un'altra Sicilia a piedi, leggi [Cosa fare a Catania quando piove](/blog/cos
 ## Se cambia la giornata
 
 UNNIVAI è pensata per riscrivere il percorso quando cambiano meteo, orari o chiusure: stesso giro, ordine diverso. Se ti serve, [entra tra i primi](/?src=blog-taormina-e-etna-in-un-giorno#iscriviti).
+
+**Leggi anche:** per un altro itinerario a piedi tra scale e orari da rispettare, [Matera: come visitare i Sassi e quando andare](/blog/matera-come-visitare-i-sassi).
 
 *Orari, prezzi e chiusure sono letti sulle fonti indicate e verificati il 9 novembre 2026; cambiano durante l'anno: controlla prima di partire. Dove le fonti non erano ufficiali o discordavano lo abbiamo scritto. Non siamo riusciti a verificare: l'orario invernale del teatro antico, un collegamento di linea diretto da Taormina al Rifugio Sapienza, la frequenza del bus sostitutivo della funivia, il limite di quota in vigore sul vulcano e lo stato di attività del cratere sommitale. Non abbiamo una foto di Isola Bella: la baia è chiusa e non abbiamo trovato su Wikimedia Commons una foto adatta e verificata.*

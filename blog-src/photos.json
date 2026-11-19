@@ -526,5 +526,37 @@
   "url": "https://commons.wikimedia.org/wiki/File:Atrani_panorama.jpg",
   "w": 1400,
   "h": 1050
+ },
+ "trieste-piazza-unita": {
+  "file": "File:Piazza Unità d'Italia (Trieste) 15.jpg",
+  "artist": "SIG SG 510",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Piazza_Unit%C3%A0_d%27Italia_(Trieste)_15.jpg",
+  "w": 1400,
+  "h": 693
+ },
+ "trieste-tram-opicina": {
+  "file": "File:Trieste-Tram-Opicina-90.jpg",
+  "artist": "Nol Aders",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Trieste-Tram-Opicina-90.jpg",
+  "w": 1100,
+  "h": 733
+ },
+ "trieste-miramare": {
+  "file": "File:Castello di Miramare a Trieste (2025-01-04).jpg",
+  "artist": "Andrek02",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Castello_di_Miramare_a_Trieste_(2025-01-04).jpg",
+  "w": 1100,
+  "h": 825
+ },
+ "trieste-caffe-san-marco": {
+  "file": "File:Caffè San Marco-Trieste.jpg",
+  "artist": "Tiesse",
+  "license": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Caff%C3%A8_San_Marco-Trieste.jpg",
+  "w": 900,
+  "h": 1235
  }
 }

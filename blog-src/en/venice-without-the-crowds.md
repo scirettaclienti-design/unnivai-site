@@ -3,7 +3,7 @@ id: venezia-come-evitare-la-folla
 title: Is there a fee to enter Venice? How to beat the crowds
 description: Do you pay to enter Venice in 2026 or 2027? Access fee dates, vaporetto fares, high-water walkways, Rialto market hours and how to avoid the crowds.
 date: 2026-10-29
-updated: 2026-11-14
+updated: 2026-11-19
 category: Venice
 cover: Venezia
 tags: Logistics, Food, One day
@@ -118,5 +118,7 @@ For the same method (right hour, fewer crowds) applied to Rome there is [Rome be
 ## A plan for your day
 
 You now have the pieces: the hour, the district, the ticket, the market and the tide forecast. Putting them in order depends on the day you arrive, the weather and the rules in force at that moment, and that is the part UNNIVAI is building for you, an itinerary that adapts to that day. [Join the waitlist](/?src=blog-venezia-come-evitare-la-folla-en#iscriviti).
+
+**Read next:** Another north-eastern Adriatic city to plan around hours and weather: [One day in Trieste: cafés, Opicina tram and bora plan B](/blog/one-day-in-trieste).
 
 *Checked on 14 November 2026 on pages opened for this article (first draft 29 October; update: access fee, AVM fares, walkways and Tide Centre, Venezia Unica tickets, markets). Not verifiable from here: Alilaguna times and lines, whether a given walkway is actually in place on a given day, hours of any single bacaro. Hours, prices and access rules change during the year: check the official sources before you go.*

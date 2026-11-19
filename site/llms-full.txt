@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Trieste in un giorno: caffè storici, Carso e bora](https://unnivai.com/blog/trieste-in-un-giorno): Un giorno a Trieste tra Piazza Unità, caffè storici, tram di Opicina e Miramare: orari e prezzi verificati e il piano B quando soffia la bora.
 - [Costiera Amalfitana senza auto: bus SITA e traghetti](https://unnivai.com/blog/costiera-amalfitana-con-i-mezzi-pubblici): Come girare la Costiera Amalfitana con i mezzi pubblici: orari invernali SITA dal 2 novembre, biglietto da 10 €, traghetti Travelmar e Sentiero degli Dei.
 - [Perugia e Assisi senza auto: 2 giorni con treno e Minimetrò](https://unnivai.com/blog/perugia-e-assisi-in-treno): Due giorni tra Perugia e Assisi senza macchina: Minimetrò, Galleria Nazionale, treno e bus per la Basilica di San Francesco, con orari verificati.
 - [Cagliari in un giorno: Castello, bastioni e anfiteatro](https://unnivai.com/blog/cagliari-in-un-giorno): Cagliari in una giornata a piedi: bastione di Saint Remy, torri, cattedrale e anfiteatro, con orari, biglietti e lo stato del mercato di San Benedetto.
@@ -27,6 +28,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [One day in Trieste: cafés, Opicina tram and bora plan B](https://unnivai.com/en/blog/one-day-in-trieste): What to do in Trieste in one day: Piazza Unità, historic cafés, the Opicina tram or Miramare Castle, with checked hours, prices and a plan for bora days.
 - [How to get around the Amalfi Coast without a car](https://unnivai.com/en/blog/amalfi-coast-by-public-transport): Amalfi Coast by bus and ferry: winter SITA timetable from 2 November, the 10 € day ticket, Travelmar boats, and how to reach the Path of the Gods.
 - [Perugia and Assisi by train: 2 days without a car](https://unnivai.com/en/blog/perugia-and-assisi-by-train): See Perugia and Assisi in two days without a car: Minimetrò, the National Gallery of Umbria, then train and bus to St Francis Basilica, with checked hours.
 - [One day in Cagliari: what to see on foot, and what is closed](https://unnivai.com/en/blog/one-day-in-cagliari): One day in Cagliari on foot: Saint Remy bastion, towers, cathedral and Roman amphitheatre, with hours, tickets and the San Benedetto market closure.
@@ -58,6 +60,95 @@
 - [Sitemap](https://unnivai.com/sitemap.xml)
 
 ---
+
+# Trieste in un giorno: caffè storici, Carso e bora
+URL: https://unnivai.com/blog/trieste-in-un-giorno
+Language: it
+Updated: 2026-11-19
+
+Trieste si capisce con tre cose: un caffè storico, un punto da cui guardarla dall'alto e il vento. L'ultimo è quello che cambia il programma. In una settimana di novembre il parco di Miramare ha chiuso per allerta meteo e il tram di Opicina si è fermato per un albero caduto sui cavi, così un itinerario scritto come se il cielo fosse sempre fermo non regge. Questo giro mette in fila una giornata con un pomeriggio a scelta e un piano B pensato per la bora.
+
+In breve. Una giornata a Trieste regge su tre blocchi: mattina tra Piazza Unità e uno dei caffè storici censiti dal Comune, pomeriggio sul Carso con il tram di Opicina oppure al Castello di Miramare (aperto dalle 9 alle 19, 12 € intero, parco gratuito ma a novembre chiude alle 16). Con la bora restano caffè e castello; il tram e il parco possono fermarsi, come è successo il 13 novembre.
+
+MattinaPiazza Unità d'Italia e il moloA piedi dal centro verso il mare, se il vento lo permette.
+
+MattinaUn caffè storicoSpecchi, San Marco, Urbanis, Tommaseo o Pirona: ne bastano uno o due.
+
+PomeriggioOpicina e il CarsoTram di Opicina, passeggiata sulla strada panoramica, ritorno in tram.
+
+Pomeriggio (alternativa)Castello di MiramareBus 6 o 36 o treno; arriva prima delle 16 se vuoi il parco.
+
+ConsiglioDecidi il pomeriggio al mattino, guardando due cose: il cielo e gli avvisi di Trieste Trasporti sul tram. Se il vento è forte, scegli Miramare solo per il castello (aperto fino alle 19) e tieni Carso e molo per un'altra giornata.
+
+Da dove cominciare: Piazza Unità e il molo#
+
+Piazza Unità d'Italia è il salotto aperto sul mare e il punto naturale da cui partire. È anche la piazza in cui si affaccia il Caffè degli Specchi (al numero 7, secondo il Comune) e dove il Comune colloca anche l'Harry's Grill, al numero 2/1. Da qui il Molo Audace è a pochi passi: nel dicembre 2024 InTrieste raccontava di residenti e turisti che, dopo una notte di bora, erano andati lì a guardare le montagne innevate attraverso l'aria pulita del golfo, tra famiglie in piazza e fotografi che si appoggiavano al vento.
+
+La nostra indicazione è semplice: se le raffiche sono forti, il molo si guarda dalla piazza. Non abbiamo trovato una regola ufficiale che lo vieti, quindi è una scelta di buon senso, non un divieto.
+
+Quali caffè storici scegliere (e cosa dicono le fonti)#
+
+Il Comune di Trieste pubblica un itinerario dei caffè storici con dieci indirizzi. Quelli che portano di più in una mattina sono cinque, tutti con una storia verificabile sulla pagina ufficiale. Il Caffè degli Specchi, in Piazza Unità, è stato aperto nel 1839 al piano terra di un edificio sopra i resti del castello medievale dell'Amarina. Il Caffè Urbanis, in Piazza della Borsa 15, nasce nel 1832 come pasticceria e ha un mosaico sul pavimento con simboli mitologici, marini e della bora. Il Caffè San Marco, in via Battisti 18, ha l'arredo disegnato nel 1914 da Marco Lovrinovich ed è citato dal Comune come luogo frequentato da artisti e intellettuali. La Pasticceria Pirona, in Largo Barriera Vecchia 12, apre ad aprile del 1900 e conserva gli arredi originali con scaffali in legno e vetro; un ritratto ricorda James Joyce, cliente abituale. Il Caffè Tommaseo, in Piazza Tommaseo 4/C, è del 1825.
+
+Qui le fonti discordano. Il Comune data il Tommaseo al 1825, mentre ITALY Magazine scrive 1830; per il Torinese il Comune dice 1915 e la rivista 1919. Non scegliamo un anno: se ti serve la data, usa il Comune, che è la fonte ufficiale, e ricordati che la sua pagina è stata aggiornata l'ultima volta nel novembre 2020.
+
+L'ingresso del Caffè San Marco in via Battisti 18, a Trieste Foto: Tiesse, Public domain, Wikimedia Commons
+Il consiglio pratico è non fare il giro dei caffè come una collezione. Uno dei grandi (Specchi o San Marco) per sedersi, e se resta tempo una pasticceria più piccola, come Pirona o La Bomboniera in via Trenta Ottobre, che il Comune descrive con il forno originale tra i pochi del genere ancora in funzione in Italia. Orari e prezzi non li abbiamo letti su nessuna pagina ufficiale, quindi non li scriviamo: apri un'app di mappe e guarda l'orario del giorno.
+
+Il tram di Opicina: salire sul Carso#
+
+Il tram-funicolare che collega il centro di Trieste con Villa Opicina, sull'altopiano del Carso, funziona dal 1902 secondo SiViaggia. Il percorso è lungo circa 5 chilometri e supera un dislivello di 329 metri tutto in salita. Quando è in servizio, è un'esperienza molto triestina, perché il paesaggio alle spalle si allarga a ogni curva.
+
+Il tram di Opicina in salita, con la città di Trieste sullo sfondo Foto: Nol Aders, CC BY-SA 4.0, Wikimedia Commons
+Quest'anno la linea ha avuto una storia agitata, e per questo la parte "verificata" è lunga. Dopo mesi di stop, secondo SiViaggia il servizio è ripartito il 27 luglio 2026, con limiti iniziali (non oltre l'80 per cento della capienza, corse da Piazza Dalmazia invece che da Piazza Oberdan fino alla fine dei lavori di riqualificazione, previsti tra fine 2026 e giugno 2027). Trieste Trasporti ha poi comunicato una nuova ripresa del servizio lunedì 3 agosto, e il 9 agosto InTrieste ha riferito di un'altra sospensione per un guasto alla sezione a fune. L'ultimo stop è di novembre: un guasto riscontrato venerdì 13 novembre sera, causato, secondo i tecnici citati da ANSA, dalla caduta di un albero sulla linea aerea nel tratto tra via Marziale e Conconello per le forti raffiche di bora. Il servizio è stato riattivato la mattina di martedì 17 con il consueto orario. Non abbiamo letto il prezzo del biglietto né l'orario della prima e dell'ultima corsa su una pagina ufficiale, e non sappiamo se la partenza sia ancora Piazza Dalmazia: controlla prima di salire.
+
+All'arrivo c'è l'Obelisco di Opicina, la terrazza da cui Trieste e il golfo si vedono interi. Da qui parte il tratto del sentiero CAI 1 descritto da Turismo FVG: la strada Vicentina, nota come Napoleonica, che porta verso Prosecco con vista su città e mare e, poco sopra, il primo dei tre belvedere dell'itinerario (il belvedere Italia). L'itinerario completo fino ad Aurisina è lungo 17 km, richiede circa 4 ore e mezza e si chiude con il bus 44 dalla piazza del municipio di Aurisina: per un solo pomeriggio non serve farlo tutto. Cammina fino a dove hai tempo, poi torna indietro con lo stesso tram. Il tratto Obelisco-Prosecco da solo non ha una lunghezza indicata dalla fonte, e non la inventiamo.
+
+Chi vuole un'altra faccia del Carso, più poetica, può guardare il Sentiero Rilke vicino a Duino-Aurisina: il FAI lo descrive come una terrazza naturale selvaggia e ventosa sul mare, dove Rainer Maria Rilke soggiornò tra il 1912 e il 1922 e scrisse le Elegie Duinesi. Non abbiamo verificato come raggiungerlo con i mezzi pubblici, quindi lo mettiamo fuori da questo giro.
+
+Miramare: castello, parco e come arrivarci#
+
+Il Castello di Miramare sta su una scogliera sul golfo, a circa 8 km a nord-ovest di Trieste, ed è costruito in pietra bianca d'Istria, in stile eclettico. Il sito ufficiale indica il castello aperto tutti i giorni dalle 9 alle 19 (esclusi Natale e Capodanno), con la biglietteria che chiude alle 18:30. Il parco è gratuito tutto l'anno, ma con orari che cambiano: a novembre e dicembre apre alle 8 e chiude alle 16 (a gennaio chiude alle 16, a febbraio alle 17). È un dettaglio facile da mancare: il castello chiude alle 19, ma il parco prima, e il sito descrive circa mezzo chilometro di sentieri tra l'ingresso del parco e il castello, quindi conviene arrivare prima delle 16.
+
+Il Castello di Miramare visto dal parco, con il golfo di Trieste sullo sfondo Foto: Andrek02, CC0, Wikimedia Commons
+Il biglietto per il museo storico costa 12 € intero, 2 € per i giovani tra 18 e 25 anni, e la prima domenica del mese l'ingresso è gratuito: la prossima è domenica 6 dicembre 2026. L'audioguida costa 4 € per i singoli, dura circa 60 minuti ed è disponibile in sei lingue. Sul sito il museo avverte che il parcheggio è limitato e invita a usare bus, treno o battello.
+
+Per arrivarci senza auto, il sito indica tre strade. In treno regionale (linee Udine-Trieste, Trieste-Venezia o Trieste-Vienna) si scende alla stazione di Miramare e si cammina circa 150 metri lungo via Beirut fino all'ingresso del parco. In bus, dalla Stazione Centrale si prendono le linee 6 o 36 verso Miramare-Grignano: scendendo al Bivio di Miramare restano 750 metri; con la linea 6 fino al capolinea di Grignano sono circa 200 metri fino al parco e altri 350 fino al castello. Il battello Delfino Verde, che da Trieste, Barcola o Sistiana arriva alla baia di Grignano, è un servizio estivo e a novembre non è un'opzione.
+
+La bora: cosa cambia davvero#
+
+Secondo Meteored la bora è un vento catabatico, aria fredda che scende dal Carso verso il golfo di Trieste, tipico di autunno, inverno e inizio primavera. Le raffiche superano spesso i 100 km/h e nei record citati arrivano a 168 km/h (OSMER, 11 febbraio 2012) e a 188 km/h (10 marzo 2010, Istituto Nautico). Non è un dato da turisti spaventati, è la ragione per cui il parco di Miramare, il 13 novembre 2026, ha chiuso tutto il giorno dopo l'allerta meteo n. 31/2026, lasciando aperto solo il Parterre Café.
+
+La bora ha anche un lato bello: pulisce l'aria e rende nitido il golfo e le montagne. Per un turista significa sapere in anticipo che il giorno ideale per il Carso e per il molo è quello senza vento forte, e che nei giorni di bora si lavora al coperto.
+
+Quanto spendere (medie indicative)#
+
+Le cifre lette: castello di Miramare 12 € intero (2 € dai 18 ai 25 anni, gratis sotto i 18 e la prima domenica del mese), audioguida 4 €, parco gratuito. Per una persona adulta, una giornata con Miramare costa circa 12 € di ingresso, più l'eventuale audioguida. Non abbiamo letto i prezzi di tram, bus urbani, treno regionale per Miramare o di un caffè storico, e non li stimiamo.
+
+Errori comuni a Trieste#
+
+Arrivare a Miramare dopo le 16 contando sul parco: a novembre e dicembre chiude prima del castello.
+Programmare il tram senza guardare gli avvisi: quest'anno si è fermato più volte, e il 13 novembre per la bora.
+Fidarsi di una sola fonte per le date dei caffè: Comune e ITALY Magazine non coincidono su Tommaseo e Torinese.
+Mettere Carso, molo e Miramare nello stesso giorno di bora: si perde la giornata e il vento decide per te.
+Andare a Miramare in auto: il sito avverte che il parcheggio è limitato.
+
+Piano B: se cambia la giornata#
+
+Con la bora il piano resta in piedi se ridisegni il pomeriggio. Tieni la mattina in centro tra Piazza Unità e i caffè (il vento sul molo si guarda dalla piazza), poi vai al castello di Miramare, che dentro regge anche con le raffiche, ma controlla prima l'avviso sul sito: il 13 novembre il parco è stato chiuso. Se il tram è fermo, il Carso passa al giorno dopo. Se piove senza vento, i caffè storici e il castello funzionano bene al coperto.
+
+Cosa lasciare fuori#
+
+Troppe tappe: Carso e Miramare nello stesso pomeriggio sono due mezze giornate.
+L'auto: né per Miramare né per il Carso serve, dato il parcheggio limitato e il tram.
+I locali che non conosciamo: oltre ai caffè storici elencati dal Comune non indichiamo ristoranti, perché non li abbiamo verificati.
+
+Se hai un altro giorno#
+
+Per un altro itinerario fatto di caffè storici e piano B, leggi Torino: musei e caffè storici con la pioggia. Per un'altra città sull'Adriatico del Nord-Est da visitare ragionando sulla folla, guarda Venezia senza folla; e per un giro a piedi e in treno vicino al mare c'è Cinque Terre a piedi. UNNIVAI è pensata per riscrivere un giro così quando cambiano vento, orario o stanchezza: se ti serve, entra tra i primi.
+
+Orari, prezzi e avvisi sono letti sulle fonti ufficiali indicate e verificati il 19 novembre 2026: cambiano durante l'anno, con il meteo e con gli eventi, quindi controlla prima di partire. Dove due fonti discordano lo abbiamo scritto. Non abbiamo verificato orari e prezzi dei caffè storici, il prezzo e l'orario del tram di Opicina, il capolinea attuale della linea, i prezzi dei bus e dei treni, la lunghezza del tratto Obelisco-Prosecco e come raggiungere il Sentiero Rilke con i mezzi pubblici.
+
 
 # Costiera Amalfitana senza auto: bus SITA e traghetti
 URL: https://unnivai.com/blog/costiera-amalfitana-con-i-mezzi-pubblici
@@ -515,7 +606,7 @@ Orari, prezzi e chiusure sono letti sulle fonti indicate e verificati il 9 novem
 # Torino con la pioggia: musei, caffè storici e orari
 URL: https://unnivai.com/blog/torino-musei-e-caffe-storici-con-la-pioggia
 Language: it
-Updated: 2026-11-10
+Updated: 2026-11-19
 
 Torino con la pioggia non è una città da rimandare: è una città costruita per i giorni di maltempo. Tre musei di livello internazionale, una piazza con un palazzo reale e una tradizione di caffè storici che ha un'identità precisa. Il problema vero non è il tempo, è il calendario: ogni museo ha un giorno di chiusura diverso, e se lo scopri una volta arrivato il programma si rompe.
 
@@ -600,6 +691,8 @@ Il piano B si costruisce prima#
 Il problema della pioggia non è la pioggia: è dover rifare il programma da zero, sotto l'acqua, con il telefono in mano e i giorni di chiusura da incrociare. È lo stesso problema che UNNIVAI vuole risolvere: un percorso con luoghi veri che si adatta quando cambia la giornata. Se vuoi essere tra i primi a provarlo, entra nella lista d'attesa.
 
 Leggi anche: Un altro modo di costruire una giornata sugli orari dei musei, a Roma: Roma oltre il Colosseo: 5 zone da vedere.
+
+Leggi anche: Un altro itinerario fatto di caffè storici e piano B per il maltempo, in Friuli Venezia Giulia: Trieste in un giorno: caffè storici, Carso e bora.
 
 Nota di verifica. Dati letti il 6 novembre 2026 sulle pagine elencate nelle fonti: siti ufficiali del Museo Egizio, del Museo Nazionale del Cinema, dei Musei Reali e di Turismo Torino, la scheda del Caffè Al Bicerin e il portale Musei di Torino. Dove le fonti discordano (prezzo del biglietto dell'Egizio, ore di messa in vendita dei biglietti dell'ascensore della Mole) lo abbiamo scritto. Non abbiamo verificato orari e prezzi dei caffè storici, la distanza a piedi tra i musei, né le condizioni dell'ascensore panoramico con la pioggia. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, quindi controlla sempre le informazioni ufficiali prima di partire.
 
@@ -1284,7 +1377,7 @@ Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate il 
 # Venezia senza folla: come evitarla e dove mangiare davvero
 URL: https://unnivai.com/blog/venezia-come-evitare-la-folla
 Language: it
-Updated: 2026-11-14
+Updated: 2026-11-19
 
 Venezia non è una città da "fare": è una città da attraversare in un certo ordine, a certe ore. Il problema non è la città, è il momento in cui ci arrivi. Questa guida mette insieme quello che dicono le pagine ufficiali del Comune e di AVM (contributo di accesso, vaporetto, regole di comportamento) con quello che dicono i siti turistici su orari, quartieri più tranquilli e bacari, indicando ogni volta dove le fonti non concordano.
 
@@ -1368,6 +1461,8 @@ Per lo stesso criterio (ora giusta, meno folla) applicato a Roma c'è Roma oltre
 Il piano per la tua giornata#
 
 Ora hai i pezzi: l'ora, il sestiere, il biglietto, il mercato e la previsione di marea. Metterli in fila dipende dal giorno in cui arrivi, dal meteo e dalle regole in vigore quel momento, ed è la parte che UNNIVAI vuole costruire per te con un itinerario che si adatta a quel giorno. Iscriviti alla lista d'attesa.
+
+Leggi anche: Un'altra città dell'Adriatico del Nord-Est da pianificare sugli orari e sul meteo: Trieste in un giorno: caffè storici, Carso e bora.
 
 Verificato il 14 novembre 2026 su pagine aperte per questo articolo (prima stesura del 29 ottobre; aggiornamento: contributo di accesso, tariffe AVM, passerelle e Centro Maree, biglietti Venezia Unica, mercati). Non verificabili da qui: orari e linee Alilaguna, disponibilità reale delle passerelle in un dato giorno, orari di ogni singolo bacaro. Orari, prezzi e regole di accesso cambiano durante l'anno: controlla le fonti ufficiali prima di partire.
 
@@ -2156,6 +2251,95 @@ Leggi anche: per salire sull'Etna e vedere il teatro antico in una sola giornata
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
 
+# One day in Trieste: cafés, Opicina tram and bora plan B
+URL: https://unnivai.com/en/blog/one-day-in-trieste
+Language: en
+Updated: 2026-11-19
+
+Trieste makes sense through three things: a historic café, a place to look down on the city from, and the wind. The wind is the one that changes your plans. In a single week in November the park at Miramare closed for a weather alert and the Opicina tram stopped because a tree had fallen on its wires, so an itinerary written as if the sky never moves will not hold. This plan gives you one day with a choice of afternoon, and a plan B built around the bora.
+
+In short. One day in Trieste rests on three blocks: a morning around Piazza Unità and one of the historic cafés listed by the City, then an afternoon on the Karst with the Opicina tram or at Miramare Castle (open 9 am to 7 pm, 12 € full price, park free but closing at 4 pm in November). On bora days the cafés and the castle are your fallback; the tram and the park can stop, as they did on 13 November.
+
+MorningPiazza Unità d'Italia and the pierOn foot from the centre towards the sea, if the wind allows.
+
+MorningA historic caféSpecchi, San Marco, Urbanis, Tommaseo or Pirona: one or two are enough.
+
+AfternoonOpicina and the KarstOpicina tram, a walk on the panoramic road, back by tram.
+
+Afternoon (alternative)Miramare CastleBus 6 or 36 or the train; arrive before 4 pm if you want the park.
+
+ConsiglioDecide the afternoon in the morning, by looking at two things: the sky and Trieste Trasporti's notices about the tram. If the wind is strong, choose Miramare only for the castle (open until 7 pm) and keep the Karst and the pier for another day.
+
+Where to start: Piazza Unità and the pier#
+
+Piazza Unità d'Italia is the open-air living room facing the sea and the natural place to begin. It is also the square where Caffè degli Specchi stands (at number 7, according to the City) and where the City also places Harry's Grill, at number 2/1. The Molo Audace is a few steps away: in December 2024 InTrieste described residents and visitors who, after a night of bora, went there to look at the snow-capped mountains through the clean air of the gulf, with families in the square and photographers leaning into the wind.
+
+Our rule is simple: if the gusts are strong, look at the pier from the square. We found no official rule forbidding it, so this is common sense, not a ban.
+
+Which historic cafés to pick (and what the sources say)#
+
+The City of Trieste publishes a historic-cafés itinerary with ten addresses. Five of them give you the most in one morning, all with a history you can check on the official page. Caffè degli Specchi, in Piazza Unità, opened in 1839 on the ground floor of a building above the remains of the medieval Amarina castle. Caffè Urbanis, at Piazza della Borsa 15, started in 1832 as a pastry shop and has a floor mosaic with mythological, marine and bora symbols. Caffè San Marco, at via Battisti 18, has furnishings designed in 1914 by Marco Lovrinovich and is described by the City as a haunt of artists and intellectuals. Pasticceria Pirona, at Largo Barriera Vecchia 12, opened in April 1900 and keeps its original furnishings with wooden and glass shelves; a portrait recalls James Joyce, a regular customer. Caffè Tommaseo, at Piazza Tommaseo 4/C, dates to 1825.
+
+Here the sources disagree. The City dates Tommaseo to 1825, while ITALY Magazine says 1830; for Torinese the City says 1915 and the magazine 1919. We do not pick a year: if you need a date, use the City, which is the official source, and remember that its page was last updated in November 2020.
+
+The entrance of Caffè San Marco at via Battisti 18, Trieste Photo: Tiesse, Public domain, Wikimedia Commons
+The practical advice is not to tick off cafés like a collection. One of the big ones (Specchi or San Marco) to sit down, and if time remains a smaller pastry shop such as Pirona or La Bomboniera in via Trenta Ottobre, which the City describes as having the original oven, one of the few of its kind still working in Italy. We did not read opening hours or prices on any official page, so we do not write them: check the hours for the day on a map app.
+
+The Opicina tram: going up to the Karst#
+
+The tram-funicular linking central Trieste with Villa Opicina, on the Karst plateau, has run since 1902 according to SiViaggia. The route is about 5 kilometres long and climbs 329 metres, all uphill. When it is running, it is a very Triestine experience, because the landscape behind you opens up at every bend.
+
+The Opicina tram climbing, with the city of Trieste in the background Photo: Nol Aders, CC BY-SA 4.0, Wikimedia Commons
+The line has had a turbulent year, which is why the checked part is long. After months out of service, according to SiViaggia it restarted on 27 July 2026 with initial limits (no more than 80 per cent of capacity, trips from Piazza Dalmazia instead of Piazza Oberdan until the redevelopment works, expected between the end of 2026 and June 2027). Trieste Trasporti then announced a new restart on Monday 3 August, and on 9 August InTrieste reported another suspension for a fault in the cable section. The latest stop is from November: a fault found on the evening of Friday 13 November, caused, according to the technicians quoted by ANSA, by a tree falling on the overhead line between via Marziale and Conconello in the strong bora gusts. Service was restored on the morning of Tuesday 17 with the usual timetable. We did not read the ticket price or the first and last departures on an official page, and we do not know whether the departure point is still Piazza Dalmazia: check before you board.
+
+At the top is the Opicina Obelisk, the terrace from which Trieste and the gulf are seen whole. From here starts the stretch of the CAI 1 trail described by Turismo FVG: the Vicentina road, known as the Napoleonica, which leads towards Prosecco with views over the city and the sea and, a little higher, the first of the three lookouts on the route (the Italia lookout). The full route to Aurisina is 17 km, takes about 4 hours 30 minutes and ends with bus 44 from the town hall square in Aurisina: for a single afternoon you do not need to do all of it. Walk as far as your time allows, then come back on the same tram. The source gives no length for the Obelisk-Prosecco stretch alone, and we do not invent one.
+
+If you want another, more poetic face of the Karst, look at the Rilke Path near Duino-Aurisina: the FAI describes it as a wild, windy natural terrace above the sea, where Rainer Maria Rilke stayed between 1912 and 1922 and wrote the Duino Elegies. We did not verify how to reach it by public transport, so we leave it out of this plan.
+
+Miramare: castle, park and how to get there#
+
+Miramare Castle stands on a cliff over the gulf, about 8 km north-west of Trieste, built in white Istrian stone in an eclectic style. The official site lists the castle as open every day from 9 am to 7 pm (except Christmas Day and New Year's Day), with the ticket office closing at 6:30 pm. The park is free all year, but its hours change: in November and December it opens at 8 am and closes at 4 pm (in January it closes at 4 pm, in February at 5 pm). It is an easy detail to miss: the castle closes at 7 pm, but the park earlier, and the site describes about half a kilometre of paths between the park entrance and the castle, so it is better to arrive before 4 pm.
+
+Miramare Castle seen from the park, with the Gulf of Trieste behind it Photo: Andrek02, CC0, Wikimedia Commons
+The ticket for the historical museum is 12 € full price, 2 € for young people aged 18 to 25, and on the first Sunday of the month entry is free: the next one is Sunday 6 December 2026. The audio guide costs 4 € for individuals, lasts about 60 minutes and comes in six languages. The museum warns on its site that parking is limited and invites visitors to use the bus, train or boat.
+
+To get there without a car, the site lists three routes. By regional train (Udine-Trieste, Trieste-Venice or Trieste-Vienna lines) get off at Miramare station and walk about 150 metres along via Beirut to the park entrance. By bus, from the Central Station take lines 6 or 36 towards Miramare-Grignano: getting off at Bivio di Miramare leaves 750 metres; with line 6 to the Grignano terminus it is about 200 metres to the park and another 350 to the castle. The Delfino Verde boat, which runs from Trieste, Barcola or Sistiana to the bay of Grignano, is a summer service and not an option in November.
+
+The bora: what really changes#
+
+According to Meteored the bora is a katabatic wind, cold air flowing down from the Karst towards the Gulf of Trieste, typical of autumn, winter and early spring. Gusts often exceed 100 km/h and the records it cites reach 168 km/h (OSMER, 11 February 2012) and 188 km/h (10 March 2010, Istituto Nautico). This is not a figure to scare tourists: it is the reason Miramare park closed for the whole day on 13 November 2026 after weather alert no. 31/2026, with only the Parterre Café left open.
+
+The bora also has a good side: it cleans the air and makes the gulf and the mountains sharp. For a visitor it means knowing in advance that the ideal day for the Karst and the pier is one without strong wind, and that on bora days you work indoors.
+
+How much to spend (indicative averages)#
+
+The figures we read: Miramare Castle 12 € full price (2 € from 18 to 25, free under 18 and on the first Sunday of the month), audio guide 4 €, park free. For an adult, a day with Miramare costs about 12 € in entry, plus the audio guide if you want it. We did not read the prices of the tram, city buses, the regional train to Miramare or a historic café, and we do not estimate them.
+
+Common mistakes in Trieste#
+
+Reaching Miramare after 4 pm and counting on the park: in November and December it closes before the castle.
+Planning the tram without checking notices: it has stopped several times this year, and on 13 November because of the bora.
+Trusting a single source for café dates: the City and ITALY Magazine do not agree on Tommaseo and Torinese.
+Putting the Karst, the pier and Miramare into the same bora day: you lose the day and the wind decides for you.
+Driving to Miramare: the site warns that parking is limited.
+
+Plan B: when the day changes#
+
+With the bora the plan still stands if you redraw the afternoon. Keep the morning in the centre between Piazza Unità and the cafés (look at the pier from the square), then go to Miramare Castle, which works indoors even in gusts, but check the notice on the site first: on 13 November the park was closed. If the tram is stopped, the Karst moves to the next day. If it rains without wind, the historic cafés and the castle work well indoors.
+
+What to leave out#
+
+Too many stops: the Karst and Miramare in the same afternoon are two half-days.
+The car: it is not needed for Miramare or for the Karst, given the limited parking and the tram.
+Places we do not know: apart from the historic cafés listed by the City we do not name restaurants, because we have not verified them.
+
+If you have another day#
+
+For another itinerary built around historic cafés and a plan B, read Turin on a rainy day. For another Adriatic city of the north-east worth planning around the crowds, see Venice without the crowds; and for a walk-and-train day by the sea there is Cinque Terre on foot. UNNIVAI is built to rewrite a day like this when the wind, the timetable or your energy changes: if you need it, join the first users.
+
+Hours, prices and notices were read on the official sources listed and checked on 19 November 2026: they change during the year, with the weather and with events, so check before you go. Where two sources disagree we said so. We did not verify hours and prices of the historic cafés, the price and timetable of the Opicina tram, the line's current terminus, bus and train prices, the length of the Obelisk-Prosecco stretch, and how to reach the Rilke Path by public transport.
+
+
 # How to get around the Amalfi Coast without a car
 URL: https://unnivai.com/en/blog/amalfi-coast-by-public-transport
 Language: en
@@ -2612,7 +2796,7 @@ Hours, prices and closures were read on the sources listed and checked on 9 Nove
 # What to do in Turin when it rains: museums and cafés
 URL: https://unnivai.com/en/blog/turin-on-a-rainy-day
 Language: en
-Updated: 2026-11-10
+Updated: 2026-11-19
 
 Turin in the rain is not a city to put off: it is a city built for bad-weather days. Three museums of international standing, a square with a royal palace, and a historic-café tradition with a very particular identity. The real problem is not the weather, it is the calendar: each museum closes on a different day, and if you find out on arrival, the whole plan falls apart.
 
@@ -2697,6 +2881,8 @@ Plan B is built beforehand#
 The problem with rain is not the rain: it is having to rebuild the programme from scratch, in the downpour, with your phone in your hand and closing days to cross-check. It is the same problem UNNIVAI wants to solve: a route of real places that adapts when the day changes. If you want to be among the first to try it, join the waitlist.
 
 Read next: Another day built around museum opening hours, in Rome: what to see in Rome besides the Colosseum.
+
+Read next: Another itinerary built around historic cafés and a weather plan B, in Friuli Venezia Giulia: One day in Trieste: cafés, Opicina tram and bora plan B.
 
 Verification note. Data read on 6 November 2026 on the pages listed in the sources: the official websites of the Egyptian Museum, the National Museum of Cinema, the Royal Museums and Turismo Torino, the Caffè Al Bicerin page and the Musei di Torino portal. Where sources disagree (the Egyptian Museum ticket price, the time at which Mole lift tickets are released) we say so. We did not verify opening hours or prices of the historic cafés, walking distances between museums, or how the panoramic lift works in the rain. Prices as indicative averages: hours, closing days and bookings change, so always check official information before you set out.
 
@@ -3485,7 +3671,7 @@ Verification note. Prices and hours are indicative averages from the sources lis
 # Is there a fee to enter Venice? How to beat the crowds
 URL: https://unnivai.com/en/blog/venice-without-the-crowds
 Language: en
-Updated: 2026-11-14
+Updated: 2026-11-19
 
 Venice is not a city to "do": it is a city to cross in a certain order, at certain hours. The problem is not the city, it is the moment you arrive. This guide puts together what the official pages of the City and of AVM say (access fee, vaporetto, rules of conduct) with what tourism sites say about hours, quieter districts and bacari, flagging every time where sources disagree. Most of the sources are in Italian, so the names of pages and terms are given as they appear.
 
@@ -3569,6 +3755,8 @@ For the same method (right hour, fewer crowds) applied to Rome there is Rome bey
 A plan for your day#
 
 You now have the pieces: the hour, the district, the ticket, the market and the tide forecast. Putting them in order depends on the day you arrive, the weather and the rules in force at that moment, and that is the part UNNIVAI is building for you, an itinerary that adapts to that day. Join the waitlist.
+
+Read next: Another north-eastern Adriatic city to plan around hours and weather: One day in Trieste: cafés, Opicina tram and bora plan B.
 
 Checked on 14 November 2026 on pages opened for this article (first draft 29 October; update: access fee, AVM fares, walkways and Tide Centre, Venezia Unica tickets, markets). Not verifiable from here: Alilaguna times and lines, whether a given walkway is actually in place on a given day, hours of any single bacaro. Hours, prices and access rules change during the year: check the official sources before you go.
 

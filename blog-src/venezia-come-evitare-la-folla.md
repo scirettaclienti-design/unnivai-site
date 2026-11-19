@@ -2,7 +2,7 @@
 title: Venezia senza folla: come evitarla e dove mangiare davvero
 description: Come visitare Venezia senza la folla: contributo di accesso, vaporetto, orari del mercato di Rialto e bacari, con le discordanze tra le fonti segnalate.
 date: 2026-10-29
-updated: 2026-11-14
+updated: 2026-11-19
 category: Venezia
 cover: Venezia
 tags: Logistica, Cibo, Una giornata
@@ -117,5 +117,7 @@ Per lo stesso criterio (ora giusta, meno folla) applicato a Roma c'è [Roma oltr
 ## Il piano per la tua giornata
 
 Ora hai i pezzi: l'ora, il sestiere, il biglietto, il mercato e la previsione di marea. Metterli in fila dipende dal giorno in cui arrivi, dal meteo e dalle regole in vigore quel momento, ed è la parte che UNNIVAI vuole costruire per te con un itinerario che si adatta a quel giorno. [Iscriviti alla lista d'attesa](/?src=blog-venezia-come-evitare-la-folla#iscriviti).
+
+**Leggi anche:** Un'altra città dell'Adriatico del Nord-Est da pianificare sugli orari e sul meteo: [Trieste in un giorno: caffè storici, Carso e bora](/blog/trieste-in-un-giorno).
 
 *Verificato il 14 novembre 2026 su pagine aperte per questo articolo (prima stesura del 29 ottobre; aggiornamento: contributo di accesso, tariffe AVM, passerelle e Centro Maree, biglietti Venezia Unica, mercati). Non verificabili da qui: orari e linee Alilaguna, disponibilità reale delle passerelle in un dato giorno, orari di ogni singolo bacaro. Orari, prezzi e regole di accesso cambiano durante l'anno: controlla le fonti ufficiali prima di partire.*

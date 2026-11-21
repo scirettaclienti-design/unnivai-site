@@ -41,7 +41,7 @@
 - [Palermo street food guide: markets, hours and what to order](https://unnivai.com/en/blog/palermo-street-food-guide): Capo, Ballarò and Vucciria in Palermo: when to go, what to order (panelle, arancina, sfincione, pani ca meusa) and what it costs, with sources that disagree.
 - [Milan in a weekend when it rains: a Plan B itinerary](https://unnivai.com/en/blog/milan-in-a-weekend-in-the-rain): Two rainy days in Milan: the Duomo, Galleria, Museo del Novecento, Castello Sforzesco, Brera and the Last Supper, with hours, indicative prices and closures.
 - [Cinque Terre on foot: trails, trains and what is closed](https://unnivai.com/en/blog/cinque-terre-on-foot): Walking the Cinque Terre in late October 2026: which trails show as closed, what the Trekking Card and trains cost, the Via dell'Amore and rail works.
-- [Bologna in a day: tortellini, porticoes and a walking plan](https://unnivai.com/en/blog/bologna-in-a-day): One day in Bologna under the porticoes: San Petronio, the Clock Tower, Quadrilatero, Archiginnasio and San Luca, with tortellini and official hours.
+- [One day in Bologna: what to see, eat and book](https://unnivai.com/en/blog/bologna-in-a-day): One day in Bologna under the porticoes: San Petronio, the Clock Tower, Quadrilatero, Archiginnasio and San Luca, with tortellini and official hours.
 - [What to eat in Catania: 10 tastes in order of the day](https://unnivai.com/en/blog/what-to-eat-in-catania): Arancino, granita with brioche, pasta alla Norma, horse meat and Sant'Agata sweets: what to order in Catania, when, and roughly what it costs.
 - [Is there a fee to enter Venice? How to beat the crowds](https://unnivai.com/en/blog/venice-without-the-crowds): Do you pay to enter Venice in 2026 or 2027? Access fee dates, vaporetto fares, high-water walkways, Rialto market hours and how to avoid the crowds.
 - [One day in Lecce: baroque, pasticciotto and walking lanes](https://unnivai.com/en/blog/one-day-in-lecce): A walking itinerary for one day in Lecce: Roman amphitheatre, Duomo, Santa Croce, the castle and a pasticciotto, with hours and prices from official sources.
@@ -1282,7 +1282,7 @@ Stato dei sentieri, orari, prezzi e lavori sono verificati sulle fonti ufficiali
 # Bologna: tortellini, portici e una giornata a piedi
 URL: https://unnivai.com/blog/bologna-in-un-giorno
 Language: it
-Updated: 2026-11-04
+Updated: 2026-11-21
 
 Prenotazione-salita-alla-Torre-degli-Asinelli
 
@@ -1294,10 +1294,13 @@ Musei di Bologna, Archiginnasio e Teatro Anatomico::https://www.museidibologna.i
 Dotta Confraternita del Tortellino, la ricetta depositata::https://www.confraternitadeltortellino.it/la-ricetta-depositata/
 Bologna Welcome, ragù alla bolognese (Accademia Italiana della Cucina)::https://www.bolognawelcome.com/en/other/recipes-and-typical-products/ragu-alla-bolognese-2
 Emilia Romagna Turismo, Quadrilatero del gusto::https://emiliaromagnaturismo.it/it/itinerari/quadrilatero-del-gusto
+Santuario della Beata Vergine di San Luca, orari e celebrazioni::https://www.santuariodisanluca.it/orari-e-celebrazioni/
+Tper, acquisto dei biglietti a bordo::https://www.tper.it/acquisto-biglietti-a-bordo
+Bologna Welcome, San Luca Express::https://www.bolognawelcome.com/en/experiences/299216/San-Luca-Express
 
 --- Bologna si cammina con un tetto sulla testa. I portici fanno da corridoio tra una tappa e l'altra e, se il tempo cambia, il programma cambia poco. Questo itinerario mette in ordine una giornata a piedi tra piazza, torri, mercato e portici, con i tortellini al centro, e dice dove gli orari sono stagionali, dove le fonti non coincidono e che cosa, oggi, è chiuso.
 
-In breve. Mattina tra Piazza Maggiore, San Petronio (ingresso gratuito) e la Torre dell'Orologio; pranzo nel Quadrilatero; primo pomeriggio all'Archiginnasio; se ti restano energie, il portico di San Luca. La Torre degli Asinelli, quando abbiamo aperto la pagina ufficiale di prenotazione, risultava chiusa per manutenzione: la Torre dell'Orologio è l'alternativa indicata. Il lunedì le collezioni d'arte sono chiuse.
+In breve. Mattina tra Piazza Maggiore, San Petronio (ingresso gratuito) e la Torre dell'Orologio; pranzo nel Quadrilatero; primo pomeriggio all'Archiginnasio; se ti restano energie, il portico di San Luca. La Torre degli Asinelli, quando abbiamo aperto la pagina ufficiale di prenotazione, risultava chiusa per manutenzione: la Torre dell'Orologio è l'alternativa indicata. Il lunedì le collezioni d'arte sono chiuse e la domenica l'Archiginnasio non apre.
 
 MattinaPiazza Maggiore e San PetronioIngresso alla basilica gratuito, senza prenotazione. Il percorso a pagamento alle tre cappelle costa 5 €.
 
@@ -1314,19 +1317,19 @@ Provalo
 
 Che cosa è chiuso o cambia in autunno?All'aperto#
 
-Tre cose da sapere prima di partire. Primo: la Torre degli Asinelli. Sulla pagina di prenotazione di Bologna Welcome campeggiava l'avviso "Torre Asinelli chiusa per manutenzione nell'area", con il rimando alla Torre dell'Orologio. Quando riapre, la salita richiede prenotazione obbligatoria, ha 498 gradini e nessun ascensore. Secondo: la Torre dell'Orologio ha un orario stagionale. Dal 7 settembre 2026 al 28 febbraio 2027 il primo ingresso è alle 10:00 e l'ultimo alle 18:20, con tre ingressi all'ora. Terzo: le Collezioni Comunali d'Arte aperte nello stesso palazzo hanno orari diversi (martedì e giovedì 14-19, mercoledì e venerdì 10-19, sabato, domenica e festivi 10-18:30) e sono chiuse il lunedì non festivo.
+Tre cose da sapere prima di partire. Primo: la Torre degli Asinelli. Sulla pagina di prenotazione di Bologna Welcome campeggiava l'avviso "Torre Asinelli chiusa per manutenzione nell'area", con il rimando alla Torre dell'Orologio. Quando riapre, la salita richiede prenotazione obbligatoria, ha 498 gradini e nessun ascensore. Secondo: la Torre dell'Orologio ha un orario stagionale. Dal 7 settembre 2026 al 28 febbraio 2027 il primo ingresso è alle 10:00 e l'ultimo alle 18:20, con tre ingressi all'ora. Terzo: le Collezioni Comunali d'Arte aperte nello stesso palazzo hanno orari diversi (martedì e giovedì 14-19, mercoledì e venerdì 10-19, sabato, domenica e festivi 10-18:30, ultimo ingresso 30 minuti prima della chiusura) e sono chiuse il lunedì non festivo. A queste si aggiungono due giorni di pausa della torre, il 25 dicembre e il 10 gennaio, e l'ultimo ingresso anticipato alle 16:20 il 24 e il 31 dicembre.
 
-La conseguenza pratica è semplice: se hai solo il lunedì, la torre si può fare ma le collezioni no, e l'Asinelli va controllata prima. Se hai un altro giorno, scegli un martedì-venerdì.
+La conseguenza pratica è semplice: se hai solo il lunedì, la torre si può fare ma le collezioni no, e l'Asinelli va controllata prima. Se hai un altro giorno, scegli un martedì-venerdì. Se invece ti ritrovi con la domenica, scrivi l'Archiginnasio fuori dal programma: è chiuso, e al suo posto reggono San Petronio, il museo della basilica e il Quadrilatero.
 
 Mattina: Piazza Maggiore e San PetronioAll'aperto#
 
 Si parte dalla piazza dove tutto converge. La Basilica di San Petronio, secondo il sito ufficiale, ha ingresso gratuito e non richiede prenotazione per le visite individuali. Per entrare nelle cappelle dei Re Magi (Bolognini), di San Sebastiano e di San Vincenzo Ferrer si compra sul posto il percorso a pagamento: 5 € intero e 3 € ridotto, dalle 10:00 alle 17:30 con ultimo ingresso alle 17:15. Altre cappelle singole e il Presbiterio si visitano solo su richiesta via e-mail, con almeno una settimana di anticipo, a 3 € a persona per ciascuna.
 
-Gli orari della navata per i visitatori non li riportiamo: le funzioni li cambiano, e il sito della basilica avvisa dei giorni in cui le visite guidate saltano per eventi. Guarda la pagina il giorno stesso.
+Gli orari li abbiamo riletti sulla pagina ufficiale: la basilica è aperta tutti i giorni dalle 10:00 alle 18:00 con ultimo ingresso alle 17:50, e il museo (ingresso gratuito, bookshop compreso) dalle 10:00 alle 17:30 con ultimo ingresso alle 17:15. La stessa pagina ricorda che la terrazza panoramica, dopo i restauri, è chiusa definitivamente: non cercarla. Le regole d'accesso contano più degli orari: servono spalle e ginocchia coperte (niente canottiere, gonne corte, abiti trasparenti o scollature libere), si tolgono cappelli e berretti, non si entra con valigie, cibo, bevande o animali e non si telefona. La pagina porta una data di modifica di fine giugno 2026: se c'è una funzione o un evento, guarda l'avviso del giorno.
 
 Torre dell'Orologio e Palazzo d'AccursioAl coperto#
 
-È la salita alternativa all'Asinelli, e in autunno è comoda perché apre alle 10:00. Il biglietto comprende la visita con audioguida alla torre (circa 40 minuti) e l'ingresso alle Collezioni Comunali d'Arte (circa un'ora): 10 € intero, 7 € ridotto, secondo Bologna Welcome. La prenotazione è obbligatoria, ci si presenta 5 minuti prima e in caso di ritardo non si sale al turno dopo. Il punto di ritrovo è la Sala Farnese, al secondo piano di Palazzo d'Accursio, in Piazza Maggiore 6. L'accesso alla terrazza in cima è su una scala stretta, con liberatoria firmata sul posto e divieto sotto gli 8 anni; non c'è ascensore.
+È la salita alternativa all'Asinelli, e in autunno è comoda perché apre alle 10:00. Il biglietto comprende la visita con audioguida alla torre (circa 40 minuti) e l'ingresso alle Collezioni Comunali d'Arte (circa un'ora): 10 € intero, 7 € ridotto, secondo Bologna Welcome. La prenotazione è obbligatoria, ci si presenta 5 minuti prima e in caso di ritardo non si sale al turno dopo; cancellazione o modifica con rimborso sono possibili fino a 24 ore prima. Il biglietto vale sette giorni, utile perché torre e collezioni hanno orari diversi: puoi fare la torre al mattino e le collezioni un altro giorno. Scarpe chiuse (o sandali con laccetto), niente ciabatte, tacchi alti o zaini voluminosi; l'audioguida va ascoltata dal proprio smartphone con auricolari, quindi caricalo e portali. Dalle 19 il portone principale è chiuso e si entra da quello laterale sotto il portico. Il punto di ritrovo è la Sala Farnese, al secondo piano di Palazzo d'Accursio, in Piazza Maggiore 6. L'accesso alla terrazza in cima è su una scala stretta, con liberatoria firmata sul posto e divieto sotto gli 8 anni; non c'è ascensore.
 
 Pranzo nel Quadrilatero: dove si mangiano i tortelliniAll'aperto#
 
@@ -1336,9 +1339,10 @@ Non indichiamo ristoranti di tortellini, perché non ne abbiamo letto sulle font
 
 Sul ragù la fonte è Bologna Welcome, che riporta la versione aggiornata depositata dall'Accademia Italiana della Cucina presso la Camera di Commercio (l'originale è del 1982): 300 g di manzo tritato (diaframma, pancia o spalla), 150 g di pancetta, 50 g ciascuno di carota, sedano e cipolla, 300 g di passata o pelati, mezzo bicchiere di vino bianco e di latte intero, brodo, e circa due ore di cottura.
 
+Via Pescherie Vecchie nel Quadrilatero, con le botteghe di frutta e formaggi sotto le tende Foto: Andrzej Otrębski, CC BY-SA 4.0, Wikimedia Commons
 Primo pomeriggio: Archiginnasio e Teatro AnatomicoAl coperto#
 
-L'Archiginnasio, antica sede dell'Università, si visita con audioguida o con visita guidata. Secondo la pagina di Musei di Bologna, aggiornata a luglio 2025 e quindi da ricontrollare, le visite con audioguida sono dal lunedì al sabato dalle 10:00 alle 17:40, con ingressi ogni 10 minuti e durata di 40 minuti; il biglietto intero costa 10 € e il ridotto 8 €. Le visite guidate costano 12 € intero e partono a orari fissi (per luglio e agosto in italiano alle 13:30 e 15:30). Metti questa tappa dopo pranzo: è tutta al coperto e non richiede più di un'ora.
+L'Archiginnasio, antica sede dell'Università, si visita con audioguida o con visita guidata. Secondo la pagina di Musei di Bologna, aggiornata a luglio 2025 e quindi da ricontrollare, le visite con audioguida sono dal lunedì al sabato dalle 10:00 alle 17:40, con ingressi ogni 10 minuti e durata di 40 minuti; il biglietto intero costa 10 € e il ridotto 8 €. Le visite guidate costano 12 € intero e partono a orari fissi (per luglio e agosto in italiano alle 13:30 e 15:30). Dal 3 luglio 2025 le visite sono gestite da Bologna Welcome e il palazzo è sempre chiuso la domenica. Il ridotto da 8 € vale tra l'altro per 13-18 anni, studenti universitari con tesserino e possessori di Bologna Welcome Card; per i residenti nella Città Metropolitana c'è un biglietto a 3,50 €. Gli orari delle visite guidate che abbiamo letto sono solo quelli di luglio e agosto (in inglese alle 14:10 e alle 17:10): per l'autunno non li abbiamo, quindi se vuoi la guida scrivi o controlla la biglietteria. Metti questa tappa dopo pranzo: è tutta al coperto e non richiede più di un'ora.
 
 La sala lignea del Teatro Anatomico dell'Archiginnasio, con le statue nelle nicchie e la cattedra centrale Foto: Luca Borghi, Public domain, Wikimedia Commons
 I portici e il portico di San LucaAl coperto#
@@ -1347,10 +1351,26 @@ I portici non sono un contorno: l'UNESCO li iscrive come sito seriale di 12 grup
 
 Il portico di San Luca collega la città al santuario. Qui le fonti non coincidono: il Comune parla di circa 3600 metri e osserva che il numero tradizionale di 666 arcate è in realtà leggermente inferiore, perché dipende da come si contano; Bologna Welcome riporta 3,5 km e 666 arcate. Sul percorso il Comune è preciso: dall'Arco Bonaccorsi si segue via Saragozza, in piano, per circa un chilometro e mezzo; poi per più di 2 chilometri si sale, anche a gradini. Bologna Welcome indica di proseguire sotto il portico da Porta Saragozza. Alternativa, secondo Bologna Welcome: bus 20 fino alla chiesa di San Martino a Casalecchio di Reno e poi bus 58 fino al santuario. Non abbiamo letto i tempi di percorrenza: la nostra stima è di non meno di un paio d'ore tra andata e ritorno a piedi, ed è appunto una stima.
 
+L'orario che pesa è quello del santuario, che sul sito ufficiale è questo: chiesa dalle 7:00 alle 18:00 e piazzale dalle 6:30 alle 18:00, ogni giorno; la salita all'icona della Madonna è chiusa al pubblico dal lunedì al venerdì dalle 12:30 alle 14:30; il bookshop è aperto dalle 10:00 alle 12:30 e dalle 14:30 alle 18:00. La cupola con la terrazza (San Luca Sky Experience) si visita dal lunedì al sabato dalle 10:30 alle 13:30 e dalle 14:30 alle 18:30, la domenica dalle 12:00 alle 13:30 e dalle 14:30 alle 18:30; il prezzo non l'abbiamo letto. Con chiusura alle 18:00, conta di essere lassù con almeno un'ora davanti.
+
+Se non vuoi camminare in salita c'è il San Luca Express, il trenino turistico: secondo Bologna Welcome costa 15 € intero e 8 € ridotto, dura circa un'ora, comprende il biglietto di andata e ritorno nello stesso giorno e l'audioguida a bordo, ed è gratuito con la Bologna Welcome Card PLUS. Il biglietto non è rimborsabile e dà diritto alla prima partenza disponibile del giorno scelto; la scheda indica la fermata di partenza in Piazza Galvani, mentre la mappa della stessa pagina segna Piazza Maggiore, quindi controlla dove si parte. Per l'autobus: su TPER, nelle linee urbane di Bologna il biglietto si può comprare a bordo all'emettitrice automatica quando fuori dalla porta c'è il cartello verde (monete da 10 centesimi a 2 euro, niente resto, 90 secondi per pagare) oppure pagare con carta contactless senza costi aggiuntivi; sulle linee suburbane come la 89 e la 90 non si vende nulla a bordo. Se la linea che ti serve è urbana o suburbana lo dice la scheda TPER: non l'abbiamo verificato per le linee 20 e 58 indicate da Bologna Welcome.
+
 Un tratto del portico di San Luca, tra le arcate che salgono verso il santuario Foto: Puscas Vadim  (Nebbius), CC BY-SA 4.0, Wikimedia Commons
 Quanto spendere (medie indicative)#
 
 Con le cifre lette: Torre dell'Orologio con collezioni 10 €, Archiginnasio con audioguida 10 €, percorso a pagamento di San Petronio 5 €. In totale circa 25 € di ingressi per un adulto, con San Luca e la basilica gratuiti. Sono medie indicative: dipendono da riduzioni, giorni e carte come Bologna Welcome Card (che le fonti indicano gratuita per Asinelli e Torre dell'Orologio).
+
+Gli errori più comuni#
+
+Il primo è dare per scontato che il centro sia aperto come un parco: la domenica l'Archiginnasio è chiuso e il lunedì le collezioni d'arte pure, quindi la giornata si disegna attorno ai giorni, non solo ai luoghi. Il secondo è arrivare a San Luca tardi: chiesa e piazzale chiudono alle 18:00 e a metà giorno la salita all'icona si ferma dalle 12:30 alle 14:30 nei giorni feriali. Il terzo è l'abbigliamento a San Petronio: una canottiera o un cappello in testa bastano per farsi fermare all'ingresso secondo il regolamento. Il quarto è presentarsi in ritardo alla Torre dell'Orologio, dove chi manca il proprio turno non sale a quello dopo e non ha rimborso. Il quinto è cercare la terrazza di San Petronio, chiusa in modo definitivo.
+
+Domande che ci si fa prima di partire#
+
+Serve prenotare? Per la Torre dell'Orologio sì, è obbligatoria; per l'Archiginnasio le visite con audioguida hanno ingressi ogni 10 minuti e il biglietto si compra online o in loco al bookshop del primo piano; per San Petronio l'ingresso alla navata è libero e il percorso a pagamento delle cappelle non richiede prenotazione sotto i 15 partecipanti.
+
+Quanto si spende davvero? Sopra abbiamo il conto dei biglietti. Con la Bologna Welcome Card le fonti indicano ingresso gratuito alla Torre dell'Orologio e all'Asinelli e un ridotto all'Archiginnasio: il prezzo della carta non l'abbiamo letto sulla pagina dell'esperienza, quindi confrontalo con i biglietti singoli prima di comprarla.
+
+Meglio la mattina o il pomeriggio? La mattina per la Torre (primo ingresso alle 10:00 in questa stagione) e San Petronio; il primo pomeriggio per l'Archiginnasio; San Luca solo se ti resta almeno un'ora piena prima delle 18:00.
 
 Cosa lasciare fuori#
 
@@ -1363,7 +1383,7 @@ ConsiglioPrenota la Torre dell'Orologio per le 10:00 e fai San Petronio subito d
 
 Se hai un altro giorno#
 
-Dopo Bologna, la logica cambia ma il criterio resta: Firenze in 48 ore per un altro centro storico a misura di piedi, con prenotazioni da fare prima. Se la parte che ti ha convinto è il cibo, cosa mangiare a Catania è la risposta del sud, con la stessa cura per le fonti. E per sapere come farsi costruire un giro così da un'AI senza farsi inventare orari, leggi itinerario turistico con l'AI: cosa funziona.
+Dopo Bologna, la logica cambia ma il criterio resta: Firenze in 48 ore per un altro centro storico a misura di piedi, con prenotazioni da fare prima. Se ti piace un giorno costruito sugli orari dei musei, Torino: musei e caffè storici con la pioggia segue lo stesso criterio, e per un'altra città del Nord con una giornata a piedi tra caffè e panorami c'è Trieste in un giorno. Se la parte che ti ha convinto è il cibo, cosa mangiare a Catania è la risposta del sud, con la stessa cura per le fonti. E per sapere come farsi costruire un giro così da un'AI senza farsi inventare orari, leggi itinerario turistico con l'AI: cosa funziona.
 
 Se la giornata cambia#
 
@@ -1371,7 +1391,7 @@ UNNIVAI riscrive il percorso quando cambia un orario, il tempo o la stanchezza: 
 
 Leggi anche: Un'altra città del Nord da girare anche con il maltempo: Milano in un weekend con la pioggia.
 
-Orari, prezzi e giorni di apertura sono letti sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto. Non abbiamo verificato gli orari della navata di San Petronio né i tempi a piedi per San Luca.
+Orari, prezzi e giorni di apertura di Torre dell'Orologio, Asinelli, San Petronio, Archiginnasio, San Luca, Quadrilatero, portico di San Luca e TPER sono stati riletti sulle pagine indicate il 21 novembre 2026; i dati su UNESCO, ricetta del tortellino e ragù sono stati letti il 30 ottobre 2026. Gli orari cambiano durante l'anno: controlla prima di partire. Dove due fonti discordano lo abbiamo scritto. Non abbiamo verificato i tempi a piedi per San Luca, il prezzo della San Luca Sky Experience e della Bologna Welcome Card, gli orari autunnali delle visite guidate all'Archiginnasio e le linee bus 20 e 58 sul sito TPER.
 
 
 # Venezia senza folla: come evitarla e dove mangiare davvero
@@ -3469,10 +3489,10 @@ Read next: Another Italian coast you can explore without a car, with buses, ferr
 Trail status, hours, prices and works were checked on the official sources listed on 30 October 2026 and change often: check the park's page on the day. Where two sources disagree, we said so. We did not read the calendar of high-attendance days or the train fare after 1 November.
 
 
-# Bologna in a day: tortellini, porticoes and a walking plan
+# One day in Bologna: what to see, eat and book
 URL: https://unnivai.com/en/blog/bologna-in-a-day
 Language: en
-Updated: 2026-11-04
+Updated: 2026-11-21
 
 Prenotazione-salita-alla-Torre-degli-Asinelli
 
@@ -3484,10 +3504,13 @@ Musei di Bologna, Archiginnasio and Anatomical Theatre (Italian)::https://www.mu
 Dotta Confraternita del Tortellino, the deposited recipe (Italian)::https://www.confraternitadeltortellino.it/la-ricetta-depositata/
 Bologna Welcome, ragù alla bolognese (Accademia Italiana della Cucina)::https://www.bolognawelcome.com/en/other/recipes-and-typical-products/ragu-alla-bolognese-2
 Emilia Romagna Tourism, Quadrilatero del gusto (Italian)::https://emiliaromagnaturismo.it/it/itinerari/quadrilatero-del-gusto
+Sanctuary of the Blessed Virgin of San Luca, timetables and celebrations (Italian)::https://www.santuariodisanluca.it/orari-e-celebrazioni/
+Tper, buying tickets on board (Italian)::https://www.tper.it/acquisto-biglietti-a-bordo
+Bologna Welcome, San Luca Express::https://www.bolognawelcome.com/en/experiences/299216/San-Luca-Express
 
 --- Bologna is walked with a roof over your head. The porticoes work as a corridor between stops and, if the weather turns, the plan barely changes. This itinerary puts one walking day in order across square, towers, market and porticoes, with tortellini at the centre, and says where hours are seasonal, where sources disagree and what is closed right now.
 
-In short. Morning around Piazza Maggiore, San Petronio (free entry) and the Clock Tower; lunch in the Quadrilatero; early afternoon at the Archiginnasio; if you have energy left, the San Luca portico. When we opened the official booking page, the Asinelli Tower was listed as closed for maintenance: the Clock Tower is the alternative it points to. The art collections are closed on Mondays.
+In short. Yes, one day is enough for central Bologna if you pick a route: a morning around Piazza Maggiore, San Petronio (free entry) and the Clock Tower; lunch in the Quadrilatero; early afternoon at the Archiginnasio; if you have energy left, the San Luca portico. When we opened the official booking page, the Asinelli Tower was listed as closed for maintenance: the Clock Tower is the alternative it points to. The art collections are closed on Mondays and the Archiginnasio does not open on Sundays.
 
 MorningPiazza Maggiore and San PetronioFree entry to the basilica, no reservation. The paid route through three chapels costs 5 €.
 
@@ -3504,19 +3527,19 @@ Provalo
 
 What is closed or changes in autumn?All'aperto#
 
-Three things to know before you go. First, the Asinelli Tower. Bologna Welcome's booking page carried the notice "Torre Asinelli chiusa per manutenzione nell'area", with a pointer to the Clock Tower. When it reopens, the climb needs a reservation, has 498 steps and no lift. Second, the Clock Tower has seasonal hours. From 7 September 2026 to 28 February 2027 the first entry is at 10:00 am and the last at 6:20 pm, with three entries an hour. Third, the Municipal Art Collections in the same palace have different hours (Tuesday and Thursday 2-7 pm, Wednesday and Friday 10 am-7 pm, Saturday, Sunday and holidays 10 am-6:30 pm) and are closed on non-holiday Mondays.
+Three things to know before you go. First, the Asinelli Tower. Bologna Welcome's booking page carried the notice "Torre Asinelli chiusa per manutenzione nell'area", with a pointer to the Clock Tower. When it reopens, the climb needs a reservation, has 498 steps and no lift. Second, the Clock Tower has seasonal hours. From 7 September 2026 to 28 February 2027 the first entry is at 10:00 am and the last at 6:20 pm, with three entries an hour. Third, the Municipal Art Collections in the same palace have different hours (Tuesday and Thursday 2-7 pm, Wednesday and Friday 10 am-7 pm, Saturday, Sunday and holidays 10 am-6:30 pm, last entry 30 minutes before closing) and are closed on non-holiday Mondays. On top of that the tower pauses on 25 December and 10 January, with an earlier last entry at 4:20 pm on 24 and 31 December.
 
-The practical consequence is simple: if Monday is all you have, the tower works but the collections do not, and the Asinelli needs checking. If you have a choice, pick a Tuesday to Friday.
+The practical consequence is simple: if Monday is all you have, the tower works but the collections do not, and the Asinelli needs checking. If you have a choice, pick a Tuesday to Friday. If you are left with a Sunday, drop the Archiginnasio from the plan: it is closed, and San Petronio, the basilica's museum and the Quadrilatero hold the day.
 
 Morning: Piazza Maggiore and San PetronioAll'aperto#
 
 Start in the square where everything converges. The Basilica of San Petronio, according to its official site, has free entry and needs no reservation for individual visits. To enter the chapels of the Magi (Bolognini), San Sebastiano and San Vincenzo Ferrer you buy the paid route on the spot: 5 € full and 3 € reduced, from 10:00 am to 5:30 pm with last entry at 5:15 pm. Other single chapels and the Presbytery are visited only on request by email, at least a week ahead, at 3 € per person for each.
 
-We do not give the nave's visiting hours: services change them, and the basilica's site warns of days when guided visits are cancelled for events. Check the page on the day.
+We re-read the hours on the official page: the basilica is open every day from 10:00 am to 6:00 pm with last entry at 5:50 pm, and the museum (free, bookshop included) from 10:00 am to 5:30 pm with last entry at 5:15 pm. The same page says that the panoramic terrace, after the restoration, is closed for good: do not look for it. The access rules matter more than the hours: shoulders and knees must be covered (no tank tops, short skirts, transparent clothes or plunging necklines), hats and caps come off, and suitcases, food, drinks and animals are not allowed, nor phone calls. The page carries a modification date at the end of June 2026: if there is a service or an event, check the notice on the day.
 
 Clock Tower and Palazzo d'AccursioAl coperto#
 
-It is the alternative climb to the Asinelli, and in autumn it is convenient because it opens at 10:00 am. The ticket includes the audioguide visit of the tower (about 40 minutes) and entry to the Municipal Art Collections (about an hour): 10 € full, 7 € reduced, according to Bologna Welcome. Reservation is mandatory, you show up 5 minutes before and if you are late you cannot go up on the next slot. The meeting point is the Sala Farnese, on the second floor of Palazzo d'Accursio, Piazza Maggiore 6. The summit terrace is reached by a narrow stair, with a waiver signed on site and a ban under 8 years of age; there is no lift.
+It is the alternative climb to the Asinelli, and in autumn it is convenient because it opens at 10:00 am. The ticket includes the audioguide visit of the tower (about 40 minutes) and entry to the Municipal Art Collections (about an hour): 10 € full, 7 € reduced, according to Bologna Welcome. Reservation is mandatory, you show up 5 minutes before and if you are late you cannot go up on the next slot; cancellation or changes with a refund are possible up to 24 hours before. The ticket is valid for seven days, which helps because tower and collections have different hours: you can do the tower in the morning and the collections another day. Wear closed shoes (or sandals with a back strap), no flip-flops, high heels or bulky backpacks; the audioguide plays on your own smartphone with earphones, so charge it and bring them. After 7:00 pm the main door is closed and you enter by the side door under the portico. The meeting point is the Sala Farnese, on the second floor of Palazzo d'Accursio, Piazza Maggiore 6. The summit terrace is reached by a narrow stair, with a waiver signed on site and a ban under 8 years of age; there is no lift.
 
 Lunch in the Quadrilatero: where tortellini liveAll'aperto#
 
@@ -3526,9 +3549,10 @@ We do not name tortellini restaurants, because we read none on the sources we co
 
 For ragù the source is Bologna Welcome, which gives the updated version deposited by the Accademia Italiana della Cucina at the Chamber of Commerce (the original dates from 1982): 300 g of minced beef (diaphragm, belly or shoulder), 150 g of pancetta, 50 g each of carrot, celery and onion, 300 g of tomato passata or peeled tomatoes, half a glass each of dry white wine and whole milk, broth, and about two hours of cooking.
 
+Via Pescherie Vecchie in the Quadrilatero, with fruit and cheese shops under their awnings Photo: Andrzej Otrębski, CC BY-SA 4.0, Wikimedia Commons
 Early afternoon: Archiginnasio and Anatomical TheatreAl coperto#
 
-The Archiginnasio, the old university seat, is visited with an audioguide or a guided tour. According to the Musei di Bologna page, updated in July 2025 and so worth rechecking, audioguide visits run Monday to Saturday from 10:00 am to 5:40 pm, with entries every 10 minutes and a duration of 40 minutes; the full ticket is 10 € and the reduced 8 €. Guided tours cost 12 € full and leave at fixed times (for July and August, in Italian at 1:30 and 3:30 pm). Put this stop after lunch: it is entirely indoors and takes no more than an hour.
+The Archiginnasio, the old university seat, is visited with an audioguide or a guided tour. According to the Musei di Bologna page, updated in July 2025 and so worth rechecking, audioguide visits run Monday to Saturday from 10:00 am to 5:40 pm, with entries every 10 minutes and a duration of 40 minutes; the full ticket is 10 € and the reduced 8 €. Guided tours cost 12 € full and leave at fixed times (for July and August, in Italian at 1:30 and 3:30 pm). Since 3 July 2025 the visits are run by Bologna Welcome and the palace is always closed on Sundays. The 8 € reduced ticket covers, among others, ages 13-18, university students with ID and holders of the Bologna Welcome Card; residents of the Metropolitan City have a 3.50 € ticket. The guided-tour times we read are only those for July and August (in English at 2:10 and 5:10 pm): we do not have the autumn ones, so if you want the guide, write or check the ticket office. Put this stop after lunch: it is entirely indoors and takes no more than an hour.
 
 The wooden hall of the Anatomical Theatre of the Archiginnasio, with statues in niches and the central chair Photo: Luca Borghi, Public domain, Wikimedia Commons
 The porticoes and the San Luca porticoAl coperto#
@@ -3537,10 +3561,26 @@ The porticoes are not a backdrop: UNESCO inscribes them as a serial site of 12 p
 
 The San Luca portico links the city to the sanctuary. Here the sources disagree: the Comune speaks of about 3,600 metres and notes that the traditional count of 666 arches is actually slightly lower, depending on how they are counted; Bologna Welcome gives 3.5 km and 666 arches. On the route the Comune is precise: from the Arco Bonaccorsi you follow via Saragozza, flat, for about a kilometre and a half; then for more than 2 kilometres you climb, partly on steps. Bologna Welcome says to continue under the portico from Porta Saragozza. The alternative, per Bologna Welcome: bus 20 to the church of San Martino in Casalecchio di Reno, then bus 58 to the sanctuary. We did not read walking times: our estimate is no less than a couple of hours there and back on foot, and it is only an estimate.
 
+The timetable that matters is the sanctuary's, which on the official site is this: church from 7:00 am to 6:00 pm and forecourt from 6:30 am to 6:00 pm, every day; the climb to the icon of the Madonna is closed to the public Monday to Friday from 12:30 to 2:30 pm; the bookshop is open from 10:00 am to 12:30 pm and from 2:30 to 6:00 pm. The dome with its terrace (San Luca Sky Experience) can be visited Monday to Saturday from 10:30 am to 1:30 pm and from 2:30 to 6:30 pm, on Sunday from 12:00 to 1:30 pm and from 2:30 to 6:30 pm; we did not read the price. With a 6:00 pm closing, plan to be up there with at least an hour in hand.
+
+If you do not want to walk uphill there is the San Luca Express, the tourist train: according to Bologna Welcome it costs 15 € full and 8 € reduced, takes about an hour, includes a same-day return ticket and an on-board audioguide, and is free with the Bologna Welcome Card PLUS. The ticket is non-refundable and entitles you to the first available departure on the chosen day; the listing gives the departure stop as Piazza Galvani, while the map on the same page marks Piazza Maggiore, so check where it leaves from. For the bus: on TPER's urban lines in Bologna you can buy a ticket on board at the automatic machine when there is a green sign outside the door (coins from 10 cents to 2 euros, no change given, 90 seconds to pay), or pay with a contactless card at no extra cost; on suburban lines such as the 89 and 90 nothing is sold on board. TPER's own page tells you whether your line is urban or suburban: we did not verify it for lines 20 and 58, which Bologna Welcome names.
+
 A stretch of the San Luca portico, with arches climbing towards the sanctuary Photo: Puscas Vadim  (Nebbius), CC BY-SA 4.0, Wikimedia Commons
 How much to spend (indicative averages)#
 
 With the figures read: Clock Tower with collections 10 €, Archiginnasio with audioguide 10 €, San Petronio's paid route 5 €. In all about 25 € in tickets for one adult, with San Luca and the basilica free. These are indicative averages: they depend on discounts, days and cards such as the Bologna Welcome Card (which the sources list as free for the Asinelli and the Clock Tower).
+
+The most common mistakes#
+
+The first is treating the centre as open like a park: on Sunday the Archiginnasio is closed and on Monday so are the art collections, so the day is designed around the weekday, not only the places. The second is reaching San Luca late: church and forecourt close at 6:00 pm and in the middle of the day the climb to the icon stops from 12:30 to 2:30 pm on weekdays. The third is dress at San Petronio: a tank top or a hat on your head is enough to be stopped at the door under the rules. The fourth is turning up late at the Clock Tower, where whoever misses their slot does not go up on the next one and gets no refund. The fifth is looking for San Petronio's terrace, which is closed for good.
+
+Questions people ask before they go#
+
+Do I need to book? For the Clock Tower yes, it is mandatory; for the Archiginnasio the audioguide visits have entries every 10 minutes and tickets are bought online or on site at the first-floor bookshop; at San Petronio entry to the nave is free and the paid route through the chapels needs no reservation for groups under 15.
+
+What does it really cost? The ticket sum is above. With the Bologna Welcome Card the sources list free entry to the Clock Tower and the Asinelli and a reduced price at the Archiginnasio: we did not read the card's price on the experience page, so compare it with single tickets before buying.
+
+Morning or afternoon? Morning for the tower (first entry at 10:00 am in this season) and San Petronio; early afternoon for the Archiginnasio; San Luca only if you have at least a full hour before 6:00 pm.
 
 What to leave out#
 
@@ -3553,7 +3593,7 @@ ConsiglioBook the Clock Tower for 10:00 am and do San Petronio right after: they
 
 If you have another day#
 
-After Bologna the logic changes but the yardstick stays: Florence in 48 hours for another walkable historic centre, with reservations to make ahead. If the food is what won you over, what to eat in Catania is the southern answer, with the same care for sources. And to learn how to have an AI build a day like this without inventing opening hours, read AI travel itineraries: what works.
+After Bologna the logic changes but the yardstick stays: Florence in 48 hours for another walkable historic centre, with reservations to make ahead. If you like a day built around museum hours, Turin on a rainy day follows the same approach, and for another northern city with a day on foot between cafés and viewpoints there is one day in Trieste. If the food is what won you over, what to eat in Catania is the southern answer, with the same care for sources. And to learn how to have an AI build a day like this without inventing opening hours, read AI travel itineraries: what works.
 
 If your day changes#
 
@@ -3561,7 +3601,7 @@ UNNIVAI is built to rewrite the route when an opening, the weather or tiredness 
 
 Read next: Another northern city to explore even in bad weather: Milan in a weekend in the rain.
 
-Hours, prices and opening days were read and checked on the official sources listed on 30 October 2026 and change during the year: check before you go. Where two sources disagree, we said so. We did not verify San Petronio's nave hours or walking times to San Luca.
+Hours, prices and opening days for the Clock Tower, the Asinelli, San Petronio, the Archiginnasio, San Luca, the Quadrilatero, the San Luca portico and TPER were re-read and checked on the pages listed on 21 November 2026; the UNESCO, tortellino-recipe and ragù data were read on 30 October 2026. Hours change during the year: check before you go. Where two sources disagree, we said so. We did not verify walking times to San Luca, the price of the San Luca Sky Experience or of the Bologna Welcome Card, autumn guided-tour times at the Archiginnasio, or bus lines 20 and 58 on TPER's site.
 
 
 # What to eat in Catania: 10 tastes in order of the day

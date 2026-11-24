@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Alpe di Siusi in inverno: cabinovia, orari e piano B](https://unnivai.com/blog/alpe-di-siusi-in-inverno-cabinovia-e-piano-b): Alpe di Siusi senza sci in inverno: date e orari della cabinovia, prezzi, accesso in auto, sentieri a piedi e cosa fare se il meteo cambia.
 - [Trieste in un giorno: caffè storici, Carso e bora](https://unnivai.com/blog/trieste-in-un-giorno): Un giorno a Trieste tra Piazza Unità, caffè storici, tram di Opicina e Miramare: orari e prezzi verificati e il piano B quando soffia la bora.
 - [Costiera Amalfitana senza auto: bus SITA e traghetti](https://unnivai.com/blog/costiera-amalfitana-con-i-mezzi-pubblici): Come girare la Costiera Amalfitana con i mezzi pubblici: orari invernali SITA dal 2 novembre, biglietto da 10 €, traghetti Travelmar e Sentiero degli Dei.
 - [Perugia e Assisi senza auto: 2 giorni con treno e Minimetrò](https://unnivai.com/blog/perugia-e-assisi-in-treno): Due giorni tra Perugia e Assisi senza macchina: Minimetrò, Galleria Nazionale, treno e bus per la Basilica di San Francesco, con orari verificati.
@@ -28,6 +29,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [Seiser Alm in winter without skiing: gondola and plan B](https://unnivai.com/en/blog/seiser-alm-in-winter-gondola-and-plan-b): Can you visit Seiser Alm (Alpe di Siusi) in winter without skiing? Gondola dates, hours and prices, car rules, snow walks and what to do if the weather turns.
 - [One day in Trieste: cafés, Opicina tram and bora plan B](https://unnivai.com/en/blog/one-day-in-trieste): What to do in Trieste in one day: Piazza Unità, historic cafés, the Opicina tram or Miramare Castle, with checked hours, prices and a plan for bora days.
 - [How to get around the Amalfi Coast without a car](https://unnivai.com/en/blog/amalfi-coast-by-public-transport): Amalfi Coast by bus and ferry: winter SITA timetable from 2 November, the 10 € day ticket, Travelmar boats, and how to reach the Path of the Gods.
 - [Perugia and Assisi by train: 2 days without a car](https://unnivai.com/en/blog/perugia-and-assisi-by-train): See Perugia and Assisi in two days without a car: Minimetrò, the National Gallery of Umbria, then train and bus to St Francis Basilica, with checked hours.
@@ -61,10 +63,91 @@
 
 ---
 
+# Alpe di Siusi in inverno: cabinovia, orari e piano B
+URL: https://unnivai.com/blog/alpe-di-siusi-in-inverno-cabinovia-e-piano-b
+Language: it
+Updated: 2026-11-24
+
+L'Alpe di Siusi si raggiunge in tre modi: a piedi dal fondovalle, in auto con molte limitazioni, oppure con la cabinovia che parte da Siusi allo Sciliar e ti porta in quota in circa 15 minuti. In inverno la cabinovia è la scelta più sensata, ma ha una stagione precisa e a fine novembre non è ancora aperta. Questa guida è per chi vuole l'altopiano senza sci ai piedi: quando si sale, quanto si paga, cosa si cammina, e cosa fare se il tempo cambia.
+
+In breve. Nell'inverno 2026/27 la cabinovia dell'Alpe di Siusi funziona dal 4 dicembre 2026 al 4 aprile 2027, tutti i giorni dalle 8 alle 18; andata e ritorno costa 31 € per un adulto. Senza sci si cammina sui 60 km di sentieri invernali preparati, si va in slittino o in slitta a cavalli. Il piano B è il fondovalle (Siusi, Castelrotto, Fiè, Tires) oppure un altro giorno: sui rifugi non fare conto a fine novembre.
+
+MattinaSiusi allo SciliarStazione a valle in via Sciliar 39: parcheggio esterno gratuito, cabinovia dalle 8:00.
+
+MattinaLa salitaCirca 15 minuti di cabinovia fino all'altopiano.
+
+MezzogiornoSentieri invernaliCamminata sui sentieri battuti; resta fuori dalle piste da sci e da fondo.
+
+PomeriggioSostaUn rifugio aperto, se c'è: controlla lo stato sul sito ufficiale.
+
+PomeriggioDiscesaUltima corsa entro le 18:00, ma non arrivare all'ultimo minuto.
+
+ConsiglioPrima di partire fai due controlli sul sito dell'Alpe di Siusi: lo stato della cabinovia e l'elenco dei rifugi con la voce "aperto oggi". Sono le due informazioni che cambiano di più tra fine novembre e metà dicembre.
+
+Quando si può salire davvero (e cosa succede prima)#
+
+Il punto più utile per chi pianifica oggi è questo: la cabinovia dell'Alpe di Siusi è chiusa fino al 3 dicembre 2026. Il sito dell'Alpe di Siusi dà come date della stagione invernale 2026/2027 il periodo dal 4 dicembre 2026 al 4 aprile 2027, con corse tutti i giorni dalle 8:00 alle 18:00. Dolomiti.it, nell'articolo sull'apertura della stagione sciistica pubblicato il 6 ottobre, riporta le stesse date per il comprensorio Val Gardena/Alpe di Siusi (4 dicembre 2026-4 aprile 2027). Altri comprensori Dolomiti Superski, come Cortina, Plan de Corones, Val di Fiemme e San Martino di Castrozza, aprono prima, il 28 novembre.
+
+Una cautela sulle fonti: la pagina "vacanza invernale" dello stesso sito riporta ancora le date della stagione precedente (dal 5 dicembre 2025 al 7 aprile 2026). Sembra un testo non aggiornato, ma non possiamo saperlo con certezza: noi ci fidiamo della pagina specifica della cabinovia, confermata da Dolomiti.it, e per le date esatte ti consigliamo di ricontrollare quella pagina prima di salire. Lo stesso vale per il file PDF degli orari, che sul sito è ancora quello dell'inverno 2025/2026.
+
+Quanto costa la cabinovia (medie indicative, tariffe ufficiali)#
+
+Questi sono i prezzi 2026/2027 letti sulla pagina ufficiale. Per un adulto la corsa singola costa 22 € e andata e ritorno 31 €. Per le famiglie, definite come due adulti con figli nati dopo il 1 gennaio 2009, la corsa singola costa 47 € e andata e ritorno 66 €. I junior (nati tra il 2009 e il 2018) pagano 14 € e 19 €, i senior (nati nel 1961 o prima) 19 € e 27 €, e i bambini nati dal 2019 viaggiano gratis. C'è anche una carta multicorsa da 73 € (tre salite e discese a stagione, non cedibile).
+
+Il sito avverte che le riduzioni si ottengono solo alle casse della cabinovia, con la persona presente e un documento d'identità valido; altrimenti si paga la tariffa intera. Per cane e bici ci sono supplementi (cane 5 € la corsa singola e 10 € andata e ritorno, bici 6 € e 12 €), e il cane deve avere guinzaglio e museruola. Al momento della lettura la pagina segnalava che l'acquisto dei biglietti online non era disponibile per un problema tecnico del sito: prevedi di comprare alla cassa.
+
+La corsa è già compresa in quattro prodotti: lo skipass Alpe di Siusi/Val Gardena, lo skipass Dolomiti Superski, il Nordic Pass e la Combi Card. Per chi non scia, il sito suggerisce la Combi Card (slittino, escursioni invernali, ciaspole): la 3 in 7 costa 73 € e dà tre salite e discese entro sette giorni più l'uso di navette e Almbus; la Combi Card 7 costa 95 € per sette giorni consecutivi. Un solo giorno non la giustifica: per quello basta il biglietto da 31 €.
+
+Una cabina della cabinovia dell'Alpe di Siusi in salita sul versante innevato, con la valle sullo sfondo Foto: Holger Uwe Schmitt, CC BY-SA 4.0, Wikimedia Commons
+E in auto? Le regole che cambiano da una stagione all'altra#
+
+L'Alpe di Siusi è un'area di 56 km² sotto tutela paesaggistica e parte del Parco Naturale Sciliar-Catinaccio, per questo l'accesso privato è limitato. In inverno, quando la cabinovia funziona, la strada è chiusa al traffico privato dalle 9:00 alle 17:00: puoi salire fino a Compatsch prima delle 9 o dopo le 17, e scendere a qualsiasi ora. Per i parcheggi sull'altopiano, P1 Spitzbühl e P2 Compatsch, la prenotazione online è obbligatoria e sono entrambi a pagamento. Dal 4 dicembre 2026 al 4 aprile 2027 il sito indica per l'auto 15 € al giorno al P1 e 31 € al giorno al P2. Se i due parcheggi sono già pieni prima delle 9, il controllo di San Valentino si chiude e non si passa.
+
+Nel periodo intermedio dal 3 novembre al 3 dicembre, con la cabinovia chiusa, la strada fino a Compatsch resta aperta tutto il giorno, ma la prenotazione del parcheggio è comunque obbligatoria e i prezzi scendono: 1 € al giorno al P1 e 15 € al P2 per l'auto. In alternativa all'auto c'è la linea di bus 179, con tre corse al mattino e tre al pomeriggio, gratuita con l'Alto Adige Guest Pass. Qui le fonti non discordano ma sono ambigue su un punto: la stessa pagina scrive in un passaggio che la prenotazione si può fare "a partire da tre giorni prima" e in un altro "fino a sei giorni prima". Noi non scegliamo: guarda direttamente il modulo di prenotazione. In ogni caso, il consiglio ufficiale è la cabinovia: parcheggio esterno gratuito alla stazione a valle (con divieto di sosta dalle 22 alle 6:30) e due parcheggi coperti a pagamento, 2,50 € l'ora e 10 € al giorno.
+
+Cosa fare sull'altopiano senza sci#
+
+Il sito ufficiale descrive 60 chilometri di sentieri invernali preparati, con vista su Sassolungo, Sassopiatto, Sciliar e Catinaccio, e li definisce protetti dal rischio valanghe. Servono scarponi robusti e abbigliamento caldo; le ciaspole non sono necessarie, anche se si possono usare. Le regole che contano: restare sui sentieri segnalati, non camminare sulle piste da fondo e da sci, e portare con sé i rifiuti. Dopo forti nevicate o con temperature variabili, il sito ammette che la preparazione di tutti i sentieri potrebbe non essere immediata. Per le emergenze indica il 112.
+
+Il Sassopiatto (Plattkofel) in inverno, visto da ovest Foto: Wolfgang Moroder, CC BY-SA 3.0, Wikimedia Commons
+Tra i sentieri c'è un tematico dedicato a Paula Wiesinger e Hans Steger, pionieri dello sci e dell'alpinismo. Attraversa l'altopiano dalla stazione a monte della cabinovia fino a Saltria, ai piedi di Sassolungo e Sassopiatto, con pannelli su geologia, flora e fauna, insediamento umano e leggende. Non abbiamo trovato la lunghezza né il tempo di percorrenza: non li scriviamo.
+
+Per chi vuole altro, il sito elenca la slitta trainata da cavalli, lo slittino (non abbiamo verificato dove si noleggia lo slittino né il prezzo), il pattinaggio sul ghiaccio e, nel comprensorio, 181 km di piste da sci, 80 km di piste da fondo tra 1.800 e 2.200 metri di quota e una rete di 50 km di itinerari per ciaspole intorno a Tires al Catinaccio. Il paesaggio è descritto dal sito come parte del Patrimonio Mondiale UNESCO delle Dolomiti; l'UNESCO descrive le Dolomiti come un sito seriale di nove aree con 18 cime sopra i 3.000 metri, per 141.903 ettari. Non abbiamo verificato quale delle nove aree comprenda l'Alpe di Siusi, quindi non lo affermiamo.
+
+Rifugi e malghe: cosa trovi davvero a fine novembre#
+
+I rifugi dell'Alpe di Siusi sono locali a conduzione familiare, con servizio al tavolo, raggiungibili a piedi, con gli sci, con lo slittino o con la slitta a cavalli. È la parte più bella della giornata, ma dipende dal calendario. Il 24 novembre 2026, nella prima pagina dell'elenco ufficiale (12 locali) solo due erano segnati aperti, otto chiusi e per due non c'era indicazione. L'elenco completo, con filtro "aperto il" e pulsante per stampare gli aperti oggi, conta 65 attività. Il sito parla di circa 50 tra malghe e rifugi in inverno, ma finché la stagione non è partita non dare per scontato che una tappa sia aperta: non indichiamo nomi, perché dobbiamo verificarli giorno per giorno.
+
+Quando il meteo cambia: il piano B#
+
+Il sito ufficiale invita a consultare il meteo prima di ogni escursione invernale; non abbiamo trovato una regola pubblicata sulle chiusure della cabinovia per vento o maltempo, quindi non possiamo dirti quando si ferma. Il piano B, quindi, è semplice. Se la mattina il tempo è dubbio, controlla lo stato degli impianti e il meteo sul sito prima di partire da Siusi. Se resti a valle, l'offerta ufficiale cita per Castelrotto, Siusi, Fiè e Tires al Catinaccio percorsi per passeggiate invernali, piste di pattinaggio sul ghiaccio ed eventi; non abbiamo letto orari né prezzi di questi servizi, quindi non li indichiamo. Se invece sali e il tempo peggiora, scendi per tempo: l'ultima ora di apertura è alle 18:00, ma col buio e con la neve sul sentiero conviene scendere molto prima.
+
+Il piano B più utile resta spostare il giorno. Con neve scarsa o sentieri non ancora battuti, l'altopiano di fine novembre non è all'altezza del suo nome; da inizio dicembre, quando cabinovia, piste e rifugi sono in funzione, il giorno migliore è quello con cielo sereno. Il 24 novembre 2026 il sito riportava 25 cm di neve in quota e 20 a valle, con ultima nevicata il 21 novembre; la Sellaronda risultava chiusa.
+
+Quanto spendere per una giornata#
+
+Per un adulto, la parte certa è la cabinovia: 31 € andata e ritorno. Se vai in auto, ricorda il parcheggio: gratuito alla stazione a valle, 15 € o 31 € al giorno sull'altopiano (periodo 4 dicembre-4 aprile). Non abbiamo letto prezzi di pasti, bevande, noleggio slittino o slitta a cavalli, quindi non li stimiamo. Sono medie indicative per i soli servizi verificati.
+
+Errori comuni#
+
+Programmare la salita in cabinovia prima del 4 dicembre 2026: è chiusa.
+Contare su un rifugio aperto a fine novembre senza controllare lo stato sul sito.
+Salire in auto in orario di divieto (9:00-17:00 con cabinovia attiva) o senza prenotare il parcheggio.
+Camminare sulle piste da fondo o da sci: i sentieri invernali sono altri, e quelle piste sono vietate ai pedoni.
+Comprare la Combi Card per una sola giornata: costa 73 €, più del biglietto da 31 €.
+Dare per buona una sola pagina: sul sito ci sono date della stagione scorsa ancora online.
+
+Se hai un altro giorno#
+
+Per un altro itinerario in cui il meteo decide il programma, leggi Trieste in un giorno: caffè storici, Carso e bora. Per un giorno a piedi con orari e chiusure da controllare, c'è Cinque Terre a piedi: sentieri, treni e cosa è chiuso. E se ti interessa muoverti senza auto, guarda Perugia e Assisi senza auto: 2 giorni con treno e Minimetrò. UNNIVAI è pensata per riscrivere una giornata come questa quando cambiano il meteo, gli orari o le tue energie: se ti serve, entra tra i primi utenti.
+
+Orari, prezzi e avvisi sono letti sulle fonti ufficiali indicate e verificati il 24 novembre 2026: cambiano durante l'anno e con il meteo, quindi ricontrolla prima di salire. Dove due fonti discordano o sono ambigue lo abbiamo scritto. Non abbiamo verificato prezzi e orari di rifugi, noleggi, slittino, slitta a cavalli e pattinaggio, la lunghezza del sentiero Steger, gli orari del bus 179 e del Seiser Alm Express (linea 10), eventuali regole di chiusura della cabinovia per maltempo e a quale area UNESCO appartenga l'Alpe di Siusi.
+
+
 # Trieste in un giorno: caffè storici, Carso e bora
 URL: https://unnivai.com/blog/trieste-in-un-giorno
 Language: it
-Updated: 2026-11-19
+Updated: 2026-11-24
 
 Trieste si capisce con tre cose: un caffè storico, un punto da cui guardarla dall'alto e il vento. L'ultimo è quello che cambia il programma. In una settimana di novembre il parco di Miramare ha chiuso per allerta meteo e il tram di Opicina si è fermato per un albero caduto sui cavi, così un itinerario scritto come se il cielo fosse sempre fermo non regge. Questo giro mette in fila una giornata con un pomeriggio a scelta e un piano B pensato per la bora.
 
@@ -146,6 +229,8 @@ I locali che non conosciamo: oltre ai caffè storici elencati dal Comune non ind
 Se hai un altro giorno#
 
 Per un altro itinerario fatto di caffè storici e piano B, leggi Torino: musei e caffè storici con la pioggia. Per un'altra città sull'Adriatico del Nord-Est da visitare ragionando sulla folla, guarda Venezia senza folla; e per un giro a piedi e in treno vicino al mare c'è Cinque Terre a piedi. UNNIVAI è pensata per riscrivere un giro così quando cambiano vento, orario o stanchezza: se ti serve, entra tra i primi.
+
+Leggi anche: Un'altra giornata in cui il meteo decide il programma, questa volta sulle Dolomiti: Alpe di Siusi in inverno: cabinovia, orari e piano B.
 
 Orari, prezzi e avvisi sono letti sulle fonti ufficiali indicate e verificati il 19 novembre 2026: cambiano durante l'anno, con il meteo e con gli eventi, quindi controlla prima di partire. Dove due fonti discordano lo abbiamo scritto. Non abbiamo verificato orari e prezzi dei caffè storici, il prezzo e l'orario del tram di Opicina, il capolinea attuale della linea, i prezzi dei bus e dei treni, la lunghezza del tratto Obelisco-Prosecco e come raggiungere il Sentiero Rilke con i mezzi pubblici.
 
@@ -1188,7 +1273,7 @@ Nota di verifica. Guida rinfrescata il 16 novembre 2026: ho riaperto le pagine u
 # Cinque Terre a piedi: sentieri, treni e cosa è chiuso
 URL: https://unnivai.com/blog/cinque-terre-a-piedi
 Language: it
-Updated: 2026-11-16
+Updated: 2026-11-24
 
 cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
 
@@ -1275,6 +1360,8 @@ Leggi anche: Un altro itinerario di costa che si fa a piedi e in treno: Polignan
 Leggi anche: Un altro itinerario che si regge su treni e orari, in Umbria: Perugia e Assisi senza auto in due giorni.
 
 Leggi anche: Un'altra costa italiana che si gira senza auto, con bus, traghetti e un sentiero: Costiera Amalfitana senza auto: bus SITA e traghetti.
+
+Leggi anche: Un altro giorno a piedi in cui orari e stagione vanno controllati prima, in quota: Alpe di Siusi in inverno: cabinovia, orari e piano B.
 
 Stato dei sentieri, orari, prezzi e lavori sono verificati sulle fonti ufficiali indicate il 30 ottobre 2026 e cambiano spesso: controlla la pagina del Parco il giorno stesso. Dove due fonti discordano lo abbiamo scritto. Non abbiamo letto il calendario delle giornate di alta affluenza né la tariffa dei treni dopo il 1 novembre.
 
@@ -2271,10 +2358,91 @@ Leggi anche: per salire sull'Etna e vedere il teatro antico in una sola giornata
 Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle fonti: scheda del Ministero della Cultura per il Castello Ursino, Italia.it, Museionline, Wikipedia, una scheda sul patrimonio UNESCO (sito non ufficiale) e due pagine di clima. Dove le fonti discordano (apertura del Castello Ursino, indirizzo del Teatro Bellini, mese più piovoso) lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Monastero e del Teatro, né l'accessibilità del Castello. Prezzi come medie indicative: orari, giorni di chiusura e prenotazioni cambiano, verifica sempre le informazioni ufficiali prima di muoverti.
 
 
+# Seiser Alm in winter without skiing: gondola and plan B
+URL: https://unnivai.com/en/blog/seiser-alm-in-winter-gondola-and-plan-b
+Language: en
+Updated: 2026-11-24
+
+Seiser Alm, called Alpe di Siusi in Italian, is easy to reach in three ways: on foot from the valley, by car with many restrictions, or by the gondola that leaves from Seis am Schlern (Siusi allo Sciliar) and takes about 15 minutes to reach the plateau. In winter the gondola is the sensible choice, but it has a fixed season and in late November it has not opened yet. This guide is for anyone who wants the plateau without skis: when you can go up, what it costs, what you can walk, and what to do if the weather changes.
+
+In breve. Yes, you can visit Seiser Alm in winter without skiing. In 2026/27 the gondola runs from 4 December 2026 to 4 April 2027, daily 8 am to 6 pm, and a return ticket is 31 € for an adult. Without skis you walk the 60 km of prepared winter trails, go sledding or take a horse-drawn sleigh. Plan B is the valley (Seis, Kastelruth, Völs, Tiers) or another day; do not count on mountain huts in late November.
+
+MorningSeis am SchlernValley station at Schlernstraße 39: free outdoor car park, gondola from 8:00.
+
+MorningThe ride upAbout 15 minutes by gondola to the plateau.
+
+MiddayWinter trailsA walk on prepared trails; stay off ski and cross-country tracks.
+
+AfternoonA stopA mountain hut, if one is open: check its status on the official site.
+
+AfternoonBack downLast ride by 6:00 pm, but don't leave it to the last minute.
+
+ConsiglioBefore you leave, make two checks on the Seiser Alm website: the gondola status and the hut list with the "open today" filter. Those are the two things that change most between late November and mid-December.
+
+When can you really go up (and what happens before)#
+
+The most useful point for anyone planning today: the Seiser Alm gondola is closed until 3 December 2026. The Seiser Alm website gives the winter 2026/2027 season as 4 December 2026 to 4 April 2027, with rides every day from 8:00 am to 6:00 pm. Dolomiti.it, in its article on the opening of the ski season published on 6 October, gives the same dates for the Val Gardena/Seiser Alm area. Some other Dolomiti Superski areas, such as Cortina, Kronplatz, Val di Fiemme and San Martino di Castrozza, open earlier, on 28 November.
+
+One caution about the sources: the "winter holiday" page of the same website still shows the previous season's dates (5 December 2025 to 7 April 2026). It looks like text that has not been updated, but we cannot be sure: we trust the gondola page itself, confirmed by Dolomiti.it, and we suggest you recheck that page before going up. The same applies to the timetable PDF, which on the site is still the winter 2025/2026 one.
+
+How much is the gondola (indicative averages, official fares)#
+
+These are the 2026/2027 prices read on the official page. For an adult, a single ride costs 22 € and a return 31 €. For families, defined as two adults with children born after 1 January 2009, a single is 47 € and a return 66 €. Juniors (born 2009 to 2018) pay 14 € and 19 €, seniors (born 1961 or earlier) 19 € and 27 €, and children born from 2019 ride free. There is also a multi-ride card at 73 € (three return rides per season, non-transferable).
+
+The website warns that discounts are only available at the gondola ticket offices, with the person present and valid ID; otherwise you pay the full fare. Dogs and bikes carry a surcharge (dog 5 € single and 10 € return, bike 6 € and 12 €), and dogs must be on a lead and muzzled. When we read the page, it said online ticket sales were not available because of a technical problem on the website: plan to buy at the ticket office.
+
+The ride is already included in four products: the Seiser Alm/Val Gardena ski pass, the Dolomiti Superski pass, the Nordic Pass and the Combi Card. For non-skiers, the site suggests the Combi Card (sledding, winter hiking, snowshoeing): the 3-in-7 costs 73 € and gives three return rides within seven days plus shuttle buses and the Almbus; the 7-day Combi Card costs 95 € for seven consecutive days. One day does not justify it: for that, the 31 € return ticket is enough.
+
+A cabin of the Seiser Alm gondola climbing over the snowy hillside, with the valley behind Photo: Holger Uwe Schmitt, CC BY-SA 4.0, Wikimedia Commons
+What about driving? The rules change between seasons#
+
+Seiser Alm covers 56 km², is a protected landscape and is part of the Sciliar-Catinaccio Nature Park, so private access is limited. In winter, when the gondola is running, the road is closed to private traffic from 9:00 am to 5:00 pm: you can drive up to Compatsch before 9 or after 5, and drive down at any time. For the parking areas on the plateau, P1 Spitzbühl and P2 Compatsch, online booking is compulsory and both are paid. From 4 December 2026 to 4 April 2027 the site gives 15 € a day for a car at P1 and 31 € a day at P2. If both are already full before 9 am, the San Valentino checkpoint closes and you cannot pass.
+
+In the shoulder period from 3 November to 3 December, with the gondola closed, the road to Compatsch stays open all day, but parking must still be booked and prices drop: 1 € a day at P1 and 15 € at P2 for a car. As an alternative to the car there is bus line 179, with three runs in the morning and three in the afternoon, free with the South Tyrol Guest Pass. One point on the page is ambiguous: in one passage it says booking opens "from three days before" and in another "up to six days before". We do not pick one: look at the booking form directly. In any case the official advice is the gondola: a free outdoor car park at the valley station (no parking from 10 pm to 6:30 am) and two paid garages at 2.50 € an hour and 10 € a day.
+
+What to do on the plateau without skis#
+
+The official site describes 60 km of prepared winter trails, with views of the Langkofel, Plattkofel, Schlern and Rosengarten, and calls them avalanche-protected. You need sturdy boots and warm clothes; snowshoes are not necessary, though you can use them. The rules that matter: stay on the marked trails, do not walk on cross-country or ski tracks, and take your litter with you. After heavy snowfall or changing temperatures, the site admits that not all trails may be prepared right away. For emergencies it gives 112.
+
+The Plattkofel (Sassopiatto) in winter, seen from the west Photo: Wolfgang Moroder, CC BY-SA 3.0, Wikimedia Commons
+Among the trails is a themed one dedicated to Paula Wiesinger and Hans Steger, pioneers of skiing and mountaineering. It crosses the plateau from the upper gondola station to Saltria, at the foot of the Langkofel and Plattkofel, with panels on geology, flora and fauna, human settlement and legends. We did not find its length or walking time, so we do not write them.
+
+For something else, the site lists horse-drawn sleigh rides, sledding (we did not verify where you rent a sled or the price), ice skating and, in the wider area, 181 km of ski slopes, 80 km of cross-country tracks between 1,800 and 2,200 metres, and a 50 km network of snowshoe routes around Tiers. The site describes the scenery as part of the UNESCO World Heritage Dolomites; UNESCO describes the Dolomites as a serial property of nine areas with 18 peaks above 3,000 metres, covering 141,903 hectares. We did not verify which of the nine areas includes Seiser Alm, so we do not claim it.
+
+Mountain huts: what you will find in late November#
+
+The huts on Seiser Alm are family-run, with table service, reachable on foot, on skis, by sled or by horse-drawn sleigh. It is the best part of the day, but it depends on the calendar. On 24 November 2026, on the first page of the official list (12 places), only two were marked open, eight closed and two had no indication. The full list, with an "open on" filter and a button to print those open today, counts 65 businesses. The site speaks of about 50 alpine huts and farms in winter, but until the season starts do not take it for granted that a stop is open: we name none, because they need to be checked day by day.
+
+When the weather changes: plan B#
+
+The official site invites you to check the forecast before every winter walk; we found no published rule on gondola closures for wind or bad weather, so we cannot tell you when it stops. Plan B is therefore simple. If the morning looks doubtful, check the lift status and the weather on the site before leaving Seis. If you stay in the valley, the official offer mentions for Kastelruth, Seis, Völs and Tiers winter walking routes, ice rinks and events; we did not read their hours or prices, so we give none. If you do go up and the weather turns, come down in good time: the last opening hour is 6 pm, but with darkness and snow on the path it is better to go down much earlier.
+
+The most useful plan B is to move the day. With little snow or trails not yet packed, the plateau in late November is not at its best; from early December, when gondola, slopes and huts are running, the best day is a clear one. On 24 November 2026 the site showed 25 cm of snow at altitude and 20 in the valley, with the last snowfall on 21 November; the Sellaronda was shown as closed.
+
+How much to spend for a day#
+
+For an adult the certain part is the gondola: 31 € return. If you drive, remember parking: free at the valley station, 15 € or 31 € a day on the plateau (4 December to 4 April period). We did not read the prices of meals, drinks, sled rental or horse-drawn sleighs, so we do not estimate them. These are indicative averages for the verified services only.
+
+Common mistakes#
+
+Planning the gondola before 4 December 2026: it is closed.
+Counting on a mountain hut being open in late November without checking its status on the site.
+Driving up during the closed hours (9:00 am to 5:00 pm with the gondola running) or without booking parking.
+Walking on cross-country or ski tracks: winter trails are separate, and those tracks are off-limits to walkers.
+Buying the Combi Card for a single day: it costs 73 €, more than the 31 € ticket.
+Trusting a single page: the site still carries last season's dates in places.
+
+If you have another day#
+
+For another itinerary where the weather decides the plan, read One day in Trieste: cafés, Opicina tram and bora plan B. For a walking day where hours and closures need checking, there is Cinque Terre on foot. And if you want to travel without a car, see Perugia and Assisi without a car. UNNIVAI is built to rewrite a day like this when the weather, the timetable or your energy changes: if you need it, join the first users.
+
+Hours, prices and notices were read on the official sources listed and checked on 24 November 2026: they change during the year and with the weather, so check again before going up. Where two sources disagree or are ambiguous we said so. We did not verify prices and hours of huts, rentals, sledding, horse-drawn sleighs and ice skating, the length of the Steger trail, the timetable of bus 179 and of the Seiser Alm Express (line 10), any gondola closure rules for bad weather, and which UNESCO area includes Seiser Alm.
+
+
 # One day in Trieste: cafés, Opicina tram and bora plan B
 URL: https://unnivai.com/en/blog/one-day-in-trieste
 Language: en
-Updated: 2026-11-19
+Updated: 2026-11-24
 
 Trieste makes sense through three things: a historic café, a place to look down on the city from, and the wind. The wind is the one that changes your plans. In a single week in November the park at Miramare closed for a weather alert and the Opicina tram stopped because a tree had fallen on its wires, so an itinerary written as if the sky never moves will not hold. This plan gives you one day with a choice of afternoon, and a plan B built around the bora.
 
@@ -2356,6 +2524,8 @@ Places we do not know: apart from the historic cafés listed by the City we do n
 If you have another day#
 
 For another itinerary built around historic cafés and a plan B, read Turin on a rainy day. For another Adriatic city of the north-east worth planning around the crowds, see Venice without the crowds; and for a walk-and-train day by the sea there is Cinque Terre on foot. UNNIVAI is built to rewrite a day like this when the wind, the timetable or your energy changes: if you need it, join the first users.
+
+Read next: Another day where the weather decides the plan, this time in the Dolomites: Seiser Alm in winter without skiing: gondola and plan B.
 
 Hours, prices and notices were read on the official sources listed and checked on 19 November 2026: they change during the year, with the weather and with events, so check before you go. Where two sources disagree we said so. We did not verify hours and prices of the historic cafés, the price and timetable of the Opicina tram, the line's current terminus, bus and train prices, the length of the Obelisk-Prosecco stretch, and how to reach the Rilke Path by public transport.
 
@@ -3398,7 +3568,7 @@ Verification note. Data read on 30 October 2026 on the pages listed in the sourc
 # Cinque Terre on foot: trails, trains and what is closed
 URL: https://unnivai.com/en/blog/cinque-terre-on-foot
 Language: en
-Updated: 2026-11-16
+Updated: 2026-11-24
 
 cinque-terre--al-via-i-lavori-nelle-stazioni-ferroviarie-d.html
 
@@ -3485,6 +3655,8 @@ Read next: Another coastal itinerary done on foot and by train: Polignano a Mare
 Read next: Another itinerary built on trains and timetables, in Umbria: Perugia and Assisi without a car in two days.
 
 Read next: Another Italian coast you can explore without a car, with buses, ferries and a trail: How to get around the Amalfi Coast without a car.
+
+Read next: Another walking day where hours and season need checking first, this one at altitude: Seiser Alm in winter without skiing: gondola and plan B.
 
 Trail status, hours, prices and works were checked on the official sources listed on 30 October 2026 and change often: check the park's page on the day. Where two sources disagree, we said so. We did not read the calendar of high-attendance days or the train fare after 1 November.
 

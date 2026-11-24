@@ -3,7 +3,7 @@ id: trieste-in-un-giorno
 title: One day in Trieste: cafés, Opicina tram and bora plan B
 description: What to do in Trieste in one day: Piazza Unità, historic cafés, the Opicina tram or Miramare Castle, with checked hours, prices and a plan for bora days.
 date: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-24
 category: Trieste
 cover: Trieste
 tags: Historic cafés, Bora, Karst
@@ -120,5 +120,7 @@ With the bora the plan still stands if you redraw the afternoon. Keep the mornin
 ## If you have another day
 
 For another itinerary built around historic cafés and a plan B, read [Turin on a rainy day](/blog/turin-on-a-rainy-day). For another Adriatic city of the north-east worth planning around the crowds, see [Venice without the crowds](/blog/venice-without-the-crowds); and for a walk-and-train day by the sea there is [Cinque Terre on foot](/blog/cinque-terre-on-foot). UNNIVAI is built to rewrite a day like this when the wind, the timetable or your energy changes: if you need it, [join the first users](/?src=blog-trieste-in-un-giorno#iscriviti).
+
+**Read next:** Another day where the weather decides the plan, this time in the Dolomites: [Seiser Alm in winter without skiing: gondola and plan B](/blog/seiser-alm-in-winter-gondola-and-plan-b).
 
 *Hours, prices and notices were read on the official sources listed and checked on 19 November 2026: they change during the year, with the weather and with events, so check before you go. Where two sources disagree we said so. We did not verify hours and prices of the historic cafés, the price and timetable of the Opicina tram, the line's current terminus, bus and train prices, the length of the Obelisk-Prosecco stretch, and how to reach the Rilke Path by public transport.*

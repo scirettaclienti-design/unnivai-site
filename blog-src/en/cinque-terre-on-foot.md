@@ -3,7 +3,7 @@ id: cinque-terre-a-piedi
 title: Cinque Terre on foot: trails, trains and what is closed
 description: Walking the Cinque Terre in late October 2026: which trails show as closed, what the Trekking Card and trains cost, the Via dell'Amore and rail works.
 date: 2026-10-30
-updated: 2026-11-16
+updated: 2026-11-24
 category: Cinque Terre
 cover: Cinque Terre
 tags: Logistics, On foot, Trails
@@ -115,5 +115,7 @@ UNNIVAI is built to rewrite the route when an opening, the weather or tiredness 
 **Read next:** Another itinerary built on trains and timetables, in Umbria: [Perugia and Assisi without a car in two days](/blog/perugia-and-assisi-by-train).
 
 **Read next:** Another Italian coast you can explore without a car, with buses, ferries and a trail: [How to get around the Amalfi Coast without a car](/blog/amalfi-coast-by-public-transport).
+
+**Read next:** Another walking day where hours and season need checking first, this one at altitude: [Seiser Alm in winter without skiing: gondola and plan B](/blog/seiser-alm-in-winter-gondola-and-plan-b).
 
 *Trail status, hours, prices and works were checked on the official sources listed on 30 October 2026 and change often: check the park's page on the day. Where two sources disagree, we said so. We did not read the calendar of high-attendance days or the train fare after 1 November.*

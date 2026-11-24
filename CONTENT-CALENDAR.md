@@ -23,7 +23,7 @@ Fonti consigliate = punto di partenza, non sostituiscono la verifica: ogni dato 
 | 15 | [x] | Umbria | Perugia e Assisi: due giorni senza auto | Perugia and Assisi by train | Logistica | Comuni, Trenitalia |
 | 16 | [x] | Campania | Costiera Amalfitana con i mezzi pubblici | Amalfi Coast by public transport | Logistica | SITA/consorzi, Comuni |
 | 17 | [x] | Friuli Venezia Giulia | Trieste: caffè, Carso e una giornata di bora | One day in Trieste | Itinerario | Comune, Parco del Carso |
-| 18 | [ ] | Trentino-Alto Adige | Dolomiti: rifugi, orari delle funivie e piano B meteo | Dolomites: lifts, huts and weather plan B | Piano B | Consorzi impianti, rifugi (siti ufficiali) |
+| 18 | [x] | Trentino-Alto Adige | Dolomiti: rifugi, orari delle funivie e piano B meteo (declinato su Alpe di Siusi in inverno: `alpe-di-siusi-in-inverno-cabinovia-e-piano-b`) | Dolomites: lifts, huts and weather plan B (Seiser Alm in winter) | Piano B | Consorzi impianti, rifugi (siti ufficiali) |
 | 19 | [ ] | Calabria | Tropea e la Costa degli Dei: cosa fare e quando andare | Tropea and the Costa degli Dei | Itinerario | Comune, trasporti locali |
 | 20 | [ ] | Marche | Urbino e Ancona: una Italia che non ti aspetti | Urbino and Ancona | Itinerario | Galleria Nazionale delle Marche, Comuni |
 | 21 | [ ] | Toscana | Val d'Orcia in auto: strade, borghi e tappe | Val d'Orcia road trip | Itinerario auto | Comuni, Parco artistico |

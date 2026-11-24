@@ -566,5 +566,29 @@
   "url": "https://commons.wikimedia.org/wiki/File:Bologna_Via_Pescherie_Vecchie.jpg",
   "w": 1400,
   "h": 1050
+ },
+ "siusi-langkofel-inverno": {
+  "file": "File:Seiseralm und Langkofelgruppe im Winter.jpg",
+  "artist": "Wolfgang Moroder",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Seiseralm_und_Langkofelgruppe_im_Winter.jpg",
+  "w": 1400,
+  "h": 934
+ },
+ "siusi-sassopiatto-inverno": {
+  "file": "File:Plattkofel from West in winter 2013.jpg",
+  "artist": "Wolfgang Moroder",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Plattkofel_from_West_in_winter_2013.jpg",
+  "w": 1400,
+  "h": 864
+ },
+ "siusi-cabinovia-salita": {
+  "file": "File:Die Seiser Alm Bahn in Südtirol. 06.jpg",
+  "artist": "Holger Uwe Schmitt",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Die_Seiser_Alm_Bahn_in_S%C3%BCdtirol._06.jpg",
+  "w": 1400,
+  "h": 790
  }
 }

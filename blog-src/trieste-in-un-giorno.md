@@ -2,7 +2,7 @@
 title: Trieste in un giorno: caffè storici, Carso e bora
 description: Un giorno a Trieste tra Piazza Unità, caffè storici, tram di Opicina e Miramare: orari e prezzi verificati e il piano B quando soffia la bora.
 date: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-24
 category: Trieste
 cover: Trieste
 tags: Caffè storici, Bora, Carso
@@ -119,5 +119,7 @@ Con la bora il piano resta in piedi se ridisegni il pomeriggio. Tieni la mattina
 ## Se hai un altro giorno
 
 Per un altro itinerario fatto di caffè storici e piano B, leggi [Torino: musei e caffè storici con la pioggia](/blog/torino-musei-e-caffe-storici-con-la-pioggia). Per un'altra città sull'Adriatico del Nord-Est da visitare ragionando sulla folla, guarda [Venezia senza folla](/blog/venezia-come-evitare-la-folla); e per un giro a piedi e in treno vicino al mare c'è [Cinque Terre a piedi](/blog/cinque-terre-a-piedi). UNNIVAI è pensata per riscrivere un giro così quando cambiano vento, orario o stanchezza: se ti serve, [entra tra i primi](/?src=blog-trieste-in-un-giorno#iscriviti).
+
+**Leggi anche:** Un'altra giornata in cui il meteo decide il programma, questa volta sulle Dolomiti: [Alpe di Siusi in inverno: cabinovia, orari e piano B](/blog/alpe-di-siusi-in-inverno-cabinovia-e-piano-b).
 
 *Orari, prezzi e avvisi sono letti sulle fonti ufficiali indicate e verificati il 19 novembre 2026: cambiano durante l'anno, con il meteo e con gli eventi, quindi controlla prima di partire. Dove due fonti discordano lo abbiamo scritto. Non abbiamo verificato orari e prezzi dei caffè storici, il prezzo e l'orario del tram di Opicina, il capolinea attuale della linea, i prezzi dei bus e dei treni, la lunghezza del tratto Obelisco-Prosecco e come raggiungere il Sentiero Rilke con i mezzi pubblici.*

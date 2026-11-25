@@ -50,7 +50,7 @@ M=[
 ("Acconsento al trattamento di email e città per ricevere l'invito all'accesso anticipato e gli aggiornamenti su UNNIVAI. Posso revocare il consenso quando voglio.","I consent to the processing of my email and city to receive the early-access invitation and updates about UNNIVAI. I can withdraw my consent at any time."),
 ('>Informativa<','>Notice<'),('>Sei in lista.<','>You are on the list.<'),
 ("Ti scrivo una volta, quando il tuo accesso è pronto. Nessuna newsletter prima.","I will write to you once, when your access is ready. No newsletter before that."),
-("UNNIVAI è un progetto di Ivano Sciretta. Contatti:","UNNIVAI is a project by Ivano Sciretta. Contact:"),
+('UNNIVAI è un progetto di <a href="https://www.ivanosciretta.tech/prodotti/unnivai" rel="author">Ivano Sciretta</a>. Contatti:','UNNIVAI is a project by <a href="https://www.ivanosciretta.tech/en/worlds/unnivai" rel="author">Ivano Sciretta</a>. Contact:'),
 ('>Informativa privacy<','>Privacy notice<'),('Informativa sul trattamento dei dati','Data processing notice'),
 ("In breve: ti chiediamo l'email e, se vuoi, la città. Servono solo a scriverti quando l'accesso è pronto e a capire dove lanciare. Non vendiamo i tuoi dati.","In short: we ask for your email and, if you wish, your city. They are used only to write to you when access is ready and to understand where to launch. We do not sell your data."),
 ('Chi è il titolare','Who is the controller'),

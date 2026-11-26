@@ -3,6 +3,7 @@
 > UNNIVAI is a travel app that builds routes through real places and rewrites them when your day changes. Born in Sicily, for all of Italy. The blog publishes verified guides and itineraries in Italian and English. / UNNIVAI è un'app di turismo che costruisce percorsi con luoghi veri e li riscrive quando cambia la giornata.
 
 ## Blog (italiano)
+- [Tropea e la Costa degli Dei: cosa fare e quando andare](https://unnivai.com/blog/tropea-e-costa-degli-dei-cosa-fare-e-quando-andare): Tropea e la Costa degli Dei fuori stagione: centro storico, Santa Maria dell'Isola, Capo Vaticano, bus e treno, con fonti ufficiali e orari da verificare.
 - [Alpe di Siusi in inverno: cabinovia, orari e piano B](https://unnivai.com/blog/alpe-di-siusi-in-inverno-cabinovia-e-piano-b): Alpe di Siusi senza sci in inverno: date e orari della cabinovia, prezzi, accesso in auto, sentieri a piedi e cosa fare se il meteo cambia.
 - [Trieste in un giorno: caffè storici, Carso e bora](https://unnivai.com/blog/trieste-in-un-giorno): Un giorno a Trieste tra Piazza Unità, caffè storici, tram di Opicina e Miramare: orari e prezzi verificati e il piano B quando soffia la bora.
 - [Costiera Amalfitana senza auto: bus SITA e traghetti](https://unnivai.com/blog/costiera-amalfitana-con-i-mezzi-pubblici): Come girare la Costiera Amalfitana con i mezzi pubblici: orari invernali SITA dal 2 novembre, biglietto da 10 €, traghetti Travelmar e Sentiero degli Dei.
@@ -29,6 +30,7 @@
 - [Cosa fare a Catania quando piove: 7 idee al coperto](https://unnivai.com/blog/cosa-fare-a-catania-quando-piove): Pioggia a Catania? Sette posti al coperto, un ordine sensato per vederli e come riscrivere la giornata senza buttare il pomeriggio.
 
 ## Blog (English)
+- [Is Tropea worth visiting out of season? What to do](https://unnivai.com/en/blog/tropea-and-costa-degli-dei-what-to-do-and-when-to-go): Tropea and the Costa degli Dei outside summer: old town, Santa Maria dell'Isola, Capo Vaticano, trains and buses, with official sources and hours to check.
 - [Seiser Alm in winter without skiing: gondola and plan B](https://unnivai.com/en/blog/seiser-alm-in-winter-gondola-and-plan-b): Can you visit Seiser Alm (Alpe di Siusi) in winter without skiing? Gondola dates, hours and prices, car rules, snow walks and what to do if the weather turns.
 - [One day in Trieste: cafés, Opicina tram and bora plan B](https://unnivai.com/en/blog/one-day-in-trieste): What to do in Trieste in one day: Piazza Unità, historic cafés, the Opicina tram or Miramare Castle, with checked hours, prices and a plan for bora days.
 - [How to get around the Amalfi Coast without a car](https://unnivai.com/en/blog/amalfi-coast-by-public-transport): Amalfi Coast by bus and ferry: winter SITA timetable from 2 November, the 10 € day ticket, Travelmar boats, and how to reach the Path of the Gods.

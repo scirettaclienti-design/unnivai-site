@@ -2,7 +2,7 @@
 title: Costiera Amalfitana senza auto: bus SITA e traghetti
 description: Come girare la Costiera Amalfitana con i mezzi pubblici: orari invernali SITA dal 2 novembre, biglietto da 10 €, traghetti Travelmar e Sentiero degli Dei.
 date: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-26
 category: Costiera Amalfitana
 cover: Costiera Amalfitana
 tags: Senza auto, Bus e traghetti, Sentiero degli Dei
@@ -119,5 +119,7 @@ Con il mare mosso i traghetti si fermano ma i bus SITA restano l'alternativa: Am
 ## Se hai un altro giorno
 
 Per mangiare bene a Napoli prima di partire per la costa, guarda [Napoli: cosa mangiare, in ordine di giornata](/blog/napoli-cosa-mangiare-in-ordine-di-giornata). Per un'altra costa italiana che si fa quasi senza auto, con treni e sentieri, leggi [Cinque Terre a piedi](/blog/cinque-terre-a-piedi) e [Polignano a Mare senza auto](/blog/polignano-a-mare-senza-auto). UNNIVAI è pensata per riscrivere un giro così quando cambiano mare, orario o stanchezza: se ti serve, [entra tra i primi](/?src=blog-costiera-amalfitana-con-i-mezzi-pubblici#iscriviti).
+
+**Leggi anche:** Un'altra costa tirrenica da girare con i mezzi pubblici, più a sud: [Tropea e la Costa degli Dei: cosa fare e quando andare](/blog/tropea-e-costa-degli-dei-cosa-fare-e-quando-andare).
 
 *Orari, prezzi e avvisi sono letti sulle fonti ufficiali indicate e verificati il 16 novembre 2026: cambiano durante l'anno, con il meteo e con gli eventi, quindi controlla prima di partire. Dove abbiamo trovato dati discordanti lo abbiamo scritto. Non abbiamo verificato orari e prezzi del Duomo di Amalfi, il prezzo della corsa semplice SITA, orario e tariffa ufficiali della Circumvesuviana, le frequenze complete dei bus e il periodo di validità delle navette per il Sentiero degli Dei.*

@@ -3,7 +3,7 @@ id: costiera-amalfitana-con-i-mezzi-pubblici
 title: How to get around the Amalfi Coast without a car
 description: Amalfi Coast by bus and ferry: winter SITA timetable from 2 November, the 10 € day ticket, Travelmar boats, and how to reach the Path of the Gods.
 date: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-26
 category: Amalfi Coast
 cover: Amalfi Coast
 tags: No car, Buses and ferries, Path of the Gods
@@ -120,5 +120,7 @@ When the sea is rough the ferries stop but the SITA buses are the alternative: A
 ## If you have another day
 
 To eat well in Naples before heading to the coast, see [What to eat in Naples](/blog/what-to-eat-in-naples). For another Italian coast you can do almost without a car, with trains and trails, read [Cinque Terre on foot](/blog/cinque-terre-on-foot) and [Polignano a Mare without a car](/blog/polignano-a-mare-without-a-car). UNNIVAI is built to rewrite a day like this when the sea, the timetable or your energy changes: if you need it, [join the first users](/?src=blog-costiera-amalfitana-con-i-mezzi-pubblici#iscriviti).
+
+**Read next:** Another Tyrrhenian coast, further south: [Is Tropea worth visiting out of season?](/blog/tropea-and-costa-degli-dei-what-to-do-and-when-to-go).
 
 *Hours, prices and notices were read on the official sources listed and checked on 16 November 2026: they change during the year, with the weather and with events, so check before you go. Where we found conflicting data we said so. We did not verify hours and prices of Amalfi Cathedral, the SITA single-ride fare, the official timetable and fare of the Circumvesuviana, the full bus frequencies and the validity period of the Path of the Gods shuttles.*

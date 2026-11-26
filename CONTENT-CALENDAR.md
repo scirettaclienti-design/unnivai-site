@@ -24,7 +24,7 @@ Fonti consigliate = punto di partenza, non sostituiscono la verifica: ogni dato 
 | 16 | [x] | Campania | Costiera Amalfitana con i mezzi pubblici | Amalfi Coast by public transport | Logistica | SITA/consorzi, Comuni |
 | 17 | [x] | Friuli Venezia Giulia | Trieste: caffè, Carso e una giornata di bora | One day in Trieste | Itinerario | Comune, Parco del Carso |
 | 18 | [x] | Trentino-Alto Adige | Dolomiti: rifugi, orari delle funivie e piano B meteo (declinato su Alpe di Siusi in inverno: `alpe-di-siusi-in-inverno-cabinovia-e-piano-b`) | Dolomites: lifts, huts and weather plan B (Seiser Alm in winter) | Piano B | Consorzi impianti, rifugi (siti ufficiali) |
-| 19 | [ ] | Calabria | Tropea e la Costa degli Dei: cosa fare e quando andare | Tropea and the Costa degli Dei | Itinerario | Comune, trasporti locali |
+| 19 | [x] | Calabria | Tropea e la Costa degli Dei: cosa fare e quando andare (`tropea-e-costa-degli-dei-cosa-fare-e-quando-andare`) | Tropea and the Costa degli Dei | Itinerario | Comune, trasporti locali |
 | 20 | [ ] | Marche | Urbino e Ancona: una Italia che non ti aspetti | Urbino and Ancona | Itinerario | Galleria Nazionale delle Marche, Comuni |
 | 21 | [ ] | Toscana | Val d'Orcia in auto: strade, borghi e tappe | Val d'Orcia road trip | Itinerario auto | Comuni, Parco artistico |
 | 22 | [ ] | Sicilia | Siracusa oltre Ortigia: Neapolis e dintorni | Syracuse beyond Ortigia | Itinerario | Parco archeologico di Siracusa |

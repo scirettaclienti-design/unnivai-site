@@ -1,6 +1,6 @@
 # Indice pacchetti social UNNIVAI
 
-24 pacchetti (il 17° dal 5 gennaio 2027, il 18° dal 7 gennaio 2027, il 19° dal 12 gennaio 2027, il 20° dal 14 gennaio 2027, il 21° dal 19 gennaio 2027, il 22° dal 21 gennaio 2027, il 23° dal 26 gennaio 2027), 2 a settimana (martedì e giovedì) per 8 settimane, da lunedì 9 novembre 2026. I 4 articoli di territorio (Cinque Terre, Polignano, Matera, Ortigia) sono distanziati di 3-4 slot tra le città; le aree geografiche si alternano Nord, Centro e Sud, con la Sicilia (5 articoli) mai due volte di fila tranne gli ultimi due slot, dove Palermo e Pescheria condividono la chiave editoriale cibo-mercati.
+25 pacchetti (il 25° dal 28 gennaio 2027, il 17° dal 5 gennaio 2027, il 18° dal 7 gennaio 2027, il 19° dal 12 gennaio 2027, il 20° dal 14 gennaio 2027, il 21° dal 19 gennaio 2027, il 22° dal 21 gennaio 2027, il 23° dal 26 gennaio 2027), 2 a settimana (martedì e giovedì) per 8 settimane, da lunedì 9 novembre 2026. I 4 articoli di territorio (Cinque Terre, Polignano, Matera, Ortigia) sono distanziati di 3-4 slot tra le città; le aree geografiche si alternano Nord, Centro e Sud, con la Sicilia (5 articoli) mai due volte di fila tranne gli ultimi due slot, dove Palermo e Pescheria condividono la chiave editoriale cibo-mercati.
 
 | # | Settimana | Slug | Titolo | Tipo | Area | Pubblicazione consigliata | File |
 |---|---|---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | 22 | 11 | `costiera-amalfitana-con-i-mezzi-pubblici` | Costiera Amalfitana senza auto: bus SITA e traghetti | Territorio | Campania | 2027-01-21 (gio) | [costiera-amalfitana-con-i-mezzi-pubblici.md](costiera-amalfitana-con-i-mezzi-pubblici.md) |
 | 23 | 12 | `trieste-in-un-giorno` | Trieste in un giorno: caffè storici, Carso e bora | Città | Friuli Venezia Giulia | 2027-01-26 (mar) | [trieste-in-un-giorno.md](trieste-in-un-giorno.md) |
 | 24 | 4 | `alpe-di-siusi-in-inverno-cabinovia-e-piano-b` | Alpe di Siusi in inverno: cabinovia, orari e piano B | Territorio | Trentino-Alto Adige | 2026-12-03 (gio, fuori sequenza: prima dell'apertura della cabinovia del 4 dicembre) | [alpe-di-siusi-in-inverno-cabinovia-e-piano-b.md](alpe-di-siusi-in-inverno-cabinovia-e-piano-b.md) |
+| 25 | 13 | `tropea-e-costa-degli-dei-cosa-fare-e-quando-andare` | Tropea e la Costa degli Dei: cosa fare e quando andare | Territorio | Calabria | 2027-01-28 (gio) | [tropea-e-costa-degli-dei-cosa-fare-e-quando-andare.md](tropea-e-costa-degli-dei-cosa-fare-e-quando-andare.md) |
 
 ## Regole d'uso
 
@@ -56,3 +57,4 @@
 - `costiera-amalfitana-con-i-mezzi-pubblici`: orario invernale SITA valido fino al 21 marzo 2027; i collegamenti Travelmar dipendono dal mare (il 16 novembre i collegamenti risultavano sospesi). Il periodo di validità delle navette per il Sentiero degli Dei non è indicato dalla fonte; prezzo Circumvesuviana non scritto (fonte terza discordante).
 - `trieste-in-un-giorno`: tram di Opicina (fermo il 13 novembre per la bora, ripartito il 17) e orario del parco di Miramare cambiano: riverificare prima della pubblicazione; date dei caffè Tommaseo e Torinese discordano tra Comune e ITALY Magazine e il testo lo dichiara; prezzi di tram, bus e caffè non verificati.
 - `alpe-di-siusi-in-inverno-cabinovia-e-piano-b`: cabinovia chiusa fino al 3 dicembre 2026 (apertura 4 dicembre): pubblicare il 3 dicembre e togliere le frasi "ancora chiusa" dopo l'apertura; stato aperto/chiuso dei rifugi del 24 novembre da riverificare; due indicazioni diverse sui giorni di anticipo per prenotare il parcheggio, il testo lo dichiara; prezzi di pasti, slittino, slitta a cavalli e pattinaggio non verificati.
+- `tropea-e-costa-degli-dei-cosa-fare-e-quando-andare`: orari del santuario di Santa Maria dell'Isola non pubblicati dalle fonti ufficiali (calendario di chiusura dicembre-marzo da un portale locale, non confermato): ricontrolla prima di pubblicare; orari dei bus e prezzi non verificati; articolo senza foto (Commons non raggiungibile), quindi video e carosello su fondo pieno.

@@ -68,7 +68,7 @@
 # Tropea e la Costa degli Dei: cosa fare e quando andare
 URL: https://unnivai.com/blog/tropea-e-costa-degli-dei-cosa-fare-e-quando-andare
 Language: it
-Updated: 2026-11-26
+Updated: 2026-11-28
 
 Tropea la si immagina d'estate, con la spiaggia sotto la rupe e il santuario sullo scoglio. A fine novembre la domanda è un'altra: vale la pena andarci, e cosa trovi davvero? La risposta breve è sì, ma con un programma costruito sul fatto che le cose chiudono in momenti diversi. Questa guida mette in ordine una giornata a Tropea e una mezza giornata sulla Costa degli Dei, dice cosa abbiamo letto su pagine ufficiali e dove invece le fonti non bastano, perché a Tropea l'orario del santuario è la cosa che cambia tutto.
 
@@ -102,7 +102,7 @@ Santa Maria dell'Isola: scalinata, santuario e il problema degli orari#
 
 Il santuario benedettino sta su uno scoglio davanti al paese ed è, per Italia.it, uno dei luoghi più fotografati di Tropea. Il Comune lo descrive su un promontorio sul mare, un tempo staccato dalla terraferma (da qui il nome «isola»), raggiungibile con una scalinata scavata nella roccia; scrive che fu edificato, secondo la tradizione, nel VI secolo da monaci orientali come comunità eremitica dedicata a San Mena, che i benedettini lo ebbero poi in proprietà e che il terremoto del 1905 lo danneggiò gravemente. Il sito del santuario ricorda invece che dall'XI secolo è gestito dall'Abbazia di Montecassino, e che dalla terrazza si vede uno dei panorami più spettacolari della Costa degli Dei. Le due fonti non si contraddicono, ma partono da momenti diversi della storia: usa il Comune per l'origine e il sito del santuario per la gestione.
 
-Qui sta la parte da verificare. Né il sito ufficiale né la pagina del Comune riportano gli orari. TropeaInVacanza, un portale locale, scrive di aver ricavato un calendario ufficiale (pagina aggiornata il 9 aprile 2026): aprile, maggio e ottobre dalle 9:30 alle 17:30, da giugno a settembre dalle 9:30 alle 20:00, dall'1 al 15 novembre dalle 9:30 alle 13:30 e chiuso a gennaio, febbraio, marzo e dicembre. Il portale dice anche che sul sito ufficiale non è pubblicato un tariffario completo. Se quel calendario fosse valido, oggi, 26 novembre, il santuario sarebbe chiuso. Noi non lo possiamo confermare: tratta quegli orari come un'indicazione di prudenza e verifica con il santuario prima di scendere. Ricorda anche che il Comune precisa che non c'è rampa per chi non può camminare.
+Qui sta la parte da verificare, e in questo aggiornamento l'abbiamo corretta. Né il sito ufficiale né la pagina del Comune riportano gli orari, che noi abbiamo letto solo di seconda mano. TropeaInVacanza, un portale locale (pagina del 9 aprile 2026, che cita il sito ufficiale consultato il 27 ottobre 2026), riporta: aprile, maggio e ottobre dalle 9:30 alle 17:30, da giugno a settembre dalle 9:30 alle 20:00, dall'1 al 15 novembre dalle 9:30 alle 13:30 e chiuso a gennaio, febbraio, marzo e dicembre. Per il periodo dal 16 al 30 novembre il portale scrive invece che la tabella non fornisce un orario e invita a non presumere quello della prima metà del mese; aggiunge che la home del santuario può mostrare un avviso giornaliero diverso dal calendario e che non è pubblicato un tariffario completo. Nella versione precedente di questo articolo avevamo scritto che a fine novembre il santuario risultava chiuso: era una lettura troppo netta. Il quadro corretto è che per il 28 novembre non abbiamo nessun orario e che da dicembre il calendario riportato indica la chiusura. Chiedi al santuario prima di scendere e ricorda che il Comune precisa che non c'è rampa per chi non può camminare.
 
 Capo Vaticano e la Costa degli Dei: cosa si può fare ora#
 
@@ -116,6 +116,12 @@ Zambrone, grotte e gite in barca: cosa richiede mare buono#
 
 Il «Paradiso del Sub» di Zambrone, scrive Italia.it, si raggiunge con una scalinata panoramica scavata nella roccia con un dislivello di circa 100 metri: la spiaggia è libera e non attrezzata, quindi si porta con sé tutto il necessario, e la fonte consiglia di andarci in settimana. A Tropea, sotto il santuario, la spiaggia è il punto di partenza per le grotte marine come la Grotta del Palombaro, la Grotta San Lorenzo e la Grotta Azzurra. Le gite in barca alle grotte e le minicrociere verso le Eolie sono citate come esperienze possibili, ma non abbiamo trovato operatori, orari e prezzi su fonti ufficiali: in questa stagione dipendono dal mare e vanno chieste sul posto.
 
+E se piove o il mare è mosso: i musei, cosa dicono le fonti ufficiali#
+
+Per un pomeriggio al coperto abbiamo guardato le schede ufficiali, e il risultato è prudente. Il Museo diocesano di Tropea, in Largo Duomo, è schedato dal Ministero della Cultura: le opere vengono in gran parte dalla Cattedrale e vanno dal XIV al XIX secolo, con un bastone pastorale quattrocentesco in argento dorato e smalti, un'icona cinquecentesca della Madre della Consolazione, una pinacoteca settecentesca di cultura napoletana e la scultura in argento di santa Domenica del 1738 opera di Francesco Avellino. La scheda, però, risale al 2020 e mostra tutti i giorni come «chiuso», con un telefono (0963 61034): la leggiamo come un dato non aggiornato, non come una conferma di chiusura, e la sola via sicura è chiamare.
+
+La stessa banca dati del Ministero scheda il Museo civico del Mare di Tropea (MuMaT) a Palazzo Santa Chiara, gestito dal Gruppo Paleontologico Tropeano, con reperti paleontologici recuperati in trent'anni di attività. L'orario indicato è sabato e domenica dalle 17:00 alle 20:00, ma la scheda è stata aggiornata l'ultima volta nel maggio 2020, quindi non sappiamo se valga oggi. A Ricadi, per ISPRA il Mu.Ri è un museo diffuso: la sede di Santa Domenica, a Palazzo Fazzari, ospita le collezioni archeologica e paleontologica (fossili di pesci, mammiferi marini e terrestri, clypeaster) e alla voce «apertura e orari» la scheda riporta «in allestimento». In pratica: per un museo, telefona o scrivi prima, e non partire da Tropea solo per quello.
+
 Quanto spendere (medie indicative)#
 
 Camminare nel centro storico e godersi i belvedere non costa nulla; il Giardino degli Dei è gratuito e le spiagge libere non hanno ingresso. Non abbiamo letto tariffe ufficiali per il santuario, i bus delle Ferrovie della Calabria, i musei di Ricadi, i traghetti o le gite in barca, e non le stimiamo.
@@ -126,7 +132,9 @@ Dare per scontato che il santuario sia aperto: il sito ufficiale non pubblica or
 Contare su un autobus la domenica: la pagina delle Ferrovie della Calabria parla di servizio dal lunedì al sabato.
 Mettere Tropea e tre spiagge nello stesso pomeriggio: Capo Vaticano e Zambrone sono mezze giornate a sé.
 Scendere a Zambrone senza portarsi acqua e cibo: la spiaggia è libera e non attrezzata.
-Fidarsi di un solo portale per gli orari: qui la prova è che le fonti ufficiali tacciono.
+Fidarsi di un solo portale per gli orari: qui la prova è che le fonti ufficiali tacciono, e che perfino il portale locale distingue la prima metà di novembre dalla seconda.
+Leggere come orario attuale una scheda museale datata: quelle del Ministero per i musei di Tropea risalgono al 2020.
+Programmare un museo come piano B senza averlo chiamato: se piove, tutti avranno la stessa idea.
 
 Piano B: se il santuario è chiuso o il tempo cambia#
 
@@ -140,9 +148,9 @@ I locali dove mangiare: non indichiamo nomi perché non li abbiamo verificati; s
 
 Se hai un altro giorno#
 
-Per un altro tratto di costa da fare con i mezzi pubblici, leggi Costiera Amalfitana senza auto: bus SITA e traghetti. Per un borgo sul mare da girare a piedi dalla stazione guarda Polignano a Mare senza auto, e per una giornata di mare e centro storico in Sicilia c'è Un giorno a Ortigia. UNNIVAI è pensata per rifare un programma così quando cambiano orari, mare o stanchezza: se ti serve, entra tra i primi.
+Per un altro tratto di costa da fare con i mezzi pubblici, leggi Costiera Amalfitana senza auto: bus SITA e traghetti. Per un borgo sul mare da girare a piedi dalla stazione guarda Polignano a Mare senza auto, e per una giornata di mare e centro storico in Sicilia c'è Un giorno a Ortigia. Se il tempo ti costringe a un piano B al coperto, cosa fare a Catania quando piove mostra come costruirlo, e per un altro luogo del Sud da visitare con calma c'è Matera: come visitare i Sassi. UNNIVAI è pensata per rifare un programma così quando cambiano orari, mare o stanchezza: se ti serve, entra tra i primi.
 
-Informazioni lette sulle fonti indicate e verificate il 26 novembre 2026: orari e servizi cambiano durante l'anno, quindi controlla prima di partire. Dove le fonti tacciono o discordano lo abbiamo scritto. Non abbiamo verificato gli orari del santuario di Santa Maria dell'Isola (nessuna pagina ufficiale li riporta), gli orari delle corse dei bus e dei treni, i prezzi di trasporti, musei e gite in barca, né i locali dove mangiare. Questo articolo non contiene foto: non è stato possibile scaricarne di verificate da Wikimedia Commons.
+Informazioni lette sulle fonti indicate e verificate il 28 novembre 2026: orari e servizi cambiano durante l'anno, quindi controlla prima di partire. Dove le fonti tacciono o discordano lo abbiamo scritto. Non abbiamo verificato gli orari del santuario di Santa Maria dell'Isola (nessuna pagina ufficiale li riporta e per il 16-30 novembre nemmeno la fonte secondaria), gli orari attuali dei musei (le schede ufficiali sono del 2020 o indicano «in allestimento»), gli orari delle corse dei bus e dei treni, i prezzi di trasporti, musei e gite in barca, né i locali dove mangiare. Questo articolo non contiene ancora foto verificate da Wikimedia Commons.
 
 
 # Alpe di Siusi in inverno: cabinovia, orari e piano B
@@ -2447,7 +2455,7 @@ Nota di verifica. Dati letti il 29 ottobre 2026 sulle pagine elencate nelle font
 # Is Tropea worth visiting out of season? What to do
 URL: https://unnivai.com/en/blog/tropea-and-costa-degli-dei-what-to-do-and-when-to-go
 Language: en
-Updated: 2026-11-26
+Updated: 2026-11-28
 
 Most people picture Tropea in summer, with the beach under the cliff and the sanctuary on its rock. Come late November and the real question is different: is it worth going, and what will you actually find? The short answer is yes, but plan around the fact that things close at different times. This guide lays out one day in Tropea and half a day on the Costa degli Dei, says what we read on official pages and where the sources fall short, because at Tropea the sanctuary's opening time is the thing that changes everything.
 
@@ -2481,7 +2489,7 @@ Santa Maria dell'Isola: steps, sanctuary and the opening-hours problem#
 
 The Benedictine sanctuary stands on a rock in front of the town and is, for Italia.it, one of the most photographed places in Tropea. The Comune describes it on a promontory over the sea, once separated from the mainland (hence the name "island"), reached by a staircase carved into the rock; it says that, according to tradition, it was built in the 6th century by eastern monks as a hermit community dedicated to St Mena, that the Benedictines later owned it and that the 1905 earthquake badly damaged it. The sanctuary's own site says it has been run by the Abbey of Montecassino since the 11th century and that its terrace offers one of the most spectacular views of the Costa degli Dei. The two sources do not contradict each other, but they cover different moments in history: use the Comune for the origin and the sanctuary's site for who runs it.
 
-Here is the part to verify. Neither the official site nor the Comune's page gives opening hours. TropeaInVacanza, a local portal, says it took an official calendar (page updated 9 April 2026): April, May and October 9:30-17:30, June to September 9:30-20:00, 1-15 November 9:30-13:30, and closed in January, February, March and December. The portal also says no complete fare list is published on the official site. If that calendar were valid, today, 26 November, the sanctuary would be closed. We cannot confirm it: treat those hours as a prudent hint and check with the sanctuary before you go down. Remember too that the Comune says there is no ramp for anyone who cannot walk the steps.
+Here is the part to verify, and we corrected it in this update. Neither the official site nor the Comune's page gives opening hours, so we only have them second-hand. TropeaInVacanza, a local portal (page dated 9 April 2026, citing the official site as read on 27 October 2026), reports: April, May and October 9:30-17:30, June to September 9:30-20:00, 1-15 November 9:30-13:30, and closed in January, February, March and December. For 16-30 November the portal says the table gives no hours and tells readers not to assume the first-half-of-month hours; it adds that the sanctuary's home page can show a daily notice different from the seasonal calendar and that no complete fare list is published. The previous version of this article said the sanctuary looked closed in late November: that was too firm a reading. The correct picture is that for 28 November we have no hours at all, and that from December the reported calendar shows it closed. Ask the sanctuary before you go down, and remember the Comune says there is no ramp for anyone who cannot walk the steps.
 
 Capo Vaticano and the Costa degli Dei: what you can do now#
 
@@ -2495,6 +2503,12 @@ Zambrone, caves and boat trips: what needs a calm sea#
 
 Zambrone's "Paradiso del Sub", says Italia.it, is reached by a panoramic staircase carved into the rock with a drop of about 100 metres: the beach is free and unequipped, so you bring everything with you, and the source suggests going on a weekday. At Tropea, below the sanctuary, the beach is the starting point for sea caves such as the Grotta del Palombaro, the Grotta San Lorenzo and the Grotta Azzurra. Boat trips to the caves and mini-cruises to the Aeolian Islands are mentioned as possible experiences, but we found no operators, schedules or prices on official sources: at this time of year they depend on the sea and have to be asked about locally.
 
+If it rains or the sea is rough: museums, and what the official records say#
+
+For an indoor afternoon we looked at the official records, and the result is cautious. The Diocesan Museum of Tropea, in Largo Duomo, is listed by the Ministry of Culture: most of the works come from the Cathedral and span the 14th to the 19th century, including a 15th-century pastoral staff in gilded silver and enamel, a 16th-century icon of the Madre della Consolazione, an 18th-century picture gallery of Neapolitan culture and the full-length silver sculpture of St Dominica of 1738 by Francesco Avellino. The entry, however, dates from 2020 and shows every day as "closed", with a phone number (0963 61034): we read that as outdated data, not as confirmation it is shut, and the only safe route is to call.
+
+The Ministry's same database lists the Tropea Civic Sea Museum (MuMaT) at Palazzo Santa Chiara, run by the Gruppo Paleontologico Tropeano, with palaeontological finds recovered over thirty years of work. The hours given are Saturday and Sunday 17:00-20:00, but the entry was last updated in May 2020, so we do not know if it holds today. At Ricadi, ISPRA describes Mu.Ri as a scattered museum: the Santa Domenica site, in Palazzo Fazzari, holds the archaeological and palaeontological collections (fossil fish, marine and land mammals, clypeasters), and under "opening and hours" the entry says "being set up". In practice: for a museum, phone or write first, and do not travel from Tropea just for one.
+
 How much to spend (indicative averages)#
 
 Walking the old town and enjoying the viewpoints costs nothing; the Giardino degli Dei is free and free beaches have no entry fee. We did not read official fares for the sanctuary, the Ferrovie della Calabria buses, the Ricadi museums, ferries or boat trips, and we do not estimate them.
@@ -2505,7 +2519,9 @@ Assuming the sanctuary is open: the official site publishes no hours and a local
 Counting on a bus on Sunday: the Ferrovie della Calabria page says service runs Monday to Saturday.
 Putting Tropea and three beaches into the same afternoon: Capo Vaticano and Zambrone are half-days in themselves.
 Going down to Zambrone without water and food: the beach is free and unequipped.
-Trusting one portal for opening hours: here the proof is that the official sources are silent.
+Trusting one portal for opening hours: here the proof is that the official sources are silent, and that even the local portal separates the first half of November from the second.
+Reading a dated museum entry as current hours: the Ministry's entries for Tropea's museums date from 2020.
+Making a museum your rainy-day plan B without calling it: if it rains, everyone will have the same idea.
 
 Plan B: if the sanctuary is closed or the weather turns#
 
@@ -2519,9 +2535,9 @@ Places to eat: we name none because we did not verify any; all we know, from Ita
 
 If you have another day#
 
-For another stretch of coast you can do on public transport, read Amalfi Coast without a car: SITA buses and ferries. For a seaside town you can walk from the station see Polignano a Mare without a car, and for a day of sea and old town in Sicily there is One day in Ortigia. UNNIVAI is built to redo a plan like this when opening hours, sea or energy change: if that helps, join the first users.
+For another stretch of coast you can do on public transport, read Amalfi Coast without a car: SITA buses and ferries. For a seaside town you can walk from the station see Polignano a Mare without a car, and for a day of sea and old town in Sicily there is One day in Ortigia. If the weather forces an indoor plan B, what to do in Catania when it rains shows how to build one, and for another southern place to visit slowly there is visiting Matera's Sassi and when to go. UNNIVAI is built to redo a plan like this when opening hours, sea or energy change: if that helps, join the first users.
 
-Information read on the sources listed and checked on 26 November 2026: hours and services change during the year, so check before you go. Where sources are silent or disagree we said so. We did not verify the Santa Maria dell'Isola sanctuary's opening hours (no official page gives them), bus and train departure times, prices for transport, museums and boat trips, or places to eat. This article has no photos: we could not download verified ones from Wikimedia Commons.
+Information read on the sources listed and checked on 28 November 2026: hours and services change during the year, so check before you go. Where sources are silent or disagree we said so. We did not verify the Santa Maria dell'Isola sanctuary's opening hours (no official page gives them and, for 16-30 November, neither does the secondary source), current museum hours (the official entries date from 2020 or say "being set up"), bus and train departure times, prices for transport, museums and boat trips, or places to eat. This article does not yet have verified photos from Wikimedia Commons.
 
 
 # Seiser Alm in winter without skiing: gondola and plan B
